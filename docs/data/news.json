@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T10:08:06.279Z",
+  "updatedAt": "2026-09-23T12:59:41.899Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 99,
-  "todayCount": 28,
+  "total": 96,
+  "todayCount": 29,
   "categories": [
     {
       "id": "goods",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 46
+      "count": 42
     },
     {
       "id": "book",
@@ -54,12 +54,12 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 16
+      "count": 14
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "momonga",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 9
+      "count": 10
     },
     {
       "id": "rakko",
@@ -89,24 +89,20 @@
   ],
   "sources": [
     {
-      "name": "news.yahoo.co.jp",
-      "count": 19
+      "name": "Yahoo!ニュース",
+      "count": 17
     },
     {
       "name": "山陽新聞",
-      "count": 10
+      "count": 8
+    },
+    {
+      "name": "インサイド",
+      "count": 6
     },
     {
       "name": "オリコンニュース",
       "count": 6
-    },
-    {
-      "name": "インサイド",
-      "count": 5
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 4
     },
     {
       "name": "アニメ！アニメ！",
@@ -121,23 +117,23 @@
       "count": 3
     },
     {
-      "name": "eiga.com",
+      "name": "Excite エキサイト",
       "count": 3
     },
     {
-      "name": "読売新聞",
+      "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
+      "name": "キャラクター情報サイト",
       "count": 2
     },
     {
-      "name": "ライブドアニュース",
+      "name": "朝日新聞",
       "count": 2
     },
     {
-      "name": "asahi.com",
-      "count": 2
-    },
-    {
-      "name": "togetter.com",
+      "name": "Togetter",
       "count": 2
     },
     {
@@ -161,11 +157,19 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
-      "count": 2
+      "name": "つばめ投資顧問",
+      "count": 1
     },
     {
       "name": "AppBank",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
+      "name": "読売新聞",
       "count": 1
     },
     {
@@ -173,7 +177,7 @@
       "count": 1
     },
     {
-      "name": "キャラクター情報サイト",
+      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -185,7 +189,7 @@
       "count": 1
     },
     {
-      "name": "pashplus.jp",
+      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -197,11 +201,15 @@
       "count": 1
     },
     {
-      "name": "news.infoseek.co.jp",
+      "name": "Infoseek",
       "count": 1
     },
     {
-      "name": "テレ朝NEWS",
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "news.tv-asahi.co.jp",
       "count": 1
     },
     {
@@ -221,7 +229,11 @@
       "count": 1
     },
     {
-      "name": "lp.p.pia.jp",
+      "name": "ぴあエンタメ情報",
+      "count": 1
+    },
+    {
+      "name": "映画.com",
       "count": 1
     },
     {
@@ -241,11 +253,11 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "キャラグー",
       "count": 1
     },
     {
-      "name": "キャラグー",
+      "name": "千葉テレビ放送",
       "count": 1
     }
   ],
@@ -257,50 +269,36 @@
       "url": "https://animeanime.jp/article/2026/09/22/103143.html",
       "image": "https://animeanime.jp/imgs/rss/934371.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-09-22T06:15:00.000Z",
-      "sourceCount": 11,
-      "articleCount": 19,
+      "publishedAt": "2026-09-22T08:40:20.000Z",
+      "sourceCount": 10,
+      "articleCount": 15,
       "categories": [
         "anime"
       ],
       "keywords": [
         "映画",
         "億円",
-        "ランキング"
+        "突破"
       ],
       "articles": [
         {
-          "title": "「映画ちいかわ」興収158.4億円突破、今年の興行ランキングNo.1に",
-          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900200270.html",
-          "source": "テレ朝NEWS",
-          "publishedAt": "2026-09-22T06:15:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」のアニメ映画 今年の公開興行ランキング首位に 好調の背景は #エキスパートトピ（河村鳴紘） - エキスパート",
-          "url": "https://news.yahoo.co.jp/expert/articles/54202d49375a7693bcdf503ef8769e3cb1817648",
-          "source": "news.yahoo.co.jp",
-          "publishedAt": "2026-09-21T23:01:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ヤ……】アニメ『ちいかわ』ちょっとモフモフになった「ハチワレ？」が登場。第380話の場面カットが解禁",
-          "url": "https://news.denfaminicogamer.jp/news/2609212q",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-09-21T09:53:00.000Z",
+          "title": "映画『ちいかわ 人魚の島のひみつ』が日本で興行収入1位、韓国では9月30日公開",
+          "url": "https://m.jp.ajunews.com/view/20260922174070138",
+          "source": "jp.ajunews.com",
+          "publishedAt": "2026-09-22T08:40:20.000Z",
           "isPR": false
         },
         {
           "title": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人（スポーツ報知）",
           "url": "https://news.yahoo.co.jp/articles/e6ba13df0645108ee9bdb5b22841d46e9cd1af2d",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-21T09:04:47.000Z",
           "isPR": false
         },
         {
           "title": "映画「ちいかわ」の他にも… 2026年はアニメ映画が大豊作 まどマギ、閃ハサなども反響（スポニチアネックス）",
           "url": "https://news.yahoo.co.jp/articles/6bea1fe6ba04bac46cca5ff366a8234fad508a3b",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-21T07:52:52.000Z",
           "isPR": false
         },
@@ -321,8 +319,22 @@
         {
           "title": "「映画ちいかわ 人魚の島のひみつ」2026年公開興行ランキングNo.1！ 公開59日間で興収158.4億円突破 : 映画ニュース",
           "url": "https://eiga.com/news/20260921/8/",
-          "source": "eiga.com",
+          "source": "映画.com",
           "publishedAt": "2026-09-21T06:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「映画ちいかわ」興行収入150億円を突破 公開からロングヒット中",
+          "url": "https://www.asahi.com/articles/ASV9P1T0BV9PUCVL019M.html",
+          "source": "朝日新聞",
+          "publishedAt": "2026-09-21T05:48:50.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「映画ちいかわ」、公開59日間で興収158.4億円 2026年度公開興行ランキングでナンバーワン",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQek9GTTducFlkOGgzVllXV2JlOTB5SUt0Uy1ZLVdfcUg3V213WWQ2NHZHZnRDRDhCRE9mLVlwUE9QMlRBYzREcS1JN3kwRU8xcUFITXh5WHczNEdoaG1BVHc2QWdjSUtraXYtLUlnN2ZSbGIxQXdLSHcyUzNSQkJUdtIBhgFBVV95cUxNdUVWYzFxMThycHZ4dkFEQkVxT2N4U09qbTRfekZ6RjB6OGlaTUVRU0JfYk9ieThYTlNPOTk0T1p1YURxd0ZIcTZMbWZHVFpRRXVDbVQtTHFVREtkRzdCM1B5YTM4alduYWlMLXlHdmFGX0pZUDdvR2lwVGpDN2haU0FMOEhmdw?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-09-21T05:31:00.000Z",
           "isPR": false
         }
       ]
@@ -331,10 +343,10 @@
       "id": "0fd2e5d47c46",
       "title": "映画大ヒットのちいかわからくりまんじゅうだらけのオンラインくじが販売へ",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmZGbWxvLUpzV19FcUJfMFhfTS1rcHJ1Zm9aS1FyMHp0OTRUU3Jnb0ItSTlWYmFIQ1RRZkRJd25OQV96c0hCMkFoN0twT1ZTX1VRNVl5VHBPV1hzcU81QmtNUGtSTVpWdDFHNW5WUGotd3NrbnExM2h2dGNCTTZWR2NB0gGCAUFVX3lxTFA2ZkZtbG8tSnNXX0VxQl8wWF9NLWtwcnVmb1pLUXIwenQ5NFRTcmdvQi1JOVZiYUhDVFFmREl3bk5BX3pzSEIyQWg3S3BPVlNfVVE1WXlUcE9XWHNxTzVCa01Qa1JNWlZ0MUc1blZQai13c2tucTEzaHZ0Y0JNNlZHY0E?oc=5",
-      "image": "https://p.potaufeu.asahi.com/6a11-p/picture/31347798/a4c42d19016ab06d72648be438ec98b0.jpg",
-      "leadSource": "ｄメニューニュース",
-      "publishedAt": "2026-09-23T03:01:00.000Z",
+      "url": "https://news.nicovideo.jp/watch/nw19799186?news_ref",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-11789819-asahiand-000-1-view.jpg?exp=10800",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-09-23T03:03:41.000Z",
       "sourceCount": 4,
       "articleCount": 4,
       "categories": [
@@ -350,21 +362,21 @@
         {
           "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじが9/24（木）発売！ かわいすぎる全11種がラインアップ",
           "url": "https://www.asahi.com/and/w/article/16901049",
-          "source": "asahi.com",
+          "source": "朝日新聞",
           "publishedAt": "2026-09-23T00:13:40.000Z",
           "isPR": false
         },
         {
           "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじが9/24(木)発売！ 【ハズレなし】かわいすぎる全11種がラインアップ",
           "url": "https://news.yahoo.co.jp/articles/b9f26e0767f6ccafb9ccdb2d5e39848cbbd5e249",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-23T00:10:53.000Z",
           "isPR": false
         },
         {
           "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじ登場 9月24日から販売開始",
           "url": "https://news.infoseek.co.jp/amp/article/eigacom_20260922010/",
-          "source": "news.infoseek.co.jp",
+          "source": "Infoseek",
           "publishedAt": "2026-09-22T08:00:00.000Z",
           "isPR": false
         }
@@ -392,7 +404,7 @@
         {
           "title": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「簡単ッッッ!!簡単ッッ!!!」に視聴者脱帽!? アニメ『ちいかわ』第380話「パラレルワールド⑥」はキャストクレジットに並ぶハチワレの名前にも注目",
           "url": "https://www.pashplus.jp/anime/496306/",
-          "source": "pashplus.jp",
+          "source": "PASH! PLUS",
           "publishedAt": "2026-09-22T13:31:15.000Z",
           "isPR": false
         },
@@ -411,7 +423,7 @@
       "summary": "",
       "url": "https://togetter.com/li/2749140",
       "image": "https://s.tgstc.com/ogp3/54e1220e2234b10d5e5746208e9e9790-1200x630.jpeg",
-      "leadSource": "togetter.com",
+      "leadSource": "Togetter",
       "publishedAt": "2026-09-22T19:00:42.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -436,6 +448,34 @@
           "url": "https://news.denfaminicogamer.jp/news/260922k",
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-22T05:23:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ab478bb9e091",
+      "title": "ちいかわ：ABEMAに公式無料チャンネル アニメ362話分を無料配信",
+      "summary": "",
+      "url": "https://mantan-web.jp/article/20260918dog00m200033000a.html",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/18/20260918dog00m200033000a/001.jpg",
+      "leadSource": "Mantan Web",
+      "publishedAt": "2026-09-23T00:34:14.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "abema",
+        "チャンネル",
+        "アニメ"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ＞ABEMAに公式無料チャンネル アニメ362話分を無料配信 (MANTANWEB)",
+          "url": "https://news.yahoo.co.jp/articles/fc534fdb1087810fc06b91cf152674d5b4a4fe94/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-23T00:33:00.000Z",
           "isPR": false
         }
       ]
@@ -469,28 +509,56 @@
       ]
     },
     {
-      "id": "0dc5ab78e9c3",
-      "title": "くら寿司「ちいかわ」キャンペーン中止の“お詫び”割引、一部で適用されず…謝罪 返金対応について発表【対象・方法など】",
+      "id": "257a7b23f757",
+      "title": "「映画ちいかわ」興収158.4億円突破、今年の興行ランキングNo.1に - news.tv-asahi.co.jp",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1986333",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/1/2/3/b1232e5dddf7eb745a789e9fc9230c96_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-09-22T05:18:58.000Z",
+      "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900200270.html",
+      "image": "https://news.tv-asahi.co.jp/articles_img/900200270_1200.jpg",
+      "leadSource": "news.tv-asahi.co.jp",
+      "publishedAt": "2026-09-22T06:15:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "ランキング",
+        "映画",
+        "今年"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ」のアニメ映画 今年の公開興行ランキング首位に 好調の背景は #エキスパートトピ（河村鳴紘） - エキスパート",
+          "url": "https://news.yahoo.co.jp/expert/articles/54202d49375a7693bcdf503ef8769e3cb1817648",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-21T23:01:26.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "796e5b38224e",
+      "title": "【ちいかわコラボ中止の裏側】くら寿司に一体何が起きていたのか",
+      "summary": "",
+      "url": "https://agora-web.jp/archives/260921092444.html",
+      "image": "https://agora-web.jp/cms/wp-content/uploads/2026/09/httpsi.ytimg_.comvidiFp_r6-YW020260921.jpg",
+      "leadSource": "アゴラ 言論プラットフォーム",
+      "publishedAt": "2026-09-22T02:40:44.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
         "collab"
       ],
       "keywords": [
-        "寿司",
-        "中止"
+        "中止",
+        "寿司"
       ],
       "articles": [
         {
-          "title": "【ちいかわコラボ中止の裏側】くら寿司に一体何が起きていたのか",
-          "url": "https://agora-web.jp/archives/260921092444.html",
-          "source": "アゴラ 言論プラットフォーム",
-          "publishedAt": "2026-09-22T02:40:44.000Z",
+          "title": "くら寿司「ちいかわ」キャンペーン中止の“お詫び”割引、一部で適用されず…謝罪 返金対応について発表【対象・方法など】",
+          "url": "https://www.sanyonews.jp/article/1986333",
+          "source": "山陽新聞",
+          "publishedAt": "2026-09-21T07:00:00.000Z",
           "isPR": false
         }
       ]
@@ -501,7 +569,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/60e4812fb41a71b211d9f59831bed40daa961648",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00096614-kaiyou-000-1-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-09-21T08:50:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -530,7 +598,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/761fe3c47d34db0b90f350f552b16cf1ed719ddb/images/000",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgNgela2-f9AP1m5Dv62KrU4Y7adDoV7p_6X5HTld5FJIlAFzGi8K3SL_vfafhEu8XoCLRIOlhuh3e_v7jyy4F6gGl7FFym8XoZNUvRhjdq6YvwcGWGtAXRZavQeIeY7iMA==",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-09-21T07:00:15.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -547,7 +615,7 @@
         {
           "title": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪",
           "url": "https://lp.p.pia.jp/article/news/513375/index.html",
-          "source": "lp.p.pia.jp",
+          "source": "ぴあエンタメ情報",
           "publishedAt": "2026-09-21T06:00:00.000Z",
           "isPR": false
         }
@@ -559,7 +627,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/b092d1a7b3305f4f21de1a98426754f359db9a4f",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00010017-realsound-000-1-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-09-21T03:30:16.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -582,19 +650,79 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-23T10:05:44.671Z",
-    "previousCount": 109,
-    "newCount": 2
+    "previousAt": "2026-09-23T10:08:06.279Z",
+    "previousCount": 99,
+    "newCount": 7
   },
   "updateGapMin": 2,
-  "nextUpdateAt": "2026-09-23T10:10:06.279Z",
+  "nextUpdateAt": "2026-09-23T13:01:41.899Z",
   "items": [
+    {
+      "id": "cf42fc7ea493",
+      "title": "「チョコサプ ちいかわ2」が11月に発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種",
+      "url": "https://www.inside-games.jp/article/2026/09/23/188164.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「チョコサプ ちいかわ2」が11月発売！",
+      "publishedAt": "2026-09-23T12:00:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1768990.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "usagi",
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "fdbab0b0f8cb",
+      "title": "「ちいかわ」旅行で大活躍のかわいいアイテムが粧美堂から登場！",
+      "url": "https://charalab.com/143201/",
+      "host": "charalab.com",
+      "source": "キャラクター情報サイト",
+      "summary": "",
+      "publishedAt": "2026-09-23T10:07:49.000Z",
+      "image": "https://charalab.com/images/2026/09/260918_chiikawa_-2-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f58609d8e97b",
+      "title": "映画『ちいかわ』200億円ヒットで東宝はいくら儲かる？収益構造と株価を分析",
+      "url": "https://tsubame104.com/archives/99632",
+      "host": "tsubame104.com",
+      "source": "つばめ投資顧問",
+      "summary": "",
+      "publishedAt": "2026-09-23T09:16:23.000Z",
+      "image": "https://tsubame104.com/wp-content/uploads/2026/09/ChatGPT-Image-2026年9月13日-15_07_02.png",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "4c7a577c0156",
       "title": "杏 “うちのちいかわ”紹介 愛犬が見つめる幸せショットにファンもん絶「たまらんねぇ」「眼差し素敵」（スポニチアネックス）",
       "url": "https://news.yahoo.co.jp/articles/37fce523269c5f8810d316792abcd29b1b2d0da5",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-23T07:52:16.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000304-spnannex-000-4-view.jpg?exp=10800",
@@ -687,30 +815,11 @@
       "isNew": false
     },
     {
-      "id": "1c7d0104dcd6",
-      "title": "「ちいかわ好きおじさん」“ちい活”姿に「可愛い」「いい笑顔」 南原清隆が公開",
-      "url": "https://www.yomiuri.co.jp/culture/hochi/20260922064-OHT1T51134/",
-      "host": "yomiuri.co.jp",
-      "source": "読売新聞",
-      "summary": "",
-      "publishedAt": "2026-09-23T04:29:00.000Z",
-      "image": "https://www.yomiuri.co.jp/media/2026/09/20260922-064-OHT1I91134-L.jpg?type=ogp",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1916d2b351e9",
-      "title": "「僕も『ちいかわ』の映画、連れてって！」朝、用意周到に現れた放置子。45歳ワーママが絶句した「あまりに理不尽な1時間」【専門家助言】 (FORZA STYLE)",
+      "id": "66e4fb287c17",
+      "title": "「放置子が怖すぎる…」息子と『ちいかわ』の映画を見にいく予定の朝、突然襲来。45歳ワーママを困らせた「巧妙なやり口」とは【専門家助言】 (FORZA STYLE)",
       "url": "https://news.yahoo.co.jp/articles/495a65db3976fb4bc961f5df04d5d7ac0a199120/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-23T04:01:52.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgIxlBD8QDBgutwUe2GHk1au7S-hynV_GQDOoSykOBbAwcxnNZiUYgGSINXK6ac_Vm6qNLaecKL3kZEanoJvCvIWP14FWkLDzbs6WtA8R9mF-",
@@ -727,12 +836,12 @@
     {
       "id": "5cc206e2f8c0",
       "title": "【ちいかわ】キーホルダー感覚のスライド式コスメパレット登場！",
-      "url": "https://news.livedoor.com/article/detail/32390994/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_67840/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-09-23T03:30:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/d/c/dccee_1699_f29e7ffd_c0fd9be7.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -766,11 +875,11 @@
     {
       "id": "0fd2e5d47c46",
       "title": "映画大ヒットのちいかわからくりまんじゅうだらけのオンラインくじが販売へ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmZGbWxvLUpzV19FcUJfMFhfTS1rcHJ1Zm9aS1FyMHp0OTRUU3Jnb0ItSTlWYmFIQ1RRZkRJd25OQV96c0hCMkFoN0twT1ZTX1VRNVl5VHBPV1hzcU81QmtNUGtSTVpWdDFHNW5WUGotd3NrbnExM2h2dGNCTTZWR2NB0gGCAUFVX3lxTFA2ZkZtbG8tSnNXX0VxQl8wWF9NLWtwcnVmb1pLUXIwenQ5NFRTcmdvQi1JOVZiYUhDVFFmREl3bk5BX3pzSEIyQWg3S3BPVlNfVVE1WXlUcE9XWHNxTzVCa01Qa1JNWlZ0MUc1blZQai13c2tucTEzaHZ0Y0JNNlZHY0E?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19799186?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-09-23T03:01:00.000Z",
+      "publishedAt": "2026-09-23T03:03:41.000Z",
       "image": "",
       "categories": [
         "kuji",
@@ -781,7 +890,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -800,6 +909,25 @@
       "series": [
         "usagi"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1c7d0104dcd6",
+      "title": "「ちいかわ好きおじさん」“ちい活”姿に「可愛い」「いい笑顔」 南原清隆が公開（スポーツ報知）",
+      "url": "https://news.yahoo.co.jp/articles/7e17eb7104c353587de5e205b7ac608ce3f3034a",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-23T02:25:04.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-09221134-sph-000-3-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -847,14 +975,33 @@
       "isNew": false
     },
     {
+      "id": "ab478bb9e091",
+      "title": "ちいかわ：ABEMAに公式無料チャンネル アニメ362話分を無料配信",
+      "url": "https://mantan-web.jp/article/20260918dog00m200033000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-09-23T00:34:14.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/18/20260918dog00m200033000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "69b1fe7f32f0",
-      "title": "ちいかわ＞ABEMAに公式無料チャンネル アニメ362話分を無料配信（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/fc534fdb1087810fc06b91cf152674d5b4a4fe94",
+      "title": "ちいかわ＞ABEMAに公式無料チャンネル アニメ362話分を無料配信 (MANTANWEB)",
+      "url": "https://news.yahoo.co.jp/articles/fc534fdb1087810fc06b91cf152674d5b4a4fe94/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-23T00:33:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000013-mantan-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgFcZ4J91ovsueXE5USV3Zf3NHMOHCgSuMxrOkvAh06RXRudUFx3AyyH8oAZxfC_22Cs12DiPJ7lPptRvZM8bS3kW8GutubvBJChhStSLLeOgIzG1CszFDeJRUeC_d5eeTA==",
       "categories": [
         "anime"
       ],
@@ -870,7 +1017,7 @@
       "title": "「映画ちいかわ」の特典でもらったラッコ先生→よく見ると…… “まさかの状態”に「さすがランカー」「常に討伐の意識」（ねとらぼ）",
       "url": "https://news.yahoo.co.jp/articles/771b0b001885ace9e809ef921e791ae0432f7971",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-23T00:30:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-10168939-it_nlab-000-1-view.jpg?exp=10800",
@@ -891,10 +1038,10 @@
       "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじが9/24（木）発売！ かわいすぎる全11種がラインアップ",
       "url": "https://www.asahi.com/and/w/article/16901049",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-09-23T00:13:40.000Z",
-      "image": "https://p.potaufeu.asahi.com/6a11-p/picture/31347798/a4c42d19016ab06d72648be438ec98b0.jpg",
+      "image": "",
       "categories": [
         "kuji"
       ],
@@ -912,7 +1059,7 @@
       "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじが9/24(木)発売！ 【ハズレなし】かわいすぎる全11種がラインアップ",
       "url": "https://news.yahoo.co.jp/articles/b9f26e0767f6ccafb9ccdb2d5e39848cbbd5e249",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-23T00:10:53.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-11789819-asahiand-000-1-view.jpg?exp=10800",
@@ -922,25 +1069,6 @@
       "series": [
         "kurimanju"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f49321eee6a0",
-      "title": "「可愛らしいちいかわ達が大活躍❗️」映画ちいかわ 人魚の島のひみつ ブルーボイスさんの映画レビュー（感想・評価）",
-      "url": "https://eiga.com/movie/105109/review/07006888/",
-      "host": "eiga.com",
-      "source": "eiga.com",
-      "summary": "",
-      "publishedAt": "2026-09-22T23:24:06.000Z",
-      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1026,30 +1154,11 @@
       "isNew": false
     },
     {
-      "id": "8e90c4267fde",
-      "title": "仲里依紗、映画を観て『ちいかわ』に爆ハマり 妹と爆買いしたアイテムを一挙公開「まんまとちいかわの魅力に…」",
-      "url": "https://www.sanyonews.jp/article/1986704?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-09-22T19:02:55.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/b/7e5bfddb18b1200fce3ddce02ed98065_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6600a56bc311",
       "title": "アニメ「ちいかわ」のハチワレの手で潰した虫の残骸をズームするアニオリ、親切過ぎるし演出も神…そこのシーンからのあのセリフでスゴすぎる",
       "url": "https://togetter.com/li/2749140",
       "host": "togetter.com",
-      "source": "togetter.com",
+      "source": "Togetter",
       "summary": "",
       "publishedAt": "2026-09-22T19:00:42.000Z",
       "image": "https://s.tgstc.com/ogp3/54e1220e2234b10d5e5746208e9e9790-1200x630.jpeg",
@@ -1059,26 +1168,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "312a7779714e",
-      "title": "“ちいかわ好き芸人”ミルクボーイ内海、『映画ちいかわ』コレクションのディスプレイ披露「過去最高の飾り付けが完成！レアグッズあり！手作りあり！島へようこそ!!」",
-      "url": "https://www.sanyonews.jp/article/1957218?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-09-22T17:14:33.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/e/7/a/8e7aa9345e50ec2562a89e6fa54ca79f_1.jpg",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1154,7 +1243,7 @@
       "title": "【ちいかわ】強くなったハチワレ(CV:田中誠人)の「簡単ッッッ!!簡単ッッ!!!」に視聴者脱帽!? アニメ『ちいかわ』第380話「パラレルワールド⑥」はキャストクレジットに並ぶハチワレの名前にも注目",
       "url": "https://www.pashplus.jp/anime/496306/",
       "host": "pashplus.jp",
-      "source": "pashplus.jp",
+      "source": "PASH! PLUS",
       "summary": "",
       "publishedAt": "2026-09-22T13:31:15.000Z",
       "image": "https://www.pashplus.jp/wp-content/uploads/8bcfc1bc6e240dce893b7edf98846517.jpg",
@@ -1228,7 +1317,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "24732faf9868",
@@ -1311,7 +1400,7 @@
       "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじ登場 9月24日から販売開始",
       "url": "https://news.infoseek.co.jp/amp/article/eigacom_20260922010/",
       "host": "news.infoseek.co.jp",
-      "source": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-09-22T08:00:00.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/eigacom/eigacom_20260922010_0.jpg",
@@ -1352,7 +1441,7 @@
       "title": "『ちいかわ』ハチワレがキメラ化したときの低い声は、ハチワレ役・田中誠人くんの声変わりをナガノ先生が見越していた説が浮上「声変わりをもって“完成”しちまってる…！」",
       "url": "https://togetter.com/li/2748883",
       "host": "togetter.com",
-      "source": "togetter.com",
+      "source": "Togetter",
       "summary": "",
       "publishedAt": "2026-09-22T06:35:35.000Z",
       "image": "https://s.tgstc.com/ogp3/a7bb488ef2293643dbc16ad0edcfdf51-1200x630.jpeg",
@@ -1389,11 +1478,11 @@
       "isNew": false
     },
     {
-      "id": "e0c842f4a2a9",
-      "title": "「映画ちいかわ」興収158.4億円突破、今年の興行ランキングNo.1に",
+      "id": "257a7b23f757",
+      "title": "「映画ちいかわ」興収158.4億円突破、今年の興行ランキングNo.1に - news.tv-asahi.co.jp",
       "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900200270.html",
       "host": "news.tv-asahi.co.jp",
-      "source": "テレ朝NEWS",
+      "source": "news.tv-asahi.co.jp",
       "summary": "",
       "publishedAt": "2026-09-22T06:15:00.000Z",
       "image": "https://news.tv-asahi.co.jp/articles_img/900200270_1200.jpg",
@@ -1405,7 +1494,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "41217a28c50f",
@@ -1422,25 +1511,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0dc5ab78e9c3",
-      "title": "くら寿司「ちいかわ」キャンペーン中止の“お詫び”割引、一部で適用されず…謝罪 返金対応について発表【対象・方法など】",
-      "url": "https://www.sanyonews.jp/article/1986333",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-09-22T05:18:58.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/1/2/3/b1232e5dddf7eb745a789e9fc9230c96_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1539,7 +1609,7 @@
       "title": "解説＞今さら聞けない「ちいかわ」とは？ 労働して生きる 謎多き世界と尊い友情（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/5691a8b8b1809ddc6eab4a2a66a7a2d773853d6d",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-22T01:05:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000015-mantan-000-1-view.jpg?exp=10800",
@@ -1596,7 +1666,7 @@
       "title": "「ちいかわ」のアニメ映画 今年の公開興行ランキング首位に 好調の背景は #エキスパートトピ（河村鳴紘） - エキスパート",
       "url": "https://news.yahoo.co.jp/expert/articles/54202d49375a7693bcdf503ef8769e3cb1817648",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T23:01:26.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02725634/title-1790011479685.jpeg?exp=10800",
@@ -1691,7 +1761,7 @@
       "title": "「ちいかわ くりまんじゅうだらけくじ」ラインナップまとめ！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも",
       "url": "https://news.yahoo.co.jp/articles/f0b52d1513549ed30643c3af796a1e2b5f711b99",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T15:10:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000001-isd-000-1-view.jpg?exp=10800",
@@ -1774,7 +1844,7 @@
       "title": "アニメ映画「ちいかわ」興収１５８．４億円で今年の映画ランキング１位 観客動員は１０８５．７万人（スポーツ報知）",
       "url": "https://news.yahoo.co.jp/articles/e6ba13df0645108ee9bdb5b22841d46e9cd1af2d",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T09:04:47.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-09211216-sph-000-2-view.jpg?exp=10800",
@@ -1793,7 +1863,7 @@
       "title": "映画『ちいかわ』が2026年の興行収入1位に 「名探偵コナン」「トイ・ストーリー」最新作を抜き（KAI-YOU）",
       "url": "https://news.yahoo.co.jp/articles/60e4812fb41a71b211d9f59831bed40daa961648",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T08:50:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00096614-kaiyou-000-1-view.jpg?exp=10800",
@@ -1816,7 +1886,7 @@
       "source": "KAI-YOU",
       "summary": "",
       "publishedAt": "2026-09-21T08:34:00.000Z",
-      "image": "https://img.kai-you.net/storage/2026/09/ad4c32d0-e3dc-4c2c-b9b1-239ec0f43a90/jpg/chikawa.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1851,7 +1921,7 @@
       "title": "映画「ちいかわ」の他にも… 2026年はアニメ映画が大豊作 まどマギ、閃ハサなども反響（スポニチアネックス）",
       "url": "https://news.yahoo.co.jp/articles/6bea1fe6ba04bac46cca5ff366a8234fad508a3b",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T07:52:52.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000257-spnannex-000-4-view.jpg?exp=10800",
@@ -1870,7 +1940,7 @@
       "title": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！「激かわトート」をゲットしよう♪ (ぴあ)",
       "url": "https://news.yahoo.co.jp/articles/761fe3c47d34db0b90f350f552b16cf1ed719ddb/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T07:00:15.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgNgela2-f9AP1m5Dv62KrU4Y7adDoV7p_6X5HTld5FJIlAFzGi8K3SL_vfafhEu8XoCLRIOlhuh3e_v7jyy4F6gGl7FFym8XoZNUvRhjdq6YvwcGWGtAXRZavQeIeY7iMA==",
@@ -1904,6 +1974,30 @@
       "isNew": false
     },
     {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "46c11c7771d2",
       "title": "「ちいかわもぐもぐ本舗 小樽店」限定グッズ公開 “シマエナガ”やレトロ衣装など北海道ならではのラインナップ満載",
       "url": "https://www.sanyonews.jp/article/1937534?kw",
@@ -1923,23 +2017,18 @@
       "isNew": false
     },
     {
-      "id": "f45dbed4d556",
-      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
-      "url": "https://www.sanyonews.jp/article/1885622",
+      "id": "0dc5ab78e9c3",
+      "title": "くら寿司「ちいかわ」キャンペーン中止の“お詫び”割引、一部で適用されず…謝罪 返金対応について発表【対象・方法など】",
+      "url": "https://www.sanyonews.jp/article/1986333",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-09-21T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/1/2/3/b1232e5dddf7eb745a789e9fc9230c96_1.jpg",
       "categories": [
-        "goods",
         "collab"
       ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1994,7 +2083,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-09-21T06:17:00.000Z",
-      "image": "https://s.eximg.jp/exnews/feed/game_watch/23/game_watch_1474651218531222374/game_watch_1474651218531222374_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2032,7 +2121,7 @@
       "title": "【ちいかわ×東京ばな奈】限定ポップアップストア開催中！限定トートやスイーツをゲットしよう♪",
       "url": "https://lp.p.pia.jp/article/news/513375/index.html",
       "host": "lp.p.pia.jp",
-      "source": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
       "summary": "",
       "publishedAt": "2026-09-21T06:00:00.000Z",
       "image": "https://lp.p.pia.jp/shared/materials/d3a50ba2-5651-42d7-9d31-c233a485e572/origin.jpg",
@@ -2052,7 +2141,7 @@
       "title": "「映画ちいかわ 人魚の島のひみつ」2026年公開興行ランキングNo.1！ 公開59日間で興収158.4億円突破 : 映画ニュース",
       "url": "https://eiga.com/news/20260921/8/",
       "host": "eiga.com",
-      "source": "eiga.com",
+      "source": "映画.com",
       "summary": "",
       "publishedAt": "2026-09-21T06:00:00.000Z",
       "image": "https://media.eiga.com/images/buzz/129331/48fd2135c9e5a6fe.jpg",
@@ -2071,10 +2160,10 @@
       "title": "「映画ちいかわ」興行収入150億円を突破 公開からロングヒット中",
       "url": "https://www.asahi.com/articles/ASV9P1T0BV9PUCVL019M.html",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-09-21T05:48:50.000Z",
-      "image": "https://imgopt.asahi.com/ogp/AS20260921001890_comm.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2148,7 +2237,7 @@
       "title": "映画「ちいかわ」勢い止まらず！ 公開から59日間で興収158億円突破 今年の興収ランクトップを快走（スポニチアネックス）",
       "url": "https://news.yahoo.co.jp/articles/84ecf284c5008b7002a00406ded69d7496de4701",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T05:02:47.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000215-spnannex-000-8-view.jpg?exp=10800",
@@ -2167,7 +2256,7 @@
       "title": "映画『ちいかわ』興収158.4億円突破 『コナン』最高記録を超える大ヒット！2026年公開興行ランキング1位（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/a626db840040c58a67c20de1ae1296cbbdcdef35",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T05:00:55.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000382-oric-000-3-view.jpg?exp=10800",
@@ -2183,13 +2272,13 @@
     },
     {
       "id": "d6e4c55e02af",
-      "title": "画像・写真 | 映画『ちいかわ』興収158.4億円突破 『コナン』最高記録を超える大ヒット！2026年公開興行ランキング1位 4枚目",
-      "url": "https://www.oricon.co.jp/news/2481797/photo/4/",
+      "title": "画像・写真 | 映画『ちいかわ』興収158.4億円突破 『コナン』最高記録を超える大ヒット！2026年公開興行ランキング1位 25枚目",
+      "url": "https://www.oricon.co.jp/news/2481797/photo/25/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-09-21T05:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481797/20260822_104740_p_o_82256019.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481797/20260731_173019_p_o_21327912.jpg",
       "categories": [
         "anime"
       ],
@@ -2222,7 +2311,7 @@
     {
       "id": "7e072aed00f8",
       "title": "『映画ちいかわ 人魚の島のひみつ』2026年公開興行ランキングNo.1に！公開59日間で興行収入158.4億円突破！！",
-      "url": "https://mezamashi.media/articles/-/350022",
+      "url": "https://mezamashi.media/articles/gallery/350022",
       "host": "mezamashi.media",
       "source": "めざましmedia",
       "summary": "",
@@ -2288,7 +2377,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-09-21T03:33:00.000Z",
-      "image": "https://s.eximg.jp/exnews/feed/Oricon/a3/Oricon_2481807/Oricon_2481807_1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2304,7 +2393,7 @@
       "title": "「なんとかなれーッ！」は流行語大賞になる？ 『ちいかわ』ファンを夢中にさせる名ゼリフの数々（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/b092d1a7b3305f4f21de1a98426754f359db9a4f",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-21T03:30:16.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00010017-realsound-000-1-view.jpg?exp=10800",
@@ -2361,12 +2450,12 @@
     {
       "id": "6e945dbfe836",
       "title": "『ちいかわ』ナガノ氏、特典「ひみつ本」に驚き イラストで紹介「何この漢字ッ!!」",
-      "url": "https://www.oricon.co.jp/news/2481798/photo/6/",
+      "url": "https://www.oricon.co.jp/news/2481798/photo/4/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-09-21T02:51:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481798/20260824_125658_p_o_35057673.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2482000/2481798/20260810_152139_p_o_29762606.jpg",
       "categories": [
         "other"
       ],
@@ -2417,25 +2506,6 @@
       "isNew": false
     },
     {
-      "id": "09dd374d3ab5",
-      "title": "ダイソーの220円ちいかわ巾着→布2枚に解体して…… 目からウロコのリメイク品に「天才としか言いようがない」「まねっこしたい」",
-      "url": "https://news.nicovideo.jp/watch/nw19795115?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-09-20T22:00:28.000Z",
-      "image": "https://news.cdn.nimg.jp/articles/images/19795115/e0e815d5da31496a650b8a205c8a40fb15c67a5bcfd95c8a1c60e80274b6e9f80961f8a7de7fa237c7d55a92c3d7b5611a5158f14bcc0accd9dc582fb9a7d894",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "33595e5512b4",
       "title": "ちいかわ POP UP STORE｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
       "url": "https://charagoo.jp/collab/event/fb38bf6c9658/",
@@ -2443,7 +2513,7 @@
       "source": "キャラグー",
       "summary": "",
       "publishedAt": "2026-09-20T15:44:35.000Z",
-      "image": "https://charagoo.jp/wp-content/uploads/2026/09/chiikawa-news-20260911.jpg",
+      "image": "",
       "categories": [
         "event",
         "goods"
@@ -2456,11 +2526,31 @@
       "isNew": false
     },
     {
+      "id": "af3e0df12b14",
+      "title": "『ちいかわ 青雲』しまむらで予約販売。“ファンは納得”の線香とのコラボ理由とは？「♪それは君が見た光」",
+      "url": "https://www.chiba-tv.com/plus/detail/2026091990193",
+      "host": "chiba-tv.com",
+      "source": "千葉テレビ放送",
+      "summary": "",
+      "publishedAt": "2026-09-20T15:05:31.000Z",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1474421691996505408/origin_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c534ff51f12d",
       "title": "ちいかわ×くら寿司のコラボ中止で見えてきた「景品」の問題 外食チェーンはどう向き合うか（星野うずら） - エキスパート",
       "url": "https://news.yahoo.co.jp/expert/articles/9c7c91f1a3ed66776651f48fa53e5902f191ad9f",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-20T14:53:17.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/10044298/02724833/title-1789915190043.jpeg?exp=10800",
@@ -2469,89 +2559,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbdd78a158b0",
-      "title": "映画「ちいかわ」入場者特典の誤植を謝罪 うさぎ役声優の名前などに誤り「お詫び申し上げます」（スポニチアネックス）",
-      "url": "https://news.yahoo.co.jp/articles/da6839293183eabbe86d493064d67a8ab9eaf6da",
-      "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
-      "summary": "",
-      "publishedAt": "2026-09-20T12:05:01.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00000405-spnannex-000-19-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0ff4779d6356",
-      "title": "「ハチワレの棒読みが気になって…」映画ちいかわ 人魚の島のひみつ とりにくさんの映画レビュー（感想・評価）",
-      "url": "https://eiga.com/movie/105109/review/06991327/",
-      "host": "eiga.com",
-      "source": "eiga.com",
-      "summary": "",
-      "publishedAt": "2026-09-20T11:53:46.000Z",
-      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "065ebbd6867d",
-      "title": "ちいかわが上海の街角に 本土初の特別展、ファンは映画待ち望む声（朝日新聞）",
-      "url": "https://news.yahoo.co.jp/articles/ee36b686b5daa5bf342d41cf882de36f9d6315dc",
-      "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
-      "summary": "",
-      "publishedAt": "2026-09-20T11:11:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00000010-asahi-000-2-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36091b56fe89",
-      "title": "【しまむら×ちいかわ】の「ルームウェア」全3種類どれもかわいい。『うさぎ』デザインはいいね数7500件超えで断トツ人気！ちいかわ、ハチワレもちらり！（LIMO）",
-      "url": "https://news.yahoo.co.jp/articles/606c231fbe745c58c694a854c39f1f6c5c632ba2",
-      "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
-      "summary": "",
-      "publishedAt": "2026-09-20T10:21:22.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00138806-toushin-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
