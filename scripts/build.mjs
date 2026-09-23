@@ -54,6 +54,13 @@ for (const file of await walk(SRC)) {
     continue;
   }
 
+  // ファビコンなど、縮小しないバイナリはそのまま写す
+  if (ext === ".ico" || ext === ".webp" || ext === ".gif") {
+    await writeFile(dest, await readFile(file));
+    count++;
+    continue;
+  }
+
   const src = await readFile(file, "utf8");
   let out = src;
   if (ext === ".js") {
