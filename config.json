@@ -1,0 +1,108 @@
+{
+  "port": 3280,
+  "host": "127.0.0.1",
+  "watchdogMinutes": 15,
+  "maxArticleAgeDays": 7,
+
+  "site": {
+    "title": "ちいかわ速報",
+    "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
+    "url": "https://chiikawamatome.gamelab.website/",
+    "contactUrl": ""
+  },
+
+  "feeds": [
+    { "name": "インサイド", "url": "https://www.inside-games.jp/rss20/index.rdf" },
+    { "name": "アニメ！アニメ！", "url": "https://animeanime.jp/rss20/index.rdf" },
+    { "name": "コミックナタリー", "url": "https://natalie.mu/comic/feed/news" },
+    { "name": "電撃ホビーウェブ", "url": "https://hobby.dengeki.com/feed/" },
+    { "name": "ねとらぼ", "url": "https://rss.itmedia.co.jp/rss/2.0/netlab.xml" },
+    { "name": "4Gamer", "url": "https://www.4gamer.net/rss/index.xml" },
+    { "name": "Game*Spark", "url": "https://www.gamespark.jp/rss20/index.rdf" },
+    { "name": "PR TIMES", "url": "https://prtimes.jp/index.rdf" }
+  ],
+
+  "steamNews": { "enabled": false, "apps": [] },
+
+  "googleNews": {
+    "enabled": true,
+    "within": "3d",
+    "perQuery": 40,
+    "queries": [
+      "ちいかわ",
+      "ちいかわ グッズ",
+      "ちいかわ コラボ",
+      "ちいかわ 一番くじ",
+      "ちいかわ ポップアップ",
+      "ちいかわ カフェ",
+      "ちいかわ アニメ",
+      "ちいかわらんど",
+      "ちいかわぽけっと",
+      "ハチワレ",
+      "ナガノ くま"
+    ]
+  },
+
+  "keywords": [
+    "ちいかわ",
+    "\\bchiikawa\\b",
+    "ハチワレ",
+    "くりまんじゅう",
+    "自分ツッコミくま",
+    "ナガノのくま",
+    "ナガノ"
+  ],
+
+  "note1": "series はキャラクター。見出しにキャラの名前が出ている記事にそのキャラを付ける。ちいかわ本人はほぼ全記事に出てくるので入れていない。",
+  "series": [
+    { "id": "hachiware", "label": "ハチワレ", "keywords": ["ハチワレ"] },
+    { "id": "usagi", "label": "うさぎ", "keywords": ["うさぎ", "ウサギ"] },
+    { "id": "momonga", "label": "モモンガ", "keywords": ["モモンガ"] },
+    { "id": "kurimanju", "label": "くりまんじゅう", "keywords": ["くりまんじゅう", "栗まんじゅう"] },
+    { "id": "rakko", "label": "ラッコ", "keywords": ["ラッコ"] },
+    { "id": "shisa", "label": "シーサー", "keywords": ["シーサー"] },
+    { "id": "kuma", "label": "自分ツッコミくま", "keywords": ["自分ツッコミくま", "ツッコミくま", "ナガノのくま"] }
+  ],
+
+  "categories": [
+    { "id": "goods", "label": "グッズ", "keywords": ["グッズ", "ぬいぐるみ", "マスコット", "シール", "文具", "ポーチ", "キーホルダー", "アクスタ", "フィギュア", "ガチャ", "カプセルトイ", "雑貨", "アパレル", "Tシャツ", "受注", "予約", "新作"] },
+    { "id": "kuji", "label": "くじ・プライズ", "keywords": ["くじ", "一番くじ", "プライズ", "景品", "ラストワン"] },
+    { "id": "collab", "label": "コラボ・カフェ", "keywords": ["コラボ", "カフェ", "メニュー", "ハッピーセット", "キャンペーン", "限定デザイン", "スイーツ", "パン", "お菓子", "ドリンク"] },
+    { "id": "event", "label": "ポップアップ・イベント", "keywords": ["ポップアップ", "POP ?UP", "ちいかわらんど", "展覧会", "原画展", "イベント", "開催", "ストア", "オープン", "巡回"] },
+    { "id": "anime", "label": "アニメ・映画", "keywords": ["アニメ", "映画", "劇場版", "第\\d+話", "放送", "配信", "声優", "主題歌", "めざまし"] },
+    { "id": "book", "label": "漫画・本", "keywords": ["漫画", "マンガ", "単行本", "\\d+巻", "画集", "絵本", "書籍", "ムック", "付録", "雑誌"] },
+    { "id": "game", "label": "ゲーム・アプリ", "keywords": ["ちいかわぽけっと", "ゲーム", "アプリ", "Switch", "スマホ"] }
+  ],
+  "fallbackCategory": { "id": "other", "label": "そのほか" },
+
+  "prSources": ["PR TIMES", "プレスリリース", "@Press", "ValuePress"],
+
+  "note3": "媒体名がこれに当たるものは載せない。動画・SNS の投稿や、見出しを煽るだけのまとめ系が Google ニュースに混ざってくるため。",
+  "blockSources": ["^YouTube$", "^t\\.co$", "^X$", "^Unisba Media$", "^TikTok$", "^Instagram$"],
+
+  "note2": "見出しがこれに当たるものは載せない。画像ギャラリーのページが、何年も前の記事なのに新着として流れてくるため。",
+  "blockTitlePatterns": [
+    "^[＜<]?\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "^\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "\\d+\\s*枚目の(写真|画像)",
+    "[＜<]\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "写真・画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*枚",
+    "\\(@[A-Za-z0-9_]+\\) on X$"
+  ],
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 48,
+    "minSources": 2,
+    "threshold": 0.34,
+    "stopwords": [
+      "ちいかわ", "ナガノ", "グッズ", "発売", "開催", "限定", "登場", "予約", "販売", "新作", "情報", "公開",
+      "配信", "画像", "写真", "種類", "全種", "記事", "今日", "本日", "最新", "話題", "商品", "登場", "デザイン",
+      "chiikawa", "com", "www", "https", "かわいい", "キャラクター", "予定", "開始", "紹介"
+    ]
+  },
+
+  "entities": [
+    "ハチワレ", "うさぎ", "モモンガ", "くりまんじゅう", "ラッコ", "シーサー", "ちいかわらんど", "ちいかわぽけっと", "一番くじ"
+  ]
+}
