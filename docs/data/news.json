@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-24T19:00:18.667Z",
+  "updatedAt": "2026-09-24T19:30:19.050Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 93,
+  "total": 95,
   "todayCount": 3,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 35
+      "count": 36
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 14
+      "count": 15
     }
   ],
   "series": [
@@ -90,18 +90,22 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 20
     },
     {
       "name": "推し楽",
-      "count": 7
+      "count": 8
     },
     {
       "name": "インサイド",
-      "count": 5
+      "count": 6
     },
     {
       "name": "映画.com",
+      "count": 4
+    },
+    {
+      "name": "oricon.co.jp",
       "count": 4
     },
     {
@@ -110,10 +114,6 @@
     },
     {
       "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
-      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -141,7 +141,7 @@
       "count": 2
     },
     {
-      "name": "news.denfaminicogamer.jp",
+      "name": "電ファミニコゲーマー",
       "count": 2
     },
     {
@@ -157,7 +157,7 @@
       "count": 2
     },
     {
-      "name": "Togetter",
+      "name": "togetter.com",
       "count": 2
     },
     {
@@ -169,7 +169,7 @@
       "count": 1
     },
     {
-      "name": "ヨムーノ",
+      "name": "yomuno.jp",
       "count": 1
     },
     {
@@ -201,7 +201,7 @@
       "count": 1
     },
     {
-      "name": "つばめ投資顧問",
+      "name": "tsubame104.com",
       "count": 1
     },
     {
@@ -253,7 +253,7 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "excite.co.jp",
       "count": 1
     },
     {
@@ -271,7 +271,7 @@
       "leadSource": "千葉テレビ放送",
       "publishedAt": "2026-09-24T11:02:17.000Z",
       "sourceCount": 7,
-      "articleCount": 9,
+      "articleCount": 10,
       "categories": [
         "goods",
         "anime"
@@ -279,7 +279,7 @@
       "keywords": [
         "映画",
         "ランキング",
-        "突破"
+        "大捜査線"
       ],
       "articles": [
         {
@@ -294,6 +294,13 @@
           "url": "https://news.yahoo.co.jp/articles/4d3ad94c2fa6ab6e340c35fcee7bffd7ac5d68f6/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-24T09:39:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "画像・写真 | 映画ランキング：1位『映画ちいかわ』、2位『踊る大捜査線 N.E.W. ～』、3位『映画名探偵プリキュア！～』 1枚目",
+          "url": "https://www.oricon.co.jp/news/2482228/photo/1/",
+          "source": "oricon.co.jp",
+          "publishedAt": "2026-09-24T09:39:00.000Z",
           "isPR": false
         },
         {
@@ -320,7 +327,7 @@
         {
           "title": "『ちいかわ』興収165.2億円突破 歴代ランキング15位",
           "url": "https://www.oricon.co.jp/news/2482075/photo/2/",
-          "source": "オリコンニュース",
+          "source": "oricon.co.jp",
           "publishedAt": "2026-09-24T06:43:00.000Z",
           "isPR": false
         },
@@ -329,13 +336,6 @@
           "url": "https://lp.p.pia.jp/article/news/513832/index.html?detail",
           "source": "ぴあエンタメ情報",
           "publishedAt": "2026-09-24T04:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に",
-          "url": "https://times.abema.tv/articles/-/10274512",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-09-22T11:49:00.000Z",
           "isPR": false
         }
       ]
@@ -490,7 +490,7 @@
         {
           "title": "アニメ『ちいかわ』ハチワレがついに“変貌”、パラレルワールド編の最新話が見逃し配信スタート",
           "url": "https://news.denfaminicogamer.jp/news/260922k",
-          "source": "news.denfaminicogamer.jp",
+          "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-22T05:23:00.000Z",
           "isPR": false
         },
@@ -533,7 +533,7 @@
         {
           "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 2枚目",
           "url": "https://www.oricon.co.jp/news/2482143/photo/2/?anc",
-          "source": "オリコンニュース",
+          "source": "oricon.co.jp",
           "publishedAt": "2026-09-24T06:11:00.000Z",
           "isPR": false
         },
@@ -567,7 +567,7 @@
         {
           "title": "アニメ「ちいかわ」のハチワレの手で潰した虫の残骸をズームするアニオリ、親切過ぎるし演出も神…そこのシーンからのあのセリフでスゴすぎる",
           "url": "https://togetter.com/li/2749140",
-          "source": "Togetter",
+          "source": "togetter.com",
           "publishedAt": "2026-09-22T19:00:42.000Z",
           "isPR": false
         },
@@ -700,7 +700,7 @@
         {
           "title": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信",
           "url": "https://news.denfaminicogamer.jp/news/260924f",
-          "source": "news.denfaminicogamer.jp",
+          "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-23T23:54:00.000Z",
           "isPR": false
         }
@@ -736,12 +736,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-24T18:30:18.438Z",
-    "previousCount": 95,
-    "newCount": 3
+    "previousAt": "2026-09-24T19:00:18.667Z",
+    "previousCount": 93,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-24T19:30:18.667Z",
+  "nextUpdateAt": "2026-09-24T20:00:19.050Z",
   "items": [
     {
       "id": "b649026904d4",
@@ -760,7 +760,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dd114572049a",
@@ -997,6 +997,25 @@
       "isNew": false
     },
     {
+      "id": "58182fd1011e",
+      "title": "ちいかわの関連画像",
+      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/821811",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
+      "summary": "",
+      "publishedAt": "2026-09-24T09:46:16.000Z",
+      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8dfc87f38e6f",
       "title": "『ちいぽけ』1.5周年記念でピーターパンイベント開催！ちいかわと交流できる「ふれあい」機能も実装",
       "url": "https://times.abema.tv/articles/-/10274821",
@@ -1036,6 +1055,25 @@
       "isNew": false
     },
     {
+      "id": "2707810aafec",
+      "title": "画像・写真 | 映画ランキング：1位『映画ちいかわ』、2位『踊る大捜査線 N.E.W. ～』、3位『映画名探偵プリキュア！～』 1枚目",
+      "url": "https://www.oricon.co.jp/news/2482228/photo/1/",
+      "host": "oricon.co.jp",
+      "source": "oricon.co.jp",
+      "summary": "",
+      "publishedAt": "2026-09-24T09:39:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482228/20260727_174210_p_o_59986278.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "37f9abf8eaf7",
       "title": "貴重品管理や持ち歩きに活躍！ 【ちいかわ】の「旅先で役立つアイテム」3選【2026年9月版】（Fav-Log by ITmedia）",
       "url": "https://news.yahoo.co.jp/articles/b45b0803ed31ac15b7ebe2e43967f1fb624482fc",
@@ -1059,7 +1097,7 @@
       "title": "残り3日間！！「混雑時入場制限あり」【ちいかわ@羽田空港第1ターミナル】期間限定ショップ「限定アイテムずらり」「売り切れる前に急いで(泣)」",
       "url": "https://yomuno.jp/posts/142333",
       "host": "yomuno.jp",
-      "source": "ヨムーノ",
+      "source": "yomuno.jp",
       "summary": "",
       "publishedAt": "2026-09-24T08:00:28.000Z",
       "image": "https://image.yomuno.jp/store/article/142333/header_image/large-fdfccbef7d85499fe26c438b55cc6d66.webp",
@@ -1236,7 +1274,7 @@
       "title": "『ちいかわ』興収165.2億円突破 歴代ランキング15位",
       "url": "https://www.oricon.co.jp/news/2482075/photo/2/",
       "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T06:43:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482075/20260921_140612_p_o_36015865.jpg",
@@ -1253,7 +1291,7 @@
     {
       "id": "52a60f3791d2",
       "title": "【結果速報】ちいかわ「くりまんじゅうだらけくじ」10連！確率2%のB賞獲得なるか",
-      "url": "https://news.livedoor.com/topics/detail/32399112/",
+      "url": "https://news.livedoor.com/article/detail/32399112/",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
       "summary": "",
@@ -1291,7 +1329,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f7c95ec32a28",
@@ -1317,7 +1355,7 @@
       "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 2枚目",
       "url": "https://www.oricon.co.jp/news/2482143/photo/2/?anc",
       "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T06:11:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482143/20260907_101957_p_o_17142325.jpg",
@@ -1515,7 +1553,7 @@
       "title": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信",
       "url": "https://news.denfaminicogamer.jp/news/260924f",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-23T23:54:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/yt_ubU3yoL9I2s_maxresdefault.jpg",
@@ -1792,7 +1830,7 @@
       "title": "映画『ちいかわ』200億円ヒットで東宝はいくら儲かる？収益構造と株価を分析",
       "url": "https://tsubame104.com/archives/99632",
       "host": "tsubame104.com",
-      "source": "つばめ投資顧問",
+      "source": "tsubame104.com",
       "summary": "",
       "publishedAt": "2026-09-23T09:16:23.000Z",
       "image": "https://tsubame104.com/wp-content/uploads/2026/09/ChatGPT-Image-2026年9月13日-15_07_02.png",
@@ -2022,7 +2060,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "69b1fe7f32f0",
@@ -2085,13 +2123,13 @@
     },
     {
       "id": "f785876a8b21",
-      "title": "「ちいかわ」2026ハロウィンデザインが「Talking ODM」に期間限定で追加！えだまめくりまんじゅうなど全6種（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/bfa235b15316faeeed3119cc1eab3743093e1cd9",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ちいかわ」2026ハロウィンデザインが「Talking ODM」に期間限定で追加！えだまめくりまんじゅうなど全6種",
+      "url": "https://www.inside-games.jp/article/2026/09/23/188135.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-09-22T22:20:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000006-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1774489.webp",
       "categories": [
         "other"
       ],
@@ -2109,7 +2147,7 @@
       "title": "アニメ「ちいかわ」のハチワレの手で潰した虫の残骸をズームするアニオリ、親切過ぎるし演出も神…そこのシーンからのあのセリフでスゴすぎる",
       "url": "https://togetter.com/li/2749140",
       "host": "togetter.com",
-      "source": "Togetter",
+      "source": "togetter.com",
       "summary": "",
       "publishedAt": "2026-09-22T19:00:42.000Z",
       "image": "https://s.tgstc.com/ogp3/54e1220e2234b10d5e5746208e9e9790-1200x630.jpeg",
@@ -2298,7 +2336,7 @@
       "source": "jp.ajunews.com",
       "summary": "",
       "publishedAt": "2026-09-22T08:40:20.000Z",
-      "image": "",
+      "image": "https://image.ajunews.com/content/image/2026/09/22/20260922173518388401.jpeg",
       "categories": [
         "anime"
       ],
@@ -2354,7 +2392,7 @@
       "title": "『ちいかわ』ハチワレがキメラ化したときの低い声は、ハチワレ役・田中誠人くんの声変わりをナガノ先生が見越していた説が浮上「声変わりをもって“完成”しちまってる…！」",
       "url": "https://togetter.com/li/2748883",
       "host": "togetter.com",
-      "source": "Togetter",
+      "source": "togetter.com",
       "summary": "",
       "publishedAt": "2026-09-22T06:35:35.000Z",
       "image": "https://s.tgstc.com/ogp3/a7bb488ef2293643dbc16ad0edcfdf51-1200x630.jpeg",
@@ -2394,7 +2432,7 @@
       "title": "アニメ『ちいかわ』ハチワレがついに“変貌”、パラレルワールド編の最新話が見逃し配信スタート",
       "url": "https://news.denfaminicogamer.jp/news/260922k",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-22T05:23:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSykt84bYAArmE8.jpg",
@@ -2497,7 +2535,7 @@
       "title": "「ちいかわ くりまんじゅうだらけくじ」ラインナップまとめ！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも",
       "url": "http://www.excite.co.jp/news/article/Inside_188102/",
       "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "source": "excite.co.jp",
       "summary": "",
       "publishedAt": "2026-09-21T23:10:45.000Z",
       "image": "",
@@ -2576,7 +2614,7 @@
       "title": "コメント | 【きょうから】モンテールとちいかわが今年もコラボ 『むちゃうまプリン』イメージのスイーツ2品登場",
       "url": "https://www.oricon.co.jp/news/2476718/comment/",
       "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "summary": "",
       "publishedAt": "2026-09-21T22:42:27.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2477000/2476718/20260826_141119_p_l_57441939.jpg",
