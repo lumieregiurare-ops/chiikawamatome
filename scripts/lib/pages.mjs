@@ -70,8 +70,9 @@ async function readText(p) {
     return "";
   }
 }
+// 改行コードをそろえてから計算する（Windows で git が CRLF に変えたファイルでも、Actions と同じ値になるように）
 async function verOf(p) {
-  const t = await readText(p);
+  const t = (await readText(p)).replace(/\r\n/g, "\n");
   return t ? createHash("sha1").update(t).digest("hex").slice(0, 8) : "0";
 }
 
@@ -185,15 +186,13 @@ export async function renderPages(root, { log = () => {} } = {}) {
   all.sort((a, b) => (a.publishedAt < b.publishedAt ? 1 : -1));
   const recentLimit = now.getTime() - LIST_DAYS * 86400000;
   const recent = all.filter((it) => new Date(it.publishedAt).getTime() >= recentLimit);
-  const monthAgo = now.getTime() - 30 * 86400000;
-  const countIn = (pred) => recent.filter((it) => new Date(it.publishedAt).getTime() >= monthAgo && pred(it)).length;
 
   const written = [];
   const sitemap = [];
   async function out(path, html, { lastmod, index = true } = {}) {
     const file = path.endsWith("/") ? join(DOCS, path, "index.html") : join(DOCS, path);
     const text = path.endsWith(".xml") ? html : minifyHtml(html);
-    if ((await readText(file)) !== text) {
+    if ((await readText(file)).replace(/\r\n/g, "\n") !== text) {
       await mkdir(dirname(file), { recursive: true });
       await writeFile(file, text, "utf8");
       written.push(path);
@@ -318,13 +317,13 @@ export async function renderPages(root, { log = () => {} } = {}) {
 </html>`;
   }
 
+  // サイドバーは全ページに入るので、収集のたびに変わる値（件数など）は入れない。
+  // 入れると、記事が増えない過去の日別ページまで毎回書き換わり、FTP で送る量とリポジトリが膨らみ続ける
   function sideHtml() {
-    const gl = genreLinks
-      .map((c) => `<li><a href="/${c.id}/">${esc(c.label)}<span class="n">${countIn((it) => (it.categories || []).includes(c.id))}</span></a></li>`)
-      .join("");
-    const cl = charas.map((c) => `<li><a href="/chara/${c.id}/" style="--c:${c.color || "#ffb3c7"}"><i class="dot"></i>${esc(c.label)}<span class="n">${countIn((it) => (it.series || []).includes(c.id))}</span></a></li>`).join("");
+    const gl = genreLinks.map((c) => `<li><a href="/${c.id}/">${esc(c.label)}</a></li>`).join("");
+    const cl = charas.map((c) => `<li><a href="/chara/${c.id}/" style="--c:${c.color || "#ffb3c7"}"><i class="dot"></i>${esc(c.label)}</a></li>`).join("");
     return `<aside class="side">
-      <section class="mod"><h2 class="mod-head">ジャンルで見る</h2><p class="mod-desc">数字はこの 30 日の件数です。</p><ul class="side-links">${gl}</ul></section>
+      <section class="mod"><h2 class="mod-head">ジャンルで見る</h2><ul class="side-links">${gl}</ul></section>
       <section class="mod"><h2 class="mod-head">キャラで見る</h2><ul class="side-links">${cl}</ul></section>
       <section class="mod"><h2 class="mod-head">ほかのページ</h2><ul class="side-links">
         <li><a href="/">トップ（しぼりこみ・おみくじ）</a></li><li><a href="/schedule/">これからの予定</a></li><li><a href="/archive/">過去のニュース</a></li><li><a href="/about/">このサイトについて</a></li>
