@@ -472,7 +472,10 @@
     const go = el("button", "link-btn", "ニュースを見る");
     go.type = "button";
     go.addEventListener("click", () => $("#feedSection").scrollIntoView({ behavior: "smooth", block: "start" }));
-    tools.append(ob, go);
+    // 過去の分もまとめて見られるキャラ別のページ（scripts/lib/pages.mjs が作る）
+    const page = el("a", "link-btn", `${c.label}のページ`);
+    page.href = `chara/${c.id}/`;
+    tools.append(ob, go, page);
     panel.append(txt, tools);
   }
   function applyOshi() {

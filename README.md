@@ -45,7 +45,26 @@ pokematome と同じです。GitHub Actions の cron は当てにならないの
 **Secrets**: `LOLIPOP_FTP_SERVER` / `LOLIPOP_FTP_USER` / `LOLIPOP_FTP_PASSWORD`
 **Variables**: `DEPLOY_TARGET` = `lolipop`、`LOLIPOP_SERVER_DIR` = サブドメインの公開ディレクトリ（末尾のスラッシュ必須）
 
-サブドメインは仮に `chiikawamatome.gamelab.website` にしています。変える場合は `config.json` の `site.url`、`site/index.html` の OGP・canonical、`site/robots.txt`、`site/sitemap.xml`、`scripts/make-og.py` を直してください。
+サブドメインは仮に `chiikawamatome.gamelab.website` にしています。変える場合は `config.json` の `site.url`、`site/index.html` の OGP・canonical、`site/robots.txt`、`scripts/make-og.py` を直してください（sitemap.xml は自動で作られます）。
+
+## 検索エンジン向けのページ（SEO）
+
+トップの画面は `app.js` が `news.json` を読んで描くので、それだけだと検索エンジンには中身が見えません。そこで、収集（`collect.mjs`）とビルド（`build.mjs`）の最後に `scripts/lib/pages.mjs` が次のものを `docs/` に書き出します。
+
+| URL | 内容 |
+| --- | --- |
+| `/` | `site/index.html` の `<!--ssr:…-->` に、新着 30 件の一覧・サイト内リンク・構造化データを差し込んだもの（表示後は app.js が描き直す） |
+| `/goods/` `/kuji/` `/collab/` `/event/` `/anime/` `/book/` `/game/` | ジャンル別。見出しと説明は `config.json` の `pages.genres` |
+| `/chara/` `/chara/<id>/` | キャラ別。紹介文と色は `config.json` の `series` の `intro` / `color`（`app.js` の `CHARAS` とそろえる） |
+| `/schedule/` | これからの予定（直近 60 日の記事の見出しから、90 日先までの日付を拾う） |
+| `/archive/` `/archive/YYYY/MM/` `/archive/YYYY/MM/DD/` | 過去のニュース（月別・日別） |
+| `/about/` `/404.html` `/feed.xml` `/sitemap.xml` | サイトについて・404・Atom フィード・サイトマップ |
+
+- 過去の記事は `data/archive/YYYY/MM/DD.json`（日本時間の日付ごと）に貯めています。`news.json` は 7 日で消えますが、こちらは消えません。ジャンル別・キャラ別のページはここから直近 180 日・最大 60 件を載せます
+- 記事が 3 件未満のページは `noindex` にして sitemap にも載せません
+- 中身が変わったファイルだけを書き直すので、FTP で送られるのも変わったページだけです
+- `site/.htaccess` で圧縮・キャッシュ・404 のページを設定しています
+- Google Search Console の所有権の確認に HTML タグを使う場合は、`config.json` の `pages.googleSiteVerification` に content の値を入れてください
 
 ## ブラウザに保存しているもの
 

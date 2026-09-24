@@ -37,9 +37,13 @@
   <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"WebSite","name":"ちいかわ速報","alternateName":"ちいかわニュースまとめ","url":"https://chiikawamatome.gamelab.website/","description":"ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。","inLanguage":"ja"}
   </script>
+  <!-- ssr:head / ssr:nav / ssr:list / ssr:footer-links は scripts/lib/pages.mjs が中身に置き換える -->
+  <!--ssr:head-->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Zen+Maru+Gothic:wght@500;700;900&display=swap" rel="stylesheet">
+  <!-- 文字の表示を待たせないよう、Web フォントは読み込みを止めない形で読む -->
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Zen+Maru+Gothic:wght@500;700;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Zen+Maru+Gothic:wght@500;700;900&display=swap"></noscript>
   <link rel="stylesheet" href="assets/app.css">
 </head>
 <body>
@@ -64,6 +68,7 @@
       <span id="meta">読み込み中…</span>
       <span class="churn" id="churn" hidden></span>
     </div>
+    <!--ssr:nav-->
     <svg class="header-cloud" viewBox="0 0 1200 40" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 H1200 V14 C1170 14 1170 34 1140 34 C1110 34 1110 14 1080 14 C1050 14 1050 34 1020 34 C990 34 990 14 960 14 C930 14 930 34 900 34 C870 34 870 14 840 14 C810 14 810 34 780 34 C750 34 750 14 720 14 C690 14 690 34 660 34 C630 34 630 14 600 14 C570 14 570 34 540 34 C510 34 510 14 480 14 C450 14 450 34 420 34 C390 34 390 14 360 14 C330 14 330 34 300 34 C270 34 270 14 240 14 C210 14 210 34 180 34 C150 34 150 14 120 14 C90 14 90 34 60 34 C30 34 30 14 0 14Z"/></svg>
   </header>
 
@@ -119,7 +124,7 @@
           </form>
           <div class="quick-words" id="quickWords"></div>
           <p class="count" id="count"></p>
-          <div id="list"><div class="loading loading-feed"><span class="spinner" role="status" aria-label="読み込み中"></span><span>ニュースを読み込んでいます…</span></div></div>
+          <div id="list"><!--ssr:list--></div>
           <button class="more-btn" id="listMore" hidden></button>
           <p class="empty" id="empty" hidden>見つかりませんでした。ほかのジャンルやキャラも見てみてね。</p>
         </section>
@@ -183,6 +188,7 @@
 
   <footer class="footer">
     <div class="wrap">
+      <!--ssr:footer-links-->
       <p><strong>ちいかわ速報</strong> は、ちいかわ関連のニュースを集めているまとめサイトです。30 分おきに更新しています。</p>
       <p>掲載しているのは見出し・要約の一部・元記事へのリンクと、元記事が設定している紹介用の画像のみで、本文の転載はしていません。リンク先の記事と画像の権利はそれぞれの発行元に帰属します。</p>
       <p class="notice">当サイトはファンによる非公式のまとめサイトで、ナガノ氏・ちいかわ製作委員会・各権利者とは関係ありません。キャラクターの紹介文は当サイトが書いたものです。</p>

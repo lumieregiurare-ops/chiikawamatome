@@ -1875,6 +1875,271 @@ button:active {
   margin-top: 14px !important;
 }
 
+/* ---------- サイト内のページへのリンク（ヘッダー・フッター） ---------- */
+.site-nav {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding-top: 6px;
+  padding-bottom: 8px;
+  scrollbar-width: none;
+}
+
+.site-nav a {
+  flex: 0 0 auto;
+  padding: 3px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.75);
+  color: #a0607a;
+  font-size: 12.5px;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.site-nav a:hover {
+  background: #fff;
+  color: var(--pink-deep);
+}
+
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin-bottom: 16px;
+  padding-bottom: 14px;
+  border-bottom: 2px dotted #ffc9d6;
+}
+
+.footer-nav a {
+  color: #a0607a;
+  font-weight: 700;
+}
+
+a.link-btn {
+  display: inline-block;
+  text-decoration: none;
+}
+
+/* ---------- ジャンル別・キャラ別などの静的ページ ---------- */
+.layout-single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.crumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 0;
+  list-style: none;
+  margin: 0 0 14px;
+  padding: 0;
+  font-size: 12.5px;
+  color: var(--ink-muted);
+}
+
+.crumbs li + li::before {
+  content: "›";
+  margin: 0 8px;
+}
+
+.crumbs a {
+  color: #a0607a;
+}
+
+.page-intro {
+  margin-bottom: 24px;
+}
+
+.page-title {
+  margin: 0 0 8px;
+  font-family: var(--font-pop);
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 1.35;
+}
+
+.page-lead {
+  margin: 0;
+  font-size: 14px;
+  color: #8a7275;
+}
+
+.page-sec {
+  margin-bottom: 34px;
+}
+
+.page-sec > .sec-title {
+  margin-bottom: 14px;
+}
+
+.cal-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(236px, 1fr));
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.side-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.side-links a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.side-links a:hover {
+  background: var(--pink-soft);
+}
+
+.side-links .n {
+  margin-left: auto;
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+
+.side-links .dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--c);
+}
+
+.chara-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.chara-card {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  padding: 12px;
+  background: #fff;
+  border: 2px solid var(--border);
+  border-radius: var(--radius-s);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+}
+
+.chara-card:hover {
+  border-color: var(--c);
+}
+
+.chara-card-face {
+  position: relative;
+  flex: 0 0 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 3px solid var(--c);
+  background: #fff;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  font-family: var(--font-pop);
+  font-size: 24px;
+}
+
+.chara-card-face img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.chara-card-text {
+  display: flex;
+  flex-direction: column;
+  font-size: 12.5px;
+  color: #8a7275;
+}
+
+.chara-card-text strong {
+  font-size: 16px;
+  color: var(--ink);
+}
+
+.chara-card-text .n {
+  font-weight: 700;
+  color: var(--pink-deep);
+}
+
+.archive-months,
+.archive-days {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.archive-months a,
+.archive-day {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.archive-months li,
+.archive-days > li {
+  background: #fff;
+  border: 2px solid var(--border);
+  border-radius: var(--radius-s);
+  padding: 10px 14px;
+}
+
+.archive-months .n,
+.archive-day .n {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink-muted);
+}
+
+.archive-days ul {
+  margin: 6px 0 0;
+  padding-left: 1.2em;
+  font-size: 13px;
+  color: #8a7275;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 24px 0;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.pager a {
+  color: #a0607a;
+}
+
+.prose h2 {
+  margin: 26px 0 8px;
+  font-size: 18px;
+}
+
+.prose p {
+  margin: 0 0 12px;
+}
+
 /* ---------- スマホ・タブレット ---------- */
 @media (max-width: 860px) {
   .layout {
@@ -1926,6 +2191,10 @@ button:active {
 
   .sec-title {
     font-size: 20px;
+  }
+
+  .page-title {
+    font-size: 21px;
   }
 
   .topic-hero {
