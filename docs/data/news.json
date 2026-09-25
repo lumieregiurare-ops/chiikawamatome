@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-25T00:30:16.097Z",
+  "updatedAt": "2026-09-25T01:00:16.411Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 94,
-  "todayCount": 23,
+  "total": 102,
+  "todayCount": 25,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 33
+      "count": 35
     },
     {
       "id": "kuji",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 9
+      "count": 10
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 34
+      "count": 37
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 21
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 18
+      "count": 17
     },
     {
       "name": "インサイド",
@@ -98,18 +98,22 @@
     },
     {
       "name": "推し楽",
-      "count": 6
+      "count": 7
     },
     {
-      "name": "news.denfaminicogamer.jp",
-      "count": 3
+      "name": "media.unisba.ac.id",
+      "count": 5
     },
     {
       "name": "オリコンニュース",
-      "count": 3
+      "count": 4
     },
     {
       "name": "電撃オンライン",
+      "count": 4
+    },
+    {
+      "name": "電ファミニコゲーマー",
       "count": 3
     },
     {
@@ -125,7 +129,11 @@
       "count": 2
     },
     {
-      "name": "sanyonews.jp",
+      "name": "Mantan Web",
+      "count": 2
+    },
+    {
+      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -137,11 +145,7 @@
       "count": 2
     },
     {
-      "name": "eiga.com",
-      "count": 2
-    },
-    {
-      "name": "ABEMA TIMES",
+      "name": "times.abema.tv",
       "count": 2
     },
     {
@@ -173,7 +177,11 @@
       "count": 1
     },
     {
-      "name": "paymentnavi.com",
+      "name": "佐賀新聞",
+      "count": 1
+    },
+    {
+      "name": "ペイメントナビ",
       "count": 1
     },
     {
@@ -186,6 +194,10 @@
     },
     {
       "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "映画.com",
       "count": 1
     },
     {
@@ -249,10 +261,6 @@
       "count": 1
     },
     {
-      "name": "Mantan Web",
-      "count": 1
-    },
-    {
       "name": "GameWith",
       "count": 1
     },
@@ -284,10 +292,10 @@
       "summary": "",
       "url": "https://news.denfaminicogamer.jp/news/260925f",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/kv_01.png",
-      "leadSource": "news.denfaminicogamer.jp",
+      "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-09-25T00:13:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
+      "sourceCount": 6,
+      "articleCount": 7,
       "categories": [
         "anime",
         "goods"
@@ -306,6 +314,13 @@
           "isPR": false
         },
         {
+          "title": "ちいかわ＞テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/87a727fa89c396ea946688e7a50a1b3bffc6aa81?page",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-24T21:22:06.000Z",
+          "isPR": false
+        },
+        {
           "title": "TVアニメ『ちいかわ』10月からリバイバル放送が決定！ 地上波と配信で人気シリーズを楽しめる（クランクイン！）",
           "url": "https://news.yahoo.co.jp/articles/bf8ffe2c4175127635a6082ff69374bff4309a40",
           "source": "Yahoo!ニュース",
@@ -313,10 +328,10 @@
           "isPR": false
         },
         {
-          "title": "ちいかわ＞テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/87a727fa89c396ea946688e7a50a1b3bffc6aa81",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T21:00:00.000Z",
+          "title": "ちいかわ：テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送",
+          "url": "https://mantan-web.jp/article/20260924dog00m200063000a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-09-24T21:02:15.000Z",
           "isPR": false
         },
         {
@@ -331,56 +346,6 @@
           "url": "http://www.excite.co.jp/news/article/pashplus_EXCITE_496574/",
           "source": "Excite エキサイト",
           "publishedAt": "2026-09-24T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "cffacf0afbce",
-      "title": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』圧倒的な強さで首位キープ！『踊る大捜査線』最新作は2位発進！",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/8c50663aa07ea71bc4a43ec38081367a176fbe76",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00191709-crankinn-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T10:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 5,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "ランキング",
-        "映画",
-        "人魚"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」が1位キープ！新作は2位「踊る大捜査線」、3位「プリキュア」、5位「八つ墓村」【国内映画ランキング】 : 映画ニュース",
-          "url": "https://eiga.com/news/20260924/38/",
-          "source": "eiga.com",
-          "publishedAt": "2026-09-24T10:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画ちいかわ 人魚の島のひみつ＞興収165億円突破 1133万人動員 歴代興収ランキング15位に（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/a53f72ce0552c9b2b058ff5f6db6e4a46811497a",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T06:50:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』興収165.2億円突破 歴代ランキング15位（オリコン）",
-          "url": "https://news.yahoo.co.jp/articles/71770383fcae3394a5d3de6e908a9311f8a68cfe",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T06:43:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に",
-          "url": "https://times.abema.tv/articles/-/10274512",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-09-22T11:49:00.000Z",
           "isPR": false
         }
       ]
@@ -441,7 +406,7 @@
       "summary": "",
       "url": "https://www.sanyonews.jp/article/1992501?kw",
       "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/0/81e041e10c3e5a2c9bca2e86144ee253_1.jpg",
-      "leadSource": "sanyonews.jp",
+      "leadSource": "山陽新聞",
       "publishedAt": "2026-09-24T17:16:12.000Z",
       "sourceCount": 3,
       "articleCount": 4,
@@ -452,21 +417,21 @@
       "keywords": [
         "ネット",
         "衝撃",
-        "オリコン"
+        "市川美織"
       ],
       "articles": [
+        {
+          "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 3枚目",
+          "url": "https://www.oricon.co.jp/news/2482143/photo/3/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-09-24T06:59:14.000Z",
+          "isPR": false
+        },
         {
           "title": "市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」（オリコン）",
           "url": "https://news.yahoo.co.jp/articles/bcc8b28c2ad62132e363590cd4d581516dc00f9a",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-24T06:11:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 5枚目",
-          "url": "https://www.oricon.co.jp/news/2482143/photo/5/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-09-24T06:11:00.000Z",
           "isPR": false
         },
         {
@@ -543,8 +508,86 @@
         {
           "title": "アニメ『ちいかわ』ハチワレがついに“変貌”、パラレルワールド編の最新話が見逃し配信スタート",
           "url": "https://news.denfaminicogamer.jp/news/260922k",
-          "source": "news.denfaminicogamer.jp",
+          "source": "電ファミニコゲーマー",
           "publishedAt": "2026-09-22T05:23:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "cffacf0afbce",
+      "title": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』圧倒的な強さで首位キープ！『踊る大捜査線』最新作は2位発進！",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/8c50663aa07ea71bc4a43ec38081367a176fbe76",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00191709-crankinn-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "ランキング",
+        "映画",
+        "人魚"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ＞興収165億円突破 1133万人動員 歴代興収ランキング15位に（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/a53f72ce0552c9b2b058ff5f6db6e4a46811497a",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-24T06:50:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』興収165.2億円突破 歴代ランキング15位（オリコン）",
+          "url": "https://news.yahoo.co.jp/articles/71770383fcae3394a5d3de6e908a9311f8a68cfe",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-24T06:43:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に",
+          "url": "https://times.abema.tv/articles/-/10274512",
+          "source": "times.abema.tv",
+          "publishedAt": "2026-09-22T11:49:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "4ddba51de07e",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』表情豊かなイラスト描く「スケッチが上手」「かわいい！」 2枚目",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/news/2482092/photo/2/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482092/20260924_121937_p_o_85931249.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-09-24T23:05:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "イラスト",
+        "スケッチ",
+        "糸井重里"
+      ],
+      "articles": [
+        {
+          "title": "77歳・糸井重里『ちいかわ』表情豊かなイラスト描く「スケッチが上手」「かわいい！」",
+          "url": "https://www.oricon.co.jp/news/2482092/full/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-09-24T23:05:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【写真・画像】77歳・糸井重里『ちいかわ』表情豊かなイラスト描く「スケッチが上手」「かわいい！」 | | オリコンニュース",
+          "url": "https://www.saga-s.co.jp/articles/gallery/1797934?ph",
+          "source": "佐賀新聞",
+          "publishedAt": "2026-09-24T23:05:00.000Z",
           "isPR": false
         }
       ]
@@ -673,7 +716,7 @@
       "summary": "",
       "url": "https://paymentnavi.com/paymentnews/182774.html",
       "image": "https://paymentnavi.com/wp-content/uploads/2026/09/20260925waonpoint.png",
-      "leadSource": "paymentnavi.com",
+      "leadSource": "ペイメントナビ",
       "publishedAt": "2026-09-24T22:30:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -694,50 +737,22 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "709ebccc4ce2",
-      "title": "アニメ『ちいかわ』英語吹き替え版がYouTubeで配信へ! 海外勢「hachiwaresの英語の声を聞くのが楽しみ」「Una yahaは翻訳を必要としません」",
-      "summary": "",
-      "url": "https://news.mynavi.jp/article/20260924-5018834/",
-      "image": "https://news.mynavi.jp/article/20260924-5018834/ogp_images/ogp.png",
-      "leadSource": "マイナビニュース",
-      "publishedAt": "2026-09-24T01:43:07.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "youtube",
-        "アニメ",
-        "英語吹"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信",
-          "url": "https://news.denfaminicogamer.jp/news/260924f",
-          "source": "news.denfaminicogamer.jp",
-          "publishedAt": "2026-09-23T23:54:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T00:00:18.848Z",
-    "previousCount": 100,
-    "newCount": 2
+    "previousAt": "2026-09-25T00:30:16.097Z",
+    "previousCount": 94,
+    "newCount": 10
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T01:00:16.097Z",
+  "nextUpdateAt": "2026-09-25T01:30:16.411Z",
   "items": [
     {
       "id": "598225c4c2e7",
       "title": "アニメ『ちいかわ』の新作が一時休止、10月2日からはリバイバル放送へ。新作アニメの再開は2027年1月を予定",
       "url": "https://news.denfaminicogamer.jp/news/260925f",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-25T00:13:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/kv_01.png",
@@ -750,7 +765,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4065df5c7c9",
@@ -763,25 +778,6 @@
       "image": "https://www.inside-games.jp/imgs/rss/1779672.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "26da3437cd47",
-      "title": "「杏さんちの、ちいかわたち」 杏さんが公開した“家族”に反響 貴重なツーショットに「良いおかおしていますね」（Hint-Pot）",
-      "url": "https://news.yahoo.co.jp/articles/24f6a6d7b9b805df10721235f62517de07ec327c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-24T23:23:16.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00010003-hintpot-000-2-view.jpg?exp=10800",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -848,6 +844,25 @@
       "isNew": false
     },
     {
+      "id": "4ddba51de07e",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』表情豊かなイラスト描く「スケッチが上手」「かわいい！」 2枚目",
+      "url": "https://www.oricon.co.jp/news/2482092/photo/2/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-09-24T23:05:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482092/20260924_121937_p_o_85931249.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3207409045d4",
       "title": "77歳・糸井重里『ちいかわ』表情豊かなイラスト描く「スケッチが上手」「かわいい！」",
       "url": "https://www.oricon.co.jp/news/2482092/full/",
@@ -865,6 +880,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "468bae487e28",
+      "title": "【写真・画像】77歳・糸井重里『ちいかわ』表情豊かなイラスト描く「スケッチが上手」「かわいい！」 | | オリコンニュース",
+      "url": "https://www.saga-s.co.jp/articles/gallery/1797934?ph",
+      "host": "saga-s.co.jp",
+      "source": "佐賀新聞",
+      "summary": "",
+      "publishedAt": "2026-09-24T23:05:00.000Z",
+      "image": "https://saga.ismcdn.jp/mwimgs/7/a/1200m/img_7a9781f2c0da1fc9686edc1b64e9c01287084.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "90f2d36926b0",
@@ -929,7 +963,7 @@
       "title": "WAON POINTが「ちいかわ」とコラボ、LINE絵文字を無料配布（イオンマーケティング）",
       "url": "https://paymentnavi.com/paymentnews/182774.html",
       "host": "paymentnavi.com",
-      "source": "paymentnavi.com",
+      "source": "ペイメントナビ",
       "summary": "",
       "publishedAt": "2026-09-24T22:30:00.000Z",
       "image": "https://paymentnavi.com/wp-content/uploads/2026/09/20260925waonpoint.png",
@@ -1002,6 +1036,26 @@
       "isNew": false
     },
     {
+      "id": "9bedd663230e",
+      "title": "ちいかわ＞テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/87a727fa89c396ea946688e7a50a1b3bffc6aa81?page",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-24T21:22:06.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "bd0141bf8d38",
       "title": "TVアニメ『ちいかわ』10月からリバイバル放送が決定！ 地上波と配信で人気シリーズを楽しめる（クランクイン！）",
       "url": "https://news.yahoo.co.jp/articles/bf8ffe2c4175127635a6082ff69374bff4309a40",
@@ -1021,14 +1075,14 @@
       "isNew": false
     },
     {
-      "id": "9bedd663230e",
-      "title": "ちいかわ＞テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/87a727fa89c396ea946688e7a50a1b3bffc6aa81",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "01485ceb77e9",
+      "title": "ちいかわ：テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送",
+      "url": "https://mantan-web.jp/article/20260924dog00m200063000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
       "summary": "",
-      "publishedAt": "2026-09-24T21:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000004-mantan-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-09-24T21:02:15.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/24/20260924dog00m200063000a/001.jpg",
       "categories": [
         "anime",
         "goods"
@@ -1038,7 +1092,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "fe6e808c2998",
@@ -1125,7 +1179,7 @@
       "title": "『ちいかわ』折り紙で作った！ 77歳・糸井重里の投稿にネット衝撃「MOTHER2にいた気がする（幻）」",
       "url": "https://www.sanyonews.jp/article/1992501?kw",
       "host": "sanyonews.jp",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-09-24T17:16:12.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/0/81e041e10c3e5a2c9bca2e86144ee253_1.jpg",
@@ -1204,7 +1258,7 @@
       "title": "「画はかわいいね…内容はヘビーだけど」映画ちいかわ 人魚の島のひみつ azarashi0119さんの映画レビュー（感想・評価）",
       "url": "https://eiga.com/movie/105109/review/07015392/",
       "host": "eiga.com",
-      "source": "eiga.com",
+      "source": "映画.com",
       "summary": "",
       "publishedAt": "2026-09-24T13:50:45.000Z",
       "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
@@ -1236,6 +1290,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "649b704173f6",
+      "title": "【#コラボラジオ】映画ちいかわ感想会【出張版】 Paolo Bertolucci (8WfwDwEwNO)",
+      "url": "https://media.unisba.ac.id/e611cb83/af1cdba7AgykqM6oRPM",
+      "host": "media.unisba.ac.id",
+      "source": "media.unisba.ac.id",
+      "summary": "",
+      "publishedAt": "2026-09-24T12:48:11.000Z",
+      "image": "",
+      "categories": [
+        "collab",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "497fc2ae7c3f",
@@ -1336,31 +1410,30 @@
       "isNew": false
     },
     {
-      "id": "035113620cb6",
-      "title": "「ちいかわ」が1位キープ！新作は2位「踊る大捜査線」、3位「プリキュア」、5位「八つ墓村」【国内映画ランキング】 : 映画ニュース",
-      "url": "https://eiga.com/news/20260924/38/",
-      "host": "eiga.com",
-      "source": "eiga.com",
+      "id": "58182fd1011e",
+      "title": "ちいかわの関連画像",
+      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/821811",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
       "summary": "",
-      "publishedAt": "2026-09-24T10:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/129385/db3c12c053e7796c.jpg",
+      "publishedAt": "2026-09-24T09:46:16.000Z",
+      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
       "categories": [
-        "goods",
-        "anime"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "8dfc87f38e6f",
       "title": "『ちいぽけ』1.5周年記念でピーターパンイベント開催！ちいかわと交流できる「ふれあい」機能も実装",
       "url": "https://times.abema.tv/articles/-/10274821",
       "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "source": "times.abema.tv",
       "summary": "",
       "publishedAt": "2026-09-24T09:40:00.000Z",
       "image": "https://times-abema.ismcdn.jp/mwimgs/7/c/1200w/img_7cf4b572ba99bb9d75c9f14b9a7920fa836933.jpg",
@@ -1393,6 +1466,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2e5221b59fe8",
+      "title": "【ちいかわ】ちいかわ最新情報！！ちいかわハロウィングッズ今年も登場！！ちいかわらんどやちいかわマーケットで買える＾＾ Andrey Rublev (jY3e1RKEcO)",
+      "url": "https://media.unisba.ac.id/463f15f9/a597cef5T8rwayEa1rQ",
+      "host": "media.unisba.ac.id",
+      "source": "media.unisba.ac.id",
+      "summary": "",
+      "publishedAt": "2026-09-24T08:18:20.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d32ac7d43bc7",
@@ -1469,6 +1562,25 @@
       "series": [
         "kurimanju"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d01c42da8afe",
+      "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 3枚目",
+      "url": "https://www.oricon.co.jp/news/2482143/photo/3/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-09-24T06:59:14.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482143/20260907_101958_p_o_40830725.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1562,25 +1674,6 @@
       "summary": "",
       "publishedAt": "2026-09-24T06:11:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000423-oric-000-7-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d01c42da8afe",
-      "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 5枚目",
-      "url": "https://www.oricon.co.jp/news/2482143/photo/5/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-09-24T06:11:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482143/20250417_182257_p_o_28050679.jpg",
       "categories": [
         "goods"
       ],
@@ -1736,7 +1829,7 @@
       "title": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信",
       "url": "https://news.denfaminicogamer.jp/news/260924f",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-23T23:54:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/yt_ubU3yoL9I2s_maxresdefault.jpg",
@@ -1872,7 +1965,7 @@
       "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
       "url": "https://www.sanyonews.jp/article/1965008?kw",
       "host": "sanyonews.jp",
-      "source": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-09-23T17:54:17.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
@@ -1966,7 +2059,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4665ddbec418",
@@ -2067,6 +2160,46 @@
       "isNew": false
     },
     {
+      "id": "015e21fc2cc0",
+      "title": "『ちいかわ』第149話「パジャマパーティーズ」※1週間限定配信＜4/9 (火)AM7:59まで＞ Lewis Pullman (KihUblgnSR)",
+      "url": "https://media.unisba.ac.id/1325ec80/c86a739bKCE7IhFYJgYjFDM",
+      "host": "media.unisba.ac.id",
+      "source": "media.unisba.ac.id",
+      "summary": "",
+      "publishedAt": "2026-09-23T04:33:45.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3c735610bd7a",
+      "title": "【くつずれ】「映画 ちいかわ 人魚の島のひみつ」 ハチワレ/ オープニングテーマ 歌詞 Amal Clooney (tkOq1GmsJu)",
+      "url": "https://media.unisba.ac.id/f5fa100c/76d411d6ITAFCAViBSwdSzc",
+      "host": "media.unisba.ac.id",
+      "source": "media.unisba.ac.id",
+      "summary": "",
+      "publishedAt": "2026-09-23T03:33:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5cc206e2f8c0",
       "title": "【ちいかわ】キーホルダー感覚のスライド式コスメパレット登場！",
       "url": "https://animageplus.jp/articles/detail/67840",
@@ -2084,6 +2217,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f40ac4533762",
+      "title": "ガチクズ不正発覚でくら寿司×ちいかわがとんでもないことになってる Anxiety (oD7AmAmYEZ)",
+      "url": "https://media.unisba.ac.id/cd066176/1a99dc00JTEdPycdPCYCBDM",
+      "host": "media.unisba.ac.id",
+      "source": "media.unisba.ac.id",
+      "summary": "",
+      "publishedAt": "2026-09-23T03:31:45.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6496b710f2c3",
@@ -2397,7 +2549,7 @@
       "title": "「ぼくらの島二郎が150億の男になった！」『映画ちいかわ 人魚の島のひみつ』が興収158.4億突破で2026年のNo.1に",
       "url": "https://times.abema.tv/articles/-/10274512",
       "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "source": "times.abema.tv",
       "summary": "",
       "publishedAt": "2026-09-22T11:49:00.000Z",
       "image": "https://times-abema.ismcdn.jp/mwimgs/7/1/1200w/img_7103bfc7486a0c2fd80d9bffc573a7e04410796.jpg",
@@ -2429,6 +2581,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7f1c6fe9d87c",
+      "title": "【ちいかわ】食玩『チョコサプ ちいかわ2』が11月発売！ シークレット1種を含む全14種のフィギュアラインナップ一覧",
+      "url": "https://dengekionline.com/article/202609/88885",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-09-22T08:57:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/88885/ogp_hTSe.jpg?x=1280",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "70543fcea1ba",
@@ -2513,7 +2684,7 @@
       "title": "アニメ『ちいかわ』ハチワレがついに“変貌”、パラレルワールド編の最新話が見逃し配信スタート",
       "url": "https://news.denfaminicogamer.jp/news/260922k",
       "host": "news.denfaminicogamer.jp",
-      "source": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
       "summary": "",
       "publishedAt": "2026-09-22T05:23:00.000Z",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSykt84bYAArmE8.jpg",
