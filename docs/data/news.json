@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T07:00:16.655Z",
+  "updatedAt": "2026-09-25T07:30:17.676Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 114,
-  "todayCount": 52,
+  "todayCount": 53,
   "categories": [
     {
       "id": "goods",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 13
+      "count": 12
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 47
+      "count": 48
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 19
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "usagi",
@@ -89,16 +89,16 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
+      "name": "news.yahoo.co.jp",
       "count": 19
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 5
     },
     {
       "name": "オリコンニュース",
       "count": 5
+    },
+    {
+      "name": "電撃オンライン",
+      "count": 4
     },
     {
       "name": "インサイド",
@@ -107,6 +107,10 @@
     {
       "name": "fan.books.rakuten.co.jp",
       "count": 4
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 3
     },
     {
       "name": "コラボカフェ",
@@ -133,10 +137,6 @@
       "count": 3
     },
     {
-      "name": "山陽新聞",
-      "count": 3
-    },
-    {
       "name": "マイナビニュース",
       "count": 3
     },
@@ -149,6 +149,10 @@
       "count": 3
     },
     {
+      "name": "山陽新聞",
+      "count": 2
+    },
+    {
       "name": "めざましmedia",
       "count": 2
     },
@@ -157,11 +161,7 @@
       "count": 2
     },
     {
-      "name": "TRILL",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
+      "name": "trilltrill.jp",
       "count": 2
     },
     {
@@ -175,6 +175,14 @@
     {
       "name": "ニコニコニュース",
       "count": 2
+    },
+    {
+      "name": "ハフポスト",
+      "count": 1
+    },
+    {
+      "name": "スポニチ Sponichi Annex",
+      "count": 1
     },
     {
       "name": "いこーよニュース",
@@ -225,10 +233,6 @@
       "count": 1
     },
     {
-      "name": "TVガイドWeb",
-      "count": 1
-    },
-    {
       "name": "美ST ONLINE",
       "count": 1
     },
@@ -242,6 +246,10 @@
     },
     {
       "name": "千葉テレビ放送",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -293,10 +301,6 @@
       "count": 1
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 1
-    },
-    {
       "name": "jp.ajunews.com",
       "count": 1
     },
@@ -311,25 +315,32 @@
   ],
   "topics": [
     {
-      "id": "7dc91f5c2439",
-      "title": "アニメ『ちいかわ』10月から“なんとかバニア編”など人気回の再放送が決定。新作の放送再開は2027年1⽉を予定",
+      "id": "f40bce3009a7",
+      "title": "アニメ『ちいかわ』10月からリバイバル放送決定！地上波と配信で人気シリーズを一挙配信 | アニメニュース | アニメフリークス",
       "summary": "",
-      "url": "http://news.dengeki.com/article/202609/89124",
-      "image": "https://cimg.kgl-systems.io/camion/files/89124/ogp_tkMS.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-09-25T05:47:00.000Z",
-      "sourceCount": 10,
-      "articleCount": 10,
+      "url": "https://times.abema.tv/articles/-/10275061",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/b/b/1200w/img_bb239fa9b2bce61eed3eb44ab4cf15011527703.jpg",
+      "leadSource": "ABEMA TIMES",
+      "publishedAt": "2026-09-25T07:20:00.000Z",
+      "sourceCount": 14,
+      "articleCount": 16,
       "categories": [
         "anime",
-        "goods"
+        "collab"
       ],
       "keywords": [
+        "リバイバル",
         "放送",
-        "アニメ",
-        "リバイバル"
+        "アニメ"
       ],
       "articles": [
+        {
+          "title": "『ちいかわ』人気シリーズ回のリバイバル放送が決定 「めざましじゃんけん」にちいかわグッズが当たる新企画登場（CDJournal）",
+          "url": "https://news.yahoo.co.jp/articles/531511dc6c86e966ea521bf9554d186bff65c8dd",
+          "source": "news.yahoo.co.jp",
+          "publishedAt": "2026-09-25T04:08:21.000Z",
+          "isPR": false
+        },
         {
           "title": "アニメちいかわ リバイバル放送 10月2日より なんとかバニア編も!",
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-anime-news-revival-broadcast-2026/?amp",
@@ -345,6 +356,27 @@
           "isPR": false
         },
         {
+          "title": "人気アニメ「ちいかわ」10月からはリバイバル放送し新作は来年1月再開 『めざましテレビ』伊藤利尋アナは「しゃべる木」に興味津々（中日スポーツ）",
+          "url": "https://news.yahoo.co.jp/articles/5d6578b67103ece75c0b760e4fe0e1f54ca6082d",
+          "source": "news.yahoo.co.jp",
+          "publishedAt": "2026-09-25T03:20:29.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「１０月２日から反響の大きかったお話をお届けするリバイバル放送を実施」…アニメ「ちいかわ」…「めざましテレビ」井上清華アナが告知",
+          "url": "https://hochi.news/articles/20260925-OHT1T51094.html",
+          "source": "スポーツ報知",
+          "publishedAt": "2026-09-25T03:16:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【実際の投稿】人気アニメ「ちいかわ」10月からはリバイバル放送",
+          "url": "https://www.chunichi.co.jp/article/1316091",
+          "source": "中日新聞Web",
+          "publishedAt": "2026-09-25T03:09:55.000Z",
+          "isPR": false
+        },
+        {
           "title": "『ちいかわ』10/2～12/25 リバイバル放送決定",
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
@@ -356,34 +388,6 @@
           "url": "https://news.mynavi.jp/article/20260925-5023996/",
           "source": "マイナビニュース",
           "publishedAt": "2026-09-25T01:02:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『ちいかわ』の新作が一時休止、10月2日からはリバイバル放送へ。新作アニメの再開は2027年1月を予定",
-          "url": "https://news.denfaminicogamer.jp/news/260925f",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-09-25T00:13:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ「ちいかわ」新作を一時休止、リバイバル放送へ",
-          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNbktMblk3TjJFOHBLVk9YcHhSelZmLTVxcVd5bXZlVnlVcWE4WnlzbnozYWViaGNOX1NzUjlqUm1qellJcmJlQ2hvakxCS2FKYXBBY0dpelJ6M2xzeVhlSFZ4YTNJanJyR1pzM0lUWFl1eks4LVBJSGFZbXRDaHZVdmtBeVVNTHRleVBYMnJVbU1lakxZblhWd3hfZFByMENyeU1PSXdkSUtVbUVlV0NqdHNuMXNXc1FfV3puQzhFTG5hb3dkeDMwOU9LS2lHdjN4MEN4Z29BeHMxVzZpQzliUFJsUThFbWZ2bWs5TE4wSUY0MTMwbG1EVDZhX1FUQTRyVmdwMnJiSjRzRmN5NU5aWXc1dW9kdzZLWUZSYzhMeTRaaThuM0RfdU5YREQzV1NIRlY5YzE2c1Bfemx2bEZaR0UwWDBUSXhkYjBKNGRBeEF3WmNXdW93NDJubldoUjBHWGFHbHN2Y050dzd2alJvUHRVQUVjVEwtVWVrWkRRNS1Uc0taZkNOT0c3N2N1WTBKQkx0STk5dw?oc=5",
-          "source": "SmartNews",
-          "publishedAt": "2026-09-24T22:29:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
-          "url": "https://www.oricon.co.jp/news/2482254/full/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-09-24T21:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ「ちいかわ」新作放送を一時休止しリバイバル放送へ、「なんとかバニア」編再び",
-          "url": "https://natalie.mu/comic/news/690852",
-          "source": "ナタリー",
-          "publishedAt": "2026-09-24T21:00:00.000Z",
           "isPR": false
         }
       ]
@@ -446,63 +450,6 @@
       ]
     },
     {
-      "id": "654c5cd7bf03",
-      "title": "『ちいかわ』人気シリーズ回のリバイバル放送が決定 「めざましじゃんけん」にちいかわグッズが当たる新企画登場（CDJournal）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/531511dc6c86e966ea521bf9554d186bff65c8dd",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000029-cdj-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-09-25T04:08:21.000Z",
-      "sourceCount": 4,
-      "articleCount": 6,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "リバイバル",
-        "放送",
-        "人気"
-      ],
-      "articles": [
-        {
-          "title": "人気アニメ「ちいかわ」10月からはリバイバル放送し新作は来年1月再開 『めざましテレビ』伊藤利尋アナは「しゃべる木」に興味津々（中日スポーツ）",
-          "url": "https://news.yahoo.co.jp/articles/5d6578b67103ece75c0b760e4fe0e1f54ca6082d",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-25T03:20:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「１０月２日から反響の大きかったお話をお届けするリバイバル放送を実施」…アニメ「ちいかわ」…「めざましテレビ」井上清華アナが告知",
-          "url": "https://hochi.news/articles/20260925-OHT1T51094.html",
-          "source": "スポーツ報知",
-          "publishedAt": "2026-09-25T03:16:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【実際の投稿】人気アニメ「ちいかわ」10月からはリバイバル放送",
-          "url": "https://www.chunichi.co.jp/article/1316091",
-          "source": "中日新聞Web",
-          "publishedAt": "2026-09-25T03:09:55.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ：テレビアニメ 10月から新作放送一時休止 人気エピソードをリバイバル放送",
-          "url": "https://mantan-web.jp/article/20260924dog00m200063000a.html",
-          "source": "Mantan Web",
-          "publishedAt": "2026-09-24T21:02:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ『ちいかわ』10月からリバイバル放送が決定！ 地上波と配信で人気シリーズを楽しめる (クランクイン！)",
-          "url": "https://news.yahoo.co.jp/articles/bf8ffe2c4175127635a6082ff69374bff4309a40/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "cffacf0afbce",
       "title": "【映画ランキング】『映画ちいかわ 人魚の島のひみつ』圧倒的な強さで首位キープ！『踊る大捜査線』最新作は2位発進！",
       "summary": "",
@@ -525,7 +472,7 @@
         {
           "title": "映画ちいかわ 人魚の島のひみつ＞興収165億円突破 1133万人動員 歴代興収ランキング15位に（MANTANWEB）",
           "url": "https://news.yahoo.co.jp/articles/a53f72ce0552c9b2b058ff5f6db6e4a46811497a",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-24T06:50:00.000Z",
           "isPR": false
         },
@@ -541,49 +488,6 @@
           "url": "https://times.abema.tv/articles/-/10274512",
           "source": "ABEMA TIMES",
           "publishedAt": "2026-09-22T11:49:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "b649026904d4",
-      "title": "『ちいかわ』折り紙で作った！ 77歳・糸井重里の投稿にネット衝撃「MOTHER2にいた気がする（幻）」",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1992501?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/0/81e041e10c3e5a2c9bca2e86144ee253_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-09-24T17:16:12.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "ネット",
-        "衝撃",
-        "オリコン"
-      ],
-      "articles": [
-        {
-          "title": "市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」（オリコン）",
-          "url": "https://news.yahoo.co.jp/articles/bcc8b28c2ad62132e363590cd4d581516dc00f9a",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T06:11:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 5枚目",
-          "url": "https://www.oricon.co.jp/news/2482143/photo/5/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-09-24T06:11:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』くりまんじゅうだらけ！くじにネット衝撃「ポシェットほしすぎる」（オリコン）",
-          "url": "https://news.yahoo.co.jp/articles/1ccb4a60c72f27e7eae412da6fd4ee1341cd46cb",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T02:55:00.000Z",
           "isPR": false
         }
       ]
@@ -702,7 +606,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/7731e3d09275f99bcbda948fae3c22930a763f8b/images/000",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgF3vBK3GcbOVeHN0DQkqvVMYQQvuhckwm6YeLNKLOOUAQbx7kJuMBnqDEeVp6daGrXYqb_llDsNAfuuIYVOmkb-0YBw5lC_x1uYbh5B_mxgE",
-      "leadSource": "Yahoo!ニュース",
+      "leadSource": "news.yahoo.co.jp",
       "publishedAt": "2026-09-23T23:14:54.000Z",
       "sourceCount": 2,
       "articleCount": 4,
@@ -719,7 +623,7 @@
         {
           "title": "くら寿司が回答》ちいかわコラボ中止で消えた「幻のグッズ」企業が明かした枚数と“行方”（週刊女性PRIME",
           "url": "https://news.yahoo.co.jp/articles/7731e3d09275f99bcbda948fae3c22930a763f8b",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-23T23:00:35.000Z",
           "isPR": false
         },
@@ -735,6 +639,42 @@
           "url": "https://www.jprime.jp/articles/photo/43707",
           "source": "週刊女性PRIME",
           "publishedAt": "2026-09-23T23:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f7c95ec32a28",
+      "title": "市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」（オリコン）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/bcc8b28c2ad62132e363590cd4d581516dc00f9a",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000423-oric-000-8-view.jpg?exp=10800",
+      "leadSource": "news.yahoo.co.jp",
+      "publishedAt": "2026-09-24T06:11:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "keywords": [
+        "ネット",
+        "衝撃",
+        "オリコン"
+      ],
+      "articles": [
+        {
+          "title": "画像・写真 | 市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」 5枚目",
+          "url": "https://www.oricon.co.jp/news/2482143/photo/5/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-09-24T06:11:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』くりまんじゅうだらけ！くじにネット衝撃「ポシェットほしすぎる」（オリコン）",
+          "url": "https://news.yahoo.co.jp/articles/1ccb4a60c72f27e7eae412da6fd4ee1341cd46cb",
+          "source": "news.yahoo.co.jp",
+          "publishedAt": "2026-09-24T02:55:00.000Z",
           "isPR": false
         }
       ]
@@ -821,27 +761,96 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "709ebccc4ce2",
+      "title": "アニメ『ちいかわ』英語吹き替え版がYouTubeで配信へ! 海外勢「hachiwaresの英語の声を聞くのが楽しみ」「Una yahaは翻訳を必要としません」",
+      "summary": "",
+      "url": "https://news.mynavi.jp/article/20260924-5018834/",
+      "image": "https://news.mynavi.jp/article/20260924-5018834/ogp_images/ogp.png",
+      "leadSource": "マイナビニュース",
+      "publishedAt": "2026-09-24T01:43:07.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "youtube",
+        "アニメ",
+        "英語吹"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『ちいかわ』さらに世界へ！！海外向け公式YouTubeチャンネルが始動、“英語吹き替え版”が配信",
+          "url": "https://news.denfaminicogamer.jp/news/260924f",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-09-23T23:54:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-25T06:30:17.509Z",
-    "previousCount": 112,
-    "newCount": 8
+    "previousAt": "2026-09-25T07:00:16.655Z",
+    "previousCount": 114,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-25T07:30:16.655Z",
+  "nextUpdateAt": "2026-09-25T08:00:17.676Z",
   "items": [
     {
-      "id": "fa720a4fd584",
-      "title": "フジ社長「ちいかわ」大絶賛 大ヒットに感謝 原作者ナガノ氏は「本当に天才」（スポニチアネックス）",
-      "url": "https://news.yahoo.co.jp/articles/6b240d6710e8e5f1779992280c09cbf0275a0bbb",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "f40bce3009a7",
+      "title": "アニメ『ちいかわ』10月からリバイバル放送決定！地上波と配信で人気シリーズを一挙配信 | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10275061",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
       "summary": "",
-      "publishedAt": "2026-09-25T06:53:49.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000279-spnannex-000-2-view.jpg?exp=10800",
+      "publishedAt": "2026-09-25T07:20:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/b/b/1200w/img_bb239fa9b2bce61eed3eb44ab4cf15011527703.jpg",
+      "categories": [
+        "anime",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "95b62ce749bf",
+      "title": "ちいかわから「ヤダーッ」拒絶されたハチワレの悲痛な一言に涙。ナガノさんの“デカワレ”新イラストに考察続出",
+      "url": "https://www.huffingtonpost.jp/entry/story_jp_6ab5ea5fe4b075a3d28530ec?origin",
+      "host": "huffingtonpost.jp",
+      "source": "ハフポスト",
+      "summary": "",
+      "publishedAt": "2026-09-25T07:02:28.000Z",
+      "image": "",
       "categories": [
         "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3ed2b9f75583",
+      "title": "フジテレビ清水社長、映画「ちいかわ」「踊る」好調に感謝「皆さまにご支援いただいたものの成果」（日刊スポーツ）",
+      "url": "https://news.yahoo.co.jp/articles/6c87655663a1fc839b17408cf3eb2cb9930bfa7b",
+      "host": "news.yahoo.co.jp",
+      "source": "news.yahoo.co.jp",
+      "summary": "",
+      "publishedAt": "2026-09-25T06:54:29.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-39250928-nksports-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -855,10 +864,29 @@
       "title": "フジ社長 絶好調の映画「ちいかわ」「踊る」に言及 ちいかわは今年トップの興収「極めていいヒット」（スポニチアネックス）",
       "url": "https://news.yahoo.co.jp/articles/5f51a354f850132fe460bc97a8c06060cffdd26e",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T06:53:23.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000276-spnannex-000-2-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3223f47e43f0",
+      "title": "フジ社長「ちいかわ」大絶賛 大ヒットに感謝 原作者ナガノ氏は「本当に天才」アニメ化で「少し貢献が」",
+      "url": "https://www.sponichi.co.jp/entertainment/news/2026/09/25/kiji/20260925s00041000243000c.html",
+      "host": "sponichi.co.jp",
+      "source": "スポニチ Sponichi Annex",
+      "summary": "",
+      "publishedAt": "2026-09-25T06:52:00.000Z",
+      "image": "https://www.sponichi.co.jp/entertainment/news/2026/09/23/jpeg/20260923s10041000532000p_view.webp",
       "categories": [
         "anime"
       ],
@@ -887,7 +915,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7dc91f5c2439",
@@ -952,7 +980,7 @@
       "title": "『ちいかわ』人気シリーズ回のリバイバル放送が決定 「めざましじゃんけん」にちいかわグッズが当たる新企画登場（CDJournal）",
       "url": "https://news.yahoo.co.jp/articles/531511dc6c86e966ea521bf9554d186bff65c8dd",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T04:08:21.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000029-cdj-000-1-view.jpg?exp=10800",
@@ -1070,7 +1098,7 @@
       "title": "人気アニメ「ちいかわ」10月からはリバイバル放送し新作は来年1月再開 『めざましテレビ』伊藤利尋アナは「しゃべる木」に興味津々（中日スポーツ）",
       "url": "https://news.yahoo.co.jp/articles/5d6578b67103ece75c0b760e4fe0e1f54ca6082d",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T03:20:29.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000049-chuspo-000-1-view.jpg?exp=10800",
@@ -1180,7 +1208,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "be95ffec97b4",
@@ -1225,7 +1253,7 @@
       "title": "実は死と隣り合わせ…『ちいかわ』衝撃の“過酷エピソード”（2）ちいかわ世界にギャグ漫画のお約束は通じない？（映画チャンネル）",
       "url": "https://news.yahoo.co.jp/articles/357cc5d26adf70dde7df729b263923aa903593d6",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T02:51:56.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00010007-eigach-000-1-view.jpg?exp=10800",
@@ -1367,7 +1395,7 @@
       "title": "「ちいかわ」の牙城は崩せず「踊る」初登場1位ならず…14年ぶり新作、内容の賛否を考えると順当？ #エキスパートトピ",
       "url": "https://news.yahoo.co.jp/expert/articles/7283d275fc10399f7639a792acdd8419ce9b9d69",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T01:15:38.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/saitohiroaki/02728163/title-1790298067172.jpeg?exp=10800",
@@ -1656,7 +1684,7 @@
       "title": "『ちいかわ』にオリオンビールCM曲登場。ナガノさんと沖縄の意外なつながりとは？（ハフポスト日本版）",
       "url": "https://news.yahoo.co.jp/articles/a976658a4fd32dcced76b2818fd31dbdb504e6d7",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T21:50:46.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00010004-huffpost-000-1-view.jpg?exp=10800",
@@ -1755,7 +1783,7 @@
       "title": "TVアニメ『ちいかわ』10月からリバイバル放送が決定！ 地上波と配信で人気シリーズを楽しめる (クランクイン！)",
       "url": "https://news.yahoo.co.jp/articles/bf8ffe2c4175127635a6082ff69374bff4309a40/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T21:00:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgNl_iagNyV1fhI-rCQ_ld6lWdbIxEATrA9CURMXJHMvySVXsRp8z_Y6IKb92nMkPB8tpP7DQaNveI8b2G2qrCe1RG5yUYmQc2Umtz_6dsU7XkTxGLL7CRh8cjUjL5B47BA==",
@@ -1770,25 +1798,6 @@
       "isNew": false
     },
     {
-      "id": "222d169f5ecf",
-      "title": "【第337話】ちいかわ 337話 生えた／チャーハン",
-      "url": "https://www.tvguide.or.jp/db/anime/chiikawa/season1/episode337/",
-      "host": "tvguide.or.jp",
-      "source": "TVガイドWeb",
-      "summary": "",
-      "publishedAt": "2026-09-24T20:01:43.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "2275509d4526",
       "title": "旅行で大活躍なかわいいアイテムが勢ぞろい♪粧美堂から、旅行に持っていきたい「ちいかわ トラベルシリーズ第2弾」が登場！",
       "url": "https://be-story.jp/prtimes/286638/",
@@ -1797,25 +1806,6 @@
       "summary": "",
       "publishedAt": "2026-09-24T17:51:12.000Z",
       "image": "https://prtimes.jp/img/57928/429/origin/d57928-429-2ecb2f8bc7701ef2eb7b-0.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b649026904d4",
-      "title": "『ちいかわ』折り紙で作った！ 77歳・糸井重里の投稿にネット衝撃「MOTHER2にいた気がする（幻）」",
-      "url": "https://www.sanyonews.jp/article/1992501?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-09-24T17:16:12.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/0/81e041e10c3e5a2c9bca2e86144ee253_1.jpg",
       "categories": [
         "other"
       ],
@@ -1851,7 +1841,7 @@
       "title": "「いつもと違くない？」１年半前、『ちいかわ』人気キャラに起きた“まさかの変化”→「びっくり」相次いだ反響",
       "url": "https://trilltrill.jp/articles/4977463",
       "host": "trilltrill.jp",
-      "source": "TRILL",
+      "source": "trilltrill.jp",
       "summary": "",
       "publishedAt": "2026-09-24T14:35:00.000Z",
       "image": "https://media.trilltrill.jp/articles/4977463/thumbnail-image.c9a725fb1b558978eda9d583758261fd?w=1200",
@@ -1985,12 +1975,12 @@
     {
       "id": "8dfc87f38e6f",
       "title": "『ちいぽけ』1.5周年記念でピーターパンイベント開催！ちいかわと交流できる「ふれあい」機能も実装",
-      "url": "https://news.infoseek.co.jp/amp/article/abematimes_10274821/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://times.abema.tv/articles/-/10274821",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
       "summary": "",
       "publishedAt": "2026-09-24T09:40:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10274821_0-enlarge.jpg",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/7/c/1200w/img_7cf4b572ba99bb9d75c9f14b9a7920fa836933.jpg",
       "categories": [
         "event",
         "collab"
@@ -2065,7 +2055,7 @@
       "title": "「ちいかわパーク」ハロウィーン企画、9月25日から！限定グリーティングやグッズが登場（cinemacafe.net）",
       "url": "https://news.yahoo.co.jp/articles/5a4d072ccd6d138b6e7049389c21730026fa19f0",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T07:30:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000009-cine-000-1-view.jpg?exp=10800",
@@ -2105,7 +2095,7 @@
       "title": "映画ちいかわ 人魚の島のひみつ＞興収165億円突破 1133万人動員 歴代興収ランキング15位に（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/a53f72ce0552c9b2b058ff5f6db6e4a46811497a",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T06:50:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000043-mantan-000-1-view.jpg?exp=10800",
@@ -2183,7 +2173,7 @@
       "title": "市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/bcc8b28c2ad62132e363590cd4d581516dc00f9a",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T06:11:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000423-oric-000-8-view.jpg?exp=10800",
@@ -2214,7 +2204,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9e537612bf2c",
@@ -2281,7 +2271,7 @@
       "title": "ちいかわパーク初のハロウィーン!9月25日からオリジナルグッズや限定グリーティングが登場 数量限定!おばけやカボチャをモチーフにしたかわいい限定グッズ（めざましmedia）",
       "url": "https://news.yahoo.co.jp/articles/bae7dcd7f61f1593f0ad56e305efcc4f15c48564",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T03:59:21.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00350443-fujitv-000-1-view.jpg?exp=10800",
@@ -2301,7 +2291,7 @@
       "title": "『ちいかわ』くりまんじゅうだらけ！くじにネット衝撃「ポシェットほしすぎる」（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/1ccb4a60c72f27e7eae412da6fd4ee1341cd46cb",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-24T02:55:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000355-oric-000-1-view.jpg?exp=10800",
@@ -2360,7 +2350,7 @@
       "title": "《くら寿司が回答》ちいかわコラボ中止で消えた「幻のグッズ」企業が明かした枚数と“行方” (週刊女性PRIME)",
       "url": "https://news.yahoo.co.jp/articles/7731e3d09275f99bcbda948fae3c22930a763f8b/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-23T23:14:54.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgF3vBK3GcbOVeHN0DQkqvVMYQQvuhckwm6YeLNKLOOUAQbx7kJuMBnqDEeVp6daGrXYqb_llDsNAfuuIYVOmkb-0YBw5lC_x1uYbh5B_mxgE",
@@ -2380,7 +2370,7 @@
       "title": "仮装した姿に出会える！ 【ちいかわパーク】「ハロウィーン限定企画」が9/25より開催。おばけモチーフのグッズなど数量限定オリジナル商品も展開（朝日新聞デジタルマガジン＆［and］）",
       "url": "https://news.yahoo.co.jp/articles/a446d403682864f851a71d9a9434e5e4c1c053a8",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-23T23:10:32.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-11790204-asahiand-000-1-view.jpg?exp=10800",
@@ -2400,7 +2390,7 @@
       "title": "くら寿司が回答》ちいかわコラボ中止で消えた「幻のグッズ」企業が明かした枚数と“行方”（週刊女性PRIME",
       "url": "https://news.yahoo.co.jp/articles/7731e3d09275f99bcbda948fae3c22930a763f8b",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-23T23:00:35.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00043707-jprime-000-1-view.jpg?exp=10800",
@@ -2780,7 +2770,7 @@
       "title": "「ちいかわ」くりまんじゅうだらけのオンラインくじが9/24(木)発売！ 【ハズレなし】かわいすぎる全11種がラインアップ",
       "url": "https://news.yahoo.co.jp/articles/b9f26e0767f6ccafb9ccdb2d5e39848cbbd5e249",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-23T00:10:53.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-11789819-asahiand-000-1-view.jpg?exp=10800",
@@ -2820,7 +2810,7 @@
       "title": "「ちいかわ」2026ハロウィンデザインが「Talking ODM」に期間限定で追加！えだまめくりまんじゅうなど全6種（インサイド）",
       "url": "https://news.yahoo.co.jp/articles/bfa235b15316faeeed3119cc1eab3743093e1cd9",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-22T22:20:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000006-isd-000-1-view.jpg?exp=10800",
@@ -2862,7 +2852,7 @@
       "title": "2位『ハチワレ』3位『くりまんじゅう』300名が選ぶ【『ちいかわ』で一番面白いキャラ】1位に「味わい深い面白いキャラクター」",
       "url": "https://trilltrill.jp/articles/5013810",
       "host": "trilltrill.jp",
-      "source": "TRILL",
+      "source": "trilltrill.jp",
       "summary": "",
       "publishedAt": "2026-09-22T15:35:00.000Z",
       "image": "https://media.trilltrill.jp/articles/5013810/cover-image.0f2bba9aa16a4e683cc67127a46efb41?w=1200",
@@ -2884,7 +2874,7 @@
       "title": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」に、島二郎や捕まったラッコたちなど全16種が収録",
       "url": "https://news.yahoo.co.jp/articles/aa32e7c5f8cbc21e1db9a1deaa5b0b006c8cc8a3",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-22T15:10:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000001-isd-000-1-view.jpg?exp=10800",
@@ -3056,27 +3046,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "ebf0138ad897",
-      "title": "映画『ちいかわ 人魚の島のひみつ』キャラ人気投票を開催。映画で好きなキャラ、活躍したキャラは誰だった？ 映画で1番好きな推しを教えて！",
-      "url": "https://dengekionline.com/article/202609/88829",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-09-22T07:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/88829/ogp_yCKJ.jpg?x=1280",
-      "categories": [
-        "event",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
