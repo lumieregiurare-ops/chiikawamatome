@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T01:30:15.583Z",
+  "updatedAt": "2026-09-26T01:55:46.551Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 112,
-  "todayCount": 14,
+  "total": 115,
+  "todayCount": 17,
   "categories": [
     {
       "id": "goods",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 22
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "momonga",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 24
+      "count": 26
     },
     {
       "name": "インサイド",
-      "count": 8
+      "count": 7
     },
     {
       "name": "推し楽",
@@ -107,6 +107,10 @@
     {
       "name": "コラボカフェ",
       "count": 4
+    },
+    {
+      "name": "めざましmedia",
+      "count": 3
     },
     {
       "name": "PASH! PLUS",
@@ -125,15 +129,15 @@
       "count": 3
     },
     {
-      "name": "めざましmedia",
-      "count": 2
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 2
     },
     {
       "name": "Digital PR Platform",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -165,7 +169,7 @@
       "count": 1
     },
     {
-      "name": "nishinippon.co.jp",
+      "name": "西日本新聞me",
       "count": 1
     },
     {
@@ -221,7 +225,7 @@
       "count": 1
     },
     {
-      "name": "chunichi.co.jp",
+      "name": "中日新聞Web",
       "count": 1
     },
     {
@@ -265,7 +269,7 @@
       "count": 1
     },
     {
-      "name": "trilltrill.jp",
+      "name": "TRILL",
       "count": 1
     },
     {
@@ -274,10 +278,6 @@
     },
     {
       "name": "やさしい朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -382,7 +382,7 @@
         {
           "title": "【実際の投稿】人気アニメ「ちいかわ」10月からはリバイバル放送",
           "url": "https://www.chunichi.co.jp/article/1316091",
-          "source": "chunichi.co.jp",
+          "source": "中日新聞Web",
           "publishedAt": "2026-09-25T03:09:55.000Z",
           "isPR": false
         }
@@ -434,6 +434,48 @@
           "url": "https://dengekionline.com/article/202609/89070",
           "source": "電撃オンライン",
           "publishedAt": "2026-09-24T10:59:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "cef6e197e843",
+      "title": "「ちいかわパーク」ハロウィーン企画、9月25日から！限定グリーティングやグッズが登場（cinemacafe.net）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/5a4d072ccd6d138b6e7049389c21730026fa19f0",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000009-cine-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-09-24T07:30:03.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "cinemacafe",
+        "net",
+        "パーク"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ「なにがでるかな？シールコレクション」発売、封筒入りで全50種（cinemacafe.net）",
+          "url": "https://news.yahoo.co.jp/articles/171f36547bc5de118b9fd9cca3047257916a44e7",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-24T04:30:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ「なにがでるかな？シールコレクション」発売、封筒入りで全50種",
+          "url": "https://www.cinemacafe.net/article/2026/09/24/112816.html",
+          "source": "cinemacafe.net",
+          "publishedAt": "2026-09-24T04:30:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわパーク初のハロウィーン！9月25日からオリジナルグッズや限定グリーティングが登場 数量限定！おばけやカボチャをモチーフにしたかわいい限定グッズ",
+          "url": "https://mezamashi.media/articles/-/350443",
+          "source": "めざましmedia",
+          "publishedAt": "2026-09-24T03:58:00.000Z",
           "isPR": false
         }
       ]
@@ -510,44 +552,36 @@
       ]
     },
     {
-      "id": "cef6e197e843",
-      "title": "「ちいかわパーク」ハロウィーン企画、9月25日から！限定グリーティングやグッズが登場（cinemacafe.net）",
+      "id": "2395854791ca",
+      "title": "「ボンボンドロップシール」ちいかわの新作が発売！寿司モチーフや“Chiikawa Baby”など全3種",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/5a4d072ccd6d138b6e7049389c21730026fa19f0",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000009-cine-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-09-24T07:30:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 4,
+      "url": "https://www.inside-games.jp/article/2026/09/25/188212.html",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1779405.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-09-24T15:10:03.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "goods",
-        "anime"
+        "goods"
       ],
       "keywords": [
-        "cinemacafe",
-        "net",
-        "パーク"
+        "ボンボンドロップシール",
+        "モチーフ",
+        "baby"
       ],
       "articles": [
         {
-          "title": "ちいかわ「なにがでるかな？シールコレクション」発売、封筒入りで全50種（cinemacafe.net）",
-          "url": "https://news.yahoo.co.jp/articles/171f36547bc5de118b9fd9cca3047257916a44e7",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T04:30:04.000Z",
+          "title": "【明日から】ちいかわ「ボンボンドロップシール」全3種！おすしモチーフなど、ぷっくりかわいい",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01T1BlV1F2bVp1YjljM2RFRDRhTHo5Z2dHYjY3RC1ucFFDWkFTU0hjVmRzYkJJNWRsX1Z4SW5XTG5MMFI0bEZvWGhfTzREQmZUVU1PdkhDOW1GSW92VXhXMmxCY3BpbU90Vzk2WG93cFpOT0RTZ2FDeWZB0gF6QVVfeXFMTTVPUGVXUXZtWnViOWMzZEVENGFMejlnZ0diNjdELW5wUUNaQVNTSGNWZHNiQkk1ZGxfVnhJbldMbkwwUjRsRm9YaF9PNERCZlRVTU92SEM5bUZJb3ZVeFcybEJjcGltT3RXOTZYb3dwWk5PRFNnYUN5ZkE?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-09-24T10:45:00.000Z",
           "isPR": false
         },
         {
-          "title": "ちいかわ「なにがでるかな？シールコレクション」発売、封筒入りで全50種",
-          "url": "https://www.cinemacafe.net/article/2026/09/24/112816.html",
-          "source": "cinemacafe.net",
-          "publishedAt": "2026-09-24T04:30:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわパーク初のハロウィーン!9月25日からオリジナルグッズや限定グリーティングが登場 数量限定!おばけやカボチャをモチーフにしたかわいい限定グッズ（めざましmedia）",
-          "url": "https://news.yahoo.co.jp/articles/bae7dcd7f61f1593f0ad56e305efcc4f15c48564",
+          "title": "ちいかわの新作「ボンボンドロップシール」が9月25日発売！寿司モチーフや“Chiikawa Baby”など全3種（インサイド）",
+          "url": "https://news.yahoo.co.jp/articles/90ee31462883dfae86dfae86a79c53448c84e2c7",
           "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-24T03:59:21.000Z",
+          "publishedAt": "2026-09-23T03:15:02.000Z",
           "isPR": false
         }
       ]
@@ -636,7 +670,7 @@
       "title": "WAON POINT、「ちいかわ」とコラボしたLINE絵文字を無料配布",
       "summary": "",
       "url": "https://digitalpr.jp/r_detail.php?release_id",
-      "image": "https://digitalpr.jp/simg/3183/143894/715_400_202609171327486aab6c442e077.png",
+      "image": "https://paymentnavi.com/wp-content/uploads/2026/09/20260925waonpoint.png",
       "leadSource": "Digital PR Platform",
       "publishedAt": "2026-09-25T03:41:48.000Z",
       "sourceCount": 2,
@@ -667,36 +701,28 @@
       ]
     },
     {
-      "id": "2395854791ca",
-      "title": "「ボンボンドロップシール」ちいかわの新作が発売！寿司モチーフや“Chiikawa Baby”など全3種",
-      "summary": "",
-      "url": "https://www.inside-games.jp/article/2026/09/25/188212.html",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1779405.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-09-24T15:10:03.000Z",
+      "id": "e095cc9f05e9",
+      "title": "ちいかわ＆ハチワレ＆うさぎのスペシャルデザインも新たにラインナップ！『ちいかわ』のキャラパキがリニューアル！",
+      "summary": "チョコレートデザインとパッケージをリニューアルした『ちいかわ』のキャラパキが登場！チョコの形にはちいかわ＆ハチワレ＆うさぎのスペシャルデザインがラインナップ！ #ちいかわ",
+      "url": "https://hobby.dengeki.com/news/3165042/",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/09/000000489102W1y9eZpFtmNsKb59r8pvRtUTg4ooqFku6n0B_lbnSKvnCBJEdyxAJbIsEPqJ48_kyjOLY_DDBr5vWHWL7Cd2fzU57ufETnBnQ0B7GM.jpg",
+      "leadSource": "電撃ホビーウェブ",
+      "publishedAt": "2026-09-25T23:00:00.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
-        "goods"
+        "other"
       ],
       "keywords": [
-        "ボンボンドロップシール",
-        "モチーフ",
-        "baby"
+        "ハチワレ",
+        "うさぎ"
       ],
       "articles": [
         {
-          "title": "【明日から】ちいかわ「ボンボンドロップシール」全3種！おすしモチーフなど、ぷっくりかわいい",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01T1BlV1F2bVp1YjljM2RFRDRhTHo5Z2dHYjY3RC1ucFFDWkFTU0hjVmRzYkJJNWRsX1Z4SW5XTG5MMFI0bEZvWGhfTzREQmZUVU1PdkhDOW1GSW92VXhXMmxCY3BpbU90Vzk2WG93cFpOT0RTZ2FDeWZB0gF6QVVfeXFMTTVPUGVXUXZtWnViOWMzZEVENGFMejlnZ0diNjdELW5wUUNaQVNTSGNWZHNiQkk1ZGxfVnhJbldMbkwwUjRsRm9YaF9PNERCZlRVTU92SEM5bUZJb3ZVeFcybEJjcGltT3RXOTZYb3dwWk5PRFNnYUN5ZkE?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-09-24T10:45:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわの新作「ボンボンドロップシール」が9月25日発売！寿司モチーフや“Chiikawa Baby”など全3種",
-          "url": "https://s.inside-games.jp/article/2026/09/23/188150.html?from",
-          "source": "インサイド",
-          "publishedAt": "2026-09-23T03:15:02.000Z",
+          "title": "【画像】ちいかわ、ハチワレ、うさぎをレゴで作ってみた！ 「人形は顔が命」と工夫を凝らした3人の姿が可愛い 1/16",
+          "url": "https://news.livedoor.com/article/image_detail/32411412/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-09-25T02:00:54.000Z",
           "isPR": false
         }
       ]
@@ -755,44 +781,73 @@
           "isPR": true
         }
       ]
-    },
-    {
-      "id": "1b7a1424397c",
-      "title": "『ちいかわぽけっと mini POP UP STORE』札幌会場で初日開催、6モチーフのグッズが集結",
-      "summary": "",
-      "url": "https://www.appbank.net/2026/09/23/iphone-news/3112119.php",
-      "image": "https://www.appbank.net/wp-content/uploads/2026/09/press-1a0b41404355-img001-image-b9da21d4-3aaf-4176-a712-1225da29ec26_d32a683e86-35dde1448f.webp",
-      "leadSource": "AppBank",
-      "publishedAt": "2026-09-25T03:00:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "keywords": [
-        "pop",
-        "store"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわPOP UP STORE 福岡三越で開催決定！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000483.000027592.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-09-25T03:00:02.000Z",
-          "isPR": true
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-26T01:00:18.109Z",
-    "previousCount": 115,
-    "newCount": 2
+    "previousAt": "2026-09-26T01:30:15.583Z",
+    "previousCount": 112,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-26T02:00:15.583Z",
+  "nextUpdateAt": "2026-09-26T02:25:46.551Z",
   "items": [
+    {
+      "id": "155bc7025105",
+      "title": "なだぎ武、「ちいかわ」だらけの驚きの夕食に「ちい活が我々のレベルをこえている」と反響（ハフポスト日本版）",
+      "url": "https://news.yahoo.co.jp/articles/7eadb98702fc2124eb52b4620fe0ddabc6a3168c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-26T01:50:14.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00010020-huffpost-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "13f74a3e3844",
+      "title": "『ちいかわ』興収165.2億円突破 歴代ランキング15位（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/71770383fcae3394a5d3de6e908a9311f8a68cfe",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-26T01:35:50.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000432-oric-000-13-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "6ca9b4fb3385",
+      "title": "ナガノは天才…『ちいかわ』ブームを生んだ常識破りのアイデア（3）セリフで言わず…読者を強く感情移入させる（映画チャンネル）",
+      "url": "https://news.yahoo.co.jp/articles/966ccdc412cf8373edf8a947e4ad9f10297b228a",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-26T01:30:12.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00010004-eigach-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d15309fa7022",
       "title": "沖縄初上陸！ 『ちいかわベーカリー』ポップアップ、黒糖を練りこんだ「ちいかわ食パン」などを販売（おとなの週末）",
@@ -811,7 +866,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2e5b345d7339",
@@ -983,7 +1038,7 @@
       "title": "［大分県］ユニークかかしお出迎え 「りくりゅう」「ちいかわ」など100体 天瀬町本城地区で「まつり」",
       "url": "https://www.nishinippon.co.jp/item/1542020/",
       "host": "nishinippon.co.jp",
-      "source": "nishinippon.co.jp",
+      "source": "西日本新聞me",
       "summary": "",
       "publishedAt": "2026-09-25T21:00:00.000Z",
       "image": "https://www.nishinippon.co.jp/uploads/image/1942724/sns_IP260924JAA000107000.jpg",
@@ -1604,7 +1659,7 @@
       "title": "【実際の投稿】人気アニメ「ちいかわ」10月からはリバイバル放送",
       "url": "https://www.chunichi.co.jp/article/1316091",
       "host": "chunichi.co.jp",
-      "source": "chunichi.co.jp",
+      "source": "中日新聞Web",
       "summary": "",
       "publishedAt": "2026-09-25T03:09:55.000Z",
       "image": "https://static.chunichi.co.jp/image/article/size1/5/8/9/8/58987e7d281d383e11abd58fc6f38386_1.jpg",
@@ -1742,7 +1797,7 @@
       "source": "BAILA（バイラ）",
       "summary": "",
       "publishedAt": "2026-09-25T02:15:00.000Z",
-      "image": "",
+      "image": "https://img-baila.hpplus.jp/ogp/image/e2/e2e10723-ebe5-4f5d-9c02-1c1baf6e7586-1280x672.jpg",
       "categories": [
         "collab"
       ],
@@ -1752,6 +1807,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "340f0508edb3",
+      "title": "【画像】ちいかわ、ハチワレ、うさぎをレゴで作ってみた！ 「人形は顔が命」と工夫を凝らした3人の姿が可愛い 1/16",
+      "url": "https://news.livedoor.com/article/image_detail/32411412/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-09-25T02:00:54.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/5/9/5934a_1106_72006c0a_5c451f27.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9863cb8e77d8",
@@ -1997,7 +2074,7 @@
       "source": "ペイメントナビ",
       "summary": "",
       "publishedAt": "2026-09-24T22:30:00.000Z",
-      "image": "",
+      "image": "https://paymentnavi.com/wp-content/uploads/2026/09/20260925waonpoint.png",
       "categories": [
         "collab"
       ],
@@ -2065,7 +2142,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "87a4af4873e9",
@@ -2131,7 +2208,7 @@
       "title": "「いつもと違くない？」１年半前、『ちいかわ』人気キャラに起きた“まさかの変化”→「びっくり」相次いだ反響",
       "url": "https://trilltrill.jp/articles/4977463",
       "host": "trilltrill.jp",
-      "source": "trilltrill.jp",
+      "source": "TRILL",
       "summary": "",
       "publishedAt": "2026-09-24T14:35:00.000Z",
       "image": "https://media.trilltrill.jp/articles/4977463/thumbnail-image.c9a725fb1b558978eda9d583758261fd?w=1200",
@@ -2360,25 +2437,6 @@
       "isNew": false
     },
     {
-      "id": "13f74a3e3844",
-      "title": "『ちいかわ』興収165.2億円突破 歴代ランキング15位（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/71770383fcae3394a5d3de6e908a9311f8a68cfe",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-24T06:43:16.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000432-oric-000-13-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "52a60f3791d2",
       "title": "【結果速報】ちいかわ「くりまんじゅうだらけくじ」10連！確率2%のB賞獲得なるか",
       "url": "https://news.livedoor.com/article/detail/32399112/",
@@ -2518,16 +2576,15 @@
     },
     {
       "id": "cd59b3242671",
-      "title": "ちいかわパーク初のハロウィーン!9月25日からオリジナルグッズや限定グリーティングが登場 数量限定!おばけやカボチャをモチーフにしたかわいい限定グッズ（めざましmedia）",
-      "url": "https://news.yahoo.co.jp/articles/bae7dcd7f61f1593f0ad56e305efcc4f15c48564",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "ちいかわパーク初のハロウィーン！9月25日からオリジナルグッズや限定グリーティングが登場 数量限定！おばけやカボチャをモチーフにしたかわいい限定グッズ",
+      "url": "https://mezamashi.media/articles/-/350443",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
-      "publishedAt": "2026-09-24T03:59:21.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00350443-fujitv-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-09-24T03:58:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/4/4/1200xm/img_4460b987364a29c85cf07b399302e9d22530757.jpg",
       "categories": [
-        "goods",
-        "anime"
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2938,13 +2995,13 @@
     },
     {
       "id": "6496b710f2c3",
-      "title": "ちいかわの新作「ボンボンドロップシール」が9月25日発売！寿司モチーフや“Chiikawa Baby”など全3種",
-      "url": "https://s.inside-games.jp/article/2026/09/23/188150.html?from",
-      "host": "s.inside-games.jp",
-      "source": "インサイド",
+      "title": "ちいかわの新作「ボンボンドロップシール」が9月25日発売！寿司モチーフや“Chiikawa Baby”など全3種（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/90ee31462883dfae86dfae86a79c53448c84e2c7",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-23T03:15:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1779405.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000021-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
