@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-27T22:00:18.823Z",
+  "updatedAt": "2026-09-27T22:30:18.855Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 125,
-  "todayCount": 5,
+  "total": 123,
+  "todayCount": 7,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 23
+      "count": 22
     },
     {
       "id": "event",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 43
+      "count": 42
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 4
+      "count": 3
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 13
+      "count": 14
     }
   ],
   "series": [
@@ -89,7 +89,7 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
+      "name": "news.yahoo.co.jp",
       "count": 25
     },
     {
@@ -105,15 +105,15 @@
       "count": 7
     },
     {
+      "name": "ライブドアニュース",
+      "count": 5
+    },
+    {
       "name": "オリコンニュース",
       "count": 5
     },
     {
-      "name": "topics.smt.docomo.ne.jp",
-      "count": 5
-    },
-    {
-      "name": "ライブドアニュース",
+      "name": "ｄメニューニュース",
       "count": 4
     },
     {
@@ -121,7 +121,7 @@
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
+      "name": "mezamashi.media",
       "count": 3
     },
     {
@@ -133,11 +133,7 @@
       "count": 3
     },
     {
-      "name": "SmartNews",
-      "count": 3
-    },
-    {
-      "name": "ハフポスト",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -145,7 +141,7 @@
       "count": 2
     },
     {
-      "name": "めざましmedia",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -157,11 +153,15 @@
       "count": 2
     },
     {
+      "name": "smartnews.com",
+      "count": 2
+    },
+    {
       "name": "山形新聞",
       "count": 1
     },
     {
-      "name": "映画.com",
+      "name": "eiga.com",
       "count": 1
     },
     {
@@ -170,6 +170,10 @@
     },
     {
       "name": "saga-s.co.jp",
+      "count": 1
+    },
+    {
+      "name": "ハフポスト",
       "count": 1
     },
     {
@@ -205,10 +209,6 @@
       "count": 1
     },
     {
-      "name": "電撃オンライン",
-      "count": 1
-    },
-    {
       "name": "いこーよニュース",
       "count": 1
     },
@@ -229,7 +229,7 @@
       "count": 1
     },
     {
-      "name": "shimotsuke.co.jp",
+      "name": "下野新聞社",
       "count": 1
     },
     {
@@ -250,10 +250,6 @@
     },
     {
       "name": "fashionsnap.com",
-      "count": 1
-    },
-    {
-      "name": "ペイメントナビ",
       "count": 1
     }
   ],
@@ -288,14 +284,14 @@
         {
           "title": "『ちいかわ』人気シリーズ回のリバイバル放送が決定 「めざましじゃんけん」にちいかわグッズが当たる新企画登場（CDJournal）",
           "url": "https://news.yahoo.co.jp/articles/531511dc6c86e966ea521bf9554d186bff65c8dd",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-25T04:08:21.000Z",
           "isPR": false
         },
         {
           "title": "人気アニメ「ちいかわ」10月からはリバイバル放送し新作は来年1月再開 『めざましテレビ』伊藤利尋アナは「しゃべる木」に興味津々（中日スポーツ）",
           "url": "https://news.yahoo.co.jp/articles/5d6578b67103ece75c0b760e4fe0e1f54ca6082d",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-25T03:20:29.000Z",
           "isPR": false
         },
@@ -366,7 +362,7 @@
         {
           "title": "アニメ「ちいかわ」のリバイバル放送 なぜ新作を一時休止 背景は #エキスパートトピ（河村鳴紘） - エキスパート",
           "url": "https://news.yahoo.co.jp/expert/articles/5aa747cdbd0fd2c07a00a993eb8ae599dfb803e2",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-25T22:31:05.000Z",
           "isPR": false
         },
@@ -416,52 +412,9 @@
         {
           "title": "アニメ『ちいかわ』 第381話「パラレルワールド⑦」",
           "url": "https://mezamashi.media/articles/-/350285",
-          "source": "めざましmedia",
+          "source": "mezamashi.media",
           "publishedAt": "2026-09-24T23:00:00.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "bafc10b91c7f",
-      "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19807489?news_ref",
-      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/33469/normal.jpg?1790314474",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-09-25T10:45:25.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "book",
-        "other"
-      ],
-      "keywords": [
-        "オキシクリーン",
-        "ピンク",
-        "パッケージ"
-      ],
-      "articles": [
-        {
-          "title": "かわいすぎるピンクのオキシクリーン！「ちいかわパッケージ」が数量限定で全国発売",
-          "url": "https://report.iko-yo.net/articles/33824",
-          "source": "いこーよニュース",
-          "publishedAt": "2026-09-25T05:40:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』×「オキシクリーン」夢のコラボが実現！ 黒い流れ星も描かれたピンクのデザインで登場（クランクイン！）",
-          "url": "https://news.yahoo.co.jp/articles/7b0daafcbce4b629baf08b5a37a128f48b37c414",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-25T03:28:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！ | 株式会社グラフィコのプレスリリース",
-          "url": "https://prtimes.jp/main/html/rd/p/000000322.000009939.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-09-25T03:00:02.000Z",
-          "isPR": true
         }
       ]
     },
@@ -471,7 +424,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/5018f30c3081d4af286524286a16c8d8a2f1fae4",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00191560-crankinn-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
+      "leadSource": "news.yahoo.co.jp",
       "publishedAt": "2026-09-26T08:00:00.000Z",
       "sourceCount": 3,
       "articleCount": 5,
@@ -502,7 +455,7 @@
         {
           "title": "沖縄初上陸！ 『ちいかわベーカリー』ポップアップ、黒糖を練りこんだ「ちいかわ食パン」などを販売（おとなの週末）",
           "url": "https://news.yahoo.co.jp/articles/c5491bdb2c565d5e5f3c14df991446a7bf725c9f",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-26T01:00:08.000Z",
           "isPR": false
         },
@@ -537,51 +490,79 @@
         {
           "title": "「映画ちいかわ 人魚の島のひみつ」のダイカットステッカー付きグミが本日発売。人魚の形をしたグミ3種が登場（GAME Watch）",
           "url": "https://news.yahoo.co.jp/articles/89a18e78062882c439c6145593b0039c58e30f48",
-          "source": "Yahoo!ニュース",
+          "source": "news.yahoo.co.jp",
           "publishedAt": "2026-09-27T15:04:19.000Z",
           "isPR": false
         },
         {
           "title": "「ちいさくて、かわいそうなやつだと思ってました。」映画ちいかわ 人魚の島のひみつ まほさんの映画レビュー（感想・評価）",
           "url": "https://eiga.com/movie/105109/review/07030756/",
-          "source": "映画.com",
+          "source": "eiga.com",
           "publishedAt": "2026-09-27T14:15:43.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "613888c4b63b",
-      "title": "アニメ『ちいかわ』10月2日から新作放送を一時休止 2027年1月に再開へ",
+      "id": "fa59fc3cf931",
+      "title": "かわいすぎるピンクのオキシクリーン！「ちいかわパッケージ」が数量限定で全国発売",
       "summary": "",
-      "url": "https://www.toy-people.com/jp/?p",
-      "image": "https://news.mynavi.jp/article/20260925-5023996/ogp_images/ogp.jpg",
-      "leadSource": "玩具人 TOY PEOPLE",
-      "publishedAt": "2026-09-25T08:12:08.000Z",
+      "url": "https://report.iko-yo.net/articles/33824",
+      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/33469/normal.jpg?1790314474",
+      "leadSource": "いこーよニュース",
+      "publishedAt": "2026-09-25T05:40:18.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "anime",
-        "goods"
+        "other",
+        "collab"
       ],
       "keywords": [
-        "アニメ",
-        "放送",
-        "一時休止"
+        "ピンク",
+        "オキシクリーン",
+        "パッケージ"
       ],
       "articles": [
         {
-          "title": "TVアニメ『ちいかわ』10月から人気回のリバイバル放送決定! 「めざましじゃんけん」新企画も開始、新作アニメは27年1月より再開",
-          "url": "https://news.mynavi.jp/article/20260925-5023996/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-09-25T01:02:14.000Z",
+          "title": "『ちいかわ』×「オキシクリーン」夢のコラボが実現！ 黒い流れ星も描かれたピンクのデザインで登場（クランクイン！）",
+          "url": "https://news.yahoo.co.jp/articles/7b0daafcbce4b629baf08b5a37a128f48b37c414",
+          "source": "news.yahoo.co.jp",
+          "publishedAt": "2026-09-25T03:28:00.000Z",
           "isPR": false
         },
         {
-          "title": "アニメ「ちいかわ」新作を一時休止、リバイバル放送へ",
-          "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNbktMblk3TjJFOHBLVk9YcHhSelZmLTVxcVd5bXZlVnlVcWE4WnlzbnozYWViaGNOX1NzUjlqUm1qellJcmJlQ2hvakxCS2FKYXBBY0dpelJ6M2xzeVhlSFZ4YTNJanJyR1pzM0lUWFl1eks4LVBJSGFZbXRDaHZVdmtBeVVNTHRleVBYMnJVbU1lakxZblhWd3hfZFByMENyeU1PSXdkSUtVbUVlV0NqdHNuMXNXc1FfV3puQzhFTG5hb3dkeDMwOU9LS2lHdjN4MEN4Z29BeHMxVzZpQzliUFJsUThFbWZ2bWs5TE4wSUY0MTMwbG1EVDZhX1FUQTRyVmdwMnJiSjRzRmN5NU5aWXc1dW9kdzZLWUZSYzhMeTRaaThuM0RfdU5YREQzV1NIRlY5YzE2c1Bfemx2bEZaR0UwWDBUSXhkYjBKNGRBeEF3WmNXdW93NDJubldoUjBHWGFHbHN2Y050dzd2alJvUHRVQUVjVEwtVWVrWkRRNS1Uc0taZkNOT0c3N2N1WTBKQkx0STk5dw?oc=5",
-          "source": "SmartNews",
-          "publishedAt": "2026-09-24T22:29:00.000Z",
+          "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！ | 株式会社グラフィコのプレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000322.000009939.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-09-25T03:00:02.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "3e1ee861f2c3",
+      "title": "“ちいかわトラブル”の【くら寿司】が営業利益45％減…『ハイキュー!!』『コナン』『呪術廻戦』コラボ連発も苦戦のワケ",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/f36a02af80c07f2b4187ee001c3c6d6c06f8ef22",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00010002-huffpost-000-1-view.jpg?exp=10800",
+      "leadSource": "news.yahoo.co.jp",
+      "publishedAt": "2026-09-27T22:03:54.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "collab"
+      ],
+      "keywords": [
+        "トラブル",
+        "ハイキュー",
+        "コナン"
+      ],
+      "articles": [
+        {
+          "title": "【画像】“ちいかわトラブル”の【くら寿司】が営業利益45％減…『ハイキュー!!』『コナン』『呪術廻戦』コラボ連発も苦戦のワケ",
+          "url": "https://www.huffingtonpost.jp/entry/story_jp_6ab859d9e4b07795582c746f",
+          "source": "ハフポスト",
+          "publishedAt": "2026-09-27T04:26:04.000Z",
           "isPR": false
         }
       ]
@@ -615,58 +596,29 @@
       ]
     },
     {
-      "id": "8b5123506fc6",
-      "title": "「おじかわ」「ちいかわおじさん爆誕」後輩芸人に〝絶妙〟プレゼント、南原清隆の〝ちい活〟が話題 (西スポWEB OTTO!)",
+      "id": "613888c4b63b",
+      "title": "アニメ『ちいかわ』10月2日から新作放送を一時休止 2027年1月に再開へ",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/39e1b565833d39c2498cf81deeac008506ddccdc/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgONQThNQoy7uh_MPLRjayOT5WK55s5hv3OFpdCA7EIc-4qog8CLcxR5o6w8cMKfThiRdZmpYPa91jGdbc2p_xxCH6-bqrpH3aj0fmhqrVVv50UtFeV4vH28h7tnGzy4k6A==",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-09-27T03:40:02.000Z",
+      "url": "https://www.toy-people.com/jp/?p",
+      "image": "https://news.mynavi.jp/article/20260925-5023996/ogp_images/ogp.jpg",
+      "leadSource": "玩具人 TOY PEOPLE",
+      "publishedAt": "2026-09-25T08:12:08.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
+        "anime",
         "goods"
       ],
       "keywords": [
-        "プレゼント",
-        "南原清隆",
-        "芸人"
+        "アニメ",
+        "再開"
       ],
       "articles": [
         {
-          "title": "南原清隆、“ちいかわ好き”芸人にちいかわグッズをプレゼント「おじさんがおじさんの為に列に並んで買いました」",
-          "url": "https://www.oricon.co.jp/news/2482334/full/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-09-25T05:10:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "021bef350191",
-      "title": "WAON POINT、「ちいかわ」とコラボしたLINE絵文字を無料配布",
-      "summary": "",
-      "url": "https://digitalpr.jp/r_detail.php?release_id",
-      "image": "https://paymentnavi.com/wp-content/uploads/2026/09/20260925waonpoint.png",
-      "leadSource": "Digital PR Platform",
-      "publishedAt": "2026-09-25T03:41:48.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab"
-      ],
-      "keywords": [
-        "waon",
-        "point",
-        "line"
-      ],
-      "articles": [
-        {
-          "title": "WAON POINTが「ちいかわ」とコラボ、LINE絵文字を無料配布（イオンマーケティング）",
-          "url": "https://paymentnavi.com/paymentnews/182774.html",
-          "source": "ペイメントナビ",
-          "publishedAt": "2026-09-24T22:30:00.000Z",
+          "title": "TVアニメ『ちいかわ』10月から人気回のリバイバル放送決定! 「めざましじゃんけん」新企画も開始、新作アニメは27年1月より再開",
+          "url": "https://news.mynavi.jp/article/20260925-5023996/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-09-25T01:02:14.000Z",
           "isPR": false
         }
       ]
@@ -691,28 +643,66 @@
       "articles": [
         {
           "title": "minumとちいかわが初コラボ♡持ち歩きたくなる限定アイライナーが発売",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WTMyTUlGNHMxbVM0MEZ2UlRyMzZhdU1UeHcwM3dUcXFDemt3NTcxQzdOMXFtS3FSMFVEbFpoUzUtVFJaMzZVMGtwd0hRZXlsc3FDd0FrWlp1SW1jZFdEdlVQV2ZvUmJDWlVVcU8tMFVfY2dSb01V0gF8QVVfeXFMT25aRF9rU3U1OHFsSkJjZnB1bnJTYVJKdWhHeDBrSlRYTFpHVnI4UXJsWDhPTFotWmZ3bUFfU2w5WV83Rk5jU0g5TmZHTEhkanRxTzQ0cDB0aTUtVC0tYU1aY1VqR2NvZGladlJQT2dSR1NsS09GZlJEYzc4Mw?oc=5",
-          "source": "topics.smt.docomo.ne.jp",
-          "publishedAt": "2026-09-24T22:30:00.000Z",
+          "url": "https://news.livedoor.com/article/detail/32404655/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-09-24T22:30:50.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-27T21:30:16.707Z",
-    "previousCount": 123,
-    "newCount": 9
+    "previousAt": "2026-09-27T22:00:18.823Z",
+    "previousCount": 125,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-27T22:30:18.823Z",
+  "nextUpdateAt": "2026-09-27T23:00:18.855Z",
   "items": [
+    {
+      "id": "3e1ee861f2c3",
+      "title": "“ちいかわトラブル”の【くら寿司】が営業利益45％減…『ハイキュー!!』『コナン』『呪術廻戦』コラボ連発も苦戦のワケ",
+      "url": "https://news.yahoo.co.jp/articles/f36a02af80c07f2b4187ee001c3c6d6c06f8ef22",
+      "host": "news.yahoo.co.jp",
+      "source": "news.yahoo.co.jp",
+      "summary": "",
+      "publishedAt": "2026-09-27T22:03:54.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00010002-huffpost-000-1-view.jpg?exp=10800",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "822159b941d4",
+      "title": "9月28日(月)の「ちいかわ占い」",
+      "url": "https://mezamashi.media/articles/-/348516",
+      "host": "mezamashi.media",
+      "source": "mezamashi.media",
+      "summary": "",
+      "publishedAt": "2026-09-27T22:00:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "cb33c8165b4f",
       "title": "毎日『ちいかわ』描く77歳・糸井重里、新たな人気キャラ描き始める「いまは、やっぱりシーサーから目が離せないです」（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/9483d512a3c3fe91924485c9bdc0151ff1aff109",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-27T21:21:02.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000326-oric-000-1-view.jpg?exp=10800",
@@ -731,7 +721,7 @@
     {
       "id": "f8352143f45b",
       "title": "【ちい活速報】映画グッズ「プカプカフィギュア」即完売！仕事終わりにちいかわらんどを巡った結果",
-      "url": "https://news.livedoor.com/topics/detail/32426593/",
+      "url": "https://news.livedoor.com/article/detail/32426593/",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
       "summary": "",
@@ -746,7 +736,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fe6e808c2998",
@@ -792,7 +782,7 @@
       "title": "「映画ちいかわ 人魚の島のひみつ」のダイカットステッカー付きグミが本日発売。人魚の形をしたグミ3種が登場（GAME Watch）",
       "url": "https://news.yahoo.co.jp/articles/89a18e78062882c439c6145593b0039c58e30f48",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-27T15:04:19.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000001-impgmw-000-1-view.jpg?exp=10800",
@@ -811,7 +801,7 @@
       "title": "「ちいさくて、かわいそうなやつだと思ってました。」映画ちいかわ 人魚の島のひみつ まほさんの映画レビュー（感想・評価）",
       "url": "https://eiga.com/movie/105109/review/07030756/",
       "host": "eiga.com",
-      "source": "映画.com",
+      "source": "eiga.com",
       "summary": "",
       "publishedAt": "2026-09-27T14:15:43.000Z",
       "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
@@ -830,7 +820,7 @@
       "title": "わァ...ぁ...！【ダイソー】に売ってる『ちいかわグッズ』が「大人買いしたくなる」「コスパ良！」",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVM2ajZOZE43NjJfODhzR1lWWlFMa3JlYk1VTzBONmNJNXlndDdnZm1ZUy1hUHdKY1M5S2FSeE5wOXY2emFaTWFtc2N3TmExZUFHWXdIck15RVY5UTIybS10cTJGVDFVVl9ZTUVuOGpDLVE3MGhQUXc5R3FsYmVpTkl3R3liR0lTOTJ2anNOYzN4Zm96REotRzI4NmEtaE53aE1QWllqZ9IBpwFBVV95cUxQTVM2ajZOZE43NjJfODhzR1lWWlFMa3JlYk1VTzBONmNJNXlndDdnZm1ZUy1hUHdKY1M5S2FSeE5wOXY2emFaTWFtc2N3TmExZUFHWXdIck15RVY5UTIybS10cTJGVDFVVl9ZTUVuOGpDLVE3MGhQUXc5R3FsYmVpTkl3R3liR0lTOTJ2anNOYzN4Zm96REotRzI4NmEtaE53aE1QWllqZw?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-27T13:05:00.000Z",
       "image": "",
@@ -849,7 +839,7 @@
       "title": "有吉弘行、「ちいかわ」の内容を全く知らないと明かす「めざましテレビでやってるヤツ？」（スポニチアネックス）",
       "url": "https://news.yahoo.co.jp/articles/df2f61751e36158a290ce21cd69049980aacd559",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-27T12:24:12.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00000430-spnannex-000-4-view.jpg?exp=10800",
@@ -868,7 +858,7 @@
       "title": "『映画ちいかわ』を見た男性がコーヒーを淹れたら…… 140万再生の完成形に「びっくりした」「大技くらいました」 (ねとらぼ)",
       "url": "https://news.yahoo.co.jp/articles/1e98ef070661691b74de7b8fff486a42f50e9b94/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-27T11:45:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgP7xG_tTgecNOiePYdciCcT5hgKuBeUXbkQ70KlrRT35GaY8uJO02_m1rdiqQe36HJ4EoHzQXNp2CP8epDfdiyll_FSTA7MLLsfK1Enmychi2puztNxEGCY0zcSTEN1POw==",
@@ -887,7 +877,7 @@
       "title": "「モモンガがちいかわにイタズラしている！」ダイソーの『ちいかわ巾着』のデザインがかわいい！「仲良しで癒される！」 (LIMO)",
       "url": "https://news.yahoo.co.jp/articles/408c358da6cd2e0021559129421d42e5e4b7cf0b/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-27T11:31:04.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgDW3W7WXHzVVsQY8qUiJozujFJ19pvbXm7prSLdfb0SPDjYfl2CioPi95TzwbQ9m26cYHdmcXFXzBR4QRsJRHMENXhXj4jvk7LnaOMFKY1QOKRIjWOz975HZm3aqSp5h5g==",
@@ -925,7 +915,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5dcbccaa6680",
@@ -951,7 +941,7 @@
       "title": "クレーンゲームでハチワレを狙っていた6歳児→諦めた直後…… まさかの展開が1890万表示「ええ話や」「優しい世界」（ねとらぼ）",
       "url": "https://news.yahoo.co.jp/articles/66553ec05ac07bced92d50f5b8f573dd85b2e4a0",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-27T10:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-10170093-it_nlab-000-1-view.jpg?exp=10800",
@@ -979,6 +969,25 @@
       "categories": [
         "anime",
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b7f6514d6793",
+      "title": "【数量限定】オキシッ！《ちいかわ》パッケージの『オキシクリーン1500g』が10/2発売。これで黒い星と出会っても安心!?",
+      "url": "https://dengekionline.com/article/202609/89269",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-09-27T08:20:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/89269/ogp_GiIY.jpg?x=1280",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1029,25 +1038,6 @@
       "isNew": false
     },
     {
-      "id": "3e1ee861f2c3",
-      "title": "“ちいかわトラブル”の【くら寿司】が営業利益45％減…『ハイキュー!!』『コナン』『呪術廻戦』コラボ連発も苦戦のワケ",
-      "url": "https://www.huffingtonpost.jp/entry/story_jp_6ab859cee4b07795582c746e",
-      "host": "huffingtonpost.jp",
-      "source": "ハフポスト",
-      "summary": "",
-      "publishedAt": "2026-09-27T04:26:25.000Z",
-      "image": "https://img.huffingtonpost.com/asset/694e33342b00001213682e97.jpg?cache=NXFnwX1UUK&ops=1200_630",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "211334a0e2c8",
       "title": "【画像】“ちいかわトラブル”の【くら寿司】が営業利益45％減…『ハイキュー!!』『コナン』『呪術廻戦』コラボ連発も苦戦のワケ",
       "url": "https://www.huffingtonpost.jp/entry/story_jp_6ab859d9e4b07795582c746f",
@@ -1088,25 +1078,6 @@
       "isNew": false
     },
     {
-      "id": "8b5123506fc6",
-      "title": "「おじかわ」「ちいかわおじさん爆誕」後輩芸人に〝絶妙〟プレゼント、南原清隆の〝ちい活〟が話題 (西スポWEB OTTO!)",
-      "url": "https://news.yahoo.co.jp/articles/39e1b565833d39c2498cf81deeac008506ddccdc/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-27T03:40:02.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgONQThNQoy7uh_MPLRjayOT5WK55s5hv3OFpdCA7EIc-4qog8CLcxR5o6w8cMKfThiRdZmpYPa91jGdbc2p_xxCH6-bqrpH3aj0fmhqrVVv50UtFeV4vH28h7tnGzy4k6A==",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6cc280777f1b",
       "title": "「ちいかわ」2026ハロウィンデザインは、もうチェックした？「Talking ODM」に期間限定追加",
       "url": "https://www.inside-games.jp/article/2026/09/27/188330.html",
@@ -1130,7 +1101,7 @@
       "title": "ちいかわのイラストを一新したウインナー第3弾が発売",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jVUQzRkdEZGR0eEZxd19tMndKNWVuemlXeWR5NS1jWlBkRGlTN1lWNDlCTGpPSThnX212eW8waFI2TEpUZ3Y2OWF5ZVBoTnA0SFA5Ukp4Rl9GYXdCblV5M3JqallBOGktUzRWTzUwT3F6Y1o0eEprakpDZmnSAYIBQVVfeXFMTUVFUWNndEIwaFFQYVJhamY4c1k0OGQtX2VRQmp0OXZVc0ROTFM5X2NMWGJFZzN6cDhKZnRGNUFPdi0xNE0xd1p3ZV91TFlpa1FMbEhYZ3JCYjNEbzZWU2tReUhjemRLTXZlRXItXzZ3eTRHcmZQaXA2ZHpibUtFQ25wQQ?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-27T03:01:00.000Z",
       "image": "",
@@ -1171,7 +1142,7 @@
       "title": "ちいかわやハチワレたちが大集合！9月28日発売書店で買える『ちいかわ なにがでるかな？シールコレクション』全9種の豪華ラインナップ",
       "url": "https://mezamashi.media/articles/-/351471",
       "host": "mezamashi.media",
-      "source": "めざましmedia",
+      "source": "mezamashi.media",
       "summary": "",
       "publishedAt": "2026-09-27T03:00:00.000Z",
       "image": "https://mezamashi.ismcdn.jp/mwimgs/2/1/1200xm/img_21629ff391a1730d8c3ed1e1e56f4721293536.jpg",
@@ -1192,7 +1163,7 @@
       "title": "【ちいかわ】作中で登場した『スイーツ』をイメージ！ 期間限定の『コラボシュークリーム』",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcjVoUTFuaG44UUE3enJqZDBRdFVOQ2lja1pDdzl0b0JiZjZheVZoekF3aS1sSHFCbEZkSGRPaWRYTlVGNUlFa2N1Z2p1WG1LN0pkTHZXVVdqek5FSmZ4VmN0SUlqQWFIVlFWcnctYmwxZ1FaMnZvR2NDNFlqaF9TVU9UaHl5VndoOTJERGRLYlZaY1FGVlQyV053NXgwMUoyeFHSAacBQVVfeXFMT1NmTFYwalpib0JtelBvb3hSa2IwWHNrMmQwU0xWemFRcjRkeUpIdDhYN3RjY3hjMnplSFNuVnd4am9YQVBvRGx1X1NvbDRKWEppNENuTnQ2aDZOMHU3b3VfdVVvaHFkemVNRk5iWFA5VTR5a294amQwcklsQkZNclkxVU52Vm1SNGRaV2RUVF9iRXZTbjRJcnJaNXBxTnRNVWtKTEEyYkU?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-27T00:05:00.000Z",
       "image": "",
@@ -1249,7 +1220,7 @@
       "title": "「明日見てくるわ」60＆70代の両親が映画『ちいかわ』をほぼ前知識なしで鑑賞…家族関係にまで影響した話（ふたまん＋）",
       "url": "https://news.yahoo.co.jp/articles/307614a8c6cef9b5e15afeedc3b8ae714a5070fc",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T22:00:35.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00132413-futaman-000-1-view.jpg?exp=10800",
@@ -1450,7 +1421,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9b1c00ebebf7",
@@ -1707,7 +1678,7 @@
       "title": "ホリエモン、映画ちいかわは「刺さる作品ではなかった」も…視聴者のコメントに「なるほどなぁ」（スポニチアネックス）",
       "url": "https://news.yahoo.co.jp/articles/c3dcf412c7a1ab2374a01f574f1e4a5f5f8b3476",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T12:48:44.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00000421-spnannex-000-9-view.jpg?exp=10800",
@@ -1726,7 +1697,7 @@
       "title": "「ちいかわ」で好きなキャラクターは？ 3キャラクターを紹介！（ねとらぼ）",
       "url": "https://news.yahoo.co.jp/articles/87a849ab04ffb3ecff65b62f32e4bf3c06f5e4f2?source",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T12:40:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-10170157-it_nlab-000-1-view.jpg?exp=10800",
@@ -1802,7 +1773,7 @@
       "title": "「あのこを10個ゲット！」ちいかわパークの「まめまめフィギュア」を詰められるポーチ「お気に入りのキャラを選べる！」（LIMO）",
       "url": "https://news.yahoo.co.jp/articles/e7efd10f52890a925a373ba413f6c7d47b56e349",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T09:31:32.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00139824-toushin-000-1-view.jpg?exp=10800",
@@ -1843,7 +1814,7 @@
       "title": "沖縄で「ちいかわベーカリー」ポップアップ開催へ！ 黒糖を使った“限定食パン”が登場（クランクイン！）",
       "url": "https://news.yahoo.co.jp/articles/5018f30c3081d4af286524286a16c8d8a2f1fae4",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T08:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00191560-crankinn-000-1-view.jpg?exp=10800",
@@ -1943,7 +1914,7 @@
       "title": "ちいかわのトラベルシリーズ第2弾が登場♡旅行に便利な新作グッズ全6種",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WOWZzTUFETWN6Nk83LWlHOEZWWjEtYUZSb1BsMW9pUDZnTm5aZ0ZheXJNX2xOQ1lzTUNlOEtZYkhjMHFBNmEwZUUyQjhLUUtUam1FVW9sMkZ5dTJ3c1dEbVZZOC1fYkxQdkZhVDBYN2tJZTRRTFZV0gF8QVVfeXFMUEtlLWtaUlBBVTh3SlIyVHJlNFhZSFFXUUc1cG51MFVfLVNBTGV2TS1aU0h4aWNGRlZYUXlzZzhsLUtkTVFhbXBKLXJKME1RYzJSckFweDR6Y29ZaTJpODBUSEtPZXFsVVVFczFJbzRSX1Ixa25WRS14d3ljbQ?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-26T04:00:00.000Z",
       "image": "",
@@ -1984,7 +1955,7 @@
       "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」 (オリコン)",
       "url": "https://news.yahoo.co.jp/articles/00d9a887fec1203d13053981b3df1a88a2b5c359/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T03:18:53.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgG08JEnrUEoVN5lehb4txjtTcWlSNDlSyLDvjUJtNeCSWBL2oo4wuRqXSvXLhsDj3SjEfJdgDWWUr63EPnSQTWPw26bkA54cAebp1OlnemHk",
@@ -2159,7 +2130,7 @@
       "title": "沖縄初上陸！ 『ちいかわベーカリー』ポップアップ、黒糖を練りこんだ「ちいかわ食パン」などを販売（おとなの週末）",
       "url": "https://news.yahoo.co.jp/articles/c5491bdb2c565d5e5f3c14df991446a7bf725c9f",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T01:00:08.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00000002-matomeshi-000-1-view.jpg?exp=10800",
@@ -2199,7 +2170,7 @@
       "title": "映画ちいかわカフェで「1870円カツカレー」を注文→フタを開けると…… 「まじで神演出すぎる」まさかの中身が640万表示「なにこれ最高」 (ねとらぼ)",
       "url": "https://news.yahoo.co.jp/articles/312b7b7aba5ce5bb6cae573c8ec799b5da89cda0/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-26T00:24:44.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgBolDHMPVXlgGgarS5F-MRtYYyewfdTbLGPcFYYDLgPNqs8xAvycfSQZ5-7Btebklc6YtR-diIUM0xKo5Bn4rzbGSTHTVPAbrXO5pIVixv0GFKUFcvTF_CzGUV7sGJAmIg==",
@@ -2219,7 +2190,7 @@
       "title": "「ちいかわ くりまんじゅうだらけくじ」が大盛り上がり！ジョッキ片手にピースなBIGぬいぐるみ、禁酒や二日酔いのマスコットも",
       "url": "https://news.yahoo.co.jp/articles/289e0716c4831960211d3604e2853653192bcc1e",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T23:30:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00000010-isd-000-1-view.jpg?exp=10800",
@@ -2263,7 +2234,7 @@
       "title": "ちいかわから「ヤダーッ」拒絶されたハチワレの悲痛な一言に涙。ナガノさんの“デカワレ”新イラストに考察続出（ハフポスト日本版）",
       "url": "https://news.yahoo.co.jp/articles/5f9fecad9277e647e5db578402e25c44b231021f",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T22:50:57.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00010007-huffpost-000-1-view.jpg?exp=10800",
@@ -2284,7 +2255,7 @@
       "title": "アニメ「ちいかわ」のリバイバル放送 なぜ新作を一時休止 背景は #エキスパートトピ（河村鳴紘） - エキスパート",
       "url": "https://news.yahoo.co.jp/expert/articles/5aa747cdbd0fd2c07a00a993eb8ae599dfb803e2",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T22:31:05.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/kawamurameikou/02728832/title-1790372673862.jpeg?exp=10800",
@@ -2324,7 +2295,7 @@
       "title": "「ジョジョ」第9部9巻が初登場1位 第7部アニメ版2nd & 3rd STAGEも配信 「ちいかわ」映画は動員1130万人を突破［コミックスベストセラー］（Book Bang）",
       "url": "https://news.yahoo.co.jp/articles/3f683a5369ee26c70a9a434c7b2ea6a1d3c2d6d5",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T21:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260926-00835731-bookbang-000-1-view.jpg?exp=10800",
@@ -2387,7 +2358,7 @@
       "title": "＜映画興行成績＞「映画ちいかわ」1位キープ 「踊る大捜査線」は2位発進 新作に「映画名探偵プリキュア！」「八つ墓村」も",
       "url": "https://news.yahoo.co.jp/articles/d2d63009ab3cb77d150338bdb17e3065c2df58ec",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T11:35:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000067-mantan-000-1-view.jpg?exp=10800",
@@ -2419,25 +2390,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "bafc10b91c7f",
-      "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！",
-      "url": "https://news.nicovideo.jp/watch/nw19807489?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-09-25T10:45:25.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -2445,7 +2397,7 @@
       "title": "フジ社長「ちいかわ」大絶賛 大ヒットに感謝 原作者ナガノ氏は「本当に天才」アニメ化で「少し貢献が」",
       "url": "https://news.yahoo.co.jp/pickup/6596531",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T10:42:49.000Z",
       "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/9/25/4d08bbab0c51a9885ae7bbbd8a64d3cbb632e974f6fc4e50b99c24a768f2e857.jpg",
@@ -2477,7 +2429,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f40bce3009a7",
@@ -2574,14 +2526,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "654c5cd7bf03",
       "title": "『ちいかわ』人気シリーズ回のリバイバル放送が決定 「めざましじゃんけん」にちいかわグッズが当たる新企画登場（CDJournal）",
       "url": "https://news.yahoo.co.jp/articles/531511dc6c86e966ea521bf9554d186bff65c8dd",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T04:08:21.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000029-cdj-000-1-view.jpg?exp=10800",
@@ -2652,7 +2604,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6c463b36de76",
@@ -2679,7 +2631,7 @@
       "title": "『ちいかわ』×「オキシクリーン」夢のコラボが実現！ 黒い流れ星も描かれたピンクのデザインで登場（クランクイン！）",
       "url": "https://news.yahoo.co.jp/articles/7b0daafcbce4b629baf08b5a37a128f48b37c414",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T03:28:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00191749-crankinn-000-1-view.jpg?exp=10800",
@@ -2698,7 +2650,7 @@
       "title": "人気アニメ「ちいかわ」10月からはリバイバル放送し新作は来年1月再開 『めざましテレビ』伊藤利尋アナは「しゃべる木」に興味津々（中日スポーツ）",
       "url": "https://news.yahoo.co.jp/articles/5d6578b67103ece75c0b760e4fe0e1f54ca6082d",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T03:20:29.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000049-chuspo-000-1-view.jpg?exp=10800",
@@ -2737,7 +2689,7 @@
       "title": "市川美織『ちいかわ』衝撃の鑑賞回数 全身グッズだらけの姿にネットざわつく「これは、声かけられるわ」（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/bcc8b28c2ad62132e363590cd4d581516dc00f9a",
       "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "source": "news.yahoo.co.jp",
       "summary": "",
       "publishedAt": "2026-09-25T03:10:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000423-oric-000-8-view.jpg?exp=10800",
@@ -2832,7 +2784,7 @@
       "title": "ちいかわ人気、栃木県でも拡大 ご当地グッズが品薄に 「うさぎ」は超レア？",
       "url": "https://www.shimotsuke.co.jp/articles/-/1426623",
       "host": "shimotsuke.co.jp",
-      "source": "shimotsuke.co.jp",
+      "source": "下野新聞社",
       "summary": "",
       "publishedAt": "2026-09-25T02:30:00.000Z",
       "image": "https://soon.ismcdn.jp/mwimgs/7/0/1200wm/img_70736a76b2b372a64afcce7d681734313403441.jpg",
@@ -2872,7 +2824,7 @@
       "title": "アニメ「ちいかわ」10月2日から新作休止 27年1月再開予定",
       "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPcEdOODdOdmswYzZSbWRkQldRMkJBNmx0dEMyTFc5LUN1NmhSMFliZjNweThYZDd1dDdaOFhqSDhfbkZJVHlXcWtaRG1lWEVpU0ZNTmhyYnJ3Z0JwWlUwYWk4RE5jeGRDemg5SVVDdkZiekdLX1dVQU1RZmtHZWNJQW1ySXZpV0I0MWNVd3dYazVPXzNqaWZnSjd6MnE3Qm15TmwtQTl4ckcyTUEzdUYzTXNLcTRyaVQ4SlpKYmFxXzhKTUs3cnRkVmc3VlVCamFWMm8zYzRlWDZSU1dzSHdtd3FDb0NxdkQwSERIS0FhaGp6ZjNsVWxBWUl4aUlnaTNQZDR6azh5c0puTmRyQWNHLUtPeEJhNzZ1el8yWk5NMkZqQ2xHZHlINFFybGdqTGtiQUNSczZ0bXVha21ORnFGc21ZWXpBV2lfRzFLVllvVUw3S0lVUkFCNXFCV1A4clo3ZHZfSThmSEdqd0pjUUxJazJBYWFTQzBMeUw4My05d01yWUh2VFdCdlBvaw?oc=5",
       "host": "smartnews.com",
-      "source": "SmartNews",
+      "source": "smartnews.com",
       "summary": "",
       "publishedAt": "2026-09-25T01:54:00.000Z",
       "image": "",
@@ -3100,14 +3052,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "90f2d36926b0",
       "title": "アニメ『ちいかわ』 第381話「パラレルワールド⑦」",
       "url": "https://mezamashi.media/articles/-/350285",
       "host": "mezamashi.media",
-      "source": "めざましmedia",
+      "source": "mezamashi.media",
       "summary": "",
       "publishedAt": "2026-09-24T23:00:00.000Z",
       "image": "https://mezamashi.ismcdn.jp/mwimgs/1/3/1200xm/img_138e3204dfbde7ffa45847d29a5e33b9249413.jpg",
@@ -3126,7 +3078,7 @@
       "title": "アニメ『ちいかわ』新作一時休止 27年1月再開予定",
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT0Q5NDBZbzNqRnBWVkJPeHNVOGxMcFhpZTZKNjhIeDRSRzBWNG9QbzZrbVlEMk5GbjdqTU5zTEhLd3pkZEZWMU55UFN1QTN1aHNWVGlTYVkyR0xKbVlkV3dSME1VR04tMzlHS0FrLVJVNlQ4SjVxRlZBQjJ1Y2ZLaHZPMUZhenZqZ09NaFZoeWNfM1lMUVFDc2c0enNuMlJGVS1zQlZpakU5RE9ySURGSFozcUxqd214cUl2ZURobWVMTnVDZW5NZUE3MzBrYlBaSUpmeUZtTVhEZV9BM05oZlowcExnLVNsb214UjhMSS1jdGFwRF9LaE9zNEpCRUMwbzlmd1JFdC1HX3BOQno2NWxHaW9YUmlnOVJ4bVNxNU51MmZ0cU9Ydi0tSHZJY01oLXBFdXRJVENVNFVOS0c3RFlXWWVHMzRwdGpRUVZLVGItd2xEdFMwZXJoQVluMjVLaDZ0NkJTOFhkQ2lBTW53?oc=5",
       "host": "smartnews.com",
-      "source": "SmartNews",
+      "source": "smartnews.com",
       "summary": "",
       "publishedAt": "2026-09-24T22:40:00.000Z",
       "image": "",
@@ -3142,14 +3094,14 @@
       "isNew": false
     },
     {
-      "id": "b1b67c5906c2",
-      "title": "WAON POINTが「ちいかわ」とコラボ、LINE絵文字を無料配布（イオンマーケティング）",
-      "url": "https://paymentnavi.com/paymentnews/182774.html",
-      "host": "paymentnavi.com",
-      "source": "ペイメントナビ",
+      "id": "d2c52a120153",
+      "title": "minumとちいかわが初コラボ♡持ち歩きたくなる限定アイライナーが発売",
+      "url": "https://news.livedoor.com/article/detail/32404655/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "summary": "",
-      "publishedAt": "2026-09-24T22:30:00.000Z",
-      "image": "https://paymentnavi.com/wp-content/uploads/2026/09/20260925waonpoint.png",
+      "publishedAt": "2026-09-24T22:30:50.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/f/c/fc87c_1767_d51ca76d_9c71265f.jpg",
       "categories": [
         "collab"
       ],
@@ -3157,45 +3109,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d2c52a120153",
-      "title": "minumとちいかわが初コラボ♡持ち歩きたくなる限定アイライナーが発売",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WTMyTUlGNHMxbVM0MEZ2UlRyMzZhdU1UeHcwM3dUcXFDemt3NTcxQzdOMXFtS3FSMFVEbFpoUzUtVFJaMzZVMGtwd0hRZXlsc3FDd0FrWlp1SW1jZFdEdlVQV2ZvUmJDWlVVcU8tMFVfY2dSb01V0gF8QVVfeXFMT25aRF9rU3U1OHFsSkJjZnB1bnJTYVJKdWhHeDBrSlRYTFpHVnI4UXJsWDhPTFotWmZ3bUFfU2w5WV83Rk5jU0g5TmZHTEhkanRxTzQ0cDB0aTUtVC0tYU1aY1VqR2NvZGladlJQT2dSR1NsS09GZlJEYzc4Mw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
-      "summary": "",
-      "publishedAt": "2026-09-24T22:30:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e3fc5f3daffc",
-      "title": "アニメ「ちいかわ」新作を一時休止、リバイバル放送へ",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNbktMblk3TjJFOHBLVk9YcHhSelZmLTVxcVd5bXZlVnlVcWE4WnlzbnozYWViaGNOX1NzUjlqUm1qellJcmJlQ2hvakxCS2FKYXBBY0dpelJ6M2xzeVhlSFZ4YTNJanJyR1pzM0lUWFl1eks4LVBJSGFZbXRDaHZVdmtBeVVNTHRleVBYMnJVbU1lakxZblhWd3hfZFByMENyeU1PSXdkSUtVbUVlV0NqdHNuMXNXc1FfV3puQzhFTG5hb3dkeDMwOU9LS2lHdjN4MEN4Z29BeHMxVzZpQzliUFJsUThFbWZ2bWs5TE4wSUY0MTMwbG1EVDZhX1FUQTRyVmdwMnJiSjRzRmN5NU5aWXc1dW9kdzZLWUZSYzhMeTRaaThuM0RfdU5YREQzV1NIRlY5YzE2c1Bfemx2bEZaR0UwWDBUSXhkYjBKNGRBeEF3WmNXdW93NDJubldoUjBHWGFHbHN2Y050dzd2alJvUHRVQUVjVEwtVWVrWkRRNS1Uc0taZkNOT0c3N2N1WTBKQkx0STk5dw?oc=5",
-      "host": "smartnews.com",
-      "source": "SmartNews",
-      "summary": "",
-      "publishedAt": "2026-09-24T22:29:00.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     }
