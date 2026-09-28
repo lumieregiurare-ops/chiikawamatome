@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-28T10:30:17.784Z",
+  "updatedAt": "2026-09-28T11:00:17.076Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 145,
-  "todayCount": 79,
+  "total": 146,
+  "todayCount": 80,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 64
+      "count": 63
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 50
+      "count": 54
     },
     {
       "id": "book",
@@ -42,19 +42,19 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 26
+      "count": 25
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 16
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 31
+      "count": 30
     },
     {
       "id": "usagi",
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 9
+      "count": 10
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 26
     },
     {
       "name": "神ゲー攻略",
@@ -98,15 +98,19 @@
     },
     {
       "name": "インサイド",
-      "count": 11
-    },
-    {
-      "name": "コラボカフェ",
-      "count": 6
+      "count": 10
     },
     {
       "name": "au Webポータル",
       "count": 6
+    },
+    {
+      "name": "コラボカフェ",
+      "count": 5
+    },
+    {
+      "name": "オリコンニュース",
+      "count": 5
     },
     {
       "name": "ナタリー",
@@ -114,10 +118,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 4
-    },
-    {
-      "name": "オリコンニュース",
       "count": 4
     },
     {
@@ -137,19 +137,11 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "PASH! PLUS",
       "count": 3
     },
     {
-      "name": "mezamashi.media",
-      "count": 3
-    },
-    {
-      "name": "ライブドアニュース",
+      "name": "news.livedoor.com",
       "count": 3
     },
     {
@@ -157,7 +149,7 @@
       "count": 2
     },
     {
-      "name": "KAI-YOU",
+      "name": "zakⅡ",
       "count": 2
     },
     {
@@ -169,15 +161,27 @@
       "count": 2
     },
     {
-      "name": "中日新聞Web",
-      "count": 2
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 2
     },
     {
-      "name": "scketto.com",
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "KAI-YOU",
+      "count": 2
+    },
+    {
+      "name": "めざましmedia",
+      "count": 2
+    },
+    {
+      "name": "Togetter",
+      "count": 1
+    },
+    {
+      "name": "Scketto",
       "count": 1
     },
     {
@@ -185,15 +189,15 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース",
+      "name": "news.mynavi.jp",
       "count": 1
     },
     {
-      "name": "zakⅡ",
+      "name": "中日新聞Web",
       "count": 1
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "thetv.jp",
       "count": 1
     },
     {
@@ -233,10 +237,6 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
-      "count": 1
-    },
-    {
       "name": "PR TIMES",
       "count": 1
     },
@@ -245,11 +245,19 @@
       "count": 1
     },
     {
-      "name": "山形新聞",
+      "name": "yamagata-np.jp",
+      "count": 1
+    },
+    {
+      "name": "佐賀新聞",
       "count": 1
     },
     {
       "name": "note",
+      "count": 1
+    },
+    {
+      "name": "ふねぽ",
       "count": 1
     },
     {
@@ -263,36 +271,33 @@
     {
       "name": "千葉テレビ放送株式会社",
       "count": 1
+    },
+    {
+      "name": "毎日キレイ",
+      "count": 1
     }
   ],
   "topics": [
     {
-      "id": "bc67bc9d03df",
-      "title": "「映画ちいかわ」新入場者特典は「ちいかわ＆ハチワレ」「うさぎ＆モモンガ」のチャームフィギュア！第6弾が10月10日より配布",
-      "summary": "「映画ちいかわ 人魚の島のひみつ」の入場者特典第6弾として「チャームミニフィギュア」が10月10日より配布開始",
-      "url": "https://www.inside-games.jp/article/2026/09/28/188382.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1786123.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-09-28T08:42:31.000Z",
-      "sourceCount": 21,
+      "id": "ef41da86bab7",
+      "title": "「映画ちいかわ 人魚の島のひみつ」入場者特典第6弾はチャームミニフィギュア！ 10月10日より数量限定ランダム配布決定",
+      "summary": "「映画ちいかわ 人魚の島のひみつ」入場者特典第6弾は、特典シリーズ初となるコンビ仕様のチャームミニフィギュア全2種。10月10日より数量限定ランダム配布される。",
+      "url": "https://animeanime.jp/article/2026/09/28/103309.html",
+      "image": "https://animeanime.jp/imgs/rss/936168.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-09-28T08:09:00.000Z",
+      "sourceCount": 20,
       "articleCount": 27,
       "categories": [
-        "anime",
-        "goods"
+        "goods",
+        "anime"
       ],
       "keywords": [
         "映画",
         "チャーム",
-        "特典第"
+        "特典"
       ],
       "articles": [
-        {
-          "title": "映画『ちいかわ』第6弾は名シーン再現ミニチャーム どこでも「なんとかなれーッ！」 - KAI-YOU",
-          "url": "https://kai-you.net/article/96680",
-          "source": "KAI-YOU",
-          "publishedAt": "2026-09-28T08:42:31.000Z",
-          "isPR": false
-        },
         {
           "title": "「映画ちいかわ」入場者特典第6弾はチャームミニフィギュア！ 劇中シーンを再現したコンビ2種",
           "url": "https://fan.books.rakuten.co.jp/articles/xi0j6x9jzekuo48sh29xcrtr",
@@ -301,23 +306,16 @@
           "isPR": false
         },
         {
-          "title": "【実際の投稿】「めっちゃ豪華やん…」『映画ちいかわ』入場者特典第6弾！「チャームミニフィギュア」",
-          "url": "https://www.chunichi.co.jp/article/1317666",
-          "source": "中日新聞Web",
-          "publishedAt": "2026-09-28T07:33:06.000Z",
-          "isPR": false
-        },
-        {
           "title": "【あのシーンが…】『映画ちいかわ』入場者特典第6弾はちいかわ＆ハチワレ、うさぎ＆モモンガのチャームミニフィギュア!",
           "url": "https://news.mynavi.jp/article/20260928-5041186/",
-          "source": "マイナビニュース",
+          "source": "news.mynavi.jp",
           "publishedAt": "2026-09-28T07:29:26.000Z",
           "isPR": false
         },
         {
           "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
           "url": "https://thetv.jp/news/detail/1444152/",
-          "source": "WEBザテレビジョン",
+          "source": "thetv.jp",
           "publishedAt": "2026-09-28T07:13:09.000Z",
           "isPR": false
         },
@@ -326,6 +324,13 @@
           "url": "https://news.yahoo.co.jp/articles/a9cf1261eeb1638996194875c5614bf0961277fe",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-28T07:13:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "映画『ちいかわ』第6弾は名シーン再現ミニチャーム どこでも「なんとかなれーッ！」 - KAI-YOU",
+          "url": "https://kai-you.net/article/96680",
+          "source": "KAI-YOU",
+          "publishedAt": "2026-09-28T06:51:00.000Z",
           "isPR": false
         },
         {
@@ -341,6 +346,13 @@
           "source": "PASH! PLUS",
           "publishedAt": "2026-09-28T06:29:28.000Z",
           "isPR": false
+        },
+        {
+          "title": "「映画ちいかわ」新入場者特典は「ちいかわ＆ハチワレ」「うさぎ＆モモンガ」のチャームフィギュア！第6弾が10月10日より配布",
+          "url": "https://www.inside-games.jp/article/2026/09/28/188382.html",
+          "source": "インサイド",
+          "publishedAt": "2026-09-28T06:20:03.000Z",
+          "isPR": false
         }
       ]
     },
@@ -350,7 +362,7 @@
       "summary": "",
       "url": "https://www.scketto.com/news/202609274",
       "image": "https://static.wixstatic.com/media/970895_e904f7f3bd914107bc1dc806cc0c8202~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/970895_e904f7f3bd914107bc1dc806cc0c8202~mv2.jpg",
-      "leadSource": "scketto.com",
+      "leadSource": "Scketto",
       "publishedAt": "2026-09-28T09:07:33.000Z",
       "sourceCount": 9,
       "articleCount": 13,
@@ -458,7 +470,7 @@
         },
         {
           "title": "【東京ソラマチ(R)】「ちいかわ」×「東京ばな奈」のポップアップショップが期間限定OPEN！初登場『エコバッグ』に人気",
-          "url": "https://news.nicovideo.jp/watch/nw19813999",
+          "url": "https://news.nicovideo.jp/watch/nw19813999?news_ref",
           "source": "ニコニコニュース",
           "publishedAt": "2026-09-28T07:00:13.000Z",
           "isPR": false
@@ -480,15 +492,15 @@
       ]
     },
     {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "id": "7435f7c714cf",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送 - yamagata-np.jp",
       "summary": "",
       "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
       "image": "https://www.yamagata-np.jp/",
-      "leadSource": "山形新聞",
+      "leadSource": "yamagata-np.jp",
       "publishedAt": "2026-09-27T17:16:20.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "anime",
         "goods"
@@ -499,6 +511,13 @@
         "放送"
       ],
       "articles": [
+        {
+          "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+          "url": "https://www.saga-s.co.jp/articles/gallery/1797898",
+          "source": "佐賀新聞",
+          "publishedAt": "2026-09-27T08:41:57.000Z",
+          "isPR": false
+        },
         {
           "title": "アニメ「ちいかわ」10月2日～12月25日は人気シリーズのリバイバル放送に シリーズをまとめた特別動画も配信",
           "url": "https://anime.eiga.com/news/127526/",
@@ -585,34 +604,6 @@
       ]
     },
     {
-      "id": "af2fdedad21e",
-      "title": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」発売、島二郎や捕まったラッコたちなど全16種",
-      "summary": "グミは“人魚”の形！「映画ちいかわ ダイカットステッカー付きグミ」が9月28日発売。",
-      "url": "https://www.inside-games.jp/article/2026/09/28/188370.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1770258.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-09-28T04:15:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ラッコ",
-        "ダイカットステッカー",
-        "人魚"
-      ],
-      "articles": [
-        {
-          "title": "「映画ちいかわ ダイカットステッカー付きグミ」にドキドキ…！島二郎や捕まったラッコたちなど全16種、グミは“人魚の形”",
-          "url": "https://news.yahoo.co.jp/articles/07a4cb018511910432aeeef415f3b5e0425bdfdc",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-27T03:50:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "28691b91de63",
       "title": "ちいかわ、ハチワレ、うさぎたちが医療の現場に！上品＆さりげなくデザインしたスクラブコレクションが登場",
       "summary": "「ちいかわ」のモチーフやキャラクターをデザインした医療用スクラブが登場。2026年10月1日（木）より、クラシコ公式オンラインストアほかにて発売される。",
@@ -662,9 +653,9 @@
       "articles": [
         {
           "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！",
-          "url": "https://news.nicovideo.jp/watch/nw19807489",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-09-25T10:45:25.000Z",
+          "url": "https://mainichikirei.jp/prtimes/article/20260925prt00m100000552a.html",
+          "source": "毎日キレイ",
+          "publishedAt": "2026-09-25T13:12:15.000Z",
           "isPR": false
         }
       ]
@@ -700,13 +691,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-28T10:00:18.041Z",
+    "previousAt": "2026-09-28T10:30:17.784Z",
     "previousCount": 145,
-    "newCount": 4
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-28T11:00:17.784Z",
+  "nextUpdateAt": "2026-09-28T11:30:17.076Z",
   "items": [
+    {
+      "id": "6ee5c459b211",
+      "title": "【映画ちいかわ】入場者特典“第6弾”が解禁！「これは平和なランダム」「全2種ありがたい！」「激アツ」景品の内容に歓喜の声集まる（LASISA）",
+      "url": "https://news.yahoo.co.jp/articles/45bbcec4b807c8871f58b370063832749f5374f1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-28T10:45:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-10162376-lasisa-000-1-view.jpg?exp=10800",
+      "categories": [
+        "kuji",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "f95e483da809",
       "title": "「私はあと何回、何十回ちいかわを見に行けばいいんだ…」『映画ちいかわ』第6弾入場特典“チャームミニフィギュア”配布決定にファン悲鳴 | アニメニュース | アニメフリークス",
@@ -725,7 +736,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a6a1e16cd2a4",
@@ -743,6 +754,46 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "499ff131b8c6",
+      "title": "アニメちいかわ公式が「週の始まり月曜日」という文言と共に笑顔のシーサーの一枚を投稿…原作のシー虐展開がちらついて心がえぐられる人々の悲鳴が集まる",
+      "url": "https://togetter.com/li/2751550",
+      "host": "togetter.com",
+      "source": "Togetter",
+      "summary": "",
+      "publishedAt": "2026-09-28T09:52:49.000Z",
+      "image": "https://s.tgstc.com/ogp3/86feb14524577e4562f83ff08a1a3fdb-1200x630.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3020dc5f810e",
+      "title": "映画「我々は宇宙人」が「ちいかわ」に続く快進撃 広がるクチコミと国際賞受賞",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ycVZLYS1xd2FRM1ZaRVJvVk1KWVA5YmVvbUxKRHY0Tk82b2ZKYWNlQlJwYkxTRm5xdVF6Ri1mNG5TQ2dTWFZ5cTVvNVRjbncyS19yVTlMQVdGeGdNMGZWOElmcDF2Q0FxeVJzZG9KYWtldGloVk1kYtIBjAFBVV95cUxOd3J6Q01XRjNQZWhoQ3dGX0hGcnNXbEJCTDhSZXhXVVBIUG9hQmh3VXFiQUxNZExxTHQydTlkMXRwcnl1UnBpUE1ZMnRTUXY3amNjNFBQU3BWakpMbXdRSDExUjFSb0FvOU1xR2R3OVRndHZPc1NYRWtCMlN3SllDS3BITEIySV9Xc0ZTRA?oc=5",
+      "host": "zakzak.co.jp",
+      "source": "zakⅡ",
+      "summary": "",
+      "publishedAt": "2026-09-28T09:28:09.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": true
     },
@@ -770,7 +821,7 @@
       "title": "「ちいかわベーカリー」がオープン2周年を記念して「2nd Anniversary Celebration」を開催！ちいかわたちがコロネになった可愛いマスコットや記念グッズ、豪華な購入特典が登場",
       "url": "https://www.scketto.com/news/202609274",
       "host": "scketto.com",
-      "source": "scketto.com",
+      "source": "Scketto",
       "summary": "",
       "publishedAt": "2026-09-28T09:07:33.000Z",
       "image": "https://static.wixstatic.com/media/970895_e904f7f3bd914107bc1dc806cc0c8202~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/970895_e904f7f3bd914107bc1dc806cc0c8202~mv2.jpg",
@@ -816,25 +867,6 @@
       "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/28/56985_w1280.webp",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0c702e09dc54",
-      "title": "映画『ちいかわ』第6弾は名シーン再現ミニチャーム どこでも「なんとかなれーッ！」 - KAI-YOU",
-      "url": "https://kai-you.net/article/96680",
-      "host": "kai-you.net",
-      "source": "KAI-YOU",
-      "summary": "",
-      "publishedAt": "2026-09-28T08:42:31.000Z",
-      "image": "https://img.kai-you.net/storage/2026/09/1077a33d-0275-4ea2-bcea-f2504c46e29a/jpg/chiikawa_6thprize.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -964,26 +996,6 @@
       "isNew": false
     },
     {
-      "id": "cdbe5c7b661a",
-      "title": "【実際の投稿】「めっちゃ豪華やん…」『映画ちいかわ』入場者特典第6弾！「チャームミニフィギュア」",
-      "url": "https://www.chunichi.co.jp/article/1317666",
-      "host": "chunichi.co.jp",
-      "source": "中日新聞Web",
-      "summary": "",
-      "publishedAt": "2026-09-28T07:33:06.000Z",
-      "image": "https://static.chunichi.co.jp/image/article/size1/b/5/b/8/b5b8e64b0b9d4f236935c78350e0732c_1.jpg",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ef41da86bab7",
       "title": "「映画ちいかわ 人魚の島のひみつ」入場者特典第6弾はチャームミニフィギュア！ 10月10日より数量限定ランダム配布決定",
       "url": "https://animeanime.jp/article/2026/09/28/103309.html",
@@ -1008,7 +1020,7 @@
       "title": "【あのシーンが…】『映画ちいかわ』入場者特典第6弾はちいかわ＆ハチワレ、うさぎ＆モモンガのチャームミニフィギュア!",
       "url": "https://news.mynavi.jp/article/20260928-5041186/",
       "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
+      "source": "news.mynavi.jp",
       "summary": "",
       "publishedAt": "2026-09-28T07:29:26.000Z",
       "image": "https://news.mynavi.jp/article/20260928-5041186/ogp_images/ogp.jpg",
@@ -1110,7 +1122,7 @@
       "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
       "url": "https://thetv.jp/news/detail/1444152/",
       "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "source": "thetv.jp",
       "summary": "",
       "publishedAt": "2026-09-28T07:13:09.000Z",
       "image": "https://thetv.jp/i/nw/1444152/18654951.jpg?w=1284",
@@ -1194,7 +1206,7 @@
     {
       "id": "4d2ed7c57e09",
       "title": "【東京ソラマチ(R)】「ちいかわ」×「東京ばな奈」のポップアップショップが期間限定OPEN！初登場『エコバッグ』に人気",
-      "url": "https://news.nicovideo.jp/watch/nw19813999",
+      "url": "https://news.nicovideo.jp/watch/nw19813999?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1202,6 +1214,25 @@
       "image": "",
       "categories": [
         "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0c702e09dc54",
+      "title": "映画『ちいかわ』第6弾は名シーン再現ミニチャーム どこでも「なんとかなれーッ！」 - KAI-YOU",
+      "url": "https://kai-you.net/article/96680",
+      "host": "kai-you.net",
+      "source": "KAI-YOU",
+      "summary": "",
+      "publishedAt": "2026-09-28T06:51:00.000Z",
+      "image": "https://img.kai-you.net/storage/2026/09/1077a33d-0275-4ea2-bcea-f2504c46e29a/jpg/chiikawa_6thprize.jpg",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1439,7 +1470,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "25c880a20627",
@@ -1691,7 +1722,7 @@
       "host": "mantan-web.jp",
       "source": "Mantan Web",
       "summary": "",
-      "publishedAt": "2026-09-28T05:02:40.000Z",
+      "publishedAt": "2026-09-28T05:02:57.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/28/20260928dog00m200032000a/001.jpg",
       "categories": [
         "goods",
@@ -1736,7 +1767,7 @@
       "title": "『映画ちいかわ』入場者特典第6弾！ちいかわ＆ハチワレ・うさぎ＆モモンガの“あの”シーンを再現したチャームミニフィギュアが10月10日から配布開始",
       "url": "https://mezamashi.media/articles/-/351897",
       "host": "mezamashi.media",
-      "source": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
       "publishedAt": "2026-09-28T05:00:00.000Z",
       "image": "https://mezamashi.ismcdn.jp/mwimgs/2/d/1200xm/img_2d26ca50c97877dcedcc75c5730d6820706844.jpg",
@@ -1936,13 +1967,13 @@
     },
     {
       "id": "bae08581b62a",
-      "title": "映画『ちいかわ』新たな特典第6弾発表 ちいかわ＆ハチワレ、うさぎ＆モモンガのチャームフィギュア2種",
-      "url": "http://www.excite.co.jp/news/article/Oricon_2482994/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "title": "映画『ちいかわ』新たな特典第6弾発表 ちいかわ&ハチワレ、うさぎ&モモンガのチャームフィギュア2種",
+      "url": "https://www.oricon.co.jp/news/2482994/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-09-28T05:00:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482994/20260928_134939_p_o_20296884.jpg",
       "categories": [
         "goods",
         "anime"
@@ -2000,13 +2031,13 @@
     },
     {
       "id": "af2fdedad21e",
-      "title": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」発売、島二郎や捕まったラッコたちなど全16種",
-      "url": "https://www.inside-games.jp/article/2026/09/28/188370.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "グミは“人魚”の形！「映画ちいかわ ダイカットステッカー付きグミ」が9月28日発売。",
+      "title": "グミは“人魚の形”…！「映画ちいかわ ダイカットステッカー付きグミ」発売、島二郎や捕まったラッコたちなど全16種 (インサイド)",
+      "url": "https://news.yahoo.co.jp/articles/e6825f3b4e3713557a14230afb22ae2f95b57d55/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-09-28T04:15:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1770258.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgMlY53MgNY3ixI2OQ9t-AfHRnNEbF_hooIW4CbRjOhHK7EIFSWtMpMsVuDS9gUSk23NOD-7z3Xxrgc9tRIQAqESVaVU5O-pvr4ALrRlGzmTQ",
       "categories": [
         "anime"
       ],
@@ -2236,30 +2267,11 @@
       "isNew": false
     },
     {
-      "id": "822159b941d4",
-      "title": "9月28日(月)の「ちいかわ占い」",
-      "url": "https://mezamashi.media/articles/-/348516",
-      "host": "mezamashi.media",
-      "source": "mezamashi.media",
-      "summary": "",
-      "publishedAt": "2026-09-27T22:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "384175862740",
       "title": "【ちいかわ速報】新商品「ボンボンドロップシール」と仮装マスコットの購入品レビュー",
       "url": "https://news.livedoor.com/topics/detail/32426905/?_clicked",
       "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "summary": "",
       "publishedAt": "2026-09-27T22:00:00.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/8/b/8b47d_1845_d37c68e8_ab22cec0.jpg",
@@ -2278,7 +2290,7 @@
       "title": "【ちい活速報】映画グッズ「プカプカフィギュア」即完売！仕事終わりにちいかわらんどを巡った結果",
       "url": "https://news.livedoor.com/article/detail/32426593/",
       "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "summary": "",
       "publishedAt": "2026-09-27T21:00:00.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/a/b/ab7ed_1845_f4580082_25387e6f.jpg",
@@ -2313,11 +2325,11 @@
       "isNew": false
     },
     {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "id": "7435f7c714cf",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送 - yamagata-np.jp",
       "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
       "host": "yamagata-np.jp",
-      "source": "山形新聞",
+      "source": "yamagata-np.jp",
       "summary": "",
       "publishedAt": "2026-09-27T17:16:20.000Z",
       "image": "https://www.yamagata-np.jp/",
@@ -2330,7 +2342,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "521059e0f304",
@@ -2352,20 +2364,19 @@
       "isNew": false
     },
     {
-      "id": "976c49d4a8ce",
-      "title": "クレーンゲームでハチワレを狙っていた6歳児→諦めた直後…… まさかの展開が1890万表示「ええ話や」「優しい世界」 (ねとらぼ)",
-      "url": "https://news.yahoo.co.jp/articles/66553ec05ac07bced92d50f5b8f573dd85b2e4a0/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.saga-s.co.jp/articles/gallery/1797898",
+      "host": "saga-s.co.jp",
+      "source": "佐賀新聞",
       "summary": "",
-      "publishedAt": "2026-09-27T10:26:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgDYb0yYfLmvTmxce8E6yvO4rmagts7vwJSo78YD98whObYLU1pae2qrtNwsyOCjWxbQnRd8syU7sJLcepKNJOj15OWWCPxb9gF0gqsUPRixFCby3wfsx7xcejVh3fl3-OA==",
+      "publishedAt": "2026-09-27T08:41:57.000Z",
+      "image": "https://saga.ismcdn.jp/mwimgs/4/1/1200m/img_414e5e439252facbbf33e1f3c2d7330e76491.jpg",
       "categories": [
-        "game"
+        "anime",
+        "goods"
       ],
-      "series": [
-        "hachiware"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2518,7 +2529,7 @@
       "title": "ちいかわやハチワレたちが大集合！9月28日発売書店で買える『ちいかわ なにがでるかな？シールコレクション』全9種の豪華ラインナップ",
       "url": "https://mezamashi.media/articles/-/351471",
       "host": "mezamashi.media",
-      "source": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
       "publishedAt": "2026-09-27T03:00:00.000Z",
       "image": "https://mezamashi.ismcdn.jp/mwimgs/2/1/1200xm/img_21629ff391a1730d8c3ed1e1e56f4721293536.jpg",
@@ -2590,6 +2601,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1c5ccbf40a1",
+      "title": "「明日見てくるわ」60＆70代の両親が映画『ちいかわ』をほぼ前知識なしで鑑賞…家族関係にまで影響した話",
+      "url": "https://futaman.futabanet.jp/articles/-/132413",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-09-26T21:30:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/5/5/1200wm/img_55564decff19e95e59404c8aee82c7da619228.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "34fbe70f1341",
@@ -3319,7 +3349,7 @@
       "title": "KITTEの巨大ちいかわ、日本初の「ちいかわパークストア」…今秋“ちいかわ推し”に熱い街、大阪",
       "url": "https://news.livedoor.com/article/detail/32415703/",
       "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "source": "news.livedoor.com",
       "summary": "",
       "publishedAt": "2026-09-26T02:01:00.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/f/5/f52a5_1845_e57aa493_fb764ea4.jpg",
@@ -3389,7 +3419,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "54113270f9a4",
@@ -3594,6 +3624,25 @@
       "isNew": false
     },
     {
+      "id": "bafc10b91c7f",
+      "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！",
+      "url": "https://mainichikirei.jp/prtimes/article/20260925prt00m100000552a.html",
+      "host": "mainichikirei.jp",
+      "source": "毎日キレイ",
+      "summary": "",
+      "publishedAt": "2026-09-25T13:12:15.000Z",
+      "image": "https://prtimes.jp/img/9939/322/resize/d9939-322-9575279687c0596e50b0-0.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "68ff1582c946",
       "title": "「あッ、勝手にッ」鎧さんもびっくり！シーサーが振る舞う締めのステーキ『ちいかわ』180話 | アニメニュース | アニメフリークス",
       "url": "https://times.abema.tv/articles/-/10273356",
@@ -3626,44 +3675,6 @@
       "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/25/20260925-OHT1T51399_w300.webp",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4eabf73d3378",
-      "title": "ちいかわ めじるしアクセサリー3 カプセルトイ 10月より再販!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-mejirushi-accessory3-capsule-toy-resale-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-09-25T10:56:47.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-mejirushi-accessory3-main.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bafc10b91c7f",
-      "title": "漫画にも登場したオキシクリーンがピンクの「ちいかわパッケージ」になって登場！",
-      "url": "https://news.nicovideo.jp/watch/nw19807489",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-09-25T10:45:25.000Z",
-      "image": "",
-      "categories": [
-        "book"
       ],
       "series": [],
       "isOfficial": false,
