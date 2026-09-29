@@ -11,6 +11,17 @@
     "contactUrl": ""
   },
 
+  "note_sisters": "sisterSites はフッターの「運営サイト」に並べるリンク（gamelab.website のフッターと同じ並び）。",
+  "sisterSites": [
+    { "name": "GameLab Radar", "url": "https://gamelab.website/" },
+    { "name": "アニメ速報", "url": "https://animematome.gamelab.website/" },
+    { "name": "ポケモン速報", "url": "https://pokematome.gamelab.website/" },
+    { "name": "モンハン速報", "url": "https://mhmatome.gamelab.website/" },
+    { "name": "AI matomechatter", "url": "https://aimatome.gamelab.website/" },
+    { "name": "なろう系まとめ", "url": "https://naroumatome.gamelab.website/" },
+    { "name": "急上昇動画ウォッチャー", "url": "https://trend.gamelab.website/" }
+  ],
+
   "note4": "pages は収集のたびに作る静的ページ（検索エンジン向け）の文言。キャラの紹介文は series の intro、ジャンルの見出しと説明はここに書く。googleSiteVerification は Search Console の HTML タグの content の値。",
   "pages": {
     "googleSiteVerification": "",

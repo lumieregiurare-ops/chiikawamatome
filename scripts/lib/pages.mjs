@@ -217,7 +217,13 @@ export async function renderPages(root, { log = () => {} } = {}) {
       ${genreLinks.map((c) => `<a href="/${c.id}/">${esc(c.title || c.label)}</a>`).join("")}
       ${charas.map((c) => `<a href="/chara/${c.id}/">${esc(c.label)}のニュース</a>`).join("")}
       <a href="/archive/">過去のニュース</a><a href="/about/">このサイトについて</a><a href="/feed.xml">RSS</a>
-    </nav>`;
+    </nav>${
+      (config.sisterSites || []).length
+        ? `<nav class="footer-nav footer-sisters" aria-label="運営サイト"><span class="footer-nav-label">運営サイト</span>${config.sisterSites
+            .map((x) => `<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.name)}</a>`)
+            .join("")}</nav>`
+        : ""
+    }`;
   }
   const verify = config.pages?.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(config.pages.googleSiteVerification)}">` : "";
   const gtag = GA
