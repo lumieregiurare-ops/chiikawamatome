@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-29T08:30:19.143Z",
+  "updatedAt": "2026-09-29T09:00:19.101Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 146,
-  "todayCount": 36,
+  "total": 147,
+  "todayCount": 38,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 55
+      "count": 54
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 16
+      "count": 17
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 49
+      "count": 50
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 21
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 31
+      "count": 32
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 22
+      "count": 23
     },
     {
       "id": "momonga",
@@ -98,11 +98,15 @@
     },
     {
       "name": "インサイド",
-      "count": 11
+      "count": 12
     },
     {
       "name": "コラボカフェ",
       "count": 5
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 4
     },
     {
       "name": "電撃オンライン",
@@ -113,15 +117,7 @@
       "count": 4
     },
     {
-      "name": "topics.smt.docomo.ne.jp",
-      "count": 3
-    },
-    {
       "name": "めざましmedia",
-      "count": 3
-    },
-    {
-      "name": "ファッションプレス",
       "count": 3
     },
     {
@@ -130,6 +126,10 @@
     },
     {
       "name": "ふねぽ",
+      "count": 2
+    },
+    {
+      "name": "映画.com",
       "count": 2
     },
     {
@@ -142,10 +142,6 @@
     },
     {
       "name": "Togetter",
-      "count": 2
-    },
-    {
-      "name": "シブヤ経済新聞",
       "count": 2
     },
     {
@@ -169,6 +165,10 @@
       "count": 2
     },
     {
+      "name": "ファッションプレス",
+      "count": 2
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 2
     },
@@ -185,7 +185,11 @@
       "count": 2
     },
     {
-      "name": "sirabee.com",
+      "name": "Sirabee",
+      "count": 1
+    },
+    {
+      "name": "シブヤ経済新聞",
       "count": 1
     },
     {
@@ -253,10 +257,6 @@
       "count": 1
     },
     {
-      "name": "映画.com",
-      "count": 1
-    },
-    {
       "name": "PR TIMES",
       "count": 1
     },
@@ -269,7 +269,7 @@
       "count": 1
     },
     {
-      "name": "note.com",
+      "name": "note",
       "count": 1
     }
   ],
@@ -361,7 +361,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-09-29T04:30:03.000Z",
       "sourceCount": 12,
-      "articleCount": 18,
+      "articleCount": 16,
       "categories": [
         "goods",
         "event"
@@ -384,13 +384,6 @@
           "url": "https://www.shibukei.com/headline/20172/",
           "source": "シブヤ経済新聞",
           "publishedAt": "2026-09-29T03:58:51.000Z",
-          "isPR": false
-        },
-        {
-          "title": "8種類用意する「コロネなマスコット」＝表参道「ちいかわベーカリー」が2周年",
-          "url": "https://www.shibukei.com/photoflash/23484/",
-          "source": "シブヤ経済新聞",
-          "publishedAt": "2026-09-29T03:58:45.000Z",
           "isPR": false
         },
         {
@@ -426,6 +419,13 @@
           "url": "https://www.fashion-press.net/news/gallery/151416/2555698",
           "source": "ファッションプレス",
           "publishedAt": "2026-09-28T08:31:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "コロネになったちいかわ達が可愛すぎる！ 『ちいかわベーカリー』2周年記念グッズ＆特典情報が解禁",
+          "url": "https://dengekionline.com/article/202609/89369",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-09-28T08:14:00.000Z",
           "isPR": false
         }
       ]
@@ -677,7 +677,7 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb3pUOVZIRjdpZW01SEd6ZFEyOGRBSHJyNUF1T2pQTlFfaHFhbHc1NDZaS0MtckNjem1wa1VvajNsU2RyV2l1MER3a3c1a2RMeG1ZMUFWajFHRElkdG52T2R5czVfX09faE1lVmdkNkZ3bV9JbDlJ0gF3QVVfeXFMTVVvelQ5VkhGN2llbTVIR3pkUTI4ZEFIcnI1QXVPalBOUV9ocWFsdzU0NlpLQy1yQ2N6bXBrVW9qM2xTZHJXaXUwRHdrdzVrZEx4bVkxQVZqMUdESWR0bnZPZHlzNV9fT19oTWVWZ2Q2RndtX0lsOUk?oc=5",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000300-spnannex-000-6-view.jpg?exp=10800",
-      "leadSource": "topics.smt.docomo.ne.jp",
+      "leadSource": "ｄメニューニュース",
       "publishedAt": "2026-09-29T03:34:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -751,7 +751,7 @@
         {
           "title": "【注目】『映画ちいかわ 人魚の島のひみつ』の「入場者特典第5弾ひみつ本」がとても良かった件｜ネジムラ89 / アニメ映画ライター",
           "url": "https://note.com/nejimura89/n/n38bd08557de7",
-          "source": "note.com",
+          "source": "note",
           "publishedAt": "2026-09-27T02:56:51.000Z",
           "isPR": false
         }
@@ -759,13 +759,57 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-29T08:00:20.705Z",
-    "previousCount": 145,
-    "newCount": 4
+    "previousAt": "2026-09-29T08:30:19.143Z",
+    "previousCount": 146,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-29T09:00:19.143Z",
+  "nextUpdateAt": "2026-09-29T09:30:19.101Z",
   "items": [
+    {
+      "id": "ef7c26ec4af8",
+      "title": "しまむらパークで「ちいかわ」グッズがオンライン販売！動きに反応する「ハチワレ」「うさぎ」らのボイス付きぬいぐるみ全3種",
+      "url": "https://www.inside-games.jp/article/2026/09/29/188471.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "シャンブルより、「おしゃべりちいかわ・ハチワレ・うさぎ」のパジャマ付きセットがしまむらパーク（オンラインストア）で9月30日12時より販売！",
+      "publishedAt": "2026-09-29T08:45:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1787027.jpg",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e7404f65f4e5",
+      "title": "『ちいかわ』吹替に「ハチワレが英語しゃべってて感動」国際版予告に海外ファンも興奮。キャラ紹介にも「感心」のワケは？",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVJnWXY3M3hZMlg5NDZKRFhqbjRzMGNGZG1lVUEzbjdQbUJQcDN0aUV5S0tuX3plSjZNNmhYWWN2bDNONHFuM2I2RWZ2RFR3aEVfQkJOTUFxTXpOdjByeGVrWkl6NllDQ1BacUE1aEozSVlqb3hwQzFIUVRmZUMyNHpkWDZDVm1EbzhnUmJyLWtyYVJUWENBU3Z0NXQ4dkVIRkJR0gGoAUFVX3lxTE5XcmpVaDRxNEtYbkFwZ3dBN09lbmdHdXpBVDZFM1ZaejRYOGJvb0tocXBTMFZhSmh2SUpCMm1mV09zcTV3dTdHVXZhNXgxRDhWT1FaOWRGMFRubVl4b1R3Zm5JMTlFM2M2eGJZcTRpWEdZZjZvdjZsODZzSlFVdXJveDdMVzM5cGFjb3BzNU5tR0lKWk5rUGtaX1hvbDZzZjh0UW9YTmtJYg?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-09-29T08:31:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "a5b85c2f2c6b",
       "title": "2026年秋「再放送アニメ」見逃し厳禁のラインナップ 映画が大ヒット『ちいかわ』から大人気アイドル作品も（ふたまん＋）",
@@ -783,7 +827,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "077d281230c5",
@@ -867,7 +911,7 @@
       "title": "有吉弘行、興収160億円超え『映画ちいかわ』に興味 「行ってみようかな」",
       "url": "https://sirabee.com/2026/09/29/20163586186/",
       "host": "sirabee.com",
-      "source": "sirabee.com",
+      "source": "Sirabee",
       "summary": "",
       "publishedAt": "2026-09-29T05:45:00.000Z",
       "image": "https://img.sirabee.com/wp-content/uploads/2020/10/sirabee20201020ariyoshihiroiki3-scaled.jpg",
@@ -880,6 +924,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "23e57411bd27",
+      "title": "「かわいいは正義」 映画ちいかわ 人魚の島のひみつ まもーさんの映画レビュー（感想・評価）",
+      "url": "https://eiga.com/movie/105109/review/07035702/",
+      "host": "eiga.com",
+      "source": "映画.com",
+      "summary": "",
+      "publishedAt": "2026-09-29T05:22:52.000Z",
+      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7258ed0feb6b",
@@ -922,7 +985,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a1113a1f86de",
@@ -1003,25 +1066,6 @@
       "isNew": false
     },
     {
-      "id": "5822794b666f",
-      "title": "8種類用意する「コロネなマスコット」＝表参道「ちいかわベーカリー」が2周年",
-      "url": "https://www.shibukei.com/photoflash/23484/",
-      "host": "shibukei.com",
-      "source": "シブヤ経済新聞",
-      "summary": "",
-      "publishedAt": "2026-09-29T03:58:45.000Z",
-      "image": "https://images.keizai.biz/shibukei/photonews/1790653354_b.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c175593ca757",
       "title": "原宿「ちいかわベーカリー」で2周年記念グッズ コロネ風キャラぬいぐるみも（みんなの経済新聞ネットワーク）",
       "url": "https://news.yahoo.co.jp/articles/332631c2c1bb4b430f0a920351c041ef057ba09d",
@@ -1064,7 +1108,7 @@
       "title": "ちいかわグッズ転売騒動のくら寿司が再発防止策発表も 「従業員の再教育が先」と厳しい声",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Vb3pUOVZIRjdpZW01SEd6ZFEyOGRBSHJyNUF1T2pQTlFfaHFhbHc1NDZaS0MtckNjem1wa1VvajNsU2RyV2l1MER3a3c1a2RMeG1ZMUFWajFHRElkdG52T2R5czVfX09faE1lVmdkNkZ3bV9JbDlJ0gF3QVVfeXFMTVVvelQ5VkhGN2llbTVIR3pkUTI4ZEFIcnI1QXVPalBOUV9ocWFsdzU0NlpLQy1yQ2N6bXBrVW9qM2xTZHJXaXUwRHdrdzVrZEx4bVkxQVZqMUdESWR0bnZPZHlzNV9fT19oTWVWZ2Q2RndtX0lsOUk?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-29T03:34:00.000Z",
       "image": "",
@@ -1365,7 +1409,7 @@
       "title": "早くも入手困難！【ちいかわ】スーパーやコンビニで買える『注目チャーム』「ゆらゆらで可愛い」",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORU1jdjFCVUxVMVROcmJrVF9yUk9OaW5Lc1ZqaHpiT0thdG4ycndvMHo4THhLbmxqYXBZV1B3eExEQ0tjcTdicEMxUmVxd25KNXJKdnRGOGs0MDVQM3V1Nk9XWVNDTy1aRzhMVDdZU0hLSU1rWGlZLTRmZVpFTEVoaGVpXzZFY1lyUDNlQlZSSThzYnFRLXpJZ2IxWEJmWjN0YS1OS3pyVdIBpwFBVV95cUxORU1jdjFCVUxVMVROcmJrVF9yUk9OaW5Lc1ZqaHpiT0thdG4ycndvMHo4THhLbmxqYXBZV1B3eExEQ0tjcTdicEMxUmVxd25KNXJKdnRGOGs0MDVQM3V1Nk9XWVNDTy1aRzhMVDdZU0hLSU1rWGlZLTRmZVpFTEVoaGVpXzZFY1lyUDNlQlZSSThzYnFRLXpJZ2IxWEJmWjN0YS1OS3pyVQ?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-28T22:05:00.000Z",
       "image": "",
@@ -1802,7 +1846,7 @@
       "source": "推し楽",
       "summary": "",
       "publishedAt": "2026-09-28T08:09:00.000Z",
-      "image": "",
+      "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_main_a7cbf5e86d.jpg",
       "categories": [
         "goods",
         "anime"
@@ -1971,7 +2015,7 @@
       "source": "推し楽",
       "summary": "",
       "publishedAt": "2026-09-28T07:01:00.000Z",
-      "image": "",
+      "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_tokyobanana_main_6b027fdbd1.jpg",
       "categories": [
         "event"
       ],
@@ -2403,14 +2447,14 @@
       "isNew": false
     },
     {
-      "id": "6bd260d00e9b",
-      "title": "『映画ちいかわ』入場者特典第6弾！ちいかわ＆ハチワレ・うさぎ＆モモンガの“あの”シーンを再現したチャームミニフィギュアが10月10日から配布開始",
-      "url": "https://mezamashi.media/articles/-/351897",
-      "host": "mezamashi.media",
-      "source": "めざましmedia",
+      "id": "eddbb27399e7",
+      "title": "「映画ちいかわ 人魚の島のひみつ」入場特典第6弾は初のコンビでのチャームミニフィギュア！ちいかわ＆ハチワレ、うさぎ＆モモンガの名シーンを採用 : 映画ニュース",
+      "url": "https://eiga.com/news/20260928/19/",
+      "host": "eiga.com",
+      "source": "映画.com",
       "summary": "",
       "publishedAt": "2026-09-28T05:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/2/d/1200xm/img_2d26ca50c97877dcedcc75c5730d6820706844.jpg",
+      "image": "https://media.eiga.com/images/buzz/129465/2438e19d4b9acfa2.jpg",
       "categories": [
         "goods",
         "anime"
@@ -2427,14 +2471,14 @@
       "isNew": false
     },
     {
-      "id": "eddbb27399e7",
-      "title": "「映画ちいかわ 人魚の島のひみつ」入場特典第6弾は初のコンビでのチャームミニフィギュア！ちいかわ＆ハチワレ、うさぎ＆モモンガの名シーンを採用 : 映画ニュース",
-      "url": "https://eiga.com/news/20260928/19/",
-      "host": "eiga.com",
-      "source": "映画.com",
+      "id": "6bd260d00e9b",
+      "title": "『映画ちいかわ』入場者特典第6弾！ちいかわ＆ハチワレ・うさぎ＆モモンガの“あの”シーンを再現したチャームミニフィギュアが10月10日から配布開始",
+      "url": "https://mezamashi.media/articles/-/351897",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
       "publishedAt": "2026-09-28T05:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/129465/2438e19d4b9acfa2.jpg",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/2/d/1200xm/img_2d26ca50c97877dcedcc75c5730d6820706844.jpg",
       "categories": [
         "goods",
         "anime"
@@ -2534,27 +2578,6 @@
         "hachiware",
         "usagi",
         "momonga"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "efe301c78f2f",
-      "title": "写真10/18｜「ちいかわベーカリー」2周年グッズ、コロネになったハチワレたちの限定マスコットや紅茶缶",
-      "url": "https://www.fashion-press.net/news/gallery/151416/2555699",
-      "host": "fashion-press.net",
-      "source": "ファッションプレス",
-      "summary": "",
-      "publishedAt": "2026-09-28T04:42:50.000Z",
-      "image": "https://www.fashion-press.net/img/news/151416/QiE.jpg?1790569649",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2780,7 +2803,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "384175862740",
@@ -2838,7 +2861,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fe6e808c2998",
@@ -2865,7 +2888,7 @@
       "title": "わァ...ぁ...！【ダイソー】に売ってる『ちいかわグッズ』が「大人買いしたくなる」「コスパ良！」",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTVM2ajZOZE43NjJfODhzR1lWWlFMa3JlYk1VTzBONmNJNXlndDdnZm1ZUy1hUHdKY1M5S2FSeE5wOXY2emFaTWFtc2N3TmExZUFHWXdIck15RVY5UTIybS10cTJGVDFVVl9ZTUVuOGpDLVE3MGhQUXc5R3FsYmVpTkl3R3liR0lTOTJ2anNOYzN4Zm96REotRzI4NmEtaE53aE1QWllqZ9IBpwFBVV95cUxQTVM2ajZOZE43NjJfODhzR1lWWlFMa3JlYk1VTzBONmNJNXlndDdnZm1ZUy1hUHdKY1M5S2FSeE5wOXY2emFaTWFtc2N3TmExZUFHWXdIck15RVY5UTIybS10cTJGVDFVVl9ZTUVuOGpDLVE3MGhQUXc5R3FsYmVpTkl3R3liR0lTOTJ2anNOYzN4Zm96REotRzI4NmEtaE53aE1QWllqZw?oc=5",
       "host": "topics.smt.docomo.ne.jp",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-09-27T13:05:00.000Z",
       "image": "",
@@ -3067,7 +3090,7 @@
       "title": "【注目】『映画ちいかわ 人魚の島のひみつ』の「入場者特典第5弾ひみつ本」がとても良かった件｜ネジムラ89 / アニメ映画ライター",
       "url": "https://note.com/nejimura89/n/n38bd08557de7",
       "host": "note.com",
-      "source": "note.com",
+      "source": "note",
       "summary": "",
       "publishedAt": "2026-09-27T02:56:51.000Z",
       "image": "https://assets.st-note.com/production/uploads/images/318024771/rectangle_large_type_2_cffcea0b8836222149d2cf888df96037.png?fit=bounds&quality=85&width=1280",
