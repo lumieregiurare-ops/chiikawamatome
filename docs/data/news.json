@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-02T14:30:19.667Z",
+  "updatedAt": "2026-10-02T15:00:18.222Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 116,
-  "todayCount": 52,
+  "total": 118,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 19
+      "count": 20
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 25
+      "count": 26
     },
     {
       "id": "book",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 23
+      "count": 27
     },
     {
       "name": "コラボカフェ",
@@ -121,10 +121,6 @@
       "count": 4
     },
     {
-      "name": "news.yahoo.co.jp",
-      "count": 4
-    },
-    {
       "name": "山陽新聞",
       "count": 4
     },
@@ -137,7 +133,7 @@
       "count": 2
     },
     {
-      "name": "asahi.com",
+      "name": "朝日新聞",
       "count": 2
     },
     {
@@ -189,11 +185,15 @@
       "count": 1
     },
     {
+      "name": "niigata-nippo.co.jp",
+      "count": 1
+    },
+    {
       "name": "東奥日報社",
       "count": 1
     },
     {
-      "name": "南日本新聞",
+      "name": "373news.com",
       "count": 1
     },
     {
@@ -261,7 +261,7 @@
       "count": 1
     },
     {
-      "name": "조선일보",
+      "name": "chosun.com",
       "count": 1
     },
     {
@@ -274,6 +274,10 @@
     },
     {
       "name": "All About ニュース",
+      "count": 1
+    },
+    {
+      "name": "hochi.news",
       "count": 1
     },
     {
@@ -368,8 +372,8 @@
       "image": "https://fki.ismcdn.jp/mwimgs/5/c/-/img_5cec3f9a75ae5b010966c3c167a535c833678.jpg",
       "leadSource": "日刊スポーツ",
       "publishedAt": "2026-10-02T08:53:41.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "sourceCount": 8,
+      "articleCount": 9,
       "categories": [
         "goods",
         "event"
@@ -402,6 +406,13 @@
           "isPR": false
         },
         {
+          "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々 - niigata-nippo.co.jp",
+          "url": "https://www.niigata-nippo.co.jp/articles/-/917371",
+          "source": "niigata-nippo.co.jp",
+          "publishedAt": "2026-10-02T05:25:10.000Z",
+          "isPR": false
+        },
+        {
           "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々｜全国のニュース｜Web東奥",
           "url": "https://www.toonippo.co.jp/articles/-/2374672",
           "source": "東奥日報社",
@@ -418,7 +429,7 @@
         {
           "title": "【写真】中国、ちいかわ人気加速 特別展開催、グッズ店続々",
           "url": "https://373news.com/news/national/photo/2026100201000869/",
-          "source": "南日本新聞",
+          "source": "373news.com",
           "publishedAt": "2026-10-02T05:25:07.000Z",
           "isPR": false
         },
@@ -741,7 +752,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/79dc5eeae0b7b9f50592db831b31727e68eeaf44",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00140255-toushin-000-2-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-01T22:10:50.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -766,12 +777,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T14:00:19.836Z",
-    "previousCount": 118,
-    "newCount": 1
+    "previousAt": "2026-10-02T14:30:19.667Z",
+    "previousCount": 116,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T15:00:19.667Z",
+  "nextUpdateAt": "2026-10-02T15:30:18.222Z",
   "items": [
     {
       "id": "05ab6a777fe2",
@@ -1125,6 +1136,26 @@
       "isNew": false
     },
     {
+      "id": "eebd5789db03",
+      "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々 - niigata-nippo.co.jp",
+      "url": "https://www.niigata-nippo.co.jp/articles/-/917371",
+      "host": "niigata-nippo.co.jp",
+      "source": "niigata-nippo.co.jp",
+      "summary": "",
+      "publishedAt": "2026-10-02T05:25:10.000Z",
+      "image": "https://niigata-nippo.ismcdn.jp/mwimgs/5/c/1200m/img_5cec3f9a75ae5b010966c3c167a535c833678.jpg?rd=202609301546",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f0719a37c055",
       "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々｜全国のニュース｜Web東奥",
       "url": "https://www.toonippo.co.jp/articles/-/2374672",
@@ -1169,7 +1200,7 @@
       "title": "【写真】中国、ちいかわ人気加速 特別展開催、グッズ店続々",
       "url": "https://373news.com/news/national/photo/2026100201000869/",
       "host": "373news.com",
-      "source": "南日本新聞",
+      "source": "373news.com",
       "summary": "",
       "publishedAt": "2026-10-02T05:25:07.000Z",
       "image": "https://373news.com/_news/newspack/photo/2026/10/PN2026100201000943.-.-.CI0003.jpg",
@@ -1209,7 +1240,7 @@
       "title": "携帯できて便利！ 【ちいかわ】「キャラクター型えほん」新作3冊が登場。手のひらサイズで約80gと軽量",
       "url": "https://www.asahi.com/and/w/article/16930714",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-10-02T04:08:16.000Z",
       "image": "",
@@ -1339,14 +1370,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f5c3be5badb",
       "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
       "url": "https://www.asahi.com/and/w/article/16927024/31386894",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-10-02T02:57:08.000Z",
       "image": "",
@@ -1631,7 +1662,7 @@
       "title": "寒くて毛量増えた！？GUの〈ちいかわプルオーバー＆パーカ〉2型で冬支度。もこもこフード姿もキュートな冬らしいデザインに注目",
       "url": "https://news.yahoo.co.jp/articles/79dc5eeae0b7b9f50592db831b31727e68eeaf44",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-01T22:10:50.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00140255-toushin-000-2-view.jpg?exp=10800",
@@ -2248,7 +2279,7 @@
       "title": "「ちいかわ」大暴れするうさぎなどのキラキラシール！カップデザインにも注目のスープ2種が10月22日から期間限定発売",
       "url": "https://news.yahoo.co.jp/articles/05a30239c03d4462165168e614fdf1333cf22075",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-01T03:05:03.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261001-00000033-isd-000-3-view.jpg?exp=10800",
@@ -2409,7 +2440,7 @@
       "title": "日本1000万人アニメ『ちいかわ』首位",
       "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/01/IA2HOQYDPRFD5J67NJPYGXCJYQ/",
       "host": "chosun.com",
-      "source": "조선일보",
+      "source": "chosun.com",
       "summary": "",
       "publishedAt": "2026-09-30T22:18:00.000Z",
       "image": "https://www.chosun.com/resizer/v2/ECXQEBRDMNBBTM6OWDDCAGP4BE.jpg?auth=7cf55938ceddc98f9fca23406481b56a1646d5d245dea04107b85212cc3889fd&width=1200&height=630&smart=true",
@@ -2589,7 +2620,7 @@
       "source": "Togetter",
       "summary": "",
       "publishedAt": "2026-09-30T09:55:06.000Z",
-      "image": "https://s.tgstc.com/ogp3/fd30db4f1a39b73d0f16ad21a24f548d-1200x630.jpeg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2965,11 +2996,30 @@
       "isNew": false
     },
     {
+      "id": "0ce41a45c0c5",
+      "title": "マゼンチュは“二匹目のちいかわ”となるか カンテレ朝番組内アニメにファーストサマーウイカ“出演”",
+      "url": "https://hochi.news/articles/20260930-OHT1T51007.html",
+      "host": "hochi.news",
+      "source": "hochi.news",
+      "summary": "",
+      "publishedAt": "2026-09-30T02:19:00.000Z",
+      "image": "https://hochi.news/images/2026/09/30/20260930-OHT1I51007-C.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f7db4d66d0b7",
       "title": "映画ちいかわのコラボカフェを訪問→ふと足元を見ると……「エグっ」 まさかの光景に「人の心が無い」「芸が細かすぎる」",
       "url": "https://news.yahoo.co.jp/articles/9ae7c54d8f9d6914711a64e2a16402f3e2c14543/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-30T01:52:02.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgKVbpfBIw-Qd2crdqMHKfUkugeBH0MbT8HkjZ5ePwyiojI6adMgilF_704Coj0e9ut5EE23jtsFO-6wYtwun_dewfhPbTasrTnjraSuWi5ffxy_VGMG1OWbred8Z5j5OZg==",
@@ -3033,7 +3083,7 @@
       "title": "ちいかわコラボの「医療用ユニフォーム」発売！ 医療従事者から歓喜の声「モチベーションあがる」（ふたまん＋）",
       "url": "https://news.yahoo.co.jp/articles/22e3c560e0d313763463b0eccee7053c6d453a15",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-29T22:00:37.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00132425-futaman-000-1-view.jpg?exp=10800",
