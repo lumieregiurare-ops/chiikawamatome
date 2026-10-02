@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:00:16.123Z",
+  "updatedAt": "2026-10-02T04:30:17.834Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,17 +7,17 @@
     "contactUrl": ""
   },
   "total": 119,
-  "todayCount": 34,
+  "todayCount": 30,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 39
+      "count": 42
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "collab",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 16
+      "count": 15
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 28
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "momonga",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 5
+      "count": 6
     },
     {
       "id": "rakko",
@@ -90,19 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 33
+      "count": 32
     },
     {
       "name": "インサイド",
-      "count": 8
-    },
-    {
-      "name": "山陽新聞",
-      "count": 7
-    },
-    {
-      "name": "PR TIMES",
-      "count": 6
+      "count": 11
     },
     {
       "name": "キャラグー",
@@ -110,18 +102,26 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 4
+      "count": 5
+    },
+    {
+      "name": "PR TIMES",
+      "count": 5
+    },
+    {
+      "name": "山陽新聞",
+      "count": 5
     },
     {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
+      "name": "めざましmedia",
       "count": 3
     },
     {
-      "name": "めざましmedia",
+      "name": "ナタリー",
       "count": 3
     },
     {
@@ -129,7 +129,19 @@
       "count": 3
     },
     {
+      "name": "朝日新聞",
+      "count": 2
+    },
+    {
+      "name": "電撃ホビーウェブ",
+      "count": 2
+    },
+    {
       "name": "au Webポータル",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -141,27 +153,11 @@
       "count": 2
     },
     {
-      "name": "okinawatimes.co.jp",
-      "count": 2
-    },
-    {
-      "name": "ナタリー",
-      "count": 2
-    },
-    {
-      "name": "s.inside-games.jp",
-      "count": 2
-    },
-    {
-      "name": "cinemacafe.net",
-      "count": 2
-    },
-    {
       "name": "Infoseek",
       "count": 2
     },
     {
-      "name": "Togetter",
+      "name": "togetter.com",
       "count": 2
     },
     {
@@ -169,11 +165,7 @@
       "count": 1
     },
     {
-      "name": "朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "グルメ Watch",
+      "name": "gourmet.watch.impress.co.jp",
       "count": 1
     },
     {
@@ -189,15 +181,11 @@
       "count": 1
     },
     {
-      "name": "キャラクター情報サイト",
+      "name": "charalab.com",
       "count": 1
     },
     {
       "name": "電撃オンライン",
-      "count": 1
-    },
-    {
-      "name": "hobby.dengeki.com",
       "count": 1
     },
     {
@@ -209,7 +197,19 @@
       "count": 1
     },
     {
-      "name": "エリアLOVE WALKER",
+      "name": "lovewalker.jp",
+      "count": 1
+    },
+    {
+      "name": "沖縄タイムス社",
+      "count": 1
+    },
+    {
+      "name": "cinemacafe.net",
+      "count": 1
+    },
+    {
+      "name": "Web担当者Forum",
       "count": 1
     },
     {
@@ -229,7 +229,7 @@
       "count": 1
     },
     {
-      "name": "news.mynavi.jp",
+      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -257,43 +257,47 @@
       "count": 1
     },
     {
-      "name": "シブヤ経済新聞",
+      "name": "newscafe.ne.jp",
+      "count": 1
+    },
+    {
+      "name": "shibukei.com",
       "count": 1
     }
   ],
   "topics": [
     {
-      "id": "ca208aaacfaa",
-      "title": "「ちいかわ」プラキット「ちいプラ」シリーズ誕生！自転車ふたり乗りもできちゃうハチワレなど全3種が10月3日より数量限定予約開始",
-      "summary": "かんたんプラキット「ちいプラ」シリーズが新たに誕生！第1弾は「ちいかわ／ハチワレ／うさぎと自転車」全3種です。",
-      "url": "https://www.inside-games.jp/article/2026/10/02/188628.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1788560.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-10-02T02:30:03.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "id": "ee73b33ac437",
+      "title": "『ちいかわ』自転車に乗った可愛すぎるちいかわ、ハチワレのプラモデルが登場！くりまんじゅうだらけのトレーディングフィギュアの原型も撮影禁止で展示！【2026第64回全日本模型ホビーショー速報レポート】グレイ・パーカー・サービス",
+      "summary": "グレイ・パーカー・サービスは、『ちいかわ』自転車に乗った可愛すぎるちいかわ、ハチワレのプラモデルが登場！表情豊かなトレーディングフィギュアも展示！2026第64回全日本模型ホビーショー速報写真レポート #全日本模型ホビーショー #ちいプラ",
+      "url": "https://hobby.dengeki.com/event/3182984/",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/DSC_4865_BYC3jB_qmkXkhDGUIb8Q3aWKbgN9FoRQ_RpBYKQ60fuYZAEG7QvxdpWePBHzkCIjz.jpg",
+      "leadSource": "電撃ホビーウェブ",
+      "publishedAt": "2026-10-02T04:05:11.000Z",
+      "sourceCount": 7,
+      "articleCount": 10,
       "categories": [
         "goods",
         "other"
       ],
       "keywords": [
         "ハチワレ",
-        "自転車",
-        "うさぎ"
+        "ホビーショー",
+        "自転車"
       ],
       "articles": [
         {
-          "title": "ちいかわ＞プラキット「ちいプラ」 名シーンを“組み立てる” 自転車に乗るちいかわ、ハチワレ、うさぎ (MANTANWEB)",
-          "url": "https://news.yahoo.co.jp/articles/691259229a96e7f0e270644fac853ce6bd1f60f2/images/000",
+          "title": "「ちいかわ」の新作プラキット「ちいプラ」初お披露目！ 自転車に乗ったちいかわたち【#全日本模型ホビーショー】（HOBBY Watch）",
+          "url": "https://news.yahoo.co.jp/articles/8901fbdc9c96db36052763dbee382a2f7e5ed88a",
           "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-01T23:16:00.000Z",
+          "publishedAt": "2026-10-02T01:26:00.000Z",
           "isPR": false
         },
         {
-          "title": "ちいかわ：プラキット「ちいプラ」 名シーンを“組み立てる” 自転車に乗るちいかわ、ハチワレ、うさぎ",
-          "url": "https://mantan-web.jp/article/20261001dog00m200042000a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-10-01T23:13:28.000Z",
+          "title": "『ちいかわ』がプラキットで登場?! グレイ・パーカー・サービスにて新作プラキット「ちいプラ」が初展示！【グレイ・パーカー・サービス／第63回全日本模型ホビーショー】",
+          "url": "https://hjweb.jp/article/2836279/",
+          "source": "Hobby JAPAN Web",
+          "publishedAt": "2026-10-02T01:01:15.000Z",
           "isPR": false
         },
         {
@@ -301,6 +305,13 @@
           "url": "https://dengekionline.com/article/202610/89732",
           "source": "電撃オンライン",
           "publishedAt": "2026-10-01T11:06:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』のプラキット「ちいプラ」をグレイ・パーカー・サービスが初お披露目！会場限定でオリジナルステッカーの配布も実施【第64回全日本模型ホビーショー事前情報】",
+          "url": "https://hobby.dengeki.com/news/3180602/",
+          "source": "電撃ホビーウェブ",
+          "publishedAt": "2026-10-01T10:50:00.000Z",
           "isPR": false
         },
         {
@@ -312,9 +323,23 @@
         },
         {
           "title": "「ちいかわ」自転車に乗ったちいかわ、ハチワレ、うさぎのプラキットシリーズ登場",
-          "url": "https://news.nicovideo.jp/watch/nw19830540",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-01T09:15:16.000Z",
+          "url": "https://natalie.mu/comic/news/691942",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-01T09:11:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「第64回全日本模型ホビーショー」にブース出展決定！新商品『ちいかわ』のプラキット「ちいプラ」初お披露目",
+          "url": "https://prtimes.jp/main/html/rd/p/000000074.000168561.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-01T06:00:02.000Z",
+          "isPR": true
+        },
+        {
+          "title": "ちいかわの“ツヤ感”可愛いシールがカプセルトイに！ハチワレ、シーサー、くりまんじゅうなどラインナップ",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188569.html",
+          "source": "インサイド",
+          "publishedAt": "2026-10-01T03:50:02.000Z",
           "isPR": false
         }
       ]
@@ -349,7 +374,7 @@
         {
           "title": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場",
           "url": "https://news.mynavi.jp/article/20261001-5052282/",
-          "source": "news.mynavi.jp",
+          "source": "マイナビニュース",
           "publishedAt": "2026-09-30T21:30:38.000Z",
           "isPR": false
         },
@@ -363,38 +388,81 @@
       ]
     },
     {
-      "id": "19ea0a712d9f",
-      "title": "『ちいかわ』がプラキットで登場?! グレイ・パーカー・サービスにて新作プラキット「ちいプラ」が初展示！【グレイ・パーカー・サービス／第63回全日本模型ホビーショー】",
-      "summary": "",
-      "url": "https://hjweb.jp/article/2836279/",
-      "image": "https://hjweb.jp/wp-content/uploads/2026/10/IMG_8154.jpg",
-      "leadSource": "Hobby JAPAN Web",
-      "publishedAt": "2026-10-02T01:01:15.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "id": "350710936082",
+      "title": "「ちいかわ」ハチワレ、うさぎ達とぬっくぬくの秋冬を♪ ルームシューズやブランケット、ルームウェアが登場",
+      "summary": "「ちいかわ」より、これからの季節にぴったりなあったかアイテムが登場。ダンス柄のルームシューズや3WAYブランケット、大きめ毛布ブランケット、もこもこブランケットなどが10月9日より順次発売されるほか、ワッフル長袖Tシャツやルームウェアセットアップも展開される。",
+      "url": "https://animeanime.jp/article/2026/10/01/103407.html",
+      "image": "https://animeanime.jp/imgs/rss/937388.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-01T07:45:03.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "goods",
-        "other"
+        "book"
       ],
       "keywords": [
-        "プラキット",
-        "ホビーショー",
-        "回全日本模型"
+        "ハチワレ",
+        "うさぎ",
+        "ルームウェア"
       ],
       "articles": [
         {
-          "title": "『ちいかわ』のプラキット「ちいプラ」をグレイ・パーカー・サービスが初お披露目！会場限定でオリジナルステッカーの配布も実施【第64回全日本模型ホビーショー事前情報】",
-          "url": "https://hobby.dengeki.com/news/3180602/",
-          "source": "hobby.dengeki.com",
-          "publishedAt": "2026-10-01T10:50:00.000Z",
+          "title": "ちいかわ：キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？",
+          "url": "https://mantan-web.jp/article/20260930dog00m200064000a.html",
+          "source": "MANTANWEB",
+          "publishedAt": "2026-09-30T08:58:27.000Z",
           "isPR": false
         },
         {
-          "title": "「第64回全日本模型ホビーショー」にブース出展決定！新商品『ちいかわ』のプラキット「ちいプラ」初お披露目",
-          "url": "https://prtimes.jp/main/html/rd/p/000000074.000168561.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-01T06:00:02.000Z",
-          "isPR": true
+          "title": "ちいかわ＞キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？ (MANTANWEB)",
+          "url": "https://news.yahoo.co.jp/articles/0823e256823a0c3a37100cf54f44332efd9475ac/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-30T08:58:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわのお顔がニット帽に！ハチワレ、うさぎのもこもこバッグ、ルームウェアなど♪「dazzlin」スペシャルアイテム展開",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa254ZzBDdVBJV2dLUGdQU3lqeHMxdUJJUjZiS0NXdFdJMU5JRDRwV2k3QmZGaHJ4R2Z4dEphVnNZZVBtZ0R4V2FvQm1sdm5rb3JPbW9kV25mc0xFTDFWYzBjaDVBYUFfUWpCdTlUTHlBQ0d5MTRvckhBMDNja0I0dldOMVU1eGxIMGFjQVZYN3I5dnPSAY8BQVVfeXFMTUJzXzViU2NycmcxdFo0QzdEdW0tZEU2SHFWQWhzSGlVbng0RWJxVVpuTG9oWkN0Ujl2TmRlWVZZS20yb3dXNEN0QXc2cHN1RzVodDZmM0VkLUMtSDg5U1RQT3kydUxDS1pOejViZW1rYmJaNVU2ZWxDTml6V1pYazhHcGY1VnZfRmNma3JIX0E?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-09-29T08:34:43.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "6fcb2c14c4b6",
+      "title": "沖縄のデパートリウボウでちいかわベーカリーのポップアップショップが初開催",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGR4MEVHLVFMcDVHTkhuMlFCTHNkOW5rLXM0Z3h0SGNuejZpRXZ4LWMzNGNBZnVCVVNOMGhOa0xoQktMSk5OcTUyUXVXdmNIOWw1cFlnQ19VN3ZLTkRiNGwwNU5SaHc0UXl2Y0w4YjUzMmlNOFBwcGhydThQd3V4ODcwTlR6b2JfbkdDS9IBjAFBVV95cUxNbGR4MEVHLVFMcDVHTkhuMlFCTHNkOW5rLXM0Z3h0SGNuejZpRXZ4LWMzNGNBZnVCVVNOMGhOa0xoQktMSk5OcTUyUXVXdmNIOWw1cFlnQ19VN3ZLTkRiNGwwNU5SaHc0UXl2Y0w4YjUzMmlNOFBwcGhydThQd3V4ODcwTlR6b2JfbkdDSw?oc=5",
+      "image": "https://oki.ismcdn.jp/mwimgs/b/e/1200wm/img_be989a5ab522b6a4e75c51aa9cf1ed5813019355.jpg",
+      "leadSource": "ｄメニューニュース",
+      "publishedAt": "2026-10-01T22:01:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "event",
+        "collab"
+      ],
+      "keywords": [
+        "ベーカリー",
+        "沖縄",
+        "リウボウ"
+      ],
+      "articles": [
+        {
+          "title": "沖縄でしか買えない「ちいかわ食パン（黒糖）」も登場 リウボウに期間限定ショップ「ちいかわベーカリー」【動画】",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1935626",
+          "source": "沖縄タイムス社",
+          "publishedAt": "2026-10-01T05:36:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわベーカリー沖縄初出店 那覇のリウボウ、12日まで限定 黒糖食パンやグッズ販売【動画】",
+          "url": "https://ryukyushimpo.jp/news/entry-5531069.html",
+          "source": "琉球新報デジタル",
+          "publishedAt": "2026-10-01T00:59:25.000Z",
+          "isPR": false
         }
       ]
     },
@@ -429,43 +497,7 @@
           "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
           "url": "https://www.sanyonews.jp/article/1994867",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-01T15:47:11.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "350710936082",
-      "title": "「ちいかわ」ハチワレ、うさぎ達とぬっくぬくの秋冬を♪ ルームシューズやブランケット、ルームウェアが登場",
-      "summary": "「ちいかわ」より、これからの季節にぴったりなあったかアイテムが登場。ダンス柄のルームシューズや3WAYブランケット、大きめ毛布ブランケット、もこもこブランケットなどが10月9日より順次発売されるほか、ワッフル長袖Tシャツやルームウェアセットアップも展開される。",
-      "url": "https://animeanime.jp/article/2026/10/01/103407.html",
-      "image": "https://animeanime.jp/imgs/rss/937388.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-01T07:45:03.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "goods",
-        "book"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "ダンス"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ：キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？",
-          "url": "https://mantan-web.jp/article/20260930dog00m200064000a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-09-30T08:58:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ＞キャラクター形絵本の新作 眠るハチワレ ダンスするちいかわ うさぎが変身！？ (MANTANWEB)",
-          "url": "https://news.yahoo.co.jp/articles/0823e256823a0c3a37100cf54f44332efd9475ac/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-30T08:58:00.000Z",
+          "publishedAt": "2026-09-30T18:39:57.000Z",
           "isPR": false
         }
       ]
@@ -562,53 +594,17 @@
       ],
       "articles": [
         {
+          "title": "ちいかわたちがコロネに！ 「ちいかわベーカリー」2周年記念グッズが登場",
+          "url": "https://www.newscafe.ne.jp/article/2026/09/29/3032336.html",
+          "source": "newscafe.ne.jp",
+          "publishedAt": "2026-09-29T04:46:04.000Z",
+          "isPR": false
+        },
+        {
           "title": "原宿「ちいかわベーカリー」で2周年記念グッズ コロネ風キャラぬいぐるみも",
           "url": "https://www.shibukei.com/index.php/headline/20172/",
-          "source": "シブヤ経済新聞",
+          "source": "shibukei.com",
           "publishedAt": "2026-09-29T04:34:58.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわたちがコロネに！ 「ちいかわベーカリー」2周年記念グッズが登場",
-          "url": "https://www.cinemacafe.net/article/2026/09/29/112935.html",
-          "source": "cinemacafe.net",
-          "publishedAt": "2026-09-29T04:30:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "beb0d9f8cc10",
-      "title": "ちいかわベーカリー出店 12日までリウボウ 限定食パンも",
-      "summary": "",
-      "url": "https://www.okinawatimes.co.jp/articles/-/1936120",
-      "image": "https://oki.ismcdn.jp/mwimgs/b/e/1200wm/img_be989a5ab522b6a4e75c51aa9cf1ed5813019355.jpg",
-      "leadSource": "okinawatimes.co.jp",
-      "publishedAt": "2026-10-01T18:57:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "collab",
-        "goods"
-      ],
-      "keywords": [
-        "ベーカリー",
-        "リウボウ",
-        "出店"
-      ],
-      "articles": [
-        {
-          "title": "沖縄でしか買えない「ちいかわ食パン（黒糖）」も登場 リウボウに期間限定ショップ「ちいかわベーカリー」【動画】",
-          "url": "https://www.okinawatimes.co.jp/articles/-/1935626",
-          "source": "okinawatimes.co.jp",
-          "publishedAt": "2026-10-01T05:36:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわベーカリー沖縄初出店 那覇のリウボウ、12日まで限定 黒糖食パンやグッズ販売【動画】",
-          "url": "https://ryukyushimpo.jp/news/entry-5531069.html",
-          "source": "琉球新報デジタル",
-          "publishedAt": "2026-10-01T00:59:25.000Z",
           "isPR": false
         }
       ]
@@ -619,7 +615,7 @@
       "summary": "",
       "url": "https://lovewalker.jp/elem/000/004/439/4439376/",
       "image": "https://ascii.jp/img/2026/10/01/4532799/l/19992190f4eeba97.png?2023101601",
-      "leadSource": "エリアLOVE WALKER",
+      "leadSource": "lovewalker.jp",
       "publishedAt": "2026-10-01T08:00:00.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -678,12 +674,41 @@
       ]
     },
     {
+      "id": "ca208aaacfaa",
+      "title": "「ちいかわ」プラキット「ちいプラ」シリーズ誕生！自転車ふたり乗りもできちゃうハチワレなど全3種が10月3日より数量限定予約開始",
+      "summary": "かんたんプラキット「ちいプラ」シリーズが新たに誕生！第1弾は「ちいかわ／ハチワレ／うさぎと自転車」全3種です。",
+      "url": "https://www.inside-games.jp/article/2026/10/02/188628.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1788560.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-02T02:30:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "other"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "プラキット",
+        "自転車"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ：プラキット「ちいプラ」 名シーンを“組み立てる” 自転車に乗るちいかわ、ハチワレ、うさぎ",
+          "url": "https://mantan-web.jp/article/20261001dog00m200042000a.html",
+          "source": "MANTANWEB",
+          "publishedAt": "2026-10-01T23:13:28.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "5cb8bf4af9a0",
       "title": "ちいかわのキラキラシール入り！ 丸美屋、カップスープ「きのこのポタージュ」「ほうれんそうのポタージュ」を限定発売",
       "summary": "",
       "url": "https://gourmet.watch.impress.co.jp/docs/news/2145069.html",
       "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2145/069/top.jpg",
-      "leadSource": "グルメ Watch",
+      "leadSource": "gourmet.watch.impress.co.jp",
       "publishedAt": "2026-10-02T01:46:33.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -707,13 +732,54 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T03:30:18.430Z",
-    "previousCount": 116,
-    "newCount": 9
+    "previousAt": "2026-10-02T04:00:16.123Z",
+    "previousCount": 119,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T04:30:16.123Z",
+  "nextUpdateAt": "2026-10-02T05:00:17.834Z",
   "items": [
+    {
+      "id": "d393ecb54370",
+      "title": "携帯できて便利！ 【ちいかわ】「キャラクター型えほん」新作3冊が登場。手のひらサイズで約80gと軽量",
+      "url": "https://www.asahi.com/and/w/article/16930714",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-10-02T04:08:16.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ee73b33ac437",
+      "title": "『ちいかわ』自転車に乗った可愛すぎるちいかわ、ハチワレのプラモデルが登場！くりまんじゅうだらけのトレーディングフィギュアの原型も撮影禁止で展示！【2026第64回全日本模型ホビーショー速報レポート】グレイ・パーカー・サービス",
+      "url": "https://hobby.dengeki.com/event/3182984/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "グレイ・パーカー・サービスは、『ちいかわ』自転車に乗った可愛すぎるちいかわ、ハチワレのプラモデルが登場！表情豊かなトレーディングフィギュアも展示！2026第64回全日本模型ホビーショー速報写真レポート #全日本模型ホビーショー #ちいプラ",
+      "publishedAt": "2026-10-02T04:05:11.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/DSC_4865_BYC3jB_qmkXkhDGUIb8Q3aWKbgN9FoRQ_RpBYKQ60fuYZAEG7QvxdpWePBHzkCIjz.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "827c02bf2154",
       "title": "こんなところにも！？スーパー・ドラッグストア・本屋さんで買える「ちいかわ」最新コラボ3選",
@@ -732,7 +798,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "05ab6a777fe2",
@@ -753,26 +819,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "150e5cbbf6f3",
-      "title": "「ナガノアニエラフェスタ」を手がけるアニエラ、オリジナルIP『DIGGIN' THE SOUL』メインキャストオーディションを開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000053.000035585.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[ANIERA] [画像1: https://prcdn.freetls.fastly.net/release_image/35585/53/35585-53-06d0a6ef47ed916cec0cc2e3277a54d0-1920x1080.png?width=536&quality=85%2C75&format…",
-      "publishedAt": "2026-10-02T03:40:48.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/35585/53/35585-53-06d0a6ef47ed916cec0cc2e3277a54d0-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eb60f81f94c5",
@@ -803,7 +850,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T03:12:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-10162738-lasisa-000-1-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-10162738-lasisa-000-8-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -888,25 +935,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4f5c3be5badb",
-      "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
-      "url": "https://www.asahi.com/and/w/article/16927024/31386894",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-02T02:57:08.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1002,7 +1030,7 @@
       "title": "ちいかわのキラキラシール入り！ 丸美屋、カップスープ「きのこのポタージュ」「ほうれんそうのポタージュ」を限定発売",
       "url": "https://gourmet.watch.impress.co.jp/docs/news/2145069.html",
       "host": "gourmet.watch.impress.co.jp",
-      "source": "グルメ Watch",
+      "source": "gourmet.watch.impress.co.jp",
       "summary": "",
       "publishedAt": "2026-10-02T01:46:33.000Z",
       "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2145/069/top.jpg",
@@ -1094,6 +1122,25 @@
       "isNew": false
     },
     {
+      "id": "4f5c3be5badb",
+      "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
+      "url": "https://www.asahi.com/and/w/article/16927024/31386895",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-10-02T00:56:06.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b245ff3a0c3b",
       "title": "「ちいかわ」ハロウィングッズほか、アパレルから雑貨まで新商品が本日10月2日11時より発売！「映画ちいかわ」ダイカットステッカー付きグミも",
       "url": "https://www.inside-games.jp/article/2026/10/02/188617.html",
@@ -1131,28 +1178,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "53ad8697d268",
-      "title": "ちいかわ＞プラキット「ちいプラ」 名シーンを“組み立てる” 自転車に乗るちいかわ、ハチワレ、うさぎ (MANTANWEB)",
-      "url": "https://news.yahoo.co.jp/articles/691259229a96e7f0e270644fac853ce6bd1f60f2/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-01T23:16:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYdr8velOXkr7ePwfpULHlwA8d4aSV4psakHJ1eTBw9u-Jonqj0R-ar0rJTQqaRQ_QW6qWGvbsBGsJVWwAkdIW8GqKWjjOPERii2we_rqHwKjZEn1vwgP5I3lBMmCgVaZA==",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5f83d555314b",
@@ -1310,91 +1335,11 @@
       "isNew": false
     },
     {
-      "id": "beb0d9f8cc10",
-      "title": "ちいかわベーカリー出店 12日までリウボウ 限定食パンも",
-      "url": "https://www.okinawatimes.co.jp/articles/-/1936120",
-      "host": "okinawatimes.co.jp",
-      "source": "okinawatimes.co.jp",
-      "summary": "",
-      "publishedAt": "2026-10-01T18:57:00.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0db85e702f68",
-      "title": "「ちいかわ☆星ふるスカイツリーとひみつの島」きょうスタート ちいかわ＆ハチワレ＆うさぎがごあいさつ【内覧会リポート】",
-      "url": "https://www.sanyonews.jp/article/1952690?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-01T17:15:22.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/5/4/7/054713971f2d4af88712c4c85043d90d_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "2b5914603edc",
-      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
-      "url": "https://www.sanyonews.jp/article/1994867",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-01T15:47:11.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a4b3c306fc9d",
-      "title": "本編放送前に“カニちゃん”も登場…アニメ『ちいかわ』主要キャラ総出演の新PV公開に反響続々「キターーー!!!」「しゃべったあああああ」「朝から泣いてる」",
-      "url": "https://www.sanyonews.jp/article/1914693?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-01T15:20:28.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/8/e/1/58e156d75dc5103b04550db23ae525b3_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "8e4d24e104ad",
       "title": "「ちいかわ」パッケージの「オキシクリーン」新登場！",
       "url": "https://charalab.com/143532/",
       "host": "charalab.com",
-      "source": "キャラクター情報サイト",
+      "source": "charalab.com",
       "summary": "",
       "publishedAt": "2026-10-01T12:04:02.000Z",
       "image": "https://charalab.com/images/2026/10/260925_chiikawa_2.jpg",
@@ -1454,7 +1399,7 @@
       "title": "『ちいかわ』のプラキット「ちいプラ」をグレイ・パーカー・サービスが初お披露目！会場限定でオリジナルステッカーの配布も実施【第64回全日本模型ホビーショー事前情報】",
       "url": "https://hobby.dengeki.com/news/3180602/",
       "host": "hobby.dengeki.com",
-      "source": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
       "summary": "",
       "publishedAt": "2026-10-01T10:50:00.000Z",
       "image": "https://hobby.dengeki.com/ss/hobby/2026/10/ae46b1f460ee46f789c27b264a6cb421_6NcpMB2xCkuHJSgaEHnuNLr84tnkKPLL_wYq_8VdZeW3jHB4d8oPDr81Oo05OhJG6.jpg",
@@ -1588,28 +1533,6 @@
       "isNew": false
     },
     {
-      "id": "a40dd6056a7b",
-      "title": "「ちいかわ」自転車に乗ったちいかわ、ハチワレ、うさぎのプラキットシリーズ登場",
-      "url": "https://news.nicovideo.jp/watch/nw19830540",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-01T09:15:16.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "33e0f110df72",
       "title": "『ちいかわ』第9巻、表紙は元“モブキャラ”の古本屋 モモンガとも仲良しです - KAI-YOU",
       "url": "https://kai-you.net/article/96721",
@@ -1623,6 +1546,28 @@
       ],
       "series": [
         "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a40dd6056a7b",
+      "title": "「ちいかわ」自転車に乗ったちいかわ、ハチワレ、うさぎのプラキットシリーズ登場",
+      "url": "https://natalie.mu/comic/news/691942",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-01T09:11:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1656,7 +1601,7 @@
       "title": "「ちいかわ」の人気キャラクターたちが福岡に集結！「ちいかわPOP UP STORE」が福岡三越で開催決定！",
       "url": "https://lovewalker.jp/elem/000/004/439/4439376/",
       "host": "lovewalker.jp",
-      "source": "エリアLOVE WALKER",
+      "source": "lovewalker.jp",
       "summary": "",
       "publishedAt": "2026-10-01T08:00:00.000Z",
       "image": "https://ascii.jp/img/2026/10/01/4532799/l/19992190f4eeba97.png?2023101601",
@@ -1735,7 +1680,7 @@
       "title": "沖縄でしか買えない「ちいかわ食パン（黒糖）」も登場 リウボウに期間限定ショップ「ちいかわベーカリー」【動画】",
       "url": "https://www.okinawatimes.co.jp/articles/-/1935626",
       "host": "okinawatimes.co.jp",
-      "source": "okinawatimes.co.jp",
+      "source": "沖縄タイムス社",
       "summary": "",
       "publishedAt": "2026-10-01T05:36:00.000Z",
       "image": "https://oki.ismcdn.jp/mwimgs/b/e/1200wm/img_be989a5ab522b6a4e75c51aa9cf1ed5813019355.jpg",
@@ -1770,10 +1715,10 @@
     },
     {
       "id": "5bb3cd6190a1",
-      "title": "「ちいかわ」単体でも、組み合わせても可愛い！一緒に飾れる2つのガシャポン「フロッキードール」「カプセルステッキ」が10月第5週より同時展開 - s.inside-games.jp",
+      "title": "「ちいかわ」単体でも、組み合わせても可愛い！一緒に飾れる2つのガシャポン「フロッキードール」「カプセルステッキ」が10月第5週より同時展開",
       "url": "https://s.inside-games.jp/article/2026/10/01/188573.html?from",
       "host": "s.inside-games.jp",
-      "source": "s.inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-01T05:00:03.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1772672.jpg",
@@ -1805,6 +1750,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cdb957dda580",
+      "title": "【最新ネット話題】Officeの消失、こめお食中毒、ちいかわコラボ景品横領など",
+      "url": "https://webtan.impress.co.jp/e/2026/10/02/53379",
+      "host": "webtan.impress.co.jp",
+      "source": "Web担当者Forum",
+      "summary": "",
+      "publishedAt": "2026-10-01T04:06:24.000Z",
+      "image": "",
+      "categories": [
+        "kuji",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "32197e169f01",
@@ -1873,12 +1838,12 @@
     {
       "id": "d492d58cc287",
       "title": "「ちいかわ」大暴れするうさぎなどのキラキラシール！カップデザインにも注目のスープ2種が10月22日から期間限定発売",
-      "url": "https://news.yahoo.co.jp/articles/05a30239c03d4462165168e614fdf1333cf22075",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://www.inside-games.jp/article/2026/10/01/188562.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-01T03:05:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261001-00000033-isd-000-3-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1787944.jpg",
       "categories": [
         "goods"
       ],
@@ -1974,10 +1939,10 @@
     },
     {
       "id": "05b97da23d75",
-      "title": "「ちいかわ」めじるしアクセサリー3が10月第4週より再販！雨カッパを着た姿が可愛い「ハチワレ」「うさぎ」など全5種 - s.inside-games.jp",
+      "title": "「ちいかわ」めじるしアクセサリー3が10月第4週より再販！雨カッパを着た姿が可愛い「ハチワレ」「うさぎ」など全5種",
       "url": "https://s.inside-games.jp/article/2026/10/01/188555.html?pickup-text-list",
       "host": "s.inside-games.jp",
-      "source": "s.inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-01T02:10:03.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1723434.jpg",
@@ -2170,11 +2135,31 @@
       "isNew": false
     },
     {
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.sanyonews.jp/article/1994052?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-09-30T21:44:25.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "a729bb542ff2",
       "title": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場",
       "url": "https://news.mynavi.jp/article/20261001-5052282/",
       "host": "news.mynavi.jp",
-      "source": "news.mynavi.jp",
+      "source": "マイナビニュース",
       "summary": "",
       "publishedAt": "2026-09-30T21:30:38.000Z",
       "image": "https://news.mynavi.jp/article/20261001-5052282/ogp_images/ogp.jpg",
@@ -2203,6 +2188,26 @@
       "categories": [
         "collab",
         "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2b5914603edc",
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
+      "url": "https://www.sanyonews.jp/article/1994867",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-09-30T18:39:57.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -2334,7 +2339,7 @@
       "title": "ナガノ先生の咽び泣くくまのぬいぐるみを持って旅行したんですけど、どう撮っても絶対に無理やり連行されてる風に見えて超良かったです (2ページ目)",
       "url": "https://togetter.com/li/2752353?page",
       "host": "togetter.com",
-      "source": "Togetter",
+      "source": "togetter.com",
       "summary": "",
       "publishedAt": "2026-09-30T09:55:06.000Z",
       "image": "https://s.tgstc.com/ogp3/fd30db4f1a39b73d0f16ad21a24f548d-1200x630.jpeg",
@@ -2498,7 +2503,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d96a7277612a",
@@ -2558,11 +2563,11 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0c6e03fb1c6",
-      "title": "全国初『ちいかわパークストア』など28ブランドが一斉開業。『LUCUA SOUTH』第2期、2026年11月24日（火）開業決定。“館まるごと没入型エンタメ空間へ” | JR西日本SC開発株式会社のプレスリリース",
+      "title": "全国初『ちいかわパークストア』など28ブランドが一斉開業。『LUCUA SOUTH』第2期、2026年11月24日（火）開業決定。“館まるごと没入型エンタメ空間へ”",
       "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
       "host": "prtimes.jp",
       "source": "PR TIMES",
@@ -2720,24 +2725,24 @@
       "isNew": false
     },
     {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
-      "url": "https://www.sanyonews.jp/article/1994052?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "f55f5d8f116f",
+      "title": "【ヤフコメで話題】「ちいかわ映画の上映や限定グッズに注目」「ショー再開や演出充実を望む声」 - 作品人気と体験価値をめぐる反応",
+      "url": "https://news.yahoo.co.jp/articles/3750347e1dda289eef9785e51d4555c5ab1ac225",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-09-29T22:02:50.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "publishedAt": "2026-09-29T22:33:47.000Z",
+      "image": "",
       "categories": [
-        "anime",
-        "goods"
+        "goods",
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "834654df666b",
@@ -2894,7 +2899,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b2da6cdd4ee4",
@@ -2936,6 +2941,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "453b7e5f6cd9",
+      "title": "ちいかわのお顔がニット帽に！ハチワレ、うさぎのもこもこバッグ、ルームウェアなど♪「dazzlin」スペシャルアイテム展開",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa254ZzBDdVBJV2dLUGdQU3lqeHMxdUJJUjZiS0NXdFdJMU5JRDRwV2k3QmZGaHJ4R2Z4dEphVnNZZVBtZ0R4V2FvQm1sdm5rb3JPbW9kV25mc0xFTDFWYzBjaDVBYUFfUWpCdTlUTHlBQ0d5MTRvckhBMDNja0I0dldOMVU1eGxIMGFjQVZYN3I5dnPSAY8BQVVfeXFMTUJzXzViU2NycmcxdFo0QzdEdW0tZEU2SHFWQWhzSGlVbng0RWJxVVpuTG9oWkN0Ujl2TmRlWVZZS20yb3dXNEN0QXc2cHN1RzVodDZmM0VkLUMtSDg5U1RQT3kydUxDS1pOejViZW1rYmJaNVU2ZWxDTml6V1pYazhHcGY1VnZfRmNma3JIX0E?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-09-29T08:34:43.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "301f657d2e26",
@@ -2981,7 +3008,7 @@
       "title": "ちいかわらんど心斎橋パルコ店で明らかに転売ヤーによる扱いも雑な買い占めを目撃…なぜ個数制限をつけないのか",
       "url": "https://togetter.com/li/2751895",
       "host": "togetter.com",
-      "source": "Togetter",
+      "source": "togetter.com",
       "summary": "",
       "publishedAt": "2026-09-29T07:59:21.000Z",
       "image": "https://s.tgstc.com/ogp3/c836479b96a67cfea86360a045891e11-1200x630.jpeg",
@@ -3057,14 +3084,14 @@
       "isNew": false
     },
     {
-      "id": "afb9d59db16d",
-      "title": "原宿「ちいかわベーカリー」で2周年記念グッズ コロネ風キャラぬいぐるみも",
-      "url": "https://www.shibukei.com/index.php/headline/20172/",
-      "host": "shibukei.com",
-      "source": "シブヤ経済新聞",
+      "id": "53840375caef",
+      "title": "ちいかわたちがコロネに！ 「ちいかわベーカリー」2周年記念グッズが登場",
+      "url": "https://www.newscafe.ne.jp/article/2026/09/29/3032336.html",
+      "host": "newscafe.ne.jp",
+      "source": "newscafe.ne.jp",
       "summary": "",
-      "publishedAt": "2026-09-29T04:34:58.000Z",
-      "image": "https://images.keizai.biz/shibukei/headline/1790653178_photo.jpg",
+      "publishedAt": "2026-09-29T04:46:04.000Z",
+      "image": "https://www.newscafe.ne.jp/imgs/ogp_f/22774678.jpg",
       "categories": [
         "goods"
       ],
@@ -3076,14 +3103,14 @@
       "isNew": false
     },
     {
-      "id": "53840375caef",
-      "title": "ちいかわたちがコロネに！ 「ちいかわベーカリー」2周年記念グッズが登場",
-      "url": "https://www.cinemacafe.net/article/2026/09/29/112935.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
+      "id": "afb9d59db16d",
+      "title": "原宿「ちいかわベーカリー」で2周年記念グッズ コロネ風キャラぬいぐるみも",
+      "url": "https://www.shibukei.com/index.php/headline/20172/",
+      "host": "shibukei.com",
+      "source": "shibukei.com",
       "summary": "",
-      "publishedAt": "2026-09-29T04:30:03.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/835931.jpg",
+      "publishedAt": "2026-09-29T04:34:58.000Z",
+      "image": "https://images.keizai.biz/shibukei/headline/1790653178_photo.jpg",
       "categories": [
         "goods"
       ],
