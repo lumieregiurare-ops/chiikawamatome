@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-02T10:00:16.366Z",
+  "updatedAt": "2026-10-02T10:30:18.223Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 116,
-  "todayCount": 46,
+  "total": 119,
+  "todayCount": 47,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 44
+      "count": 48
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 2
+      "count": 4
     },
     {
       "id": "collab",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 17
+      "count": 18
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 26
+      "count": 28
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 28
     }
   ],
   "series": [
@@ -59,12 +59,12 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "kurimanju",
@@ -90,18 +90,18 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 29
-    },
-    {
-      "name": "コラボカフェ",
-      "count": 7
+      "count": 28
     },
     {
       "name": "インサイド",
-      "count": 7
+      "count": 8
     },
     {
       "name": "キャラグー",
+      "count": 8
+    },
+    {
+      "name": "コラボカフェ",
       "count": 6
     },
     {
@@ -129,11 +129,15 @@
       "count": 3
     },
     {
-      "name": "nikkei.com",
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
+      "name": "福井新聞社",
       "count": 2
     },
     {
-      "name": "朝日新聞",
+      "name": "asahi.com",
       "count": 2
     },
     {
@@ -149,7 +153,7 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "Real Sound｜リアルサウンド",
       "count": 2
     },
     {
@@ -170,10 +174,6 @@
     },
     {
       "name": "AdverTimes.（アドタイ） by 宣伝会議",
-      "count": 1
-    },
-    {
-      "name": "福井新聞社",
       "count": 1
     },
     {
@@ -209,6 +209,10 @@
       "count": 1
     },
     {
+      "name": "日本経済新聞",
+      "count": 1
+    },
+    {
       "name": "キャラクター情報サイト",
       "count": 1
     },
@@ -218,10 +222,6 @@
     },
     {
       "name": "KAI-YOU",
-      "count": 1
-    },
-    {
-      "name": "Real Sound｜リアルサウンド",
       "count": 1
     },
     {
@@ -281,17 +281,17 @@
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-goods-chiipura-bicycle-2026/",
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-goods-chiipura-bicycle-2026-eyecatch.jpg",
       "leadSource": "コラボカフェ",
-      "publishedAt": "2026-10-02T05:07:43.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "publishedAt": "2026-10-02T05:45:56.000Z",
+      "sourceCount": 10,
+      "articleCount": 11,
       "categories": [
         "goods",
         "other"
       ],
       "keywords": [
         "ハチワレ",
-        "自転車",
-        "プラキット"
+        "うさぎ",
+        "自転車"
       ],
       "articles": [
         {
@@ -323,6 +323,13 @@
           "isPR": false
         },
         {
+          "title": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り",
+          "url": "https://realsound.jp/book/2026/10/post-2541029.html",
+          "source": "Real Sound｜リアルサウンド",
+          "publishedAt": "2026-10-01T11:02:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "「ハチワレと自転車（ふたり乗り自転車付き）」 [画像ギャラリー 5/10]",
           "url": "https://natalie.mu/comic/gallery/news/691942/2981604",
           "source": "ナタリー",
@@ -337,10 +344,10 @@
           "isPR": false
         },
         {
-          "title": "『ちいかわ』えほんシリーズに「ちいかわ」「ハチワレ」「うさぎ」の新作3冊登場",
-          "url": "https://news.mynavi.jp/article/20261001-5052282/",
-          "source": "news.mynavi.jp",
-          "publishedAt": "2026-09-30T21:30:38.000Z",
+          "title": "ちいかわ・ハチワレ・うさぎといつでも一緒♪ 0歳から楽しめるキャラクター型えほんの新作が登場",
+          "url": "https://animeanime.jp/article/2026/10/01/103403.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-01T03:45:20.000Z",
           "isPR": false
         }
       ]
@@ -354,10 +361,10 @@
       "leadSource": "日刊スポーツ",
       "publishedAt": "2026-10-02T08:53:41.000Z",
       "sourceCount": 7,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "goods",
-        "other"
+        "event"
       ],
       "keywords": [
         "中国",
@@ -365,6 +372,13 @@
         "店続"
       ],
       "articles": [
+        {
+          "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々 | 全国のニュース",
+          "url": "https://www.fukuishimbun.co.jp/articles/dkan-gallery/2712705",
+          "source": "福井新聞社",
+          "publishedAt": "2026-10-02T08:02:38.000Z",
+          "isPR": false
+        },
         {
           "title": "中国、ちいかわ人気加速",
           "url": "https://www.fukuishimbun.co.jp/articles/gallery/2712705?ph",
@@ -410,49 +424,6 @@
       ]
     },
     {
-      "id": "c62bf2ef8229",
-      "title": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り（リアルサウンド）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/83302278e717236c526547589d62374d03c6b840",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00010046-realsound-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-02T08:02:39.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "other"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "一緒"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわが韓国の音楽番組で歓声浴びる、ハチワレ・うさぎ・セイレーンとリレーダンスも披露（動画あり）",
-          "url": "https://natalie.mu/music/news/691986",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-02T02:56:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ・ハチワレ・うさぎといつでも一緒♪ 0歳から楽しめるキャラクター型えほんの新作が登場",
-          "url": "https://animeanime.jp/article/2026/10/01/103403.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-01T03:45:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画大ヒット中！ ちいかわの”キャラクター型えほん” 新作が発売！ 「ちいかわ」「ハチワレ」「うさぎ」といつでも一緒 ０歳から ＃ちいさくてかわいいえほん",
-          "url": "https://prtimes.jp/main/html/rd/p/000008830.000001719.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-09-30T08:30:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "ecafba2e5fa9",
       "title": "ちいかわファンは “商品” ではなく “あの場面” を買う？ 青雲、オキシクリーンに共通する「逆転コラボ」 ほかのIPにはない「強さ」とは",
       "summary": "",
@@ -460,16 +431,15 @@
       "image": "https://cdn.advertimes.com/wp-content/uploads/2026/10/graphico_chiikawa-package_limited_ogp.jpg",
       "leadSource": "AdverTimes.（アドタイ） by 宣伝会議",
       "publishedAt": "2026-10-02T07:34:40.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "collab",
-        "goods"
+        "collab"
       ],
       "keywords": [
-        "コラボ",
         "ファン",
-        "オキシクリーン"
+        "オキシクリーン",
+        "コラボ"
       ],
       "articles": [
         {
@@ -485,12 +455,40 @@
           "source": "ふねぽ",
           "publishedAt": "2026-10-01T21:00:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "5cb8bf4af9a0",
+      "title": "ちいかわのキラキラシール入り！ 丸美屋、カップスープ「きのこのポタージュ」「ほうれんそうのポタージュ」を限定発売",
+      "summary": "",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2145069.html",
+      "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2145/069/top.jpg",
+      "leadSource": "グルメ Watch",
+      "publishedAt": "2026-10-02T01:46:33.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "キラキラシール",
+        "カップスープ",
+        "ポタージュ"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわのカップスープ登場！ きのこ採集＆草むしりデザイン、限定キラキラシール付き",
+          "url": "https://news.infoseek.co.jp/article/oshiraku_27947/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-01T03:42:33.000Z",
+          "isPR": false
         },
         {
-          "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
-          "url": "https://www.sanyonews.jp/article/1994867",
-          "source": "sanyonews.jp",
-          "publishedAt": "2026-10-01T15:47:11.000Z",
+          "title": "「ちいかわ」期間限定カップスープが丸美屋から新登場！かわいいデザインカップにきのこ＆ほうれんそうポタージュ 2種類のコク深い味わいに限定キラキラシール付き",
+          "url": "https://mezamashi.media/articles/-/353813",
+          "source": "めざましmedia",
+          "publishedAt": "2026-10-01T03:08:00.000Z",
           "isPR": false
         }
       ]
@@ -667,34 +665,6 @@
       ]
     },
     {
-      "id": "5cb8bf4af9a0",
-      "title": "ちいかわのキラキラシール入り！ 丸美屋、カップスープ「きのこのポタージュ」「ほうれんそうのポタージュ」を限定発売",
-      "summary": "",
-      "url": "https://gourmet.watch.impress.co.jp/docs/news/2145069.html",
-      "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2145/069/top.jpg",
-      "leadSource": "グルメ Watch",
-      "publishedAt": "2026-10-02T01:46:33.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "キラキラシール",
-        "カップスープ",
-        "ポタージュ"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」期間限定カップスープが丸美屋から新登場！かわいいデザインカップにきのこ＆ほうれんそうポタージュ 2種類のコク深い味わいに限定キラキラシール付き",
-          "url": "https://mezamashi.media/articles/-/353813",
-          "source": "めざましmedia",
-          "publishedAt": "2026-10-01T03:08:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "cafb33b49509",
       "title": "寒くて毛量増えた！？GUの〈ちいかわプルオーバー＆パーカ〉2型で冬支度。もこもこフード姿もキュートな冬らしいデザインに注目",
       "summary": "",
@@ -750,16 +720,64 @@
           "isPR": true
         }
       ]
+    },
+    {
+      "id": "18c51ca74f2e",
+      "title": "『ちいかわ』新商品「ちいプラ」発表！ 「模型ホビーショー」で初お披露目へ (クランクイン！)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/7542868df5b58c4011c85126b7358f0e346bbf9b/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJndIA5jH8FwBfCL8MWrjXkiNVDUUCg3aEY5mtK_ScD3jWwUbAMEZ3udFwNM2qIZP_dnsOKLPhWgtvuAuJxSrqaDRfpMGMSHIel0FvJGwvumxR",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T06:42:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ホビーショー",
+        "新商品",
+        "模型"
+      ],
+      "articles": [
+        {
+          "title": "「第64回全日本模型ホビーショー」にブース出展決定！新商品『ちいかわ』のプラキット「ちいプラ」初お披露目",
+          "url": "https://prtimes.jp/main/html/rd/p/000000074.000168561.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-01T06:00:02.000Z",
+          "isPR": true
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T09:30:16.584Z",
-    "previousCount": 119,
-    "newCount": 5
+    "previousAt": "2026-10-02T10:00:16.366Z",
+    "previousCount": 116,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T10:30:16.366Z",
+  "nextUpdateAt": "2026-10-02T11:00:18.223Z",
   "items": [
+    {
+      "id": "9a6ca93c9c99",
+      "title": "GUの「ちいかわ」コラボグッズがむちゃかわ！“雪の日”テーマのおでかけ着、ルームウェアなど豊富なラインナップ",
+      "url": "https://www.inside-games.jp/article/2026/10/02/188679.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "GUと「ちいかわ」のコラボレーションが決定！第1弾が2026年11月20日、第2弾が11月27日に発売予定。",
+      "publishedAt": "2026-10-02T10:20:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1781773.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "7b9b243c260b",
       "title": "実は死と隣り合わせ…『ちいかわ』衝撃の“過酷エピソード”（3）自分の頭を殴り続けるほどの絶望…衝撃の鬱展開",
@@ -858,26 +876,24 @@
       "isNew": false
     },
     {
-      "id": "c62bf2ef8229",
-      "title": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り（リアルサウンド）",
-      "url": "https://news.yahoo.co.jp/articles/83302278e717236c526547589d62374d03c6b840",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "67fbe8d4097b",
+      "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々 | 全国のニュース",
+      "url": "https://www.fukuishimbun.co.jp/articles/dkan-gallery/2712705",
+      "host": "fukuishimbun.co.jp",
+      "source": "福井新聞社",
       "summary": "",
-      "publishedAt": "2026-10-02T08:02:39.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00010046-realsound-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-02T08:02:38.000Z",
+      "image": "https://fki.ismcdn.jp/mwimgs/5/c/-/img_5cec3f9a75ae5b010966c3c167a535c833678.jpg",
       "categories": [
-        "goods"
+        "goods",
+        "event"
       ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "17a966b81e6d",
@@ -916,25 +932,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "fe06dcfc3ee1",
-      "title": "ちいかわ人気「国慶節」連休の中国で加速 ラーメン店満席、特別展盛況",
-      "url": "https://www.nikkei.com/article/DGXZQOCB026FM0S6A001C2000000/",
-      "host": "nikkei.com",
-      "source": "nikkei.com",
-      "summary": "",
-      "publishedAt": "2026-10-02T06:52:29.000Z",
-      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3674318002102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=67ca5f98899a99e5f3839877e52ee268",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7ece435eaa90",
@@ -987,6 +984,25 @@
       "categories": [
         "kuji",
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3e5e18f7d926",
+      "title": "ちいかわ プラキット ちいプラ 自転車 全3種 10月3日予約開始!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-goods-chiipura-bicycle-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-02T05:45:56.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-goods-chiipura-bicycle-2026-eyecatch.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1076,30 +1092,11 @@
       "isNew": false
     },
     {
-      "id": "3e5e18f7d926",
-      "title": "ちいかわ プラキット ちいプラ 自転車 全3種 10月3日予約開始!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-goods-chiipura-bicycle-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-02T05:07:43.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-goods-chiipura-bicycle-2026-eyecatch.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d393ecb54370",
       "title": "携帯できて便利！ 【ちいかわ】「キャラクター型えほん」新作3冊が登場。手のひらサイズで約80gと軽量",
       "url": "https://www.asahi.com/and/w/article/16930714",
       "host": "asahi.com",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "summary": "",
       "publishedAt": "2026-10-02T04:08:16.000Z",
       "image": "",
@@ -1238,7 +1235,7 @@
       "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
       "url": "https://www.asahi.com/and/w/article/16927024/31386894",
       "host": "asahi.com",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "summary": "",
       "publishedAt": "2026-10-02T02:57:08.000Z",
       "image": "",
@@ -1413,6 +1410,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d6ebc025b2bf",
+      "title": "【映画ランキング】『踊る大捜査線』14年ぶり新作が2週目で首位！『ちいかわ』168億円で2位、ブラピ主演作ら新作3本",
+      "url": "https://news.yahoo.co.jp/articles/295594ef0c8ef46020ba35ab44b7e2e80b35568b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-02T01:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-01444546-tkwalk-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b245ff3a0c3b",
@@ -1616,7 +1633,7 @@
       "title": "くら寿司・ちいかわコラボ中止の裏に巨大転売市場 人気IPの光と影",
       "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOTG2721X0X20C26A9000000",
       "host": "nikkei.com",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "summary": "",
       "publishedAt": "2026-10-01T20:00:00.000Z",
       "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3654907029092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c1ca01cf6a08946b90833c47f9e2dddb",
@@ -1653,17 +1670,16 @@
       "isNew": false
     },
     {
-      "id": "2b5914603edc",
-      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
-      "url": "https://www.sanyonews.jp/article/1994867",
+      "id": "a4b3c306fc9d",
+      "title": "本編放送前に“カニちゃん”も登場…アニメ『ちいかわ』主要キャラ総出演の新PV公開に反響続々「キターーー!!!」「しゃべったあああああ」「朝から泣いてる」",
+      "url": "https://www.sanyonews.jp/article/1914693?kw",
       "host": "sanyonews.jp",
       "source": "sanyonews.jp",
       "summary": "",
-      "publishedAt": "2026-10-01T15:47:11.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
+      "publishedAt": "2026-10-01T15:20:28.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/8/e/1/58e156d75dc5103b04550db23ae525b3_1.jpg",
       "categories": [
-        "goods",
-        "collab"
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1700,6 +1716,28 @@
       "summary": "",
       "publishedAt": "2026-10-01T11:06:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89732/ogp_dvOU.jpg?x=1280",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c62bf2ef8229",
+      "title": "『ちいかわ』キャラクター型えほん新作3冊が登場 「ちいかわ」「ハチワレ」「うさぎ」の個性を深掘り",
+      "url": "https://realsound.jp/book/2026/10/post-2541029.html",
+      "host": "realsound.jp",
+      "source": "Real Sound｜リアルサウンド",
+      "summary": "",
+      "publishedAt": "2026-10-01T11:02:00.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261001-asoboyo-01.jpg",
       "categories": [
         "goods"
       ],
@@ -2078,6 +2116,25 @@
       "isNew": false
     },
     {
+      "id": "0f59d20eaf9d",
+      "title": "ちいかわのカップスープ登場！ きのこ採集＆草むしりデザイン、限定キラキラシール付き",
+      "url": "https://news.infoseek.co.jp/article/oshiraku_27947/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-01T03:42:33.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_27947_0-enlarge.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f76b20c6db10",
       "title": "「ちいかわ」期間限定カップスープが丸美屋から新登場！かわいいデザインカップにきのこ＆ほうれんそうポタージュ 2種類のコク深い味わいに限定キラキラシール付き",
       "url": "https://mezamashi.media/articles/-/353813",
@@ -2200,6 +2257,48 @@
       "isNew": false
     },
     {
+      "id": "637606bd4903",
+      "title": "ちいかわ モモンガ超BIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/1d4262c5a027/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-01T02:06:18.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "76215176934a",
+      "title": "ちいかわ きのこ着ぐるみBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/48f01d1fe958/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-01T02:06:18.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "930eb0edcb17",
       "title": "「期間限定 アニメちいかわ きのこのポタージュ」「期間限定 アニメちいかわ ほうれんそうのポタージュ」～2026年10月22日（木）から2027年2月28日（日）期間限定発売～ | 丸美屋食品工業株式会社のプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000001092.000010538.html",
@@ -2255,7 +2354,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "20046e78c384",
@@ -2453,27 +2552,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f1f0cdaec8a7",
-      "title": "泣いていたちいかわが一瞬で笑顔に！プチプチを差し出すうさぎに「扱いを完璧にわかってる」『ちいかわ』181話 (ABEMA TIMES)",
-      "url": "https://news.yahoo.co.jp/articles/f4c7d49e0fdf9b1e50cf317538584aef07a65ffc/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-30T10:18:16.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgOsNvqRAOlgwn-ftu-3tO1LKBH7neaH8RsZ1cG3G14vJJ6NWlc74dDcs8vysNaxQl3Y7hiLA0cceeY1OrVLYZ1JxQfdvKXccLxnVleulHrc5-hcvxsQIsIFkt-3-mNXLXA==",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6c1ccc4a1a2b",
@@ -2875,7 +2953,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f7db4d66d0b7",
@@ -3050,25 +3128,6 @@
       "categories": [
         "goods",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e4ad2a062fa7",
-      "title": "ちいかわベーカリー 2周年 コロネなマスコット 10月15日より!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-bakery-goods-2nd-anniversary-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-09-29T10:19:11.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-bakery-goods-2nd-anniversary-2026-kv.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
