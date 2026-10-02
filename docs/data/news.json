@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:30:18.535Z",
+  "updatedAt": "2026-10-02T13:00:23.165Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 142,
-  "todayCount": 57,
+  "todayCount": 56,
   "categories": [
     {
       "id": "goods",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 28
+      "count": 29
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
@@ -64,7 +64,7 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "kurimanju",
@@ -94,11 +94,11 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 25
     },
     {
       "name": "コラボカフェ",
-      "count": 7
+      "count": 8
     },
     {
       "name": "インサイド",
@@ -129,11 +129,11 @@
       "count": 3
     },
     {
-      "name": "キャラグー",
+      "name": "charagoo.jp",
       "count": 3
     },
     {
-      "name": "Infoseek",
+      "name": "news.infoseek.co.jp",
       "count": 3
     },
     {
@@ -145,7 +145,7 @@
       "count": 2
     },
     {
-      "name": "asahi.com",
+      "name": "朝日新聞",
       "count": 2
     },
     {
@@ -161,7 +161,7 @@
       "count": 2
     },
     {
-      "name": "oricon.co.jp",
+      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -185,7 +185,7 @@
       "count": 1
     },
     {
-      "name": "nara-np.co.jp",
+      "name": "奈良新聞",
       "count": 1
     },
     {
@@ -237,7 +237,7 @@
       "count": 1
     },
     {
-      "name": "エリアLOVE WALKER",
+      "name": "lovewalker.jp",
       "count": 1
     },
     {
@@ -395,9 +395,9 @@
           "isPR": false
         },
         {
-          "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々 - nara-np.co.jp",
+          "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々",
           "url": "https://www.nara-np.co.jp/global/2026100201000868.html",
-          "source": "nara-np.co.jp",
+          "source": "奈良新聞",
           "publishedAt": "2026-10-02T06:37:14.000Z",
           "isPR": false
         },
@@ -523,7 +523,7 @@
         {
           "title": "ちいかわのカップスープ登場！ きのこ採集＆草むしりデザイン、限定キラキラシール付き",
           "url": "https://news.infoseek.co.jp/article/oshiraku_27947/",
-          "source": "Infoseek",
+          "source": "news.infoseek.co.jp",
           "publishedAt": "2026-10-01T03:42:33.000Z",
           "isPR": false
         },
@@ -578,7 +578,7 @@
       "summary": "",
       "url": "https://charagoo.jp/gacha/item/b28f576c37c3/",
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-movie-capsule-toy-desktop-figure-2026-main.jpg",
-      "leadSource": "キャラグー",
+      "leadSource": "charagoo.jp",
       "publishedAt": "2026-10-02T01:17:30.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -686,7 +686,7 @@
       "summary": "",
       "url": "https://lovewalker.jp/elem/000/004/439/4439376/",
       "image": "https://ascii.jp/img/2026/10/01/4532799/l/19992190f4eeba97.png?2023101601",
-      "leadSource": "エリアLOVE WALKER",
+      "leadSource": "lovewalker.jp",
       "publishedAt": "2026-10-01T08:00:00.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -774,12 +774,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T12:00:21.249Z",
+    "previousAt": "2026-10-02T12:30:18.535Z",
     "previousCount": 142,
-    "newCount": 4
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T13:00:18.535Z",
+  "nextUpdateAt": "2026-10-02T13:30:23.165Z",
   "items": [
     {
       "id": "05ab6a777fe2",
@@ -838,7 +838,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e92ef8fa239d",
@@ -973,7 +973,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3f637ec90f21",
@@ -1053,7 +1053,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ecafba2e5fa9",
@@ -1094,11 +1094,11 @@
       "isNew": false
     },
     {
-      "id": "30b59a4823ba",
-      "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々 - nara-np.co.jp",
+      "id": "932ef71c9b14",
+      "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々",
       "url": "https://www.nara-np.co.jp/global/2026100201000868.html",
       "host": "nara-np.co.jp",
-      "source": "nara-np.co.jp",
+      "source": "奈良新聞",
       "summary": "",
       "publishedAt": "2026-10-02T06:37:14.000Z",
       "image": "https://www.nara-np.co.jp/dbimage/newspack/PN/PN2026100201000943.-.-.CI0003.jpg",
@@ -1237,7 +1237,7 @@
       "title": "携帯できて便利！ 【ちいかわ】「キャラクター型えほん」新作3冊が登場。手のひらサイズで約80gと軽量",
       "url": "https://www.asahi.com/and/w/article/16930714",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-10-02T04:08:16.000Z",
       "image": "",
@@ -1287,27 +1287,6 @@
         "event"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "eb60f81f94c5",
-      "title": "『ちいかわ』モモンガ役・井口裕香、衝撃の最新グラビア 布面積が少ないカットで奇跡のボディ（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/b3c49e65c28a57f3e450edc5ec16ff005b1fbd2b",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-02T03:15:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00000373-oric-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "momonga"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1376,7 +1355,7 @@
       "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
       "url": "https://www.asahi.com/and/w/article/16927024/31386894",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-10-02T02:57:08.000Z",
       "image": "",
@@ -1561,7 +1540,7 @@
       "title": "映画ちいかわ 人魚の島のひみつ デスクトップフィギュア｜ちいかわのガチャガチャ 発売日・価格・設置場所",
       "url": "https://charagoo.jp/gacha/item/b28f576c37c3/",
       "host": "charagoo.jp",
-      "source": "キャラグー",
+      "source": "charagoo.jp",
       "summary": "",
       "publishedAt": "2026-10-02T01:17:30.000Z",
       "image": "",
@@ -2198,7 +2177,7 @@
       "title": "「ちいかわ」の人気キャラクターたちが福岡に集結！「ちいかわPOP UP STORE」が福岡三越で開催決定！",
       "url": "https://lovewalker.jp/elem/000/004/439/4439376/",
       "host": "lovewalker.jp",
-      "source": "エリアLOVE WALKER",
+      "source": "lovewalker.jp",
       "summary": "",
       "publishedAt": "2026-10-01T08:00:00.000Z",
       "image": "https://ascii.jp/img/2026/10/01/4532799/l/19992190f4eeba97.png?2023101601",
@@ -2398,7 +2377,7 @@
       "title": "ちいかわのカップスープ登場！ きのこ採集＆草むしりデザイン、限定キラキラシール付き",
       "url": "https://news.infoseek.co.jp/article/oshiraku_27947/",
       "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "summary": "",
       "publishedAt": "2026-10-01T03:42:33.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_27947_0-enlarge.jpg",
@@ -2536,7 +2515,7 @@
       "title": "ちいかわ うさぎだらけくじ｜ちいかわのくじ 発売日・取扱コンビニ",
       "url": "https://charagoo.jp/kuji/item/f3c5cbac924e/",
       "host": "charagoo.jp",
-      "source": "キャラグー",
+      "source": "charagoo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T02:41:11.000Z",
       "image": "",
@@ -2873,7 +2852,7 @@
       "title": "ちいかわ☆星ふるスカイツリー(R)とひみつの島｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
       "url": "https://charagoo.jp/collab/event/a7d9e207df44/",
       "host": "charagoo.jp",
-      "source": "キャラグー",
+      "source": "charagoo.jp",
       "summary": "",
       "publishedAt": "2026-09-30T15:42:40.000Z",
       "image": "",
@@ -2931,7 +2910,7 @@
       "title": "ちいかわが大好きな84歳おばあちゃん、ウキウキで映画館へ→鑑賞後……「そうなりますよね」 まさかの姿に「心配です」「複雑だよ」",
       "url": "https://news.infoseek.co.jp/article/itmedia_nlab_4026673/",
       "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "summary": "",
       "publishedAt": "2026-09-30T10:00:00.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_4026673_0-enlarge.jpg",
@@ -3198,6 +3177,25 @@
       "isNew": false
     },
     {
+      "id": "a828dcc5a650",
+      "title": "アニメちいかわ リバイバル放送 10月2日より なんとかバニア編も!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-anime-news-revival-broadcast-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-anime-news-revival-broadcast-2026-episode6.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ba10357bead1",
       "title": "「潤沢な在庫がありますように」GU×ちいかわコラボ、反響とともに“争奪戦”懸念も。2週連続発売に期待高まる",
       "url": "https://news.allabout.co.jp/articles/o/130108/?page",
@@ -3259,7 +3257,7 @@
       "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット&私物アイテムを紹介",
       "url": "https://www.oricon.co.jp/news/2483309/full/",
       "host": "oricon.co.jp",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-09-30T04:10:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483309/20240410_143356_p_o_98263390.jpg",
@@ -3278,7 +3276,7 @@
       "title": "『ちいかわ』パラレルワールド商品にネット衝撃「ひえっ！」「ちょい変貌」",
       "url": "https://www.oricon.co.jp/news/2483424/full/",
       "host": "oricon.co.jp",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-09-30T03:15:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483424/20260930_111845_p_o_92456013.jpg",
@@ -3355,7 +3353,7 @@
       "title": "「映画ちいかわ」手作りぬいぐるみ→背中を開くと…… まさかの仕掛けが690万表示「人の心ないんか？」「これはwww」",
       "url": "https://news.infoseek.co.jp/article/itmedia_nlab_3995224/",
       "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "summary": "",
       "publishedAt": "2026-09-30T02:25:00.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_nlab/itmedia_nlab_3995224_0-enlarge.jpg",
