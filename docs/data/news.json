@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:00:21.249Z",
+  "updatedAt": "2026-10-02T12:30:18.535Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 49
+      "count": 48
     },
     {
       "id": "kuji",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 21
+      "count": 20
     },
     {
       "id": "anime",
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 5
+      "count": 6
     },
     {
       "id": "game",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 30
+      "count": 29
     },
     {
       "id": "usagi",
@@ -145,7 +145,7 @@
       "count": 2
     },
     {
-      "name": "朝日新聞",
+      "name": "asahi.com",
       "count": 2
     },
     {
@@ -161,19 +161,23 @@
       "count": 2
     },
     {
-      "name": "オリコンニュース",
+      "name": "oricon.co.jp",
       "count": 2
-    },
-    {
-      "name": "日刊スポーツ",
-      "count": 1
     },
     {
       "name": "PASH! PLUS",
       "count": 1
     },
     {
-      "name": "report.iko-yo.net",
+      "name": "玩具人 TOY PEOPLE",
+      "count": 1
+    },
+    {
+      "name": "日刊スポーツ",
+      "count": 1
+    },
+    {
+      "name": "いこーよニュース",
       "count": 1
     },
     {
@@ -181,11 +185,7 @@
       "count": 1
     },
     {
-      "name": "奈良新聞",
-      "count": 1
-    },
-    {
-      "name": "hokkaido-np.co.jp",
+      "name": "nara-np.co.jp",
       "count": 1
     },
     {
@@ -217,7 +217,7 @@
       "count": 1
     },
     {
-      "name": "nikkei.com",
+      "name": "日本経済新聞",
       "count": 1
     },
     {
@@ -368,8 +368,8 @@
       "image": "https://fki.ismcdn.jp/mwimgs/5/c/-/img_5cec3f9a75ae5b010966c3c167a535c833678.jpg",
       "leadSource": "日刊スポーツ",
       "publishedAt": "2026-10-02T08:53:41.000Z",
-      "sourceCount": 8,
-      "articleCount": 9,
+      "sourceCount": 7,
+      "articleCount": 8,
       "categories": [
         "goods",
         "event"
@@ -395,17 +395,10 @@
           "isPR": false
         },
         {
-          "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々",
+          "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々 - nara-np.co.jp",
           "url": "https://www.nara-np.co.jp/global/2026100201000868.html",
-          "source": "奈良新聞",
+          "source": "nara-np.co.jp",
           "publishedAt": "2026-10-02T06:37:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々 - hokkaido-np.co.jp",
-          "url": "https://www.hokkaido-np.co.jp/article/1382533/?ref",
-          "source": "hokkaido-np.co.jp",
-          "publishedAt": "2026-10-02T05:33:23.000Z",
           "isPR": false
         },
         {
@@ -781,13 +774,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T11:30:18.953Z",
-    "previousCount": 117,
-    "newCount": 31
+    "previousAt": "2026-10-02T12:00:21.249Z",
+    "previousCount": 142,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T12:30:21.249Z",
+  "nextUpdateAt": "2026-10-02T13:00:18.535Z",
   "items": [
+    {
+      "id": "05ab6a777fe2",
+      "title": "【ちいかわ】初々しさを感じるハチワレたちのボイスにも注目！ アニメ『ちいかわ』第6話「ともだち/ドラ焼き」が見逃し配信中",
+      "url": "https://www.pashplus.jp/anime/497534/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-10-02T12:04:48.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/a950f48ad5020d7ed857119168c13560.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "d5f2f4f242b7",
       "title": "ちいかわの自転車シーンを再現できちゃうプラキット「ちいプラ」登場にファン歓喜 -「ひゃー可愛い!」「絶対欲しいに決まってるやん♡」の声",
@@ -797,6 +811,25 @@
       "summary": "",
       "publishedAt": "2026-10-02T11:43:55.000Z",
       "image": "https://news.mynavi.jp/article/20261002-5062328/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "13205765ad66",
+      "title": "「ちいかわパッケージにしたら買うと思ってる？」消費者をナメすぎ？ リプ欄がまさかの戦利品展示会に",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-10-02T11:30:36.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -923,6 +956,26 @@
       "isNew": false
     },
     {
+      "id": "d7ec56e7a0ca",
+      "title": "【ちいかわ漫画】第1話～最新話(907)まで一気読み！公式X無料投稿をまとめました。 De'aaron Fox (pKHBo2gOGF)",
+      "url": "https://media.unisba.ac.id/5e875e6f/2621af5ajoktHT2huG8/?share",
+      "host": "media.unisba.ac.id",
+      "source": "media.unisba.ac.id",
+      "summary": "",
+      "publishedAt": "2026-10-02T08:40:33.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3f637ec90f21",
       "title": "「ちいかわ」“まじかるちいかわ”のさすまたステッキがラムネに!? ルームソックスや卓上カレンダーも登場",
       "url": "https://animeanime.jp/article/2026/10/02/103444.html",
@@ -935,27 +988,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "05ab6a777fe2",
-      "title": "【ちいかわ】初々しさを感じるハチワレたちのボイスにも注目！ アニメ『ちいかわ』第6話「ともだち/ドラ焼き」が見逃し配信中",
-      "url": "https://www.pashplus.jp/anime/497534/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-10-02T08:29:46.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/a950f48ad5020d7ed857119168c13560.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1005,11 +1037,11 @@
       "isNew": false
     },
     {
-      "id": "301cb724180f",
-      "title": "ちいかわと一緒にひらがなを覚えよう 書き順付きの絵本『ちいかわ あいうえお』発売 - report.iko-yo.net",
+      "id": "17a966b81e6d",
+      "title": "ちいかわと一緒にひらがなを覚えよう 書き順付きの絵本『ちいかわ あいうえお』発売",
       "url": "https://report.iko-yo.net/articles/34190",
       "host": "report.iko-yo.net",
-      "source": "report.iko-yo.net",
+      "source": "いこーよニュース",
       "summary": "",
       "publishedAt": "2026-10-02T07:36:08.000Z",
       "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/33939/normal.jpg?1790925781",
@@ -1062,11 +1094,11 @@
       "isNew": false
     },
     {
-      "id": "932ef71c9b14",
-      "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々",
+      "id": "30b59a4823ba",
+      "title": "中国、ちいかわ人気加速 - 特別展開催、グッズ店続々 - nara-np.co.jp",
       "url": "https://www.nara-np.co.jp/global/2026100201000868.html",
       "host": "nara-np.co.jp",
-      "source": "奈良新聞",
+      "source": "nara-np.co.jp",
       "summary": "",
       "publishedAt": "2026-10-02T06:37:14.000Z",
       "image": "https://www.nara-np.co.jp/dbimage/newspack/PN/PN2026100201000943.-.-.CI0003.jpg",
@@ -1079,7 +1111,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "cdb957dda580",
@@ -1119,26 +1151,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "69967806104b",
-      "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々 - hokkaido-np.co.jp",
-      "url": "https://www.hokkaido-np.co.jp/article/1382533/?ref",
-      "host": "hokkaido-np.co.jp",
-      "source": "hokkaido-np.co.jp",
-      "summary": "",
-      "publishedAt": "2026-10-02T05:33:23.000Z",
-      "image": "https://static.hokkaido-np.co.jp/image/article/size1/5/1/4/7/5147dd4607495ce84debcfd6cfc6e8a2_1.webp?20261002210030",
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f0719a37c055",
@@ -1221,32 +1233,11 @@
       "isNew": false
     },
     {
-      "id": "35f104a0ffd2",
-      "title": "【ハチワレ】今日の日はさようなら【歌詞付き】劇場版ちいかわ【うた歌唱】 Miles Mcbride (o5SACRtkp5)",
-      "url": "https://media.unisba.ac.id/fa432a9d/cfe121ccXCAMBQNjLAcAHlo/?share",
-      "host": "media.unisba.ac.id",
-      "source": "media.unisba.ac.id",
-      "summary": "",
-      "publishedAt": "2026-10-02T04:47:17.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d393ecb54370",
       "title": "携帯できて便利！ 【ちいかわ】「キャラクター型えほん」新作3冊が登場。手のひらサイズで約80gと軽量",
       "url": "https://www.asahi.com/and/w/article/16930714",
       "host": "asahi.com",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "summary": "",
       "publishedAt": "2026-10-02T04:08:16.000Z",
       "image": "",
@@ -1385,7 +1376,7 @@
       "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
       "url": "https://www.asahi.com/and/w/article/16927024/31386894",
       "host": "asahi.com",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "summary": "",
       "publishedAt": "2026-10-02T02:57:08.000Z",
       "image": "",
@@ -1442,7 +1433,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ca208aaacfaa",
@@ -1819,14 +1810,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff82f3368326",
       "title": "くら寿司・ちいかわコラボ中止の裏に巨大転売市場 人気IPの光と影",
       "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOTG2721X0X20C26A9000000",
       "host": "nikkei.com",
-      "source": "nikkei.com",
+      "source": "日本経済新聞",
       "summary": "",
       "publishedAt": "2026-10-01T20:00:00.000Z",
       "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3654907029092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=c1ca01cf6a08946b90833c47f9e2dddb",
@@ -1857,7 +1848,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -1876,7 +1867,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0db85e702f68",
@@ -1955,7 +1946,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4de07109f349",
@@ -1997,7 +1988,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "beb15332aad3",
@@ -2056,7 +2047,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fc830e1d82b8",
@@ -2179,7 +2170,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce325f03a707",
@@ -2479,7 +2470,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f8ae322ddd7",
@@ -2500,7 +2491,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b606ceb68ece",
@@ -2538,7 +2529,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d5b5dce6071c",
@@ -2601,7 +2592,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ec98e4002f12",
@@ -2620,7 +2611,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "930eb0edcb17",
@@ -2719,7 +2710,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01eadabbe8ed",
@@ -2837,7 +2828,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1ddbd6cfbb5b",
@@ -2856,7 +2847,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e223a61c8456",
@@ -2875,7 +2866,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5a0ee4a6ba2e",
@@ -2914,7 +2905,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9e3cf58cea78",
@@ -3145,7 +3136,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fb2e0ae8243f",
@@ -3268,7 +3259,7 @@
       "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット&私物アイテムを紹介",
       "url": "https://www.oricon.co.jp/news/2483309/full/",
       "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "summary": "",
       "publishedAt": "2026-09-30T04:10:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483309/20240410_143356_p_o_98263390.jpg",
@@ -3287,7 +3278,7 @@
       "title": "『ちいかわ』パラレルワールド商品にネット衝撃「ひえっ！」「ちょい変貌」",
       "url": "https://www.oricon.co.jp/news/2483424/full/",
       "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "source": "oricon.co.jp",
       "summary": "",
       "publishedAt": "2026-09-30T03:15:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483424/20260930_111845_p_o_92456013.jpg",
@@ -3319,7 +3310,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d4bab672824",
@@ -3338,7 +3329,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a245b9d1e35f",
@@ -3416,7 +3407,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "677788b368a9",
@@ -3462,7 +3453,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fe6e808c2998",
@@ -3562,7 +3553,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9cde66b291eb",
@@ -3583,7 +3574,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "798c2d51182f",
@@ -3602,7 +3593,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "019e8ae39db2",
@@ -3623,7 +3614,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
