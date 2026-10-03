@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-03T16:00:20.150Z",
+  "updatedAt": "2026-10-03T16:30:20.554Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 101,
+  "total": 99,
   "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 37
+      "count": 36
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 15
     },
     {
       "id": "book",
@@ -117,15 +117,11 @@
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
+      "name": "news.nicovideo.jp",
       "count": 3
     },
     {
       "name": "めざましmedia",
-      "count": 3
-    },
-    {
-      "name": "ふねぽ",
       "count": 3
     },
     {
@@ -134,6 +130,10 @@
     },
     {
       "name": "電撃オンライン",
+      "count": 2
+    },
+    {
+      "name": "ふねぽ",
       "count": 2
     },
     {
@@ -242,10 +242,6 @@
     },
     {
       "name": "Infoseek",
-      "count": 1
-    },
-    {
-      "name": "매일경제",
       "count": 1
     },
     {
@@ -511,42 +507,6 @@
       ]
     },
     {
-      "id": "84f24d77b047",
-      "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響（ふたまん＋）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/32ecf32304ab27b74a44274164adbcb199fe4490",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00132444-futaman-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-02T21:30:37.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "コロネ",
-        "ベーカリー",
-        "マスコット"
-      ],
-      "articles": [
-        {
-          "title": "(2ページ目) ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定マスコットにファン大歓喜「食べちゃいたいかわいさ」",
-          "url": "https://futaman.futabanet.jp/articles/-/132444?utm_source",
-          "source": "ふねぽ",
-          "publishedAt": "2026-10-02T21:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定マスコットにファン大歓喜「食べちゃいたいかわいさ」",
-          "url": "https://futaman.futabanet.jp/articles/-/132444",
-          "source": "ふねぽ",
-          "publishedAt": "2026-10-02T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "f6039b37f8f4",
       "title": "中国で「ちいかわ」人気加速 日中関係悪化した昨年以降もグッズ店続々 特別展にも多くのファン",
       "summary": "",
@@ -632,6 +592,34 @@
       ]
     },
     {
+      "id": "84f24d77b047",
+      "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響（ふたまん＋）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/32ecf32304ab27b74a44274164adbcb199fe4490",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00132444-futaman-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-02T21:30:37.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "goods"
+      ],
+      "keywords": [
+        "コロネ",
+        "ベーカリー"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定マスコットにファン大歓喜「食べちゃいたいかわいさ」",
+          "url": "https://futaman.futabanet.jp/articles/-/132444",
+          "source": "ふねぽ",
+          "publishedAt": "2026-10-02T21:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "ee73b33ac437",
       "title": "『ちいかわ』自転車に乗った可愛すぎるちいかわ、ハチワレのプラモデルが登場！くりまんじゅうだらけのトレーディングフィギュアの原型も撮影禁止で展示！【2026第64回全日本模型ホビーショー速報レポート】グレイ・パーカー・サービス",
       "summary": "",
@@ -689,12 +677,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-03T15:30:16.177Z",
-    "previousCount": 106,
-    "newCount": 1
+    "previousAt": "2026-10-03T16:00:20.150Z",
+    "previousCount": 101,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-03T16:30:20.150Z",
+  "nextUpdateAt": "2026-10-03T17:00:20.554Z",
   "items": [
     {
       "id": "833e5e659ade",
@@ -1074,7 +1062,7 @@
       "title": "ちいかわのデザインが施されたトラベルシリーズ第2弾アイテムが販売開始",
       "url": "https://news.nicovideo.jp/watch/nw19839050",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-02T22:03:27.000Z",
       "image": "",
@@ -1137,25 +1125,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00132444-futaman-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "29acd6fe430b",
-      "title": "(2ページ目) ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定マスコットにファン大歓喜「食べちゃいたいかわいさ」",
-      "url": "https://futaman.futabanet.jp/articles/-/132444?utm_source",
-      "host": "futaman.futabanet.jp",
-      "source": "ふねぽ",
-      "summary": "",
-      "publishedAt": "2026-10-02T21:00:00.000Z",
-      "image": "https://futaman.ismcdn.jp/mwimgs/7/2/1200wm/img_7239bd43815524b7803bbbca26f240e0771645.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1247,7 +1216,7 @@
       "title": "こんなところにも！？スーパー・ドラッグストア・本屋さんで買える「ちいかわ」最新コラボ3選",
       "url": "https://news.nicovideo.jp/watch/nw19837596",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-02T12:51:25.000Z",
       "image": "",
@@ -1582,7 +1551,7 @@
       "title": "ちいかわがデザインされた持ち歩けるキーリングコスメパレットが発売へ",
       "url": "https://news.nicovideo.jp/watch/nw19834667?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-02T03:03:32.000Z",
       "image": "",
@@ -2033,7 +2002,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4de07109f349",
@@ -2555,25 +2524,6 @@
       "categories": [
         "goods",
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7576b2a1b348",
-      "title": "ついにアニメが1位...『ちいかわ』12万人動員の圧倒的スタート、韓国映画を一掃【MKボックスオフィス】",
-      "url": "https://www.mk.co.kr/jp/movies/12165560",
-      "host": "mk.co.kr",
-      "source": "매일경제",
-      "summary": "",
-      "publishedAt": "2026-09-30T23:08:24.000Z",
-      "image": "https://pimg.mk.co.kr/news/cms/202610/01/news-p.v1.20261001.4c6250b6b2424e4baf2dd4d5b1d4ecaf_R.jpeg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
