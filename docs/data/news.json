@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-04T16:30:17.257Z",
+  "updatedAt": "2026-10-04T17:00:19.587Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 88,
+  "total": 89,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "event",
@@ -54,17 +54,17 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kurimanju",
@@ -98,7 +98,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 6
+      "count": 7
     },
     {
       "name": "インサイド",
@@ -237,7 +237,7 @@
       "count": 1
     },
     {
-      "name": "朝日新聞",
+      "name": "asahi.com",
       "count": 1
     },
     {
@@ -562,12 +562,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-04T16:00:17.008Z",
-    "previousCount": 89,
-    "newCount": 5
+    "previousAt": "2026-10-04T16:30:17.257Z",
+    "previousCount": 88,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-04T17:00:17.257Z",
+  "nextUpdateAt": "2026-10-04T17:30:19.587Z",
   "items": [
     {
       "id": "4bcee0068b3f",
@@ -701,7 +701,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d03b0fca1f1d",
@@ -1019,7 +1019,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e62c4d1a248f",
@@ -1353,7 +1353,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "82498abc23d4",
@@ -1591,7 +1591,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9a6ca93c9c99",
@@ -1674,6 +1674,30 @@
       "isNew": false
     },
     {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "651a974225ab",
       "title": "「ちいかわベーカリー ポップアップショップ」がオープン “パン型”スクイーズが新登場",
       "url": "https://www.sanyonews.jp/article/1876005",
@@ -1730,7 +1754,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a64fc51773ba",
@@ -2060,7 +2084,7 @@
       "title": "今年も黒猫に変身！ 【ちいかわベーカリー】「ハロウィーン仕様の限定パン」が10/2より登場。限定ステッカーのプレゼントも",
       "url": "https://www.asahi.com/and/w/article/16927024/31386895",
       "host": "asahi.com",
-      "source": "朝日新聞",
+      "source": "asahi.com",
       "summary": "",
       "publishedAt": "2026-10-02T00:56:06.000Z",
       "image": "",
