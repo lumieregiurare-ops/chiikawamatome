@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:00:18.422Z",
+  "updatedAt": "2026-10-05T17:30:17.650Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,12 +12,12 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 15
     },
     {
       "id": "book",
@@ -109,7 +109,11 @@
       "count": 3
     },
     {
-      "name": "mantan-web.jp",
+      "name": "キャラグー",
+      "count": 3
+    },
+    {
+      "name": "MANTANWEB",
       "count": 2
     },
     {
@@ -125,15 +129,11 @@
       "count": 2
     },
     {
-      "name": "news.nicovideo.jp",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
       "name": "Excite エキサイト",
-      "count": 2
-    },
-    {
-      "name": "キャラグー",
       "count": 2
     },
     {
@@ -149,7 +149,7 @@
       "count": 1
     },
     {
-      "name": "realsound.jp",
+      "name": "Real Sound｜リアルサウンド",
       "count": 1
     },
     {
@@ -161,7 +161,7 @@
       "count": 1
     },
     {
-      "name": "pashplus.jp",
+      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -189,10 +189,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
       "name": "PR TIMES",
       "count": 1
     },
@@ -213,11 +209,11 @@
       "count": 1
     },
     {
-      "name": "toyokeizai.net",
+      "name": "東洋経済オンライン",
       "count": 1
     },
     {
-      "name": "韓国トレンド研究所",
+      "name": "koreantrend-research.jp",
       "count": 1
     },
     {
@@ -274,7 +270,7 @@
         {
           "title": "【ちいかわ】くりまんじゅうが嗜んでいた“だし割り”をお家で楽しめる！ かわいいカップやパッケージにも注目の「ちいかわ 日本酒とお出汁のだし割りセット」が登場",
           "url": "https://www.pashplus.jp/goods/497799/",
-          "source": "pashplus.jp",
+          "source": "PASH! PLUS",
           "publishedAt": "2026-10-05T11:10:56.000Z",
           "isPR": false
         },
@@ -304,6 +300,42 @@
           "url": "https://news.yahoo.co.jp/articles/daa7560e4d06b8370e50c8b92b837fb7afae45e4",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-05T03:29:14.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "6ac0b8b55989",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員",
+      "summary": "",
+      "url": "https://mantan-web.jp/article/20261005dog00m200059000a.html",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/05/20261005dog00m200059000a/001.jpg",
+      "leadSource": "MANTANWEB",
+      "publishedAt": "2026-10-05T15:22:30.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "うさぎ",
+        "映画"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
+          "url": "https://thetv.jp/news/detail/1444152/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T14:28:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ＆ハチワレ＆うさぎが「巨・オムライス」にかぶりつく…ふわっと光るルームライト登場",
+          "url": "https://www.sanyonews.jp/article/1885782",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-04T10:19:37.000Z",
           "isPR": false
         }
       ]
@@ -380,42 +412,6 @@
       ]
     },
     {
-      "id": "8d132648b5cf",
-      "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1444152/landing/",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/4/a/4/04a4e19281ea7d8f7200b43c6bfaf8bf_1.jpg",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-05T14:28:11.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "モモンガ"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ＆ハチワレ＆うさぎが「巨・オムライス」にかぶりつく…ふわっと光るルームライト登場",
-          "url": "https://www.sanyonews.jp/article/1885782",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-04T10:19:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
-          "url": "https://www.sanyonews.jp/article/1885622",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-04T10:10:45.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "175799bad38d",
       "title": "大人気「ちいかわ めじるしアクセサリー3」が10月に再販！雨カッパを着たハチワレ、古本屋など全5種",
       "summary": "「ちいかわ めじるしアクセサリー3」が全国のガシャポン自販機にて2026年10月より再販！",
@@ -444,17 +440,18 @@
       ]
     },
     {
-      "id": "f19bb2fcfaf7",
-      "title": "しまむらで「ちいかわ」グッズがオンライン販売！首にリボンを巻いた「ハチワレ」「うさぎ」らの新作腹巻3種（インサイド）",
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/a5cb7ac8cf62edb19e53073d33588f3139bafc03",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00000021-isd-000-2-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-04T06:30:03.000Z",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-04T10:10:45.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "goods"
+        "goods",
+        "collab"
       ],
       "keywords": [
         "ハチワレ",
@@ -472,12 +469,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T16:30:20.315Z",
+    "previousAt": "2026-10-05T17:00:18.422Z",
     "previousCount": 77,
-    "newCount": 6
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T17:30:18.422Z",
+  "nextUpdateAt": "2026-10-05T18:00:17.650Z",
   "items": [
     {
       "id": "e98a7f1cace2",
@@ -501,11 +498,11 @@
       "isNew": false
     },
     {
-      "id": "cd63f85abab1",
-      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員 - mantan-web.jp",
+      "id": "6ac0b8b55989",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員",
       "url": "https://mantan-web.jp/article/20261005dog00m200059000a.html",
       "host": "mantan-web.jp",
-      "source": "mantan-web.jp",
+      "source": "MANTANWEB",
       "summary": "",
       "publishedAt": "2026-10-05T15:22:30.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/05/20261005dog00m200059000a/001.jpg",
@@ -606,7 +603,7 @@
       "title": "ちいかわたちと楽しくひらがなを覚えよう！ 書き順付き絵本『ちいかわ あいうえお』が登場",
       "url": "https://realsound.jp/book/2026/10/post-2543910.html",
       "host": "realsound.jp",
-      "source": "realsound.jp",
+      "source": "Real Sound｜リアルサウンド",
       "summary": "",
       "publishedAt": "2026-10-05T12:12:54.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/10/20261005-aiueo-03.jpg",
@@ -681,7 +678,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "682512219497",
@@ -709,7 +706,7 @@
       "title": "【ちいかわ】くりまんじゅうが嗜んでいた“だし割り”をお家で楽しめる！ かわいいカップやパッケージにも注目の「ちいかわ 日本酒とお出汁のだし割りセット」が登場",
       "url": "https://www.pashplus.jp/goods/497799/",
       "host": "pashplus.jp",
-      "source": "pashplus.jp",
+      "source": "PASH! PLUS",
       "summary": "",
       "publishedAt": "2026-10-05T11:10:56.000Z",
       "image": "https://www.pashplus.jp/wp-content/uploads/01-2507.jpg",
@@ -723,7 +720,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "57b6703f0dcc",
@@ -1130,7 +1127,7 @@
       "title": "「ちいかわ」だし割りでハァーッ…くりまんじゅうの日本酒セット 寒い日のおともに",
       "url": "https://news.nicovideo.jp/watch/nw19845223",
       "host": "news.nicovideo.jp",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
       "publishedAt": "2026-10-05T03:15:20.000Z",
       "image": "",
@@ -1327,25 +1324,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "162d076dc7e4",
-      "title": "『映画ちいかわ』、5日間で60万人動員のハイペースヒット 韓国でも大ヒットの兆し",
-      "url": "https://news.livedoor.com/article/detail/32489952/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-05T01:33:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/3/8/38301_1682_1fad60d3_691f8cc6.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4ea003a96677",
@@ -1588,7 +1566,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dbf4b8a421bf",
@@ -1736,7 +1714,7 @@
       "title": "スタジオジブリを傘下に収めた日テレ､X発『ちいかわ』を1分アニメで広げるフジ…対照的なIP戦略",
       "url": "https://toyokeizai.net/articles/-/959275?display",
       "host": "toyokeizai.net",
-      "source": "toyokeizai.net",
+      "source": "東洋経済オンライン",
       "summary": "",
       "publishedAt": "2026-10-04T02:00:00.000Z",
       "image": "",
@@ -1751,11 +1729,11 @@
       "isNew": false
     },
     {
-      "id": "296c18c8bdb0",
-      "title": "ちいかわが韓国で”本格ブレイク”へ 4年前から積み上げられてきた土台",
+      "id": "4f87aab87224",
+      "title": "ちいかわが韓国で”本格ブレイク”へ 4年前から積み上げられてきた土台 - koreantrend-research.jp",
       "url": "https://koreantrend-research.jp/215184/",
       "host": "koreantrend-research.jp",
-      "source": "韓国トレンド研究所",
+      "source": "koreantrend-research.jp",
       "summary": "",
       "publishedAt": "2026-10-04T01:51:25.000Z",
       "image": "https://koreantrend-research.jp/wp-content/uploads/2026/10/スライド1.png",
@@ -1767,7 +1745,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4454817b9a76",
@@ -1868,14 +1846,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fcacd8fb0e2c",
-      "title": "新宿アニソンスコープ：「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも - mantan-web.jp",
+      "title": "新宿アニソンスコープ：「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも",
       "url": "https://mantan-web.jp/article/20260928dog00m200081000a.html",
       "host": "mantan-web.jp",
-      "source": "mantan-web.jp",
+      "source": "MANTANWEB",
       "summary": "",
       "publishedAt": "2026-10-03T11:03:30.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/28/20260928dog00m200081000a/001.jpg",
@@ -1950,6 +1928,26 @@
       "isNew": false
     },
     {
+      "id": "c8ef91228f53",
+      "title": "ちいかわ 妖精なちいかわBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/822215fc5fd0/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-02T23:27:26.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8652fb651a45",
       "title": "ちいかわ がま口ポーチ｜ちいかわのプライズ 入荷予定・取扱店舗",
       "url": "https://charagoo.jp/prize/item/33ca9f693df0/",
@@ -1996,7 +1994,7 @@
       "title": "ちいかわのデザインが施されたトラベルシリーズ第2弾アイテムが販売開始",
       "url": "https://news.nicovideo.jp/watch/nw19839050",
       "host": "news.nicovideo.jp",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
       "publishedAt": "2026-10-02T22:03:27.000Z",
       "image": "",
