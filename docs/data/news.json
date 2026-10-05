@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-05T13:00:19.984Z",
+  "updatedAt": "2026-10-05T13:30:19.493Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 83,
-  "todayCount": 47,
+  "total": 84,
+  "todayCount": 49,
   "categories": [
     {
       "id": "goods",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 17
     },
     {
       "id": "book",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 18
+      "count": 17
     },
     {
       "id": "rakko",
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 23
     },
     {
       "name": "インサイド",
@@ -114,6 +114,10 @@
     },
     {
       "name": "MANTANWEB",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -141,7 +145,7 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "news.infoseek.co.jp",
       "count": 1
     },
     {
@@ -157,7 +161,7 @@
       "count": 1
     },
     {
-      "name": "All About ニュース",
+      "name": "news.allabout.co.jp",
       "count": 1
     },
     {
@@ -170,10 +174,6 @@
     },
     {
       "name": "ハフポスト",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -193,7 +193,7 @@
       "count": 1
     },
     {
-      "name": "映画.com",
+      "name": "eiga.com",
       "count": 1
     },
     {
@@ -201,7 +201,7 @@
       "count": 1
     },
     {
-      "name": "東洋経済オンライン",
+      "name": "toyokeizai.net",
       "count": 1
     },
     {
@@ -221,15 +221,11 @@
       "count": 1
     },
     {
-      "name": "電撃オンライン",
+      "name": "dengekionline.com",
       "count": 1
     },
     {
       "name": "x.com",
-      "count": 1
-    },
-    {
-      "name": "オタク総研",
       "count": 1
     }
   ],
@@ -335,7 +331,7 @@
         {
           "title": "くりまんじゅうの専用カップ付き！「ちいかわ」ほっと温まる“だし割り”を手軽に楽しめるセット発売 予約受付中",
           "url": "https://news.infoseek.co.jp/article/cinemacafenet_113102/",
-          "source": "Infoseek",
+          "source": "news.infoseek.co.jp",
           "publishedAt": "2026-10-05T10:00:03.000Z",
           "isPR": false
         },
@@ -426,7 +422,7 @@
         {
           "title": "【ちいかわ】このあと10時からプラキット『ちいプラ』第1弾が予約開始。ちいかわ・ハチワレ・うさぎの3種【数量限定】",
           "url": "https://dengekionline.com/article/202610/89764",
-          "source": "電撃オンライン",
+          "source": "dengekionline.com",
           "publishedAt": "2026-10-02T23:00:00.000Z",
           "isPR": false
         }
@@ -441,21 +437,28 @@
       "leadSource": "MANTANWEB",
       "publishedAt": "2026-10-05T11:56:56.000Z",
       "sourceCount": 2,
-      "articleCount": 2,
+      "articleCount": 3,
       "categories": [
-        "anime",
-        "other"
+        "anime"
       ],
       "keywords": [
-        "興収",
-        "億円突破"
+        "映画",
+        "人魚",
+        "万人動員"
       ],
       "articles": [
         {
-          "title": "『ちいかわ』興収171億円突破 『ONE PIECE FILM RED』並ぶ興収ペース維持",
-          "url": "https://www.oricon.co.jp/news/2484548/photo/2/?anc",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-10-05T07:05:00.000Z",
+          "title": "「映画ちいかわ 人魚の島のひみつ」興行収入171億円を突破 公開72日間 (2026年10月5日掲載)",
+          "url": "https://news.livedoor.com/topics/detail/32492938/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-05T11:45:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ』、5日間で60万人動員のハイペースヒット 韓国でも大ヒットの兆し",
+          "url": "https://news.livedoor.com/article/detail/32489952/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-05T01:33:00.000Z",
           "isPR": false
         }
       ]
@@ -490,12 +493,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T12:30:20.683Z",
-    "previousCount": 84,
-    "newCount": 3
+    "previousAt": "2026-10-05T13:00:19.984Z",
+    "previousCount": 83,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T13:30:19.984Z",
+  "nextUpdateAt": "2026-10-05T14:00:19.493Z",
   "items": [
     {
       "id": "e98a7f1cace2",
@@ -599,6 +602,25 @@
       "isNew": false
     },
     {
+      "id": "21a0115c69ec",
+      "title": "「映画ちいかわ 人魚の島のひみつ」興行収入171億円を突破 公開72日間 (2026年10月5日掲載)",
+      "url": "https://news.livedoor.com/topics/detail/32492938/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T11:45:20.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/4/3/43942_760_2484548_20261005_150827_size640wh_43069478.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "682512219497",
       "title": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？",
       "url": "https://fan.books.rakuten.co.jp/articles/eb6yaxbbk1c9grf98ctiy86a",
@@ -684,7 +706,7 @@
       "title": "くりまんじゅうの専用カップ付き！「ちいかわ」ほっと温まる“だし割り”を手軽に楽しめるセット発売 予約受付中",
       "url": "https://news.infoseek.co.jp/article/cinemacafenet_113102/",
       "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "source": "news.infoseek.co.jp",
       "summary": "",
       "publishedAt": "2026-10-05T10:00:03.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/photos/cinemacafenet/cinemacafenet_113102_0-enlarge.jpg",
@@ -824,7 +846,7 @@
       "title": "「今年の！！冬が！！怖くない！！！」しまむらの“ちいかわ”新作腹巻が話題。もこもこ素材で冬支度",
       "url": "https://news.allabout.co.jp/articles/o/130447/",
       "host": "news.allabout.co.jp",
-      "source": "All About ニュース",
+      "source": "news.allabout.co.jp",
       "summary": "",
       "publishedAt": "2026-10-05T08:00:00.000Z",
       "image": "https://ix-news.aacdn.jp/aa_news/article/2026/10/05/6ac317983a90d.jpg?im=AspectCrop=(16,9);Resize=(1600,900)",
@@ -1341,6 +1363,25 @@
       "isNew": false
     },
     {
+      "id": "96d408d707fd",
+      "title": "「ちいかわ」のぬいぐるみが“着ぐるみ”をしたら...⇒セリアの毛糸の手編み作品に「冬支度バッチリ」「質感たまらん」",
+      "url": "https://news.yahoo.co.jp/articles/255b6f4a1497e1e218b0c7d37c148179e0539765",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-04T21:40:06.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00010000-huffpost-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a64fc51773ba",
       "title": "中国、ちいかわ人気加速 特別展開催、グッズ店続々",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
@@ -1464,7 +1505,7 @@
       "title": "「なぜ皆ちいかわにハマるのか」映画ちいかわ 人魚の島のひみつ 地元はどこでもワンダーランドさんの映画レビュー（感想・評価）",
       "url": "https://eiga.com/movie/105109/review/07057309/",
       "host": "eiga.com",
-      "source": "映画.com",
+      "source": "eiga.com",
       "summary": "",
       "publishedAt": "2026-10-04T10:57:07.000Z",
       "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
@@ -1646,7 +1687,7 @@
       "title": "スタジオジブリを傘下に収めた日テレ､X発『ちいかわ』を1分アニメで広げるフジ…対照的なIP戦略",
       "url": "https://toyokeizai.net/articles/-/959275?display",
       "host": "toyokeizai.net",
-      "source": "東洋経済オンライン",
+      "source": "toyokeizai.net",
       "summary": "",
       "publishedAt": "2026-10-04T02:00:00.000Z",
       "image": "",
@@ -1935,7 +1976,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e34637333c80",
@@ -1955,7 +1996,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3030621a522c",
@@ -1975,7 +2016,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8652fb651a45",
@@ -2023,7 +2064,7 @@
       "title": "【ちいかわ】このあと10時からプラキット『ちいプラ』第1弾が予約開始。ちいかわ・ハチワレ・うさぎの3種【数量限定】",
       "url": "https://dengekionline.com/article/202610/89764",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-10-02T23:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_rScW.jpg?x=1280",
@@ -2130,28 +2171,6 @@
         "anime"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ef3669e494bb",
-      "title": "『ちいかわ』くりまんじゅう＆シーサーが“ねんどろいど”フィギュア化！二日酔い顔、くやシーサー顔…豊富なバーツで色んなシチュ再現",
-      "url": "https://0115765.com/archives/207909",
-      "host": "0115765.com",
-      "source": "オタク総研",
-      "summary": "",
-      "publishedAt": "2026-10-02T13:04:29.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261002-kdi1aysf.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "kurimanju",
-        "shisa"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
