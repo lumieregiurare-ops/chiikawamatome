@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-05T00:58:17.619Z",
+  "updatedAt": "2026-10-05T01:30:17.300Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 87,
-  "todayCount": 12,
+  "total": 82,
+  "todayCount": 13,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 31
+      "count": 27
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "event",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 28
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 18
+      "count": 17
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "momonga",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 19
+      "count": 18
     },
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 6
     },
     {
       "name": "インサイド",
@@ -102,10 +102,6 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 4
-    },
-    {
-      "name": "キャラグー",
       "count": 4
     },
     {
@@ -121,15 +117,15 @@
       "count": 3
     },
     {
+      "name": "キャラグー",
+      "count": 3
+    },
+    {
       "name": "コラボカフェ",
       "count": 3
     },
     {
       "name": "Dtimes",
-      "count": 2
-    },
-    {
-      "name": "youtu.be",
       "count": 2
     },
     {
@@ -141,11 +137,15 @@
       "count": 2
     },
     {
-      "name": "조선일보",
+      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "shiritomo",
+      "count": 1
+    },
+    {
+      "name": "조선일보",
       "count": 1
     },
     {
@@ -185,7 +185,7 @@
       "count": 1
     },
     {
-      "name": "entabe.jp",
+      "name": "えん食べ [グルメニュース]",
       "count": 1
     },
     {
@@ -233,10 +233,6 @@
       "count": 1
     },
     {
-      "name": "朝日新聞",
-      "count": 1
-    },
-    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
@@ -255,6 +251,42 @@
   ],
   "topics": [
     {
+      "id": "79e7d0af68c8",
+      "title": "ちいかわ 秋だもんマスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "summary": "",
+      "url": "https://charagoo.jp/prize/item/484f8584e679/",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00000002-anmanmv-000-1-view.jpg?exp=10800",
+      "leadSource": "キャラグー",
+      "publishedAt": "2026-10-02T23:27:26.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "マスコット",
+        "プライズ"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
+          "source": "キャラグー",
+          "publishedAt": "2026-10-02T23:27:26.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ」ラッコがスウェット姿に!? ハチワレたちは肉まんもぐもぐ♪ 新作マスコット登場（アニメ！アニメ！）",
+          "url": "https://news.yahoo.co.jp/articles/2a7d63a347cd5ba005a8b88c517805ab31da0864",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-02T02:20:03.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "36bb5665dfc9",
       "title": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参「長旅のお供はうさぎ」",
       "summary": "",
@@ -262,25 +294,17 @@
       "image": "https://www.yamagata-np.jp/",
       "leadSource": "山形新聞",
       "publishedAt": "2026-10-04T21:58:37.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 2,
+      "articleCount": 2,
       "categories": [
-        "goods",
-        "other"
+        "goods"
       ],
       "keywords": [
-        "うさぎ",
         "蜷川実花",
-        "出張先"
+        "出張先",
+        "持参"
       ],
       "articles": [
-        {
-          "title": "【ちいかわ】むちゃ元気なうさぎ",
-          "url": "https://youtu.be/yMDl7GIdq5c?si",
-          "source": "youtu.be",
-          "publishedAt": "2026-10-04T03:00:12.000Z",
-          "isPR": false
-        },
         {
           "title": "“ちいかわにハマる”蜷川実花、出張先にたくさんの推しグッズを持参 「長旅のお供」にしたキャラクターは…",
           "url": "https://www.oricon.co.jp/news/2483932/full/",
@@ -426,35 +450,6 @@
       ]
     },
     {
-      "id": "e138e985e7c4",
-      "title": "『ちいかわ』プラキット「ちいプラ」が初お披露目！「第64回全日本模型ホビーショー」にブース出展",
-      "summary": "",
-      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000638327/",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00000020-imphbw-000-2-view.jpg?exp=10800",
-      "leadSource": "Excite エキサイト",
-      "publishedAt": "2026-10-03T03:23:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "プラキット",
-        "ホビーショー",
-        "披露目"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」の新作プラキット「ちいプラ」初お披露目！ 自転車に乗ったちいかわたち【#全日本模型ホビーショー】（HOBBY Watch）",
-          "url": "https://news.yahoo.co.jp/articles/8901fbdc9c96db36052763dbee382a2f7e5ed88a",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-02T01:26:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "84f24d77b047",
       "title": "ちいかわ達がかわいいコロネに！「ちいかわベーカリー」限定アイテムが「食べちゃいたいかわいさ」と大反響（ふたまん＋）",
       "summary": "",
@@ -510,34 +505,6 @@
       ]
     },
     {
-      "id": "05ab6a777fe2",
-      "title": "【ちいかわ】初々しさを感じるハチワレたちのボイスにも注目！ アニメ『ちいかわ』第6話「ともだち/ドラ焼き」が見逃し配信中",
-      "summary": "",
-      "url": "https://www.pashplus.jp/anime/497534/",
-      "image": "https://www.pashplus.jp/wp-content/uploads/a950f48ad5020d7ed857119168c13560.jpg",
-      "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-10-02T03:45:07.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "アニメ"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」ラッコがスウェット姿に!? ハチワレたちは肉まんもぐもぐ♪ 新作マスコット登場（アニメ！アニメ！）",
-          "url": "https://news.yahoo.co.jp/articles/2a7d63a347cd5ba005a8b88c517805ab31da0864",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-02T02:20:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "3b473b3f44e7",
       "title": "「診察中に売り切れてた…」ちいかわ医療スクラブ、発売当日に爆速完売！ 転売価格7万8000円に「作業着っすよ」医師ら困惑の声（LASISA）",
       "summary": "",
@@ -567,13 +534,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T00:30:14.831Z",
+    "previousAt": "2026-10-05T00:58:17.619Z",
     "previousCount": 87,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T01:28:17.619Z",
+  "nextUpdateAt": "2026-10-05T02:00:17.300Z",
   "items": [
+    {
+      "id": "4bcee0068b3f",
+      "title": "「ちいかわ」人気の秘密を紐解く “かわいい”の裏にあるシビアな世界と深い物語",
+      "url": "https://thetv.jp/news/detail/1445471/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-05T01:24:08.000Z",
+      "image": "https://thetv.jp/i/nw/1445471/18699378.jpg?w=1284",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "439eeaa8e0c4",
+      "title": "ラルクの新曲ジャケットも、興収100億円のちいかわ映画も――「AIかどうか」を証明させられた1ヶ月【編集部まとめ】",
+      "url": "https://hashout.jp/ai/11928/",
+      "host": "hashout.jp",
+      "source": "shiritomo",
+      "summary": "",
+      "publishedAt": "2026-10-05T01:00:00.000Z",
+      "image": "https://hashout.jp/wp-content/uploads/2026/10/matome-ai-2026W40-img-1200x675.png",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b5956d3ae820",
       "title": "『暗殺者（たち）』再び首位、ちいかわと接戦",
@@ -602,25 +607,6 @@
       "summary": "",
       "publishedAt": "2026-10-04T22:25:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484403/20261004_181031_p_o_12305659.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4bcee0068b3f",
-      "title": "「ちいかわ」人気の秘密を紐解く “かわいい”の裏にあるシビアな世界と深い物語",
-      "url": "https://thetv.jp/news/detail/1445471/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-04T22:22:05.000Z",
-      "image": "https://thetv.jp/i/nw/1445471/18699378.jpg?w=1284",
       "categories": [
         "other"
       ],
@@ -678,7 +664,7 @@
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-04T21:45:10.000Z",
+      "publishedAt": "2026-10-04T21:40:06.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00010000-huffpost-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
@@ -719,7 +705,7 @@
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-04T21:34:25.000Z",
+      "publishedAt": "2026-10-04T21:30:53.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000028-chuspo-000-1-view.jpg?exp=10800",
       "categories": [
         "book"
@@ -851,27 +837,6 @@
       "isNew": false
     },
     {
-      "id": "653bc96636d7",
-      "title": "【ちいかわ】ハチワレ「今日の日はさようなら」ukulele solo",
-      "url": "https://youtu.be/KaogRBOYZxQ?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-10-04T12:27:59.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5f0cd5e564de",
       "title": "「こんな７２歳いる？」高見沢俊彦、巻き髪前のストレート×ちいかわショットに騒然！「ヒャーッ」「気絶寸前」（スポーツ報知）",
       "url": "https://news.yahoo.co.jp/articles/73b981b507e2a6575ff0364578482f6ae9a7b139",
@@ -901,26 +866,6 @@
       "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c50718f285a6",
-      "title": "マクドナルド、次回ハッピーセット「ちいかわ」5・15より クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
-      "url": "https://www.sanyonews.jp/article/1917452",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-04T10:11:27.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/2/b/1/c2b106be8747172ebc2f03e286112619_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1099,27 +1044,6 @@
       "isNew": false
     },
     {
-      "id": "5c37f0b30c28",
-      "title": "【ちいかわ】むちゃ元気なうさぎ",
-      "url": "https://youtu.be/yMDl7GIdq5c?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-10-04T03:00:12.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4eed1b3c9a8d",
       "title": "『To LOVEる』描き下ろしイラスト／「ちいかわの描き方」説明に衝撃【10／3よく読まれたアニメ＆ゲームニュース】",
       "url": "https://www.oricon.co.jp/special/76528/",
@@ -1179,8 +1103,8 @@
     },
     {
       "id": "b237955db868",
-      "title": "スタジオジブリを傘下に収めた日テレ､X発『ちいかわ』を1分アニメで広げるフジ…対照的なIP戦略",
-      "url": "https://toyokeizai.net/articles/-/959275?display",
+      "title": "スタジオジブリを傘下に収めた日テレ､X発『ちいかわ』を1分アニメで広げるフジ…対照的なIP戦略 2ページ目 | ビジネス",
+      "url": "https://toyokeizai.net/articles/-/959275?page",
       "host": "toyokeizai.net",
       "source": "東洋経済オンライン",
       "summary": "",
@@ -1356,13 +1280,13 @@
     },
     {
       "id": "2042d537fbc6",
-      "title": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場（cinemacafe.net）",
-      "url": "https://news.yahoo.co.jp/articles/0547985341d68094f791a30079e1737e01bf9579",
+      "title": "ちいかわ、ハチワレ、うさぎが手のひらサイズに！「ちいかわ」キャラクター型えほん新作登場 (cinemacafe.net)",
+      "url": "https://news.yahoo.co.jp/articles/0547985341d68094f791a30079e1737e01bf9579/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-03T07:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00000003-cine-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-03T09:24:55.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnaFT6tJUSBGXGWM5JebLxJ9ndIiBfz_aatiow1n8yZPn3OGh4hupCtYgdK27qI6qvK-gOmi1G7X8ydye0bqgPYViackbsVl45-fLLQU9XU7D",
       "categories": [
         "goods"
       ],
@@ -1419,7 +1343,7 @@
       "title": "【2026年10月発売】コラボ・監修スイーツ5選！ちいかわ・らんま1/2・ハイキュー!!など",
       "url": "https://entabe.jp/61702/collaboration-sweets-2026-10",
       "host": "entabe.jp",
-      "source": "entabe.jp",
+      "source": "えん食べ [グルメニュース]",
       "summary": "",
       "publishedAt": "2026-10-03T03:30:00.000Z",
       "image": "https://image.entabe.jp/upload/20261003/images/choco_1.jpg",
@@ -1470,6 +1394,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "79e7d0af68c8",
+      "title": "ちいかわ 秋だもんマスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/484f8584e679/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-02T23:27:26.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "82498abc23d4",
@@ -1925,25 +1869,6 @@
       "isNew": false
     },
     {
-      "id": "d393ecb54370",
-      "title": "携帯できて便利！ 【ちいかわ】「キャラクター型えほん」新作3冊が登場。手のひらサイズで約80gと軽量",
-      "url": "https://www.asahi.com/and/w/article/16930714/31392158",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-02T04:55:20.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ee73b33ac437",
       "title": "『ちいかわ』自転車に乗った可愛すぎるちいかわ、ハチワレのプラモデルが登場！くりまんじゅうだらけのトレーディングフィギュアの原型も撮影禁止で展示！【2026第64回全日本模型ホビーショー速報レポート】グレイ・パーカー・サービス",
       "url": "https://hobby.dengeki.com/event/3182984/",
@@ -2023,7 +1948,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3b473b3f44e7",
@@ -2239,64 +2164,6 @@
       "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2145/069/top.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f278c7ef9611",
-      "title": "「ちいかわ」の新作プラキット「ちいプラ」初お披露目！ 自転車に乗ったちいかわたち【#全日本模型ホビーショー】（HOBBY Watch）",
-      "url": "https://news.yahoo.co.jp/articles/8901fbdc9c96db36052763dbee382a2f7e5ed88a",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-02T01:26:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00000020-imphbw-000-2-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "abc7ee104ded",
-      "title": "【2026年10月】ちいかわのガチャガチャ最新一覧｜新作の発売日と設置場所まとめ",
-      "url": "https://charagoo.jp/chiikawa-capsuletoy/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-02T01:17:30.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "93aab1c2b94a",
-      "title": "映画ちいかわ 人魚の島のひみつ デスクトップフィギュア｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/b28f576c37c3/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-02T01:17:30.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
