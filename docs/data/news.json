@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-05T14:30:18.427Z",
+  "updatedAt": "2026-10-05T15:00:24.875Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 84,
-  "todayCount": 50,
+  "total": 82,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
@@ -17,12 +17,12 @@
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 18
+      "count": 17
     },
     {
       "id": "book",
@@ -42,19 +42,19 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 35
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 14
+      "count": 13
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 22
     },
     {
       "name": "インサイド",
@@ -98,15 +98,15 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 6
+      "count": 5
     },
     {
       "name": "キャラグー",
-      "count": 6
+      "count": 5
     },
     {
       "name": "山陽新聞",
-      "count": 5
+      "count": 4
     },
     {
       "name": "ｄメニューニュース",
@@ -117,7 +117,7 @@
       "count": 2
     },
     {
-      "name": "mantan-web.jp",
+      "name": "MANTANWEB",
       "count": 2
     },
     {
@@ -129,16 +129,20 @@
       "count": 2
     },
     {
-      "name": "クランクイン！",
-      "count": 2
-    },
-    {
       "name": "ニコニコニュース",
       "count": 2
     },
     {
       "name": "Excite エキサイト",
       "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
+      "name": "コラボカフェ",
+      "count": 1
     },
     {
       "name": "キャラクター情報サイト",
@@ -149,15 +153,15 @@
       "count": 1
     },
     {
-      "name": "コラボカフェ",
-      "count": 1
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 1
     },
     {
       "name": "SmartNews",
+      "count": 1
+    },
+    {
+      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -173,10 +177,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
       "name": "PR TIMES",
       "count": 1
     },
@@ -185,7 +185,7 @@
       "count": 1
     },
     {
-      "name": "dtimes.jp",
+      "name": "Dtimes",
       "count": 1
     },
     {
@@ -429,6 +429,34 @@
       ]
     },
     {
+      "id": "6ac0b8b55989",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員",
+      "summary": "",
+      "url": "https://mantan-web.jp/article/20261005dog00m200059000a.html",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/05/20261005dog00m200059000a/001.jpg",
+      "leadSource": "MANTANWEB",
+      "publishedAt": "2026-10-05T11:56:56.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "興収",
+        "億円突破"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』興収171億円突破 『ONE PIECE FILM RED』並ぶ興収ペース維持",
+          "url": "https://www.oricon.co.jp/news/2484548/photo/2/?anc",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-05T07:05:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "175799bad38d",
       "title": "大人気「ちいかわ めじるしアクセサリー3」が10月に再販！雨カッパを着たハチワレ、古本屋など全5種",
       "summary": "「ちいかわ めじるしアクセサリー3」が全国のガシャポン自販機にて2026年10月より再販！",
@@ -455,16 +483,82 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "bc038691fbff",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』最新イラストにネット衝撃 表情豊かで「味があって…かわいい」 2枚目",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/news/2484446/photo/2/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484446/20261005_104601_p_o_40843467.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-10-05T02:50:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "イラスト",
+        "ネット",
+        "糸井重里"
+      ],
+      "articles": [
+        {
+          "title": "77歳・糸井重里『ちいかわ』最新イラストにネット衝撃 表情豊かで「味があって…かわいい」",
+          "url": "https://news.livedoor.com/article/detail/32490576/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-05T02:50:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T14:00:17.889Z",
-    "previousCount": 82,
-    "newCount": 4
+    "previousAt": "2026-10-05T14:30:18.427Z",
+    "previousCount": 84,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T15:00:18.427Z",
+  "nextUpdateAt": "2026-10-05T15:30:24.875Z",
   "items": [
+    {
+      "id": "55a91f8c2c99",
+      "title": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aeonmall-tokoname-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-05T14:26:15.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-24.jpeg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "cafb33b49509",
+      "title": "寒くて毛量増えた！？GUの〈ちいかわプルオーバー＆パーカ〉2型で冬支度。もこもこフード姿もキュートな冬らしいデザインに注目",
+      "url": "https://news.yahoo.co.jp/articles/79dc5eeae0b7b9f50592db831b31727e68eeaf44?page",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T13:56:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "255b300683af",
       "title": "『映画ちいかわ』新作食玩を開封レビュー！「原作絵ステッカー」が可愛すぎた♪ の画像・写真",
@@ -483,7 +577,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e98a7f1cace2",
@@ -568,11 +662,11 @@
       "isNew": false
     },
     {
-      "id": "cd63f85abab1",
-      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員 - mantan-web.jp",
+      "id": "6ac0b8b55989",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員",
       "url": "https://mantan-web.jp/article/20261005dog00m200059000a.html",
       "host": "mantan-web.jp",
-      "source": "mantan-web.jp",
+      "source": "MANTANWEB",
       "summary": "",
       "publishedAt": "2026-10-05T11:56:56.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/05/20261005dog00m200059000a/001.jpg",
@@ -680,25 +774,6 @@
       "categories": [
         "goods",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "55a91f8c2c99",
-      "title": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aeonmall-tokoname-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-05T09:25:17.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-24.jpeg",
-      "categories": [
-        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -914,7 +989,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-05T05:33:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-10163023-lasisa-000-9-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-10163023-lasisa-000-10-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1148,12 +1223,12 @@
     {
       "id": "c441d2c28d0c",
       "title": "77歳・糸井重里『ちいかわ』最新イラストにネット衝撃 表情豊かで「味があって…かわいい」",
-      "url": "https://www.oricon.co.jp/news/2484446/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "url": "https://news.livedoor.com/article/detail/32490576/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "summary": "",
       "publishedAt": "2026-10-05T02:50:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484446/20260908_100913_p_o_10195101.jpg",
+      "image": "https://image.news.livedoor.com/newsimage/stf/b/0/b0c2d_760_2484446_20261005_104534_size640wh_75555822.jpg",
       "categories": [
         "other"
       ],
@@ -1268,25 +1343,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1e0a14dfd56a",
-      "title": "エニマイくじ ちいかわ｜ちいかわのくじ 発売日・取扱コンビニ",
-      "url": "https://charagoo.jp/kuji/item/bc82ee20de87/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-04T23:25:17.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "725ffd8a6da8",
@@ -1431,32 +1487,12 @@
       "title": "0歳から楽しめるキャラクター型えほん！講談社「だいすきちいかわ シェイプブックミニ」新刊3冊",
       "url": "https://dtimes.jp/post-1407973/",
       "host": "dtimes.jp",
-      "source": "dtimes.jp",
+      "source": "Dtimes",
       "summary": "",
       "publishedAt": "2026-10-04T21:13:26.000Z",
       "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-e6f8972f5bb327fa74e2844c22eeb27e-20261004-499779.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "806a9987376c",
-      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-04T17:51:10.000Z",
-      "image": "",
-      "categories": [
-        "collab",
-        "game"
       ],
       "series": [],
       "isOfficial": false,
@@ -1635,7 +1671,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-04T03:00:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483965/20261002_101553_p_o_94677537.jpg",
       "categories": [
         "anime",
         "game"
@@ -1826,10 +1862,10 @@
     },
     {
       "id": "fcacd8fb0e2c",
-      "title": "新宿アニソンスコープ：「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも - mantan-web.jp",
+      "title": "新宿アニソンスコープ：「映画ちいかわ」サントラ盤が首位 「プロセカ」ワンダーランズ×ショウタイムの新シングルも",
       "url": "https://mantan-web.jp/article/20260928dog00m200081000a.html",
       "host": "mantan-web.jp",
-      "source": "mantan-web.jp",
+      "source": "MANTANWEB",
       "summary": "",
       "publishedAt": "2026-10-03T11:03:30.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/28/20260928dog00m200081000a/001.jpg",
@@ -1858,27 +1894,6 @@
       "series": [
         "hachiware",
         "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "220956e08656",
-      "title": "ちいかわ、ハチワレたちが映画OPテーマをスペシャルパフォーマンス！ 『2026 FNS歌謡祭 夏』出演アーティスト第2弾解禁",
-      "url": "https://www.crank-in.net/gallery/news/186459/recommend",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-10-03T07:30:26.000Z",
-      "image": "https://www.crank-in.net/img/db/266069107195256_1200.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1944,6 +1959,26 @@
       "isNew": false
     },
     {
+      "id": "c8ef91228f53",
+      "title": "ちいかわ 妖精なちいかわBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/822215fc5fd0/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-02T23:27:26.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "64b2a5a293a3",
       "title": "ちいかわ 寝袋ぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
       "url": "https://charagoo.jp/prize/item/8bebdaccbb6c/",
@@ -1962,26 +1997,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "775d07e86662",
-      "title": "ちいかわ ソフビフィギュア4｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/84036946211c/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-02T23:27:26.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8652fb651a45",
