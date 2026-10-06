@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-06T20:30:19.157Z",
+  "updatedAt": "2026-10-06T20:55:33.861Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 86,
-  "todayCount": 1,
+  "total": 88,
+  "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 20
+      "count": 23
     },
     {
       "id": "kuji",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "momonga",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 22
+      "count": 21
     },
     {
       "id": "rakko",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "インサイド",
@@ -98,7 +98,7 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 6
+      "count": 7
     },
     {
       "name": "オリコンニュース",
@@ -129,6 +129,10 @@
       "count": 2
     },
     {
+      "name": "yomitime.com",
+      "count": 1
+    },
+    {
       "name": "朝日新聞",
       "count": 1
     },
@@ -138,10 +142,6 @@
     },
     {
       "name": "いこーよニュース",
-      "count": 1
-    },
-    {
-      "name": "zakⅡ",
       "count": 1
     },
     {
@@ -177,7 +177,7 @@
       "count": 1
     },
     {
-      "name": "キャラクター情報サイト",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -266,8 +266,8 @@
       "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/34151/normal.png?1791272967",
       "leadSource": "朝日新聞",
       "publishedAt": "2026-10-06T12:57:31.000Z",
-      "sourceCount": 11,
-      "articleCount": 13,
+      "sourceCount": 10,
+      "articleCount": 12,
       "categories": [
         "goods",
         "other"
@@ -314,13 +314,6 @@
           "isPR": false
         },
         {
-          "title": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！",
-          "url": "https://charalab.com/143666/",
-          "source": "キャラクター情報サイト",
-          "publishedAt": "2026-10-06T00:15:54.000Z",
-          "isPR": false
-        },
-        {
           "title": "くりまんじゅう好き必見♪ちいかわの日本酒とお出汁のだし割りセット発売",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HamxUbldZUENxZ29hSXRPbXJ4NmVZOWJ2b1ZNTWJCWWdmOEw3RHloWG9oTnlRWlo3dzRCSHZjZFpuMmVhajhRenpRaTVhX3VPeVB2TWhFdFc3U3g0cHZzWEw0SEVPOFdfTjRNdkt1aE9PWk1yLWhV0gF8QVVfeXFMUE55VU4xRzRFNE8zMEZxLVNhX25yWlFuUnZqRkZNOUJLcm1odHNmSW56WmJOX2ZycDdMWWpxc3RxX01xQWg5ZU1SLU9PVXNBUUc1S1UwMkJjMVhUMHpCM3hvZFprSjRQNTl3dFdZT0Jwb1AyckFUbTg3Q0Yydg?oc=5",
           "source": "ｄメニューニュース",
@@ -332,6 +325,13 @@
           "url": "https://news.infoseek.co.jp/article/oshiraku_28177/",
           "source": "Infoseek",
           "publishedAt": "2026-10-05T11:14:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ちいかわ】「ハーッ…（ポチった）」くりまんじゅうの“だし割り”を自宅で楽しめるオトナの“神セット”が本日予約開始！「にっくきアイツ」も描かれる（LASISA）",
+          "url": "https://news.yahoo.co.jp/articles/bcb2d4f0a83457a4126d770ba32c604e536e5c29",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-05T05:33:00.000Z",
           "isPR": false
         }
       ]
@@ -397,10 +397,10 @@
       "id": "dcc9db396062",
       "title": "ANA「ちいかわジェット」10月19日運航開始 初便は既に7万円超で空席待ち",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92SGdycnZfUTJZc3BnZ01VcDNwd2xKZVFjNDA1ckFnLWhOUzlXR3RTdWRnSDN6bnphVnY3MzRKSUtDbEMxNFR6Tlc3M0E1WlAtQWtvSVlWdmpla05MOHpSa0RhVTdjMGJMZDFhQkc5S2JnYUNEM3Z4ddIBjAFBVV95cUxNaGxnemJYQlc0VjQ5RjZtSWNIZlB6N3N0TVpuZDNjVjMzbjZ0bzRvZ2hvYklMS3FCRm9wTGwyTDA2dkFNZk1Nd3A4eVFOX3JmWkx2Mk51NW5RVEhvRTVMZ2N1VFFUYnhaRG9jWVhxdW5ZbVhfRlctQld0d2hmM0xlUlRLRWpuRmFvX3h5dw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXFVblA2SmMyajlzcHRaSGhNVVlSUWY0VnR2OFYzOHFTZDJKR3VrTDBEZXhkaGNtV0Myb0lrNDBYdjNxb29ySFFrbXp4dDJaVGMyVGh2NnZyRGVqdFphODFLaE1fQTZCZFR3UEk3MWl2WVJJMFA1S01MMXN1RU1Kak5KZk43TFZCTDZyODZZR1NlU2hEWkdxVW1UVUREU2NmaG1r0gGoAUFVX3lxTE5rczJyVERqNEtfZzFkem1nMUJQRUZORWdOTHVyMGZkdVpqWWl0SG1MYkttY3JOdEI4TXhZUXAzazZYS2otZURHMnItRjg4bEFKM3l4bjZxXzhDVGFQWlY2UHRVZ0VtUGx2elZRRzNsY3FiRU9VTkZlTEQ2d3BlRC13M3NSNVpfenNQdENRZE1qUkt6cmNjTDQya3Fub19zck9SQ21TaENwWQ?oc=5",
       "image": "https://airline.ikaros.jp/wp-content/uploads/2026/10/20261006_ana-chiikawa_01.jpg",
-      "leadSource": "zakⅡ",
-      "publishedAt": "2026-10-06T07:46:53.000Z",
+      "leadSource": "ｄメニューニュース",
+      "publishedAt": "2026-10-06T07:46:00.000Z",
       "sourceCount": 4,
       "articleCount": 4,
       "categories": [
@@ -627,13 +627,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T20:00:22.031Z",
-    "previousCount": 88,
-    "newCount": 0
+    "previousAt": "2026-10-06T20:30:19.157Z",
+    "previousCount": 86,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T21:00:19.157Z",
+  "nextUpdateAt": "2026-10-06T21:25:33.861Z",
   "items": [
+    {
+      "id": "485aa57471e9",
+      "title": "ちいかわベーカリー2周年！コロネ姿の限定マスコットが可愛すぎる",
+      "url": "https://yomitime.com/chiikawa-bakery-2nd-anniversary/",
+      "host": "yomitime.com",
+      "source": "yomitime.com",
+      "summary": "",
+      "publishedAt": "2026-10-06T19:33:22.000Z",
+      "image": "https://yomitime.com/wp-content/uploads/2026/10/chiikawa1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "8cd6cb1221ef",
       "title": "セリフプレート特典も登場！『ちいかわ』ねんどろいど くりまんじゅう・シーサー",
@@ -867,11 +886,11 @@
     {
       "id": "dcc9db396062",
       "title": "ANA「ちいかわジェット」10月19日運航開始 初便は既に7万円超で空席待ち",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92SGdycnZfUTJZc3BnZ01VcDNwd2xKZVFjNDA1ckFnLWhOUzlXR3RTdWRnSDN6bnphVnY3MzRKSUtDbEMxNFR6Tlc3M0E1WlAtQWtvSVlWdmpla05MOHpSa0RhVTdjMGJMZDFhQkc5S2JnYUNEM3Z4ddIBjAFBVV95cUxNaGxnemJYQlc0VjQ5RjZtSWNIZlB6N3N0TVpuZDNjVjMzbjZ0bzRvZ2hvYklMS3FCRm9wTGwyTDA2dkFNZk1Nd3A4eVFOX3JmWkx2Mk51NW5RVEhvRTVMZ2N1VFFUYnhaRG9jWVhxdW5ZbVhfRlctQld0d2hmM0xlUlRLRWpuRmFvX3h5dw?oc=5",
-      "host": "zakzak.co.jp",
-      "source": "zakⅡ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXFVblA2SmMyajlzcHRaSGhNVVlSUWY0VnR2OFYzOHFTZDJKR3VrTDBEZXhkaGNtV0Myb0lrNDBYdjNxb29ySFFrbXp4dDJaVGMyVGh2NnZyRGVqdFphODFLaE1fQTZCZFR3UEk3MWl2WVJJMFA1S01MMXN1RU1Kak5KZk43TFZCTDZyODZZR1NlU2hEWkdxVW1UVUREU2NmaG1r0gGoAUFVX3lxTE5rczJyVERqNEtfZzFkem1nMUJQRUZORWdOTHVyMGZkdVpqWWl0SG1MYkttY3JOdEI4TXhZUXAzazZYS2otZURHMnItRjg4bEFKM3l4bjZxXzhDVGFQWlY2UHRVZ0VtUGx2elZRRzNsY3FiRU9VTkZlTEQ2d3BlRC13M3NSNVpfenNQdENRZE1qUkt6cmNjTDQya3Fub19zck9SQ21TaENwWQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-10-06T07:46:53.000Z",
+      "publishedAt": "2026-10-06T07:46:00.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1201,6 +1220,25 @@
       "isNew": false
     },
     {
+      "id": "df4d45218b6c",
+      "title": "【ちいかわ】“あのこ”と“でかつよ”のBIGぬいぐるみが新登場！",
+      "url": "https://dengekionline.com/article/202610/89466",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-06T01:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/89466/ogp_ZnlF.jpg?x=1280",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8606441a3170",
       "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
       "url": "https://www.sanyonews.jp/article/1957105?rct",
@@ -1256,27 +1294,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e98a7f1cace2",
-      "title": "ちいかわ「くりまんじゅう」の好物「だし割り」がお家で楽しめるセットが「玉乃光酒造」から登場！",
-      "url": "https://charalab.com/143666/",
-      "host": "charalab.com",
-      "source": "キャラクター情報サイト",
-      "summary": "",
-      "publishedAt": "2026-10-06T00:15:54.000Z",
-      "image": "https://charalab.com/images/2026/10/261005_kuri_-2.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kurimanju"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1700,6 +1717,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cc684bc886ac",
+      "title": "アルフィー高見沢、『ちいかわ』Tシャツが似合いすぎる！“うさぎそっくり”のレアなヘアスタイルで「宇宙一似合う人」",
+      "url": "https://news.yahoo.co.jp/articles/3c05f558b05a47f39750edcfa857d9048044834c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T06:18:08.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00010033-huffpost-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "52fd9d8f4893",
