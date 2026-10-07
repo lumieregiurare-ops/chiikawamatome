@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-07T10:00:18.695Z",
+  "updatedAt": "2026-10-07T10:30:18.134Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 106,
-  "todayCount": 50,
+  "total": 108,
+  "todayCount": 53,
   "categories": [
     {
       "id": "goods",
@@ -27,17 +27,17 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 7
+      "count": 9
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 39
+      "count": 40
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 3
+      "count": 2
     },
     {
       "id": "game",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 27
     },
     {
       "name": "インサイド",
-      "count": 11
+      "count": 10
     },
     {
       "name": "オリコンニュース",
@@ -129,6 +129,18 @@
       "count": 2
     },
     {
+      "name": "中日新聞Web",
+      "count": 2
+    },
+    {
+      "name": "ぴあエンタメ情報",
+      "count": 2
+    },
+    {
+      "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
       "name": "ニコニコニュース",
       "count": 1
     },
@@ -158,10 +170,6 @@
     },
     {
       "name": "京都新聞デジタル",
-      "count": 1
-    },
-    {
-      "name": "中日新聞Web",
       "count": 1
     },
     {
@@ -213,15 +221,11 @@
       "count": 1
     },
     {
+      "name": "アニメージュプラス",
+      "count": 1
+    },
+    {
       "name": "日本経済新聞",
-      "count": 1
-    },
-    {
-      "name": "Real Sound｜リアルサウンド",
-      "count": 1
-    },
-    {
-      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -234,10 +238,6 @@
     },
     {
       "name": "cinemacafe.net",
-      "count": 1
-    },
-    {
-      "name": "ぴあエンタメ情報",
       "count": 1
     },
     {
@@ -282,8 +282,8 @@
       "image": "https://animeanime.jp/imgs/rss/940281.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-07T07:46:00.000Z",
-      "sourceCount": 15,
-      "articleCount": 23,
+      "sourceCount": 16,
+      "articleCount": 24,
       "categories": [
         "anime",
         "goods"
@@ -291,7 +291,7 @@
       "keywords": [
         "映画",
         "特典",
-        "ビジュ"
+        "決定"
       ],
       "articles": [
         {
@@ -344,10 +344,10 @@
           "isPR": false
         },
         {
-          "title": "『映画ちいかわ 人魚の島のひみつ』興行収入172億円突破 第2弾メインビジュアルも（リアルサウンド）",
-          "url": "https://news.yahoo.co.jp/articles/ae563a4eac872469ada4ccd63591989478622f27",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-07T06:00:31.000Z",
+          "title": "【実際の投稿】「神対応だよ！」映画「ちいかわ」特典リバイバル配布が決定",
+          "url": "https://www.chunichi.co.jp/article/1322015",
+          "source": "中日新聞Web",
+          "publishedAt": "2026-10-07T06:10:40.000Z",
           "isPR": false
         }
       ]
@@ -517,6 +517,41 @@
       ]
     },
     {
+      "id": "31af35ee41ea",
+      "title": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/0819f1bb3fe796fc04f71ff5b059b7ed5b925bef",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00096772-kaiyou-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T10:20:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "event"
+      ],
+      "keywords": [
+        "ロンドン",
+        "ポップアップ",
+        "世界進出"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ、ロンドンの百貨店でポップアップ開催 世界進出が止まらないってコト!?",
+          "url": "http://www.excite.co.jp/news/article/kaiyou_n_1480504509957882375/",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-10-07T09:56:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ、ロンドンの百貨店でポップアップ開催 世界進出が止まらないってコト!? - KAI-YOU",
+          "url": "https://kai-you.net/article/96772",
+          "source": "KAI-YOU",
+          "publishedAt": "2026-10-07T09:45:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "370de4a42602",
       "title": "ANA、ちいかわジェット10/19就航 初便は長崎行きNH661便（Aviation Wire）",
       "summary": "",
@@ -606,9 +641,9 @@
       "articles": [
         {
           "title": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！",
-          "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_67921/",
-          "source": "Excite エキサイト",
-          "publishedAt": "2026-10-05T12:00:00.000Z",
+          "url": "https://animageplus.jp/articles/detail/67921",
+          "source": "アニメージュプラス",
+          "publishedAt": "2026-10-05T22:34:56.000Z",
           "isPR": false
         }
       ]
@@ -728,13 +763,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T09:30:17.088Z",
-    "previousCount": 103,
-    "newCount": 10
+    "previousAt": "2026-10-07T10:00:18.695Z",
+    "previousCount": 106,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T10:30:18.695Z",
+  "nextUpdateAt": "2026-10-07T11:00:18.134Z",
   "items": [
+    {
+      "id": "31af35ee41ea",
+      "title": "ちいかわの世界進出が止まらない 韓国、中国に続きイギリス・ロンドンの百貨店でポップアップ開催（KAI-YOU）",
+      "url": "https://news.yahoo.co.jp/articles/0819f1bb3fe796fc04f71ff5b059b7ed5b925bef",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-07T10:20:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00096772-kaiyou-000-1-view.jpg?exp=10800",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "43c1e559bd0d",
+      "title": "ちいかわ、ロンドンの百貨店でポップアップ開催 世界進出が止まらないってコト!?",
+      "url": "http://www.excite.co.jp/news/article/kaiyou_n_1480504509957882375/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:56:00.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "65e436a566a5",
       "title": "『ちいかわ』の一番くじが2027年4月より発売決定。遊園地で楽しそうに過ごす「ちいかわ」たちのキービジュアルも公開",
@@ -752,7 +825,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "594df2da1e7b",
@@ -771,7 +844,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "91e293abb9f8",
@@ -790,7 +863,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cfab3215963e",
@@ -813,7 +886,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea3a804bf1f8",
@@ -834,7 +907,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "741d719fb7e7",
@@ -854,7 +927,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "64d6131e47b0",
@@ -873,7 +946,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0cbbba0b7db7",
@@ -1093,7 +1166,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d97159a29972",
@@ -1113,7 +1186,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc3c0ab67cf2",
@@ -1194,6 +1267,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "89ab1aceadbe",
+      "title": "【実際の投稿】「神対応だよ！」映画「ちいかわ」特典リバイバル配布が決定",
+      "url": "https://www.chunichi.co.jp/article/1322015",
+      "host": "chunichi.co.jp",
+      "source": "中日新聞Web",
+      "summary": "",
+      "publishedAt": "2026-10-07T06:10:40.000Z",
+      "image": "https://static.chunichi.co.jp/image/article/size1/e/c/e/4/ece44f75d02d120a55b028bac5880364_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9c89ec6fbe6b",
@@ -1371,25 +1463,6 @@
       "isNew": false
     },
     {
-      "id": "136cff08757b",
-      "title": "『映画ちいかわ 人魚の島のひみつ』第2弾メインビジュアル解禁＆過去の入場者特典再配布も決定（ぴあ）",
-      "url": "https://news.yahoo.co.jp/articles/ba88ac9042660bb0973864f0af30eed4414989f3",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-07T05:10:13.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00010011-piaeigat-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "58c50fd9a2d9",
       "title": "映画「ちいかわ」第2弾ビジュアル解禁 入場者特典のリバイバル配布も決定（モデルプレス）",
       "url": "https://news.yahoo.co.jp/articles/93546876b048ae66f5d2575fccf817c113b985b9",
@@ -1493,6 +1566,25 @@
       "summary": "",
       "publishedAt": "2026-10-07T05:00:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484966/20260928_134939_p_o_20296884.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "136cff08757b",
+      "title": "『映画ちいかわ 人魚の島のひみつ』第2弾メインビジュアル解禁＆過去の入場者特典再配布も決定",
+      "url": "https://lp.p.pia.jp/article/news/514794/index.html?detail",
+      "host": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
+      "summary": "",
+      "publishedAt": "2026-10-07T05:00:00.000Z",
+      "image": "https://lp.p.pia.jp/shared/materials/8584b122-b05b-468e-a4fa-93e5e169f98b/origin.jpg",
       "categories": [
         "anime"
       ],
@@ -1796,12 +1888,12 @@
     {
       "id": "f129ce51010e",
       "title": "「ちいかわ」おかおマイボトル待望の第2弾！うさぎ/モモンガが10月中旬プライズ展開ー第1弾のちいかわ/ハチワレも再登場",
-      "url": "https://www.inside-games.jp/article/2026/10/06/188854.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "「ちいかわ おかおマイボトル1/2」が10月中旬よりアミューズメント施設にて順次展開！",
+      "url": "https://news.yahoo.co.jp/articles/e0ad93f567a8de12104eeaa7a41abca812bff81b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-10-06T10:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1790686.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000035-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "kuji"
       ],
@@ -1964,7 +2056,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-06T03:20:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484681/20260928_134200_p_o_83910749.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2096,7 +2188,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "55a91f8c2c99",
@@ -2130,6 +2222,27 @@
         "anime"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a93565ec4f4f",
+      "title": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！",
+      "url": "https://animageplus.jp/articles/detail/67921",
+      "host": "animageplus.jp",
+      "source": "アニメージュプラス",
+      "summary": "",
+      "publishedAt": "2026-10-05T22:34:56.000Z",
+      "image": "https://images.animageplus.jp/articles/67000/67921/OG/e468b471fa1d0279c5352c7afb322789.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kurimanju"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2214,25 +2327,6 @@
       "isNew": false
     },
     {
-      "id": "d7bf46759d0b",
-      "title": "ちいかわたちと楽しくひらがなを覚えよう！ 書き順付き絵本『ちいかわ あいうえお』が登場",
-      "url": "https://realsound.jp/book/2026/10/post-2543910.html",
-      "host": "realsound.jp",
-      "source": "Real Sound｜リアルサウンド",
-      "summary": "",
-      "publishedAt": "2026-10-05T12:12:54.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261005-aiueo-03.jpg",
-      "categories": [
-        "book"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a0e816605cbe",
       "title": "くりまんじゅう好き必見♪ちいかわの日本酒とお出汁のだし割りセット発売",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HamxUbldZUENxZ29hSXRPbXJ4NmVZOWJ2b1ZNTWJCWWdmOEw3RHloWG9oTnlRWlo3dzRCSHZjZFpuMmVhajhRenpRaTVhX3VPeVB2TWhFdFc3U3g0cHZzWEw0SEVPOFdfTjRNdkt1aE9PWk1yLWhV0gF8QVVfeXFMUE55VU4xRzRFNE8zMEZxLVNhX25yWlFuUnZqRkZNOUJLcm1odHNmSW56WmJOX2ZycDdMWWpxc3RxX01xQWg5ZU1SLU9PVXNBUUc1S1UwMkJjMVhUMHpCM3hvZFprSjRQNTl3dFdZT0Jwb1AyckFUbTg3Q0Yydg?oc=5",
@@ -2250,27 +2344,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a93565ec4f4f",
-      "title": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！",
-      "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_67921/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-10-05T12:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
