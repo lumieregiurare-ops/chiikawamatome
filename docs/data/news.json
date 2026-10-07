@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T16:30:18.355Z",
+  "updatedAt": "2026-10-07T17:04:07.390Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 113,
+  "total": 111,
   "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 27
+      "count": 25
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 37
+      "count": 36
     },
     {
       "id": "book",
@@ -94,7 +94,7 @@
     },
     {
       "name": "インサイド",
-      "count": 10
+      "count": 11
     },
     {
       "name": "オリコンニュース",
@@ -109,10 +109,6 @@
       "count": 5
     },
     {
-      "name": "ナタリー",
-      "count": 4
-    },
-    {
       "name": "KAI-YOU",
       "count": 3
     },
@@ -121,7 +117,7 @@
       "count": 3
     },
     {
-      "name": "山陽新聞",
+      "name": "ナタリー",
       "count": 3
     },
     {
@@ -145,7 +141,7 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
+      "name": "アニメージュプラス",
       "count": 2
     },
     {
@@ -153,7 +149,7 @@
       "count": 2
     },
     {
-      "name": "ハフポスト",
+      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -225,6 +221,10 @@
       "count": 1
     },
     {
+      "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
       "name": "WEBザテレビジョン",
       "count": 1
     },
@@ -257,10 +257,6 @@
       "count": 1
     },
     {
-      "name": "アニメージュプラス",
-      "count": 1
-    },
-    {
       "name": "日本経済新聞",
       "count": 1
     },
@@ -278,6 +274,10 @@
     },
     {
       "name": "All About ニュース",
+      "count": 1
+    },
+    {
+      "name": "ハフポスト",
       "count": 1
     },
     {
@@ -299,7 +299,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-07T12:14:22.000Z",
       "sourceCount": 19,
-      "articleCount": 25,
+      "articleCount": 24,
       "categories": [
         "anime",
         "goods"
@@ -307,7 +307,7 @@
       "keywords": [
         "映画",
         "ビジュ",
-        "特典"
+        "ビジュアル"
       ],
       "articles": [
         {
@@ -654,6 +654,42 @@
       ]
     },
     {
+      "id": "93f93c4b7bcd",
+      "title": "『ちいかわ』だと思ったら…⇒空目から生まれた投稿に「私も読んじゃいました」「新たな錯覚」（ハフポスト日本版）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/d79eca6c36e78b98dd273cae6ced6e359700ea73",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00010026-huffpost-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-05T04:18:33.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "ハフポスト",
+        "日本版",
+        "コラボ"
+      ],
+      "articles": [
+        {
+          "title": "「まんが日本昔ばなし」コラボの“黒胡麻ミルクラテ”⇒「ちいかわの“味噌漬け”を思い出す」と話題に（ハフポスト日本版）",
+          "url": "https://news.yahoo.co.jp/articles/fc2977edb5a8193602af50db8356dd1c5d13fcf7",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-05T03:11:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】「まんが日本昔ばなし」コラボの“黒胡麻ミルクラテ”⇒「ちいかわの“味噌漬け”を思い出す」と話題に",
+          "url": "https://www.huffingtonpost.jp/entry/story_jp_6aaa150be4b0477c43c043be",
+          "source": "ハフポスト",
+          "publishedAt": "2026-10-05T02:54:48.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "2a3f32260b6f",
       "title": "「ちいかわ」と『トイ・ストーリー5』が同時開催！米子天満屋の2大POP UP STORE！！10月12日まで",
       "summary": "",
@@ -764,44 +800,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "52fd9d8f4893",
-      "title": "【ちいかわ】「ハーッ…（ポチった）」くりまんじゅうの“だし割り”を自宅で楽しめるオトナの“神セット”が本日予約開始！「にっくきアイツ」も描かれる（LASISA）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/bcb2d4f0a83457a4126d770ba32c604e536e5c29",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-10163023-lasisa-000-11-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-06T00:33:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "other"
-      ],
-      "keywords": [
-        "くりまんじゅう",
-        "セット",
-        "アイツ"
-      ],
-      "articles": [
-        {
-          "title": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？",
-          "url": "https://news.infoseek.co.jp/article/oshiraku_28177/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-05T11:14:05.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T16:00:23.811Z",
-    "previousCount": 111,
-    "newCount": 2
+    "previousAt": "2026-10-07T16:30:18.355Z",
+    "previousCount": 113,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T17:00:18.355Z",
+  "nextUpdateAt": "2026-10-07T17:34:07.390Z",
   "items": [
     {
       "id": "2a3f32260b6f",
@@ -1329,26 +1336,6 @@
       "isNew": false
     },
     {
-      "id": "d97159a29972",
-      "title": "「映画ちいかわ 人魚の島のひみつ」入場者特典第6弾のチャームミニフィギュア [画像ギャラリー 2/6]",
-      "url": "https://natalie.mu/comic/gallery/news/692735/2978561",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-07T06:54:59.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "acda3d7859e5",
       "title": "画像・写真 | 77歳・糸井重里『ちいかわ』最新イラスト描きネット衝撃 同じ顔を繰り返し「眉が」 2枚目",
       "url": "https://www.oricon.co.jp/news/2484919/photo/2/",
@@ -1699,12 +1686,12 @@
     {
       "id": "512c073bb448",
       "title": "【ちいかわ】医療現場に馴染む上品な4色のスクラブが登場！",
-      "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_67932/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://animageplus.jp/articles/detail/67932",
+      "host": "animageplus.jp",
+      "source": "アニメージュプラス",
       "summary": "",
-      "publishedAt": "2026-10-07T03:05:00.000Z",
-      "image": "",
+      "publishedAt": "2026-10-07T03:05:18.000Z",
+      "image": "https://images.animageplus.jp/articles/67000/67932/OG/1bf4f2332dc34f058a2e408a3050b53e.jpg",
       "categories": [
         "other"
       ],
@@ -1842,26 +1829,6 @@
       "image": "https://yomitime.com/wp-content/uploads/2026/10/chiikawa1.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2b5914603edc",
-      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
-      "url": "https://www.sanyonews.jp/article/1994867?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-06T15:47:21.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -2096,6 +2063,25 @@
       "isNew": false
     },
     {
+      "id": "99217842a375",
+      "title": "『ちいかわ』新たな特典発表でネットざわつく「この2種類は可愛すぎる」",
+      "url": "https://www.oricon.co.jp/news/2484681/comment/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-06T06:37:01.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484681/20261006_110636_p_l_36293384.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0579ba6e58ec",
       "title": "「ちいかわ×ANA」コラボが10月19日就航！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開",
       "url": "https://www.inside-games.jp/article/2026/10/06/188837.html",
@@ -2135,25 +2121,6 @@
       "isNew": false
     },
     {
-      "id": "99217842a375",
-      "title": "『ちいかわ』新たな特典発表でネットざわつく「この2種類は可愛すぎる」",
-      "url": "https://www.oricon.co.jp/news/2484681/photo/2/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-06T03:20:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484681/20260928_134939_p_o_20296884.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6b86c8f2fe90",
       "title": "くりまんじゅうの“だし割り”セット登場へ！ オンラインショップで予約開始（クランクイン！）",
       "url": "https://news.yahoo.co.jp/articles/79b9ce30c95ca03089d6a2a493c1bd2aa6cde101",
@@ -2172,7 +2139,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2140a02780cd",
@@ -2203,7 +2170,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-06T02:55:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484688/20261002_104957_p_o_58185468.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2498,12 +2465,12 @@
     {
       "id": "57b6703f0dcc",
       "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ",
-      "url": "https://news.yahoo.co.jp/articles/40e0c4b97138dcca3bd1a7ffa0b29982b01a20d6?source",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://www.inside-games.jp/article/2026/10/05/188801.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-05T10:15:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000066-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1781773.jpg",
       "categories": [
         "collab"
       ],
@@ -2715,6 +2682,25 @@
       "isNew": false
     },
     {
+      "id": "93f93c4b7bcd",
+      "title": "『ちいかわ』だと思ったら…⇒空目から生まれた投稿に「私も読んじゃいました」「新たな錯覚」（ハフポスト日本版）",
+      "url": "https://news.yahoo.co.jp/articles/d79eca6c36e78b98dd273cae6ced6e359700ea73",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T04:18:33.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00010026-huffpost-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "175799bad38d",
       "title": "大人気「ちいかわ めじるしアクセサリー3」が10月に再販！雨カッパを着たハチワレ、古本屋など全5種",
       "url": "https://s.inside-games.jp/article/2026/10/05/188763.html?from",
@@ -2729,25 +2715,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "93f93c4b7bcd",
-      "title": "『ちいかわ』だと思ったら…⇒空目から生まれた投稿に「私も読んじゃいました」「新たな錯覚」",
-      "url": "https://www.huffingtonpost.jp/entry/story_jp_6abc8ff1e4b0ecc03a1d8a07",
-      "host": "huffingtonpost.jp",
-      "source": "ハフポスト",
-      "summary": "",
-      "publishedAt": "2026-10-05T03:55:22.000Z",
-      "image": "https://img.huffingtonpost.com/asset/6abc91221c0000a91395fc6f.jpg?ops=1200_630",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2957,7 +2924,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1e0a14dfd56a",
