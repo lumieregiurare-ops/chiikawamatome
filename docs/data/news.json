@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-07T21:30:18.133Z",
+  "updatedAt": "2026-10-07T22:00:20.217Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 108,
+  "total": 104,
   "todayCount": 2,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "collab",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 34
+      "count": 32
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 2
+      "count": 1
     },
     {
       "id": "game",
@@ -54,12 +54,12 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 20
     },
     {
       "name": "インサイド",
@@ -98,7 +98,7 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 7
+      "count": 6
     },
     {
       "name": "コラボカフェ",
@@ -122,6 +122,10 @@
     },
     {
       "name": "ナタリー",
+      "count": 3
+    },
+    {
+      "name": "キャラグー",
       "count": 3
     },
     {
@@ -149,10 +153,6 @@
       "count": 2
     },
     {
-      "name": "キャラグー",
-      "count": 2
-    },
-    {
       "name": "鳥取マガジン",
       "count": 1
     },
@@ -170,10 +170,6 @@
     },
     {
       "name": "GAME Watch",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -209,15 +205,7 @@
       "count": 1
     },
     {
-      "name": "アニメイトタイムズ",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -290,8 +278,8 @@
       "image": "https://animeanime.jp/imgs/rss/940281.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-07T18:19:23.000Z",
-      "sourceCount": 17,
-      "articleCount": 23,
+      "sourceCount": 15,
+      "articleCount": 21,
       "categories": [
         "anime",
         "goods"
@@ -299,7 +287,7 @@
       "keywords": [
         "映画",
         "ビジュ",
-        "ビジュアル"
+        "特典"
       ],
       "articles": [
         {
@@ -368,8 +356,8 @@
       "image": "https://www.inside-games.jp/imgs/rss/1791191.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-10-07T11:32:00.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "kuji",
         "goods"
@@ -412,13 +400,6 @@
           "title": "【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン",
           "url": "https://game.watch.impress.co.jp/docs/news/2146524.html",
           "source": "GAME Watch",
-          "publishedAt": "2026-10-07T09:17:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【画像】【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン遊園地で楽しそうに過ごすちいかわたちのビジュアルが公開",
-          "url": "https://news.livedoor.com/article/image_detail/32512000/?img_id",
-          "source": "ライブドアニュース",
           "publishedAt": "2026-10-07T09:17:13.000Z",
           "isPR": false
         },
@@ -801,12 +782,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T21:00:17.536Z",
-    "previousCount": 109,
-    "newCount": 0
+    "previousAt": "2026-10-07T21:30:18.133Z",
+    "previousCount": 108,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T22:00:18.133Z",
+  "nextUpdateAt": "2026-10-07T22:30:20.217Z",
   "items": [
     {
       "id": "16bf19f70df9",
@@ -1104,26 +1085,6 @@
       "summary": "",
       "publishedAt": "2026-10-07T09:17:13.000Z",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2146/524/1.jpg",
-      "categories": [
-        "kuji",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "df66417d4b4b",
-      "title": "【画像】【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン遊園地で楽しそうに過ごすちいかわたちのビジュアルが公開",
-      "url": "https://news.livedoor.com/article/image_detail/32512000/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-07T09:17:13.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/c/8/c8a8c_1838_e96dc05e24a31bcada297b2d15a4a915.jpg",
       "categories": [
         "kuji",
         "event"
@@ -1531,25 +1492,6 @@
       "isNew": false
     },
     {
-      "id": "9b85004f24f8",
-      "title": "『映画ちいかわ 人魚の島のひみつ』第2弾メインビジュアル解禁",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-10-07T05:35:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4eecfebd10a6",
       "title": "「映画ちいかわ」第2弾ビジュアル公開、ちいかわ＆ハチワレと見つめ合うヒトハ＆フタバ",
       "url": "https://natalie.mu/comic/news/692735",
@@ -1598,25 +1540,6 @@
       "summary": "",
       "publishedAt": "2026-10-07T05:06:22.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-04855489-mdpr-000-3-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9e9605fe6db8",
-      "title": "映画ちいかわ 人魚の島のひみつ：公開75日で興収172億円 第2弾メインビジュアル公開 年内に入場者特典リバイバル配布決定",
-      "url": "https://mantan-web.jp/article/20261007dog00m200035000a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-10-07T05:04:32.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/07/20261007dog00m200035000a/001.jpg",
       "categories": [
         "anime"
       ],
@@ -2083,25 +2006,6 @@
       "isNew": false
     },
     {
-      "id": "99217842a375",
-      "title": "『ちいかわ』新たな特典発表でネットざわつく「この2種類は可愛すぎる」",
-      "url": "https://www.oricon.co.jp/news/2484681/comment/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-06T06:37:01.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484681/20261006_110636_p_l_36293384.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0579ba6e58ec",
       "title": "「ちいかわ×ANA」コラボが10月19日就航！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開",
       "url": "https://www.inside-games.jp/article/2026/10/06/188837.html",
@@ -2130,6 +2034,25 @@
       "summary": "",
       "publishedAt": "2026-10-06T03:51:01.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-fashion-shimamura-haramaki-2026-eyecatch.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "99217842a375",
+      "title": "『ちいかわ』新たな特典発表でネットざわつく「この2種類は可愛すぎる」（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/37a9c0c62777f69d962ab8bf49e80eea9c4c2baf",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:20:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000382-oric-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -2924,46 +2847,24 @@
       "isNew": false
     },
     {
-      "id": "ac799f13f9cc",
-      "title": "「ちいかわとハチワレ？」『VIVANT』ドラム＆チョッキーの密着プリクラ風2Sが反響！ 仲良く指ハート披露で「少女漫画のキャラみたい」（中日スポーツ）",
-      "url": "https://news.yahoo.co.jp/articles/5cf4804787f813f55404f406458b523984aa256a",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "7df818b64f97",
+      "title": "ちいかわPOP UP STORE 福岡三越｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "url": "https://charagoo.jp/collab/event/537324be5619/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
       "summary": "",
-      "publishedAt": "2026-10-04T21:30:53.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000028-chuspo-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-04T23:08:26.000Z",
+      "image": "",
       "categories": [
-        "book"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e9fe1718347a",
-      "title": "「ちいかわ」新作カップスープ、特典の「うさぎ」シールも話題に！「躍動感サイコー」とファン歓喜（ふたまん＋）",
-      "url": "https://news.yahoo.co.jp/articles/c0d6272feb3e807430bcf3123820267dd0fa306f",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-04T21:30:34.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00132489-futaman-000-1-view.jpg?exp=10800",
-      "categories": [
+        "event",
         "goods"
       ],
-      "series": [
-        "usagi"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     }
   ]
 }
