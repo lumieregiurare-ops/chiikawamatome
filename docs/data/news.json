@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T02:30:16.683Z",
+  "updatedAt": "2026-10-07T03:00:14.670Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 85,
-  "todayCount": 10,
+  "total": 86,
+  "todayCount": 11,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 18
+      "count": 17
     },
     {
       "id": "book",
@@ -42,12 +42,12 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 32
     }
   ],
   "series": [
@@ -98,7 +98,11 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "山陽新聞",
+      "count": 5
     },
     {
       "name": "ｄメニューニュース",
@@ -106,10 +110,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 4
-    },
-    {
-      "name": "山陽新聞",
       "count": 4
     },
     {
@@ -226,6 +226,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -608,12 +612,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T02:00:17.801Z",
+    "previousAt": "2026-10-07T02:30:16.683Z",
     "previousCount": 85,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T03:00:16.683Z",
+  "nextUpdateAt": "2026-10-07T03:30:14.670Z",
   "items": [
     {
       "id": "163b5947b94d",
@@ -690,7 +694,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a348b75fae5",
@@ -807,6 +811,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2b5914603edc",
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
+      "url": "https://www.sanyonews.jp/article/1994867?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-06T15:47:21.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "57bd49b17cf6",
@@ -1489,7 +1513,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cafb33b49509",
@@ -1946,7 +1970,7 @@
       "source": "ハフポスト",
       "summary": "",
       "publishedAt": "2026-10-05T02:54:48.000Z",
-      "image": "",
+      "image": "https://img.huffingtonpost.com/asset/6aaa1c213c00009d1d4e73b6.jpg?cache=Nk2SxQ6qf0&ops=1200_630",
       "categories": [
         "collab"
       ],
@@ -2118,6 +2142,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7cf54bade3e8",
+      "title": "【画像】ドランクドラゴン塚地、『ちいかわ』の推しキャラ明かす「理由は親近感…な!!!笑」",
+      "url": "https://news.livedoor.com/article/image_detail/32488757/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-04T22:25:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/c/5/c5901_760_2484403_20261004_181211_size640wh_99043290.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ac799f13f9cc",
@@ -2293,26 +2336,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4eed1b3c9a8d",
-      "title": "『To LOVEる』描き下ろしイラスト／「ちいかわの描き方」説明に衝撃【10／3よく読まれたアニメ＆ゲームニュース】",
-      "url": "https://www.oricon.co.jp/special/76528/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-04T03:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
