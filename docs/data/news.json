@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T04:30:18.836Z",
+  "updatedAt": "2026-10-07T05:00:20.183Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 87,
-  "todayCount": 15,
+  "total": 90,
+  "todayCount": 16,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 21
+      "count": 24
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "event",
@@ -47,29 +47,29 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 17
+      "count": 18
     },
     {
       "id": "rakko",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 23
+      "count": 21
     },
     {
       "name": "インサイド",
-      "count": 10
+      "count": 11
     },
     {
       "name": "オリコンニュース",
@@ -105,19 +105,23 @@
       "count": 6
     },
     {
+      "name": "山陽新聞",
+      "count": 4
+    },
+    {
       "name": "コラボカフェ",
       "count": 4
     },
     {
-      "name": "山陽新聞",
+      "name": "アニメ！アニメ！",
       "count": 3
     },
     {
-      "name": "めざましmedia",
+      "name": "WEBザテレビジョン",
       "count": 2
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "めざましmedia",
       "count": 2
     },
     {
@@ -126,10 +130,6 @@
     },
     {
       "name": "Hobby JAPAN Web",
-      "count": 1
-    },
-    {
-      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -197,6 +197,10 @@
       "count": 1
     },
     {
+      "name": "cinemacafe.net",
+      "count": 1
+    },
+    {
       "name": "クランクイン！",
       "count": 1
     },
@@ -254,8 +258,8 @@
       "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/34151/normal.png?1791272967",
       "leadSource": "朝日新聞",
       "publishedAt": "2026-10-06T12:57:31.000Z",
-      "sourceCount": 8,
-      "articleCount": 10,
+      "sourceCount": 9,
+      "articleCount": 11,
       "categories": [
         "goods",
         "other"
@@ -274,6 +278,13 @@
           "isPR": false
         },
         {
+          "title": "くりまんじゅうの“だし割り”セット登場へ！ オンラインショップで予約開始（クランクイン！）",
+          "url": "https://news.yahoo.co.jp/articles/79b9ce30c95ca03089d6a2a493c1bd2aa6cde101",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "くりまんじゅう好き必見♪ちいかわの日本酒とお出汁のだし割りセット発売",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HamxUbldZUENxZ29hSXRPbXJ4NmVZOWJ2b1ZNTWJCWWdmOEw3RHloWG9oTnlRWlo3dzRCSHZjZFpuMmVhajhRenpRaTVhX3VPeVB2TWhFdFc3U3g0cHZzWEw0SEVPOFdfTjRNdkt1aE9PWk1yLWhV0gF8QVVfeXFMUE55VU4xRzRFNE8zMEZxLVNhX25yWlFuUnZqRkZNOUJLcm1odHNmSW56WmJOX2ZycDdMWWpxc3RxX01xQWg5ZU1SLU9PVXNBUUc1S1UwMkJjMVhUMHpCM3hvZFprSjRQNTl3dFdZT0Jwb1AyckFUbTg3Q0Yydg?oc=5",
           "source": "ｄメニューニュース",
@@ -288,9 +299,9 @@
           "isPR": false
         },
         {
-          "title": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場 (アニメ！アニメ！)",
-          "url": "https://news.yahoo.co.jp/articles/04524d83311b0da28153764e73da5f9f544b8f29/images/000",
-          "source": "Yahoo!ニュース",
+          "title": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場",
+          "url": "https://animeanime.jp/article/2026/10/05/103538.html",
+          "source": "アニメ！アニメ！",
           "publishedAt": "2026-10-05T08:15:02.000Z",
           "isPR": false
         },
@@ -313,55 +324,6 @@
           "url": "https://natalie.mu/comic/news/692379",
           "source": "ナタリー",
           "publishedAt": "2026-10-05T03:09:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわ】くりまんじゅうの「だし割り」を手軽に楽しめる！玉乃光酒造から「だし割りセット」11月10日に発売決定（GAME Watch）",
-          "url": "https://news.yahoo.co.jp/articles/f84d9071e64a1eb6f2ab6a97ba75fe2bf3c1bb30",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-05T02:19:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "10afcdbd6f62",
-      "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1946478?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-05T16:31:37.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "映画",
-        "人魚",
-        "興収"
-      ],
-      "articles": [
-        {
-          "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員",
-          "url": "https://mantan-web.jp/article/20261005dog00m200059000a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-10-05T15:27:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画ちいかわ 人魚の島のひみつ＞興収171億円突破 1176万人動員（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/b0b00b4675f9fbb7b28a038011bb696b9b564868",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-05T07:44:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第6弾に関してのお知らせ",
-          "url": "https://109cinemas.net/news/10070.html",
-          "source": "１０９シネマズ",
-          "publishedAt": "2026-10-05T01:01:59.000Z",
           "isPR": false
         }
       ]
@@ -410,6 +372,42 @@
       ]
     },
     {
+      "id": "f129ce51010e",
+      "title": "「ちいかわ」おかおマイボトル待望の第2弾！うさぎ/モモンガが10月中旬プライズ展開ー第1弾のちいかわ/ハチワレも再登場",
+      "summary": "「ちいかわ おかおマイボトル1/2」が10月中旬よりアミューズメント施設にて順次展開！",
+      "url": "https://www.inside-games.jp/article/2026/10/06/188854.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1790686.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-06T10:30:03.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "kuji",
+        "goods"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "うさぎ",
+        "モモンガ"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
+          "url": "https://thetv.jp/news/detail/1444152/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T14:28:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第6弾に関してのお知らせ",
+          "url": "https://109cinemas.net/news/10070.html",
+          "source": "１０９シネマズ",
+          "publishedAt": "2026-10-05T01:01:59.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "dcc9db396062",
       "title": "ANA「ちいかわジェット」10月19日運航開始 初便は既に7万円超で空席待ち",
       "summary": "",
@@ -446,13 +444,48 @@
       ]
     },
     {
-      "id": "2c83d3ae13f6",
-      "title": "くりまんじゅうの専用カップ付き！「ちいかわ」ほっと温まる“だし割り”を手軽に楽しめるセット発売 予約受付中 (cinemacafe.net)",
+      "id": "10afcdbd6f62",
+      "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/5dfd22f4a84120d1d95de3eb2e772c4034dbc4f2/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneIntmI6qHGZ2eqJ8Vvs67hWA02Yco6NbfMcrG2h-iFrwXHE6MmbMNYdfNyWuR11swLglmwz8G5Q72oUFdOTWBx0c6ZaxhK7DpxhZtq2Pi-i",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-05T11:36:47.000Z",
+      "url": "https://www.sanyonews.jp/article/1946478?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-05T16:31:37.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "映画",
+        "人魚",
+        "興収"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ：興収171億円突破 1176万人動員",
+          "url": "https://mantan-web.jp/article/20261005dog00m200059000a.html",
+          "source": "MANTANWEB",
+          "publishedAt": "2026-10-05T15:27:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ＞興収171億円突破 1176万人動員（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/b0b00b4675f9fbb7b28a038011bb696b9b564868",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-05T07:44:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "2c83d3ae13f6",
+      "title": "くりまんじゅうの専用カップ付き！「ちいかわ」ほっと温まる“だし割り”を手軽に楽しめるセット発売 予約受付中",
+      "summary": "",
+      "url": "https://www.cinemacafe.net/article/2026/10/05/113102.html",
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/837564.webp",
+      "leadSource": "cinemacafe.net",
+      "publishedAt": "2026-10-05T10:00:03.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -593,9 +626,9 @@
       "articles": [
         {
           "title": "「ちいかわ」カラビナつきポーチが10月中旬プライズ展開！ハチワレやくりまんじゅうなど全8種、もこもこ手触りがポイント",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSVI0SXVrUnJvNXpEai1jb0ZGTmpJWjBuNXNzYUJlYXl4SlRqUmdsTG81OXhyaEpSQXRSM3ZkSkVqb1pqNUpsbEJSS1ZIeC1HZHFVaWtuLWxiZEMwdTkzUXo2aW1xUjFzajAzR2FwYk9fOWtZbGtfLURMMDhnYlk0Rmhn0gGHAUFVX3lxTE1xZUktbWtTajVFOFpfMHpmdUwyMzRzUXNEWWszVF9hMjVkNjJjRmo3U3kxcXlYVXF0UVhUWlNkbHFzZmltUTdJR0traUxXcWJCTzM2cms2amJSSkNGOElpMVh3TkRBS0FOSzNQdDdseEZBek5zaXplSGp3SHdLSFVMWEsyS1NWUQ?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-05T02:00:00.000Z",
+          "url": "https://s.inside-games.jp/article/2026/10/05/188741.html",
+          "source": "インサイド",
+          "publishedAt": "2026-10-05T02:00:03.000Z",
           "isPR": false
         }
       ]
@@ -630,12 +663,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T04:00:24.239Z",
-    "previousCount": 88,
-    "newCount": 2
+    "previousAt": "2026-10-07T04:30:18.836Z",
+    "previousCount": 87,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T05:00:18.836Z",
+  "nextUpdateAt": "2026-10-07T05:30:20.183Z",
   "items": [
     {
       "id": "77261979aa63",
@@ -718,20 +751,20 @@
     },
     {
       "id": "99bb3f29a979",
-      "title": "【7回見てもまだ見たくなる】映画版『ちいかわ』が新規ファンを沼に引きずり込むこれだけの魅力（Fav-Log by ITmedia）",
-      "url": "https://news.yahoo.co.jp/articles/ae68c5bd42a9fe9e230bffe2b8b8c8b55ab6111a",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "【7回見てもまだ見たくなる】映画版『ちいかわ』が新規ファンを沼に引きずり込むこれだけの魅力",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05QzdvRkZ4ZFBmRFhhbFVZMnhmdkxndmpobzc2VzVLbXE5QWl3ZU91d0dqYU5kY0JseENTQl9FLWFvc2dyTlFDSGtEM3ZQUTFXdGR2ZVJrTHRFaFhBaDBYQWxZdDd1SDRhOTNHckd2SnlYYmR5TXNEbVVmWdIBe0FVX3lxTE05QzdvRkZ4ZFBmRFhhbFVZMnhmdkxndmpobzc2VzVLbXE5QWl3ZU91d0dqYU5kY0JseENTQl9FLWFvc2dyTlFDSGtEM3ZQUTFXdGR2ZVJrTHRFaFhBaDBYQWxZdDd1SDRhOTNHckd2SnlYYmR5TXNEbVVmWQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-10-07T03:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-10171593-it_favlog-000-1-view.jpg?exp=10800",
+      "image": "",
       "categories": [
         "anime"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -776,7 +809,7 @@
     {
       "id": "acc119f950c4",
       "title": "「ちいかわ」「踊る大捜査線」が稼ぐフジテレビ…ドラマは苦戦も視聴率だけでは見えない“映画・IP戦略”の強さ",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa1FjVTkyTktIT3JzVXg2c0FJcGpCY09NZFNIbW5yM0FkZjdxcHlfMVZkYmthX09HSUM3dzBXV0dFN1ZiYW1Ob2VfVjFZaVRrd2ZZYi0xQ0d5SVh1VHowWWtEamRiUFhWZ0pORWtGaXM5bDlFOWlPOEdfVWZsOWZmWnBtNlhXYnk5TE5GYmxYaU1jN0ZXeUtoT293TDlPYWV0YXJid3JqQVNYUEtheXdaME92NkZaUm02cWdiV24tT0U5X1N5T3owaldDbFRlZ255UmJCWTZNQ3ExRllaUHJGcmhwSHBVQdIBlgFBVV95cUxPSV9TZUZOQ0xVdHl0OS1ud1FlLXEyZldMclBjcFNZVmZyZExNOE50S2UwOS1XOE5MbU5ya3pxT2paQ3prcldkV2ZCR0ZhXzNUMm10bnp0VEZ0d1VOUDU3bkJLREprVGFnVldZalB4VGE2RlFGQnVrWmVkMGVKMUgyc2dGR01JeHpkSUxmdDI1akVJTFpxQ3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0hDcHVpX29UYTJUZEFpZkRGa18zcjlESXVqcVdSVTItN1NEQVZGd2d5RjdHWEtjbk1kbVR3TGE2UFdBVXNnbXI5OXEwS2E4czktMmkxaXF0SFdiTTRfdWdnaVp3eHNZNzk1ZUhwbUY1X1Z6UHZoM19rc1ZMYWQyTjlWTHRZUWdibzFQdXlRLXLSAZYBQVVfeXFMT0lfU2VGTkNMVXR5dDktbndRZS1xMmZXTHJQY3BTWVZmcmRMTThOdEtlMDktVzhOTG1Ocmt6cU9qWkN6a3JXZFdmQkdGYV8zVDJtdG56dFRGdHdVTlA1N25CS0RKa1RhZ1ZXWWpQeFRhNkZRRkJ1a1plZDBlSjFIMnNnRkdNSXh6ZElMZnQyNWpFSUxacUN3?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
@@ -926,6 +959,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2b5914603edc",
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
+      "url": "https://www.sanyonews.jp/article/1994867?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-06T15:47:21.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "57bd49b17cf6",
@@ -1291,6 +1344,27 @@
       "isNew": false
     },
     {
+      "id": "6b86c8f2fe90",
+      "title": "くりまんじゅうの“だし割り”セット登場へ！ オンラインショップで予約開始（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/79b9ce30c95ca03089d6a2a493c1bd2aa6cde101",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:10:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00192242-crankinn-000-4-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5ac8a741b18a",
       "title": "『ちいかわ』モモンガ役の声優 井口裕香の最新グラビアにネット衝撃「わがままボディ」",
       "url": "https://www.oricon.co.jp/news/2484688/",
@@ -1548,6 +1622,30 @@
       "isNew": false
     },
     {
+      "id": "8d132648b5cf",
+      "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
+      "url": "https://thetv.jp/news/detail/1444152/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-05T14:28:11.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cafb33b49509",
       "title": "寒くて毛量増えた！？GUの〈ちいかわプルオーバー＆パーカ〉2型で冬支度。もこもこフード姿もキュートな冬らしいデザインに注目",
       "url": "https://news.yahoo.co.jp/articles/79dc5eeae0b7b9f50592db831b31727e68eeaf44",
@@ -1628,27 +1726,6 @@
       "isNew": false
     },
     {
-      "id": "2c83d3ae13f6",
-      "title": "くりまんじゅうの専用カップ付き！「ちいかわ」ほっと温まる“だし割り”を手軽に楽しめるセット発売 予約受付中 (cinemacafe.net)",
-      "url": "https://news.yahoo.co.jp/articles/5dfd22f4a84120d1d95de3eb2e772c4034dbc4f2/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-05T11:36:47.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneIntmI6qHGZ2eqJ8Vvs67hWA02Yco6NbfMcrG2h-iFrwXHE6MmbMNYdfNyWuR11swLglmwz8G5Q72oUFdOTWBx0c6ZaxhK7DpxhZtq2Pi-i",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "682512219497",
       "title": "くりまんじゅうデザインの「ちいかわ だし割りセット」登場！ パッケージには憎い“アイツ”も？",
       "url": "https://news.infoseek.co.jp/article/oshiraku_28177/",
@@ -1692,7 +1769,7 @@
     {
       "id": "57b6703f0dcc",
       "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ",
-      "url": "https://news.yahoo.co.jp/articles/40e0c4b97138dcca3bd1a7ffa0b29982b01a20d6",
+      "url": "https://news.yahoo.co.jp/articles/40e0c4b97138dcca3bd1a7ffa0b29982b01a20d6?source",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
@@ -1730,6 +1807,27 @@
       "isNew": false
     },
     {
+      "id": "2c83d3ae13f6",
+      "title": "くりまんじゅうの専用カップ付き！「ちいかわ」ほっと温まる“だし割り”を手軽に楽しめるセット発売 予約受付中",
+      "url": "https://www.cinemacafe.net/article/2026/10/05/113102.html",
+      "host": "cinemacafe.net",
+      "source": "cinemacafe.net",
+      "summary": "",
+      "publishedAt": "2026-10-05T10:00:03.000Z",
+      "image": "https://www.cinemacafe.net/imgs/ogp_f/837564.webp",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d67a31227d06",
       "title": "「クリスマス2026 ちいかわキャンペーン」がセブン‐イレブンで開催中！チキンバーレルになった「ちいかわ」パーティーセットなどが当たる",
       "url": "https://s.inside-games.jp/article/2026/10/05/188790.html",
@@ -1751,15 +1849,15 @@
     },
     {
       "id": "1b490bef871f",
-      "title": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場 (アニメ！アニメ！)",
-      "url": "https://news.yahoo.co.jp/articles/04524d83311b0da28153764e73da5f9f544b8f29/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "ハァーッ！「ちいかわ」くりまんじゅうと“だし割り”をお家で！日本酒＆お出汁のセットが登場",
+      "url": "https://animeanime.jp/article/2026/10/05/103538.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-05T08:15:02.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnaM8KbI-wVbm0Paea121tJ046TrcUUI5IF3Hl6VWJoIaro1snF543q5TxLWfMkbenxSRHT2beyOlsmPRozxC_cR4JujOEgTq-tBfuAoLZMSO",
+      "image": "https://animeanime.jp/imgs/ogp_f/939160.webp",
       "categories": [
-        "anime"
+        "other"
       ],
       "series": [
         "kurimanju"
@@ -2113,12 +2211,12 @@
     {
       "id": "fa1ca588e4f5",
       "title": "「ちいかわ」カラビナつきポーチが10月中旬プライズ展開！ハチワレやくりまんじゅうなど全8種、もこもこ手触りがポイント",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSVI0SXVrUnJvNXpEai1jb0ZGTmpJWjBuNXNzYUJlYXl4SlRqUmdsTG81OXhyaEpSQXRSM3ZkSkVqb1pqNUpsbEJSS1ZIeC1HZHFVaWtuLWxiZEMwdTkzUXo2aW1xUjFzajAzR2FwYk9fOWtZbGtfLURMMDhnYlk0Rmhn0gGHAUFVX3lxTE1xZUktbWtTajVFOFpfMHpmdUwyMzRzUXNEWWszVF9hMjVkNjJjRmo3U3kxcXlYVXF0UVhUWlNkbHFzZmltUTdJR0traUxXcWJCTzM2cms2amJSSkNGOElpMVh3TkRBS0FOSzNQdDdseEZBek5zaXplSGp3SHdLSFVMWEsyS1NWUQ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://s.inside-games.jp/article/2026/10/05/188741.html",
+      "host": "s.inside-games.jp",
+      "source": "インサイド",
       "summary": "",
-      "publishedAt": "2026-10-05T02:00:00.000Z",
-      "image": "",
+      "publishedAt": "2026-10-05T02:00:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1789663.jpg",
       "categories": [
         "goods",
         "kuji"
@@ -2129,7 +2227,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2209,7 +2307,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ac799f13f9cc",
@@ -2308,7 +2406,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dbf4b8a421bf",
