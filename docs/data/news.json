@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-08T20:00:23.992Z",
+  "updatedAt": "2026-10-08T20:30:21.783Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 115,
+  "total": 116,
   "todayCount": 1,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 26
+      "count": 27
     },
     {
       "id": "book",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 17
+      "count": 18
     },
     {
       "name": "オリコンニュース",
@@ -385,7 +385,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-08T09:41:11.000Z",
       "sourceCount": 14,
-      "articleCount": 18,
+      "articleCount": 19,
       "categories": [
         "anime",
         "game"
@@ -815,12 +815,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T19:30:17.571Z",
-    "previousCount": 117,
-    "newCount": 0
+    "previousAt": "2026-10-08T20:00:23.992Z",
+    "previousCount": 115,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T20:30:23.992Z",
+  "nextUpdateAt": "2026-10-08T21:00:21.783Z",
   "items": [
     {
       "id": "f86fb75ee464",
@@ -1520,7 +1520,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-08T03:58:46.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2146/703/1.png",
       "categories": [
         "event",
         "goods"
@@ -2429,6 +2429,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b3397b155535",
+      "title": "『映画ちいかわ』入場者特典第3弾＆4弾＆6弾がリバイバル配布！メインビジュアル第二弾公開（シネマトゥデイ）",
+      "url": "https://news.yahoo.co.jp/articles/b51c5fab791a14a0b357c2e7c536a9525d5478da",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-07T05:00:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000009-flix-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cbd019c32705",
