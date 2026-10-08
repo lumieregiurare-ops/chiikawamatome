@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T13:30:17.348Z",
+  "updatedAt": "2026-10-08T14:00:17.915Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 120,
-  "todayCount": 49,
+  "total": 118,
+  "todayCount": 50,
   "categories": [
     {
       "id": "goods",
@@ -17,7 +17,7 @@
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "collab",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 30
+      "count": 27
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 21
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 16
+      "count": 15
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "オリコンニュース",
@@ -109,6 +109,10 @@
       "count": 4
     },
     {
+      "name": "ライブドアニュース",
+      "count": 4
+    },
+    {
       "name": "KAI-YOU",
       "count": 3
     },
@@ -117,15 +121,7 @@
       "count": 3
     },
     {
-      "name": "ｄメニューニュース",
-      "count": 3
-    },
-    {
-      "name": "ライブドアニュース",
-      "count": 3
-    },
-    {
-      "name": "山陽新聞",
+      "name": "Excite エキサイト",
       "count": 3
     },
     {
@@ -161,11 +157,11 @@
       "count": 2
     },
     {
-      "name": "千葉テレビ放送株式会社",
+      "name": "ｄメニューニュース",
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
+      "name": "千葉テレビ放送株式会社",
       "count": 2
     },
     {
@@ -173,11 +169,15 @@
       "count": 2
     },
     {
-      "name": "ITmedia",
+      "name": "Impress Watch",
       "count": 1
     },
     {
       "name": "映画.com",
+      "count": 1
+    },
+    {
+      "name": "産経ニュース",
       "count": 1
     },
     {
@@ -233,10 +233,6 @@
       "count": 1
     },
     {
-      "name": "Togetter",
-      "count": 1
-    },
-    {
       "name": "コンビニ チェッカー",
       "count": 1
     },
@@ -265,15 +261,15 @@
       "count": 1
     },
     {
+      "name": "Hobby JAPAN Web",
+      "count": 1
+    },
+    {
       "name": "シティリビングWeb",
       "count": 1
     },
     {
       "name": "https://yomitime.com/",
-      "count": 1
-    },
-    {
-      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -307,6 +303,10 @@
     {
       "name": "アニメージュプラス",
       "count": 1
+    },
+    {
+      "name": "山陽新聞",
+      "count": 1
     }
   ],
   "topics": [
@@ -319,10 +319,10 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-08T09:41:11.000Z",
       "sourceCount": 14,
-      "articleCount": 15,
+      "articleCount": 17,
       "categories": [
         "anime",
-        "goods"
+        "game"
       ],
       "keywords": [
         "映画",
@@ -341,7 +341,21 @@
           "title": "『映画ちいかわ』ちいかわ・ハチワレと見つめ合うヒトハ・フタバ。劇中シーンをフィーチャーした第2弾メインビジュアル解禁！ 入場者特典第3・4・6弾の年内リバイバル配布も決定",
           "url": "https://www.pashplus.jp/anime/497989/",
           "source": "PASH! PLUS",
-          "publishedAt": "2026-10-07T18:19:23.000Z",
+          "publishedAt": "2026-10-08T05:44:46.000Z",
+          "isPR": false
+        },
+        {
+          "title": "映画ちいかわ 第2弾メインビジュアル解禁! 特典リバイバル配布も決定!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-main-visual2-benefits-revival-2026/?amp",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-08T04:00:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "矢吹健太朗『ONE PIECE』ナミ描く／映画ちいかわ特典リバイバル配布へ【10／7よく読まれたアニメ＆ゲームニュース】",
+          "url": "https://www.oricon.co.jp/special/76553/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-07T22:50:00.000Z",
           "isPR": false
         },
         {
@@ -349,13 +363,6 @@
           "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_67935/",
           "source": "Excite エキサイト",
           "publishedAt": "2026-10-07T09:15:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画『ちいかわ』第2弾メインビジュアルが公開…見つめ合うちいかわ・ハチワレとヒトハ＆フタバ、その様子をさりげなく見つめるうさぎと島二郎の後ろ姿…エモすぎるだろ",
-          "url": "https://togetter.com/li/2755229",
-          "source": "Togetter",
-          "publishedAt": "2026-10-07T09:06:43.000Z",
           "isPR": false
         },
         {
@@ -377,13 +384,6 @@
           "url": "https://www.cinemacafe.net/article/2026/10/07/113149.html",
           "source": "cinemacafe.net",
           "publishedAt": "2026-10-07T06:15:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画『ちいかわ』新ビジュアルを公開 早期終了した入場者特典のリバイバル配布も決定 - KAI-YOU",
-          "url": "https://kai-you.net/article/96768",
-          "source": "KAI-YOU",
-          "publishedAt": "2026-10-07T05:57:00.000Z",
           "isPR": false
         }
       ]
@@ -474,8 +474,8 @@
       "image": "https://hobby.dengeki.com/ss/hobby/2026/10/469b052e3131133723f1851142a51ec0_7ET5QDAJ43nTV7hjIeUp1bBl6RW7WlRz_0xJR1cxpHgkiL1YCcd9v1FUkBVyegi0Q.jpg",
       "leadSource": "電撃ホビーウェブ",
       "publishedAt": "2026-10-08T03:00:00.000Z",
-      "sourceCount": 9,
-      "articleCount": 9,
+      "sourceCount": 10,
+      "articleCount": 10,
       "categories": [
         "kuji",
         "goods"
@@ -536,10 +536,10 @@
           "isPR": false
         },
         {
-          "title": "「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定、遊園地を楽しむちいかわ / ハチワレ / うさぎが登場!",
-          "url": "https://convenicheck.com/newitem/138000/",
-          "source": "コンビニ チェッカー",
-          "publishedAt": "2026-10-07T08:59:45.000Z",
+          "title": "【画像】【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン遊園地で楽しそうに過ごすちいかわたちのビジュアルが公開",
+          "url": "https://news.livedoor.com/article/image_detail/32512000/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-07T09:17:13.000Z",
           "isPR": false
         }
       ]
@@ -680,46 +680,10 @@
       ]
     },
     {
-      "id": "185d151c8887",
-      "title": "映画ちいかわ 第2弾メインビジュアル解禁! 特典リバイバル配布も決定!",
+      "id": "3030621a522c",
+      "title": "ちいかわ もちもちフェイスマスコット2｜ちいかわのプライズ 入荷予定・取扱店舗",
       "summary": "",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-main-visual2-benefits-revival-2026/?amp",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-movie-main-visual2-benefits-revival-2026-keyvisual-scaled.jpg",
-      "leadSource": "コラボカフェ",
-      "publishedAt": "2026-10-08T04:00:13.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "keywords": [
-        "特典",
-        "リバイバル",
-        "映画"
-      ],
-      "articles": [
-        {
-          "title": "矢吹健太朗『ONE PIECE』ナミ描く／映画ちいかわ特典リバイバル配布へ【10／7よく読まれたアニメ＆ゲームニュース】",
-          "url": "https://www.oricon.co.jp/special/76553/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-10-07T22:50:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "矢吹健太朗『ONE PIECE』ナミ描く／『ちいかわ』新たな特典発表で衝撃【10／6よく読まれたアニメ＆ゲームニュース】",
-          "url": "https://www.oricon.co.jp/special/76545/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-10-06T22:50:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "7e90603a6e84",
-      "title": "ちいかわ そろそろイースターなBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "summary": "",
-      "url": "https://charagoo.jp/prize/item/b5a212feb2bb/",
+      "url": "https://charagoo.jp/prize/item/3331fe71a1d9/",
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-mokomoko-pouch-prize-2026.jpg",
       "leadSource": "キャラグー",
       "publishedAt": "2026-10-08T00:25:37.000Z",
@@ -752,65 +716,29 @@
       ]
     },
     {
-      "id": "dcc9db396062",
-      "title": "ANA「ちいかわジェット」10月19日運航開始 初便は既に7万円超で空席待ち",
+      "id": "29f4c0581178",
+      "title": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から（ITmedia PC USER）",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXFVblA2SmMyajlzcHRaSGhNVVlSUWY0VnR2OFYzOHFTZDJKR3VrTDBEZXhkaGNtV0Myb0lrNDBYdjNxb29ySFFrbXp4dDJaVGMyVGh2NnZyRGVqdFphODFLaE1fQTZCZFR3UEk3MWl2WVJJMFA1S01MMXN1RU1Kak5KZk43TFZCTDZyODZZR1NlU2hEWkdxVW1UVUREU2NmaG1r0gGoAUFVX3lxTE5rczJyVERqNEtfZzFkem1nMUJQRUZORWdOTHVyMGZkdVpqWWl0SG1MYkttY3JOdEI4TXhZUXAzazZYS2otZURHMnItRjg4bEFKM3l4bjZxXzhDVGFQWlY2UHRVZ0VtUGx2elZRRzNsY3FiRU9VTkZlTEQ2d3BlRC13M3NSNVpfenNQdENRZE1qUkt6cmNjTDQya3Fub19zck9SQ21TaENwWQ?oc=5",
-      "image": "https://travel.watch.impress.co.jp/img/trw/list/2145/898/01.jpg",
-      "leadSource": "ｄメニューニュース",
-      "publishedAt": "2026-10-06T07:46:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "collab"
-      ],
-      "keywords": [
-        "ana",
-        "ジェット",
-        "初便"
-      ],
-      "articles": [
-        {
-          "title": "ANA「ちいかわジェット」の機体に会うためには？ 初便は10/19羽田〜長崎のANA661便！25日以降は函館･石垣など羽田発着15路線へ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOExwd0FJNTRRTXFaU1lRX0VCeS16aGVDQlZ6TlFjWVZyRlY4YmpnbUtJdS1Pc0dSZzRKc0VMWWtyNGd3UHJDRVZJRXhydFVTQ0FGWHdCUFl4SGJvaFZWUEtYYmk2SHVtWVZSRkpDNlQtMFExZ3pxM1lSZXExUkZQMTFR0gGHAUFVX3lxTE5CQW9BRngxZ1laZFhWWFk1RTEwZzNVX2Y1eWFrQmlWNGlLQXo4Qm5HbFA4WTFSMDVTcXNVc1pqNndVNkJHRGdLQmoyUVFBR1JPNm1FbXFQZ2g3UmRaVy01X3R2ZGxUQzNOcXBTT3BocUNSVENEQ3VpUXdLdFZFUzgzUDJ2a0RJaw?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-06T07:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANA「ちいかわジェット」10月19日就航決定。初便は羽田～長崎線、国内線搭乗でコラボパスポートケース当たる",
-          "url": "https://travel.watch.impress.co.jp/docs/news/2145898.html",
-          "source": "トラベル Watch",
-          "publishedAt": "2026-10-06T02:08:47.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "3022d57aef1d",
-      "title": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も（Impress Watch）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/a76d412aaabbfae23b9c2833b6e3ad5e53894de7",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000022-impress-000-1-view.jpg?exp=10800",
+      "url": "https://news.yahoo.co.jp/articles/bd801f367d88f101b0b81f3c50ed6118311d0eec",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000046-zdn_pc-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "publishedAt": "2026-10-08T13:05:09.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "collab"
+        "collab",
+        "other"
       ],
       "keywords": [
         "google",
         "play",
-        "対応"
+        "キッズ"
       ],
       "articles": [
         {
-          "title": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から - ITmedia PC USER",
-          "url": "https://www.itmedia.co.jp/pcuser/articles/2610/08/news102.html",
-          "source": "ITmedia",
+          "title": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も",
+          "url": "https://www.watch.impress.co.jp/docs/news/2146835.html",
+          "source": "Impress Watch",
           "publishedAt": "2026-10-08T13:00:00.000Z",
           "isPR": false
         }
@@ -872,46 +800,100 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "c92b36a0696e",
+      "title": "【ヤフコメで話題】「ちいかわ映画の特典配布に熱視線」「くりまんじゅう人気と転売対策への懸念」 - 映画館現場での混雑とファン心理が交錯",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/2744d5bb3d90b220edb974513ef0659c1571ae03",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000004-wordleafai-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T22:30:36.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "くりまんじゅう"
+      ],
+      "articles": [
+        {
+          "title": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！",
+          "url": "https://animageplus.jp/articles/detail/67921",
+          "source": "アニメージュプラス",
+          "publishedAt": "2026-10-05T22:34:56.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d8ba8530c109",
+      "title": "『ちいかわPOP UP STORE』10月9日には新商品も登場！10月12日まで",
+      "summary": "",
+      "url": "https://tottorimagazine.com/sichouson/yonagoshi/chiikawatoystory26/",
+      "image": "https://tottorimagazine.com/wp/wp-content/uploads/2026/09/17f050773f04565999901e6e68843b36-scaled.jpg",
+      "leadSource": "鳥取マガジン",
+      "publishedAt": "2026-10-07T14:39:16.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "event"
+      ],
+      "keywords": [
+        "pop",
+        "store"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ POP UP STORE in イオンモール常滑 10月16日より開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-aeonmall-tokoname-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-05T23:23:22.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T13:00:18.815Z",
-    "previousCount": 118,
-    "newCount": 4
+    "previousAt": "2026-10-08T13:30:17.348Z",
+    "previousCount": 120,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T14:00:17.348Z",
+  "nextUpdateAt": "2026-10-08T14:30:17.915Z",
   "items": [
     {
-      "id": "3022d57aef1d",
-      "title": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も（Impress Watch）",
-      "url": "https://news.yahoo.co.jp/articles/a76d412aaabbfae23b9c2833b6e3ad5e53894de7",
+      "id": "29f4c0581178",
+      "title": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から（ITmedia PC USER）",
+      "url": "https://news.yahoo.co.jp/articles/bd801f367d88f101b0b81f3c50ed6118311d0eec",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000022-impress-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-08T13:05:09.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000046-zdn_pc-000-1-view.jpg?exp=10800",
       "categories": [
-        "other"
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "29f4c0581178",
-      "title": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から - ITmedia PC USER",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2610/08/news102.html",
-      "host": "itmedia.co.jp",
-      "source": "ITmedia",
+      "id": "e67d7a432278",
+      "title": "アマゾン、Google Play対応のキッズタブレット 「ちいかわ」も",
+      "url": "https://www.watch.impress.co.jp/docs/news/2146835.html",
+      "host": "watch.impress.co.jp",
+      "source": "Impress Watch",
       "summary": "",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://image.itmedia.co.jp/pcuser/articles/2610/08/cover_news102.jpg",
+      "image": "https://www.watch.impress.co.jp/img/ipw/list/2146/835/03.jpg",
       "categories": [
-        "collab"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1002,13 +984,13 @@
     },
     {
       "id": "3a83c52d5dc0",
-      "title": "画像・写真 | サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 1枚目",
-      "url": "https://www.oricon.co.jp/news/2485355/photo/1/",
+      "title": "画像・写真 | サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催 8枚目",
+      "url": "https://www.oricon.co.jp/news/2485355/photo/8/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-10-08T10:41:25.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485355/20261008_181002_p_o_93610357.jpg",
+      "publishedAt": "2026-10-08T10:41:24.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485355/20261008_180950_p_o_67912961.jpg",
       "categories": [
         "event"
       ],
@@ -1018,6 +1000,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0c33bd50e394",
+      "title": "写真は『ちいかわ なんか小さくてかわいいやつ』1巻書影",
+      "url": "https://www.sankei.com/article/20261008-HGRIDBO7VBIHFGGA5QSI744AKM/photo/HKFSOL2EOJL55IFU5HBJHQZH2I/",
+      "host": "sankei.com",
+      "source": "産経ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-08T10:31:12.000Z",
+      "image": "https://www.sankei.com/resizer/v2/HKFSOL2EOJL55IFU5HBJHQZH2I.jpg?auth=f0baeb597d0ee46fd621e18cb19f62ccce368951b88cf3eb552c800b20666d44&quality=50&smart=true&width=1200&height=675",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5f4a044c9117",
@@ -1351,6 +1352,27 @@
         "event"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "16760d322658",
+      "title": "『映画ちいかわ』ちいかわ・ハチワレと見つめ合うヒトハ・フタバ。劇中シーンをフィーチャーした第2弾メインビジュアル解禁！ 入場者特典第3・4・6弾の年内リバイバル配布も決定",
+      "url": "https://www.pashplus.jp/anime/497989/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-10-08T05:44:46.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/01-2511.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1727,9 +1749,9 @@
       "isNew": false
     },
     {
-      "id": "7e90603a6e84",
-      "title": "ちいかわ そろそろイースターなBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/b5a212feb2bb/",
+      "id": "3030621a522c",
+      "title": "ちいかわ もちもちフェイスマスコット2｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/3331fe71a1d9/",
       "host": "charagoo.jp",
       "source": "キャラグー",
       "summary": "",
@@ -1820,27 +1842,6 @@
       ],
       "series": [
         "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "16760d322658",
-      "title": "『映画ちいかわ』ちいかわ・ハチワレと見つめ合うヒトハ・フタバ。劇中シーンをフィーチャーした第2弾メインビジュアル解禁！ 入場者特典第3・4・6弾の年内リバイバル配布も決定",
-      "url": "https://www.pashplus.jp/anime/497989/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-10-07T18:19:23.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/01-2511.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2113,6 +2114,26 @@
       "isNew": false
     },
     {
+      "id": "df66417d4b4b",
+      "title": "【画像】【ちいかわ】「一番くじ ちいかわ ～みんなで遊園地～」が2027年4月に発売決定！ 商品ページオープン遊園地で楽しそうに過ごすちいかわたちのビジュアルが公開",
+      "url": "https://news.livedoor.com/article/image_detail/32512000/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:17:13.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/c/8/c8a8c_1838_e96dc05e24a31bcada297b2d15a4a915.jpg",
+      "categories": [
+        "kuji",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "64d6131e47b0",
       "title": "【映画ちいかわ】キャンプファイヤーに照らされた第2弾メインビジュアル公開！",
       "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_67935/",
@@ -2125,28 +2146,6 @@
         "anime"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9fe15c88d84e",
-      "title": "映画『ちいかわ』第2弾メインビジュアルが公開…見つめ合うちいかわ・ハチワレとヒトハ＆フタバ、その様子をさりげなく見つめるうさぎと島二郎の後ろ姿…エモすぎるだろ",
-      "url": "https://togetter.com/li/2755229",
-      "host": "togetter.com",
-      "source": "Togetter",
-      "summary": "",
-      "publishedAt": "2026-10-07T09:06:43.000Z",
-      "image": "https://s.tgstc.com/ogp3/8bac8ab142fb9df89eb169f5b6ca9f4d-1200x630.jpeg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2278,25 +2277,6 @@
       "isNew": false
     },
     {
-      "id": "5b7a96304301",
-      "title": "興収172億円突破の映画『ちいかわ』新たなメインビジュアル公開 人気の入場者特典を再配布へ（KAI-YOU）",
-      "url": "https://news.yahoo.co.jp/articles/66cbc324bc0a405243ad8ef0ce5965a4820cc5b8",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-07T07:30:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00096768-kaiyou-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e914eee6e550",
       "title": "映画『ちいかわ 人魚の島のひみつ』入場特典のリバイバル配布が決定。プルバックカー“ごきげんセイレーン”＆“チャームミニフィギュア”のゲットのチャンス",
       "url": "https://www.famitsu.com/article/202610/90293",
@@ -2308,6 +2288,25 @@
       "categories": [
         "goods",
         "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "acda3d7859e5",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』最新イラスト描きネット衝撃 同じ顔を繰り返し「眉が」 15枚目",
+      "url": "https://www.oricon.co.jp/news/2484919/photo/15/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-07T06:42:34.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -2494,25 +2493,6 @@
       "isNew": false
     },
     {
-      "id": "acda3d7859e5",
-      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』最新イラスト描きネット衝撃 同じ顔を繰り返し「眉が」 16枚目",
-      "url": "https://www.oricon.co.jp/news/2484919/photo/16/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-07T03:20:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "512c073bb448",
       "title": "【ちいかわ】医療現場に馴染む上品な4色のスクラブが登場！ (2026年10月7日掲載)",
       "url": "https://news.livedoor.com/topics/detail/32509083/",
@@ -2530,6 +2510,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "568917763192",
+      "title": "『ちいかわ』のプラキット「ちいプラ」がグレイ・パーカー・サービスより誕生！自転車に乗った健気に頑張る姿を立体化！",
+      "url": "https://hjweb.jp/article/2817864/",
+      "host": "hjweb.jp",
+      "source": "Hobby JAPAN Web",
+      "summary": "",
+      "publishedAt": "2026-10-07T03:04:12.000Z",
+      "image": "https://hjweb.jp/wp-content/uploads/2026/11/samune.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "163b5947b94d",
@@ -2632,12 +2631,12 @@
     {
       "id": "2df8b07dc611",
       "title": "「ちいかわ」うさぎの髪がなびく“ファサ…”も！グッズ作成サービスに、「仕事ヤダ」「パスタライ助」など全5種カレッジ風デザイン追加",
-      "url": "https://article.auone.jp/822aee84-3a09-4b94-8687-0d549fc8128a",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
+      "url": "https://news.yahoo.co.jp/articles/5fc7e0f3b753d8f914da42ea6169c6bb52b755d5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-06T11:51:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/07/https___news_jp_i_1480170989541557220_w640.webp",
+      "publishedAt": "2026-10-06T11:30:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-00000039-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -2811,25 +2810,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "45245586e380",
-      "title": "ANA「ちいかわジェット」の機体に会うためには？ 初便は10/19羽田〜長崎のANA661便！25日以降は函館･石垣など羽田発着15路線へ",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOExwd0FJNTRRTXFaU1lRX0VCeS16aGVDQlZ6TlFjWVZyRlY4YmpnbUtJdS1Pc0dSZzRKc0VMWWtyNGd3UHJDRVZJRXhydFVTQ0FGWHdCUFl4SGJvaFZWUEtYYmk2SHVtWVZSRkpDNlQtMFExZ3pxM1lSZXExUkZQMTFR0gGHAUFVX3lxTE5CQW9BRngxZ1laZFhWWFk1RTEwZzNVX2Y1eWFrQmlWNGlLQXo4Qm5HbFA4WTFSMDVTcXNVc1pqNndVNkJHRGdLQmoyUVFBR1JPNm1FbXFQZ2g3UmRaVy01X3R2ZGxUQzNOcXBTT3BocUNSVENEQ3VpUXdLdFZFUzgzUDJ2a0RJaw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-10-06T07:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -3009,7 +2989,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5ac8a741b18a",
@@ -3170,6 +3150,25 @@
       "isNew": false
     },
     {
+      "id": "57b6703f0dcc",
+      "title": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ",
+      "url": "http://www.excite.co.jp/news/article/Inside_188801/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-05T22:55:47.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a93565ec4f4f",
       "title": "【ちいかわ】「くりまんじゅう」が嗜んでいた「だし割り」がお家で楽しめる！",
       "url": "https://animageplus.jp/articles/detail/67921",
@@ -3202,64 +3201,6 @@
       "categories": [
         "anime",
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "10afcdbd6f62",
-      "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
-      "url": "https://www.sanyonews.jp/article/1946478?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-05T16:31:37.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "85a4aa8efa3a",
-      "title": "『映画ちいかわ 人魚の島のひみつ』コラボレーションカフェが登場 オープン前日に行ってきた【内覧会リポート】",
-      "url": "https://www.sanyonews.jp/article/1952836?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-05T15:08:27.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/f/3/c/2f3c350a3b72b986f3f6f91f9d8a4b95_1.jpg",
-      "categories": [
-        "collab",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cafb33b49509",
-      "title": "寒くて毛量増えた！？GUの〈ちいかわプルオーバー＆パーカ〉2型で冬支度。もこもこフード姿もキュートな冬らしいデザインに注目",
-      "url": "https://news.yahoo.co.jp/articles/79dc5eeae0b7b9f50592db831b31727e68eeaf44",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-05T13:56:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-00140255-toushin-000-3-view.jpg?exp=10800",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
