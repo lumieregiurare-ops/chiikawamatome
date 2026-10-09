@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:30:15.272Z",
+  "updatedAt": "2026-10-09T22:00:16.727Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 133,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 48
+      "count": 49
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 35
+      "count": 36
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "other",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 24
+      "count": 25
     },
     {
       "name": "キャラグー",
@@ -290,10 +290,6 @@
     },
     {
       "name": "シティリビングWeb",
-      "count": 1
-    },
-    {
-      "name": "山形新聞",
       "count": 1
     }
   ],
@@ -874,13 +870,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T21:00:19.357Z",
-    "previousCount": 132,
-    "newCount": 8
+    "previousAt": "2026-10-09T21:30:15.272Z",
+    "previousCount": 133,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T22:00:15.272Z",
+  "nextUpdateAt": "2026-10-09T22:30:16.727Z",
   "items": [
+    {
+      "id": "fc90d3570be2",
+      "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋）",
+      "url": "https://news.yahoo.co.jp/articles/bc4b01ab85be2b0daf09bce743dafb5c670841b4",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-09T21:32:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00132479-futaman-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ccade37ce9b1",
       "title": "『ちいかわ』興収168億超、『踊る大捜査線』復活！ フジテレビの「IPを育てて稼ぐ」新方程式（東洋経済オンライン）",
@@ -1451,7 +1467,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d97f74c9b498",
@@ -1630,7 +1646,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "76215176934a",
@@ -2679,7 +2695,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "50a577542ed0",
@@ -2701,7 +2717,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3d0723dbbb6d",
@@ -2721,7 +2737,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "64b2a5a293a3",
@@ -2741,12 +2757,12 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "9dadbbb4de30",
-      "title": "ちいかわ てのひらバッグ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/c0d5c6761f66/",
+      "id": "8b901bb02ff6",
+      "title": "ちいかわ キーケース｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/2d0ea214f77d/",
       "host": "charagoo.jp",
       "source": "キャラグー",
       "summary": "",
@@ -3005,7 +3021,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "741d719fb7e7",
@@ -3201,7 +3217,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-07T07:14:51.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484966/20261007_132307_p_l_51176448.jpg",
       "categories": [
         "anime"
       ],
@@ -3516,25 +3532,6 @@
       "image": "",
       "categories": [
         "anime",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a604b17dd248",
-      "title": "【App Store iPhoneゲームチャート】ちいかわ初のスマホアプリゲーム『ちいかわぽけっと』が圏外から急上昇（9/28～10/4）",
-      "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
-      "host": "yamagata-np.jp",
-      "source": "山形新聞",
-      "summary": "",
-      "publishedAt": "2026-10-06T21:42:55.000Z",
-      "image": "https://www.yamagata-np.jp/",
-      "categories": [
         "game"
       ],
       "series": [],
