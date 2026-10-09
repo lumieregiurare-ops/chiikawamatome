@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-09T17:00:18.655Z",
+  "updatedAt": "2026-10-09T17:30:18.111Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 131,
+  "total": 133,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 31
+      "count": 32
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 21
     }
   ],
   "series": [
@@ -59,12 +59,12 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kurimanju",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 27
+      "count": 25
     },
     {
       "name": "キャラグー",
@@ -102,7 +102,7 @@
     },
     {
       "name": "インサイド",
-      "count": 7
+      "count": 9
     },
     {
       "name": "コラボカフェ",
@@ -115,10 +115,6 @@
     {
       "name": "電撃オンライン",
       "count": 4
-    },
-    {
-      "name": "PR TIMES",
-      "count": 3
     },
     {
       "name": "PASH! PLUS",
@@ -145,6 +141,10 @@
       "count": 2
     },
     {
+      "name": "PR TIMES",
+      "count": 2
+    },
+    {
       "name": "めざましmedia",
       "count": 2
     },
@@ -159,6 +159,10 @@
     {
       "name": "GAME Watch",
       "count": 2
+    },
+    {
+      "name": "AERA DIGITAL",
+      "count": 1
     },
     {
       "name": "ウレぴあ総研",
@@ -190,6 +194,10 @@
     },
     {
       "name": "株式会社共同通信社",
+      "count": 1
+    },
+    {
+      "name": "OREFOLDER",
       "count": 1
     },
     {
@@ -258,6 +266,10 @@
     },
     {
       "name": "QAB 琉球朝日放送",
+      "count": 1
+    },
+    {
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -368,8 +380,8 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/01-2511.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-10-08T05:44:46.000Z",
-      "sourceCount": 9,
-      "articleCount": 11,
+      "sourceCount": 10,
+      "articleCount": 12,
       "categories": [
         "anime",
         "game"
@@ -377,7 +389,7 @@
       "keywords": [
         "映画",
         "特典",
-        "ビジュ"
+        "配布"
       ],
       "articles": [
         {
@@ -399,6 +411,13 @@
           "url": "https://news.yahoo.co.jp/articles/574f5c0c5d4ce42f8ae8bf0bd3eddd5955e5b32c/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-07T08:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "映画『ちいかわ 人魚の島のひみつ』入場特典のリバイバル配布が決定。プルバックカー“ごきげんセイレーン”＆“チャームミニフィギュア”のゲットのチャンス",
+          "url": "https://www.famitsu.com/article/202610/90293",
+          "source": "ファミ通",
+          "publishedAt": "2026-10-07T07:17:00.000Z",
           "isPR": false
         },
         {
@@ -427,13 +446,6 @@
           "url": "https://mezamashi.media/articles/-/356908",
           "source": "めざましmedia",
           "publishedAt": "2026-10-07T05:39:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「映画ちいかわ」第2弾ビジュアル公開、ちいかわ＆ハチワレと見つめ合うヒトハ＆フタバ",
-          "url": "https://natalie.mu/comic/news/692735",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-07T05:27:00.000Z",
           "isPR": false
         }
       ]
@@ -525,7 +537,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-09T05:00:44.000Z",
       "sourceCount": 3,
-      "articleCount": 10,
+      "articleCount": 8,
       "categories": [
         "goods",
         "kuji"
@@ -565,29 +577,22 @@
           "isPR": false
         },
         {
-          "title": "ちいかわ プリンセス誕生日ぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/3bd8888e3f9e/",
+          "title": "ちいかわ ふわふわフェイスポシェット｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/dfa7e943bdea/",
           "source": "キャラグー",
           "publishedAt": "2026-10-08T00:25:37.000Z",
           "isPR": false
         },
         {
-          "title": "ちいかわ 寝袋ぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/8bebdaccbb6c/",
+          "title": "ちいかわ うさぎ USBスタンドライト｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/8579a5c3aa1c/",
           "source": "キャラグー",
           "publishedAt": "2026-10-08T00:25:37.000Z",
           "isPR": false
         },
         {
-          "title": "ちいかわ てのひらバッグ｜ちいかわのプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/c0d5c6761f66/",
-          "source": "キャラグー",
-          "publishedAt": "2026-10-08T00:25:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ おかおマルチリング｜ちいかわのプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/2f6e14f3d4af/",
+          "title": "ちいかわ ミニプラがまぐち｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/5aa978587a86/",
           "source": "キャラグー",
           "publishedAt": "2026-10-08T00:25:37.000Z",
           "isPR": false
@@ -622,9 +627,9 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山（インサイド）",
-          "url": "https://news.yahoo.co.jp/articles/482c84f1f9c80bd35ce8c662a3be4eda69ff1486",
-          "source": "Yahoo!ニュース",
+          "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
+          "url": "https://www.inside-games.jp/article/2026/10/08/188955.html",
+          "source": "インサイド",
           "publishedAt": "2026-10-08T07:50:03.000Z",
           "isPR": false
         },
@@ -716,6 +721,34 @@
       ]
     },
     {
+      "id": "cbc2d5a9c9ce",
+      "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！",
+      "summary": "",
+      "url": "https://dot.asahi.com/articles/-/294846",
+      "image": "https://aeradot.ismcdn.jp/mwimgs/8/5/1200xm/img_85d4aa5da3a709905b8c5b4f1691f7eb141878.jpg",
+      "leadSource": "AERA DIGITAL",
+      "publishedAt": "2026-10-09T15:16:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "パジャマ",
+        "アニメ",
+        "応援"
+      ],
+      "articles": [
+        {
+          "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！ | 株式会社バンダイのプレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000001022.000055569.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-09T03:00:02.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "09c1e8000e81",
       "title": "【ちいかわ】ハチワレの「なんとかなれッ」に注目！ アニメ『ちいかわ』第22話「なんとかバニア②」が見逃し配信中",
       "summary": "",
@@ -772,6 +805,35 @@
       ]
     },
     {
+      "id": "116e54194035",
+      "title": "Google Play対応の新「Amazon キッズ タブレット」登場！ちいかわ・パウパトロールモデルも",
+      "summary": "",
+      "url": "https://orefolder.jp/2026/10/amazon-kids-tablet-android/",
+      "image": "https://image.itmedia.co.jp/pcuser/articles/2610/08/cover_news102.jpg",
+      "leadSource": "OREFOLDER",
+      "publishedAt": "2026-10-09T03:21:57.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "google",
+        "play",
+        "amazon"
+      ],
+      "articles": [
+        {
+          "title": "日本限定で「ちいかわ」コラボモデルも！ Google Play対応の「Amazon キッズ タブレット」が10月14日に発売 選べる2サイズで3万9980円から - ITmedia PC USER",
+          "url": "https://www.itmedia.co.jp/pcuser/articles/2610/08/news102.html",
+          "source": "ITmedia",
+          "publishedAt": "2026-10-08T13:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "ed185e93ce77",
       "title": "「むちゃうま!!ちいかわ寿司 POP UP STORE」横浜スカイビルで10月22日(木)～開催決定",
       "summary": "",
@@ -797,87 +859,31 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "55141fd6d707",
-      "title": "玉乃光酒造×ちいかわ！ くりまんじゅうの「だし割りセット」登場にファン悶絶「めちゃ可愛い」（ふたまん＋）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/7fed8762a2f9db989c4987747b3dea34ce33b048",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00132526-futaman-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-08T21:30:36.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "くりまんじゅう",
-        "セット",
-        "ファン"
-      ],
-      "articles": [
-        {
-          "title": "(2ページ目) 『ちいかわ』くりまんじゅうが日本酒になって登場！ 玉乃光酒造の「だし割りセット」にファン悶絶「めちゃ可愛い」",
-          "url": "https://futaman.futabanet.jp/articles/-/132526?utm_source",
-          "source": "ふねぽ",
-          "publishedAt": "2026-10-08T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "475a9b7b6f88",
-      "title": "ちいかわ おかおマイボトル②新登場 ①も再販 10月16日!",
-      "summary": "",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-prize-taito-okao-my-bottle-2026/",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-prize-taito-okao-my-bottle-2026-vol1.jpg",
-      "leadSource": "コラボカフェ",
-      "publishedAt": "2026-10-08T11:42:37.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "新登場",
-        "再販"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」漫画風デザイン「コインシリンダー」がカプセルトイに新登場！シーサー、くりまんじゅう含む全4種「おすわりぬいぐるみ」も再販へ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFR2UUpjTkl4RFJ0emItaUh3ckpQb2tIeUQyWExkbTFfM1VpYnV1dXpTSnRWLWNVQ3Nlek9YRVRfMTZtdHk5TFUtZW1vYm0xcVFrUUNERTJQZnZRcHk2Nk1FTi1IMzdrNHV5ZGVPUE9IUDFjQVhmMDBBUmI5ZHlhQzln0gGHAUFVX3lxTE9IZmxNaXJSSWRYS1NKcUlTSVAwYmRQMUFzd250VUpjYmpwbFlXdEFuTEhaZ0RaZWFXZDA4RjgyREZ4cDF5VkZ3bEt3NnlJbDdEaE5mTm1TbE5fRm03MkVaMXk5U2JJVEVSaTdtbldXcDVpbTYweTFaSGJzT2lEQTZyek10bUxRaw?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-07T10:45:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T16:30:19.075Z",
-    "previousCount": 134,
-    "newCount": 3
+    "previousAt": "2026-10-09T17:00:18.655Z",
+    "previousCount": 131,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T17:30:18.655Z",
+  "nextUpdateAt": "2026-10-09T18:00:18.111Z",
   "items": [
     {
       "id": "cbc2d5a9c9ce",
       "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！",
-      "url": "https://prtimes.jp/main/html/rd/p/000001022.000055569.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社バンダイ ライフスタイル事業部] 株式会社バンダイ ライフスタイル事業部では、販売数累計800万枚を突破した人気ブランド「光るパジャマ(R)」シリーズより『アニメちいかわ』の冬物パジャマ(全4種 各3,630円 税込)を2026年11月より順次販売開始い...",
-      "publishedAt": "2026-10-09T15:10:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/55569/1022/55569-1022-4e924bdd014b144f936b766d2a782ab0-600x341.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "url": "https://dot.asahi.com/articles/-/294846",
+      "host": "dot.asahi.com",
+      "source": "AERA DIGITAL",
+      "summary": "",
+      "publishedAt": "2026-10-09T15:16:00.000Z",
+      "image": "https://aeradot.ismcdn.jp/mwimgs/8/5/1200xm/img_85d4aa5da3a709905b8c5b4f1691f7eb141878.jpg",
       "categories": [
         "anime"
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1492,6 +1498,25 @@
       "isNew": false
     },
     {
+      "id": "116e54194035",
+      "title": "Google Play対応の新「Amazon キッズ タブレット」登場！ちいかわ・パウパトロールモデルも",
+      "url": "https://orefolder.jp/2026/10/amazon-kids-tablet-android/",
+      "host": "orefolder.jp",
+      "source": "OREFOLDER",
+      "summary": "",
+      "publishedAt": "2026-10-09T03:21:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d0739796c44b",
       "title": "「ちいかわ」くりまんじゅうシリーズが発売！お酒を飲んだり禁酒になったりなアパレルが勢揃い",
       "url": "https://www.inside-games.jp/article/2026/10/09/189003.html",
@@ -1929,27 +1954,6 @@
       "isNew": false
     },
     {
-      "id": "fe8e2276c513",
-      "title": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ",
-      "url": "https://news.yahoo.co.jp/articles/fce117e471877ee7ef42156aadee8a78bb0cb1b7/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T12:56:56.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnRZFoA9jb--EzQ0ZtbN7q1VoFFEvF9hAFn1Myl81DTK7vwk5uGHN97qFonSyZizu3jo5QMKF3gE3izl8qMpoNeIqi2jpMLWnUaVkRce3nFUM",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "59ab60391b46",
       "title": "ハチワレの“ふとんもみもみ”に癒やされる声続出！うさぎの面白い寝姿も話題に「ちいかわ」182話 (ABEMA TIMES)",
       "url": "https://news.yahoo.co.jp/articles/6507f633d12977c5e9b7ea2e177af9b2640a934b/images/000",
@@ -2091,6 +2095,27 @@
       "isNew": false
     },
     {
+      "id": "fe8e2276c513",
+      "title": "「ちいかわ」新グッズが盛りだくさん！肉まんマスコットはじめ、「たべのみ処くりまんじゅう」や「ちいかわ寿司」などズラリ",
+      "url": "https://www.inside-games.jp/article/2026/10/08/188961.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-08T09:00:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1785827.webp",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "95bb2ad33466",
       "title": "ちいかわクリスマスマーケット｜レッツエンジョイ東京",
       "url": "https://www.enjoytokyo.jp/event/2087147/",
@@ -2152,13 +2177,13 @@
     },
     {
       "id": "ec8efcc8c833",
-      "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/482c84f1f9c80bd35ce8c662a3be4eda69ff1486",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
+      "url": "https://www.inside-games.jp/article/2026/10/08/188955.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-08T07:50:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000037-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1791636.png",
       "categories": [
         "goods",
         "event"
@@ -2454,7 +2479,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-08T03:58:46.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2146/703/1.png",
       "categories": [
         "event",
         "goods"
@@ -2662,84 +2687,6 @@
       "isNew": false
     },
     {
-      "id": "3d0723dbbb6d",
-      "title": "ちいかわ プリンセス誕生日ぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/3bd8888e3f9e/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:25:37.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "64b2a5a293a3",
-      "title": "ちいかわ 寝袋ぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/8bebdaccbb6c/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:25:37.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "9dadbbb4de30",
-      "title": "ちいかわ てのひらバッグ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/c0d5c6761f66/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:25:37.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "fe9e43e780bd",
-      "title": "ちいかわ おかおマルチリング｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/2f6e14f3d4af/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-08T00:25:37.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3a589fb08c25",
       "title": "ちいかわ ふわふわフェイスポシェット｜ちいかわのプライズ 入荷予定・取扱店舗",
       "url": "https://charagoo.jp/prize/item/dfa7e943bdea/",
@@ -2757,6 +2704,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e79fdee83a4c",
+      "title": "ちいかわ うさぎ USBスタンドライト｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/8579a5c3aa1c/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-08T00:25:37.000Z",
+      "image": "",
+      "categories": [
+        "kuji"
+      ],
+      "series": [
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c569b8cff813",
+      "title": "ちいかわ ミニプラがまぐち｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/5aa978587a86/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-08T00:25:37.000Z",
+      "image": "",
+      "categories": [
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7d9b6fe08f1d",
@@ -3127,6 +3114,26 @@
       "isNew": false
     },
     {
+      "id": "e914eee6e550",
+      "title": "映画『ちいかわ 人魚の島のひみつ』入場特典のリバイバル配布が決定。プルバックカー“ごきげんセイレーン”＆“チャームミニフィギュア”のゲットのチャンス",
+      "url": "https://www.famitsu.com/article/202610/90293",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-07T07:17:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/90293/thumbnail_fmPn.jpg?x=1280",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "90e79fb84a81",
       "title": "コメント | 映画『ちいかわ』特典年内に一部リバイバル配布決定 意味深な新ビジュアル解禁",
       "url": "https://www.oricon.co.jp/news/2484966/comment/",
@@ -3273,7 +3280,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-07T05:00:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484966/20260928_154632_p_o_18196788.jpg",
       "categories": [
         "anime"
       ],
@@ -3292,7 +3299,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-07T05:00:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484966/20261007_132307_p_o_89364528.jpg",
       "categories": [
         "anime"
       ],
@@ -3311,7 +3318,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-07T03:20:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484919/20260908_100913_p_o_10195101.jpg",
       "categories": [
         "other"
       ],
@@ -3420,6 +3427,48 @@
       "isNew": false
     },
     {
+      "id": "637606bd4903",
+      "title": "ちいかわ モモンガ超BIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/1d4262c5a027/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-06T23:58:23.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "48fdfbfa480e",
+      "title": "ちいかわ カレーのお供たちBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/bc16faf81caf/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-06T23:58:23.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2d9267a25873",
       "title": "矢吹健太朗『ONE PIECE』ナミ描く／『ちいかわ』新たな特典発表で衝撃【10／6よく読まれたアニメ＆ゲームニュース】",
       "url": "https://www.oricon.co.jp/special/76545/",
@@ -3427,7 +3476,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-06T22:50:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484496/20261005_123743_p_o_25852080.jpg",
       "categories": [
         "anime",
         "game"
