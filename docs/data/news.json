@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-09T00:30:19.139Z",
+  "updatedAt": "2026-10-09T01:00:19.848Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 121,
-  "todayCount": 14,
+  "total": 120,
+  "todayCount": 15,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 29
+      "count": 28
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 30
+      "count": 31
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 20
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 17
+      "count": 16
     },
     {
       "id": "momonga",
@@ -93,11 +93,11 @@
       "count": 21
     },
     {
-      "name": "オリコンニュース",
-      "count": 11
+      "name": "インサイド",
+      "count": 10
     },
     {
-      "name": "インサイド",
+      "name": "オリコンニュース",
       "count": 10
     },
     {
@@ -249,11 +249,11 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
+      "name": "eeo",
       "count": 1
     },
     {
-      "name": "eeo",
+      "name": "ふねぽ",
       "count": 1
     },
     {
@@ -305,7 +305,7 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "au Webポータル",
       "count": 1
     }
   ],
@@ -839,13 +839,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T00:00:17.649Z",
-    "previousCount": 119,
-    "newCount": 4
+    "previousAt": "2026-10-09T00:30:19.139Z",
+    "previousCount": 121,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T01:00:19.139Z",
+  "nextUpdateAt": "2026-10-09T01:30:19.848Z",
   "items": [
+    {
+      "id": "fda5c20eca6a",
+      "title": "暗いところで光る！アニメ「ちいかわ」パジャマ全5種が予約実施ープリント・蓄光ともに洗濯後の耐久性抜群",
+      "url": "https://www.inside-games.jp/article/2026/10/09/188990.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "アニメ「ちいかわ」光るパジャマ各種が11月発売！プレミアムバンダイにて予約受付を実施します。",
+      "publishedAt": "2026-10-09T01:00:04.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1791906.png",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e91e1358fc5f",
       "title": "お正月にピッタリな「ちいかわ」ポチ袋！袴姿で新年をお祝い、“五円玉になったうさぎ”も可愛い",
@@ -865,7 +885,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "df1265b1ca6a",
@@ -884,7 +904,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6f745b824c26",
@@ -903,7 +923,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4caa71357b95",
@@ -922,7 +942,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3fe79814b3e4",
@@ -1332,25 +1352,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-10171923-it_nlab-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "56002b23ba1a",
-      "title": "サンタ衣装の鎧さんやちいかわたちが登場のボイス付き“クリスマスムービー”が公開 「ちいかわクリスマスマーケット」千葉で11・24から開催",
-      "url": "https://www.oricon.co.jp/news/2485355/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T09:33:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485355/20261008_181002_p_o_93610357.jpg",
-      "categories": [
-        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -2298,27 +2299,6 @@
       "isNew": false
     },
     {
-      "id": "f693c6843ac7",
-      "title": "『ちいかわ』くりまんじゅうって一体何者？ かわいい見た目に反した「超渋い魅力」に迫る",
-      "url": "https://article.auone.jp/8e2fd23d-cd66-4950-8afc-c1c27068bab7",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-10-07T08:33:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/07/https___news_jp_i_1480483612720709970_w1280.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2d3c3c204288",
       "title": "「ちいかわベーカリー」2周年記念イベントが10月15日よりスタート！ コロネになったちいかわたちのマスコットが新登場!!",
       "url": "https://eeo.today/media/2026/10/07/400234/",
@@ -2349,6 +2329,27 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00000019-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
+      ],
+      "series": [
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f693c6843ac7",
+      "title": "『ちいかわ』くりまんじゅうって一体何者？ かわいい見た目に反した「超渋い魅力」に迫る",
+      "url": "https://futaman.futabanet.jp/articles/-/132488?utm_source",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-10-07T08:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/7/e/1200wm/img_7e2fe725c72af3b0b6532fdc28462cc6120033.jpg",
+      "categories": [
+        "other"
       ],
       "series": [
         "kurimanju"
@@ -2446,7 +2447,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-07T06:42:34.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484919/20260825_010634_p_o_62091129.jpg",
       "categories": [
         "other"
       ],
@@ -3210,35 +3211,14 @@
       "isNew": false
     },
     {
-      "id": "9c2e7e7d855f",
-      "title": "お正月にピッタリな「ちいかわ」ポチ袋が10月下旬発売！袴姿で新年をお祝い、“五円玉になったうさぎ”も可愛い",
-      "url": "https://news.infoseek.co.jp/article/inside_188816/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-06T01:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_188816_0-enlarge.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8e40369b169b",
       "title": "しまむらパークで「ちいかわ」グッズが本日10月6日12時より販売！着ぐるみや帽子、手提げバッグ付きレジャーシートも",
-      "url": "https://www.inside-games.jp/article/2026/10/06/188815.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://article.auone.jp/d0dc542c-bd09-4abd-a5e7-9a94413b3b9e",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-10-06T00:45:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1790349.jpg",
+      "publishedAt": "2026-10-06T01:14:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/06/https___news_jp_i_1480010868044989232_w480.webp",
       "categories": [
         "goods"
       ],
