@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-09T01:00:19.848Z",
+  "updatedAt": "2026-10-09T01:30:19.374Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 120,
+  "total": 119,
   "todayCount": 15,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "kuji",
@@ -90,15 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
-    },
-    {
-      "name": "インサイド",
-      "count": 10
+      "count": 22
     },
     {
       "name": "オリコンニュース",
       "count": 10
+    },
+    {
+      "name": "インサイド",
+      "count": 9
     },
     {
       "name": "コラボカフェ",
@@ -303,10 +303,6 @@
     {
       "name": "トラベル Watch",
       "count": 1
-    },
-    {
-      "name": "au Webポータル",
-      "count": 1
     }
   ],
   "topics": [
@@ -424,9 +420,9 @@
         },
         {
           "title": "映画ちいかわ 第2弾メインビジュアル解禁! 特典リバイバル配布も決定!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-main-visual2-benefits-revival-2026/?amp",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-main-visual2-benefits-revival-2026/",
           "source": "コラボカフェ",
-          "publishedAt": "2026-10-08T04:00:13.000Z",
+          "publishedAt": "2026-10-08T04:27:14.000Z",
           "isPR": false
         },
         {
@@ -839,12 +835,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T00:30:19.139Z",
-    "previousCount": 121,
-    "newCount": 1
+    "previousAt": "2026-10-09T01:00:19.848Z",
+    "previousCount": 120,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T01:30:19.848Z",
+  "nextUpdateAt": "2026-10-09T02:00:19.374Z",
   "items": [
     {
       "id": "fda5c20eca6a",
@@ -864,7 +860,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e91e1358fc5f",
@@ -1582,13 +1578,13 @@
     },
     {
       "id": "2b894998e620",
-      "title": "おすわりできちゃう！「ちいかわ」ぬいぐるみ第1弾が10月上旬よりカプセルトイにて再販、くりまんじゅうたち全4種",
-      "url": "https://www.inside-games.jp/article/2026/10/08/188941.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "「ちいかわ おすわりぬいぐるみ1」が2026年10月上旬よりカプセルトイ売り場にて順次再販！",
+      "title": "おすわりできちゃう！「ちいかわ」ぬいぐるみ第1弾が10月上旬よりカプセルトイにて再販、くりまんじゅうたち全4種 (インサイド)",
+      "url": "https://news.yahoo.co.jp/articles/357cd771520031af0a96ba8f77d65949f8ddedf5/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-10-08T05:15:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1727587.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnaGnuzqOMNxRIwuu3KuHTAk5MMbud3kMBAvaR2kerg5f6aRHhTNyos5ANoitjhWA7uvqzNBGoZKsH1xu5TxO6LfUSBVgT9EiflaPAofhts9g",
       "categories": [
         "goods"
       ],
@@ -1632,6 +1628,25 @@
       "categories": [
         "goods",
         "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "185d151c8887",
+      "title": "映画ちいかわ 第2弾メインビジュアル解禁! 特典リバイバル配布も決定!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-main-visual2-benefits-revival-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-08T04:27:14.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-movie-main-visual2-benefits-revival-2026-keyvisual-scaled.jpg",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1690,25 +1705,6 @@
       "categories": [
         "goods",
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "185d151c8887",
-      "title": "映画ちいかわ 第2弾メインビジュアル解禁! 特典リバイバル配布も決定!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-main-visual2-benefits-revival-2026/?amp",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-08T04:00:13.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-movie-main-visual2-benefits-revival-2026-keyvisual-scaled.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -3097,7 +3093,7 @@
     {
       "id": "99217842a375",
       "title": "『ちいかわ』新たな特典発表でネットざわつく「この2種類は可愛すぎる」",
-      "url": "https://www.oricon.co.jp/news/2484681/photo/2/",
+      "url": "https://www.oricon.co.jp/news/2484681/photo/2/?anc",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -3202,25 +3198,6 @@
       "image": "https://travel.watch.impress.co.jp/img/trw/list/2145/898/01.jpg",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8e40369b169b",
-      "title": "しまむらパークで「ちいかわ」グッズが本日10月6日12時より販売！着ぐるみや帽子、手提げバッグ付きレジャーシートも",
-      "url": "https://article.auone.jp/d0dc542c-bd09-4abd-a5e7-9a94413b3b9e",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-10-06T01:14:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/06/https___news_jp_i_1480010868044989232_w480.webp",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
