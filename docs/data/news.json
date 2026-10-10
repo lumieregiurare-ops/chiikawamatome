@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:00:16.518Z",
+  "updatedAt": "2026-10-10T12:30:18.046Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 114,
-  "todayCount": 20,
+  "todayCount": 21,
   "categories": [
     {
       "id": "goods",
@@ -17,7 +17,7 @@
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "collab",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 29
+      "count": 28
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 24
     },
     {
       "name": "キャラグー",
@@ -98,27 +98,23 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 7
-    },
-    {
-      "name": "インサイド",
-      "count": 6
+      "count": 8
     },
     {
       "name": "コラボカフェ",
       "count": 6
     },
     {
+      "name": "インサイド",
+      "count": 5
+    },
+    {
       "name": "ｄメニューニュース",
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 3
-    },
-    {
       "name": "電撃オンライン",
-      "count": 3
+      "count": 4
     },
     {
       "name": "PASH! PLUS",
@@ -134,6 +130,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -222,6 +222,10 @@
     },
     {
       "name": "横浜で暮らそう",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -455,7 +459,7 @@
       "leadSource": "コラボカフェ",
       "publishedAt": "2026-10-09T05:00:44.000Z",
       "sourceCount": 3,
-      "articleCount": 8,
+      "articleCount": 9,
       "categories": [
         "goods",
         "kuji"
@@ -504,6 +508,13 @@
         {
           "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
           "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
+          "source": "キャラグー",
+          "publishedAt": "2026-10-08T00:25:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ ハチさんBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/125aec2f7678/",
           "source": "キャラグー",
           "publishedAt": "2026-10-08T00:25:37.000Z",
           "isPR": false
@@ -702,6 +713,33 @@
       ]
     },
     {
+      "id": "9a2d67c546fb",
+      "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいど！さまざまなオプションが付属、購入特典にはセリフプレートも",
+      "summary": "「ねんどろいど くりまんじゅう/シーサー」が予約受付中！期間は11月11日までとなっています。",
+      "url": "https://www.inside-games.jp/article/2026/10/10/189069.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1786033.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-10T12:07:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "goods"
+      ],
+      "keywords": [
+        "シーサー"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
+          "url": "https://dengekionline.com/article/202610/90653",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-10T12:07:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "3fea54c7ae3c",
       "title": "アリオ加古川で「ちいかわ むちゃフォトパーティ!!」が10月17日開催！ちいかわ・ハチワレ・ラッコとの写真撮影会やARラリー",
       "summary": "",
@@ -757,45 +795,37 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "fc90d3570be2",
-      "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/bc4b01ab85be2b0daf09bce743dafb5c670841b4",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00132479-futaman-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-09T21:30:36.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "スタート",
-        "フィギュア",
-        "ファン"
-      ],
-      "articles": [
-        {
-          "title": "映画『ちいかわ』入場者特典「第6弾」がスタート！まさかのフィギュアにファン歓喜「かわいすぎる」",
-          "url": "https://futaman.futabanet.jp/articles/-/132479?page",
-          "source": "ふねぽ",
-          "publishedAt": "2026-10-09T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T11:30:14.765Z",
-    "previousCount": 115,
-    "newCount": 0
+    "previousAt": "2026-10-10T12:00:16.518Z",
+    "previousCount": 114,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T12:30:16.518Z",
+  "nextUpdateAt": "2026-10-10T13:00:18.046Z",
   "items": [
+    {
+      "id": "4dd4f3257e1c",
+      "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
+      "url": "https://dengekionline.com/article/202610/90653",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-10T12:07:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_RcXB.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3fea54c7ae3c",
       "title": "アリオ加古川で「ちいかわ むちゃフォトパーティ!!」が10月17日開催！ちいかわ・ハチワレ・ラッコとの写真撮影会やARラリー",
@@ -820,13 +850,13 @@
     },
     {
       "id": "b52a955d1149",
-      "title": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる！超可愛い！」「こんな世界線もあってもよかった……」",
-      "url": "https://www.sanyonews.jp/article/2002920?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "title": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる!超可愛い!」「こんな世界線もあってもよかった……」",
+      "url": "https://www.oricon.co.jp/news/2485743/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-10T08:25:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/b/e/2/dbe2581a159037e700d9c6c85c97bf11_1.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485743/20260629_181034_p_o_17488151.jpg",
       "categories": [
         "anime"
       ],
@@ -1957,33 +1987,14 @@
       "isNew": false
     },
     {
-      "id": "2ba9630217b7",
-      "title": "ちいかわ おすわりぬいぐるみ①｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/425a41d845a8/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-09T01:18:05.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fda5c20eca6a",
       "title": "暗いところで光る！アニメ「ちいかわ」パジャマ全5種が予約実施ープリント・蓄光ともに洗濯後の耐久性抜群",
-      "url": "https://www.inside-games.jp/article/2026/10/09/188990.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://news.infoseek.co.jp/article/inside_188990/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-09T01:00:04.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1791906.png",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_188990_0-enlarge.png",
       "categories": [
         "goods",
         "anime"
@@ -2173,25 +2184,6 @@
       "isNew": false
     },
     {
-      "id": "be9c3d94de9f",
-      "title": "ちいかわクリスマスマーケット“幕張”で開催発表にSNSどよめく…「めっちゃ行きたい」「これは激戦になるぞ」（LASISA）",
-      "url": "https://news.yahoo.co.jp/articles/e6665690f7caac5b6cd1acc3c2daed87b2bd4144",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T17:33:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-10163702-lasisa-000-8-view.jpg?exp=10800",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7df818b64f97",
       "title": "ちいかわPOP UP STORE 福岡三越｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
       "url": "https://charagoo.jp/collab/event/537324be5619/",
@@ -2298,7 +2290,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-08T10:41:25.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485355/20261008_181004_p_o_29957431.jpg",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -2961,6 +2953,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dc6071cbf846",
+      "title": "ちいかわ ハチさんBIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/125aec2f7678/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-08T00:25:37.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "48495478c8fb",
