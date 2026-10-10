@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T16:00:14.863Z",
+  "updatedAt": "2026-10-10T16:30:17.367Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "event",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 27
+      "count": 26
     },
     {
       "name": "キャラグー",
@@ -98,7 +98,7 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 7
+      "count": 8
     },
     {
       "name": "コラボカフェ",
@@ -130,10 +130,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -174,6 +170,10 @@
     },
     {
       "name": "めざましmedia",
+      "count": 1
+    },
+    {
+      "name": "ふねぽ",
       "count": 1
     },
     {
@@ -230,6 +230,10 @@
     },
     {
       "name": "TVer",
+      "count": 1
+    },
+    {
+      "name": "山陽新聞",
       "count": 1
     },
     {
@@ -823,12 +827,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T15:30:20.409Z",
-    "previousCount": 116,
+    "previousAt": "2026-10-10T16:00:14.863Z",
+    "previousCount": 117,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T16:30:14.863Z",
+  "nextUpdateAt": "2026-10-10T17:00:17.367Z",
   "items": [
     {
       "id": "5570b36669a5",
@@ -866,7 +870,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "84173348c380",
@@ -950,6 +954,27 @@
       "isNew": false
     },
     {
+      "id": "d0bf428ebf2d",
+      "title": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」",
+      "url": "https://www.oricon.co.jp/news/2485742/photo/2/?anc",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-10T08:13:02.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485742/20261010_165158_p_o_57642799.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "a340dba9d98d",
       "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第6弾「チャームミニフィギュア」（全2種）について",
       "url": "https://109cinemas.net/news/10102.html",
@@ -963,27 +988,6 @@
         "anime"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d0bf428ebf2d",
-      "title": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」 (オリコン)",
-      "url": "https://news.yahoo.co.jp/articles/5d41e7ee757c12b5e9a53c06df28bf2ff908805d/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:53:57.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnVBuwwe1nWfRNP53krYOSwwjGo8G4neNuxQlb5zqVIunvnBdbDrgoCXWW7nruJo7sgHwRH2V2foRqGYLCkI7Tn7flbJt8ecHgg9eMpWLCg1B",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "momonga"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1304,6 +1308,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "eb57e05cd7f0",
+      "title": "映画『ちいかわ』入場者特典「第6弾」がスタート！まさかのフィギュアにファン歓喜「かわいすぎる」 | 概要 | アニメ | 最新コラム",
+      "url": "https://futaman.futabanet.jp/articles/-/132479",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-10-09T21:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/5/5/1200wm/img_55564decff19e95e59404c8aee82c7da619228.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ccade37ce9b1",
@@ -2828,7 +2852,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-08T03:58:46.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2146/703/1.png",
       "categories": [
         "event",
         "goods"
@@ -3130,26 +3154,6 @@
       "series": [
         "kurimanju"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7f13a4c3802b",
-      "title": "【あすまで】みなとみらいの大観覧車が“ちいかわ”のライトアップに…『映画ちいかわ』×横浜市コラボで「コスモクロック21」特別演出実施",
-      "url": "https://www.sanyonews.jp/article/1965254?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-07T16:29:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/c/3/c/dc3ce294629ffd2a8b75aab34c9da7e8_1.jpg",
-      "categories": [
-        "collab",
-        "anime"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
