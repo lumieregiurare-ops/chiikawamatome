@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-11T07:00:18.711Z",
+  "updatedAt": "2026-10-11T07:30:20.417Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 114,
-  "todayCount": 13,
+  "total": 113,
+  "todayCount": 15,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 39
+      "count": 38
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 27
+      "count": 28
     },
     {
       "id": "book",
@@ -59,12 +59,12 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "kurimanju",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 25
     },
     {
       "name": "キャラグー",
@@ -98,18 +98,18 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ｄメニューニュース",
       "count": 7
     },
     {
-      "name": "山陽新聞",
-      "count": 7
+      "name": "インサイド",
+      "count": 6
     },
     {
-      "name": "インサイド",
+      "name": "山陽新聞",
       "count": 6
     },
     {
@@ -189,11 +189,11 @@
       "count": 1
     },
     {
-      "name": "ウレぴあ総研",
+      "name": "재경일보",
       "count": 1
     },
     {
-      "name": "All About ニュース",
+      "name": "ウレぴあ総研",
       "count": 1
     },
     {
@@ -712,13 +712,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-11T06:30:16.856Z",
-    "previousCount": 113,
+    "previousAt": "2026-10-11T07:00:18.711Z",
+    "previousCount": 114,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T07:30:18.711Z",
+  "nextUpdateAt": "2026-10-11T08:00:20.417Z",
   "items": [
+    {
+      "id": "ff907755cd68",
+      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」",
+      "url": "https://www.oricon.co.jp/news/2485864/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-11T07:19:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485864/20260629_181034_p_o_17488151.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "8801f9e8d14f",
       "title": "「ちいかわクリスマスマーケット」が2026年11月24日より豊砂公園で開催決定！限定フード全35種も登場",
@@ -960,17 +981,36 @@
       "isNew": false
     },
     {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
-      "url": "https://www.sanyonews.jp/article/1994052?rct",
+      "id": "3a319641ba03",
+      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
+      "url": "https://www.sanyonews.jp/article/1996985?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-10T18:09:54.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "publishedAt": "2026-10-10T16:48:19.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/a/a/5/baa52f1712008e82898c525cc1220ef6_1.jpg",
       "categories": [
-        "anime",
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2b5914603edc",
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
+      "url": "https://www.sanyonews.jp/article/1994867?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T15:47:44.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1457,6 +1497,25 @@
       "isNew": false
     },
     {
+      "id": "852aec0f5064",
+      "title": "公開からわずか10日で100万人突破！ 『ちいかわ』劇場版、驚異の大ヒット : 문화 : 財経日報",
+      "url": "https://news.jkn.co.kr/editions/japanese/post/1014682",
+      "host": "news.jkn.co.kr",
+      "source": "재경일보",
+      "summary": "",
+      "publishedAt": "2026-10-09T20:45:00.000Z",
+      "image": "https://images.jkn.co.kr/data/images/full/107/17/1071798.jpg?width=1200&height=630",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "539421a839b7",
       "title": "『ちいかわ』今後の特典情報にネット衝撃「マジでヤバい」",
       "url": "https://www.sanyonews.jp/article/2001546?rct",
@@ -1467,25 +1526,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/e/f/9/f/ef9fbc013be31ad61267725f20590bac_1.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a319641ba03",
-      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
-      "url": "https://www.sanyonews.jp/article/1996985?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T18:04:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/a/a/5/baa52f1712008e82898c525cc1220ef6_1.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1584,25 +1624,6 @@
       "image": "https://cimg.kgl-systems.io/camion/files/90593/ogp_tUEZ.png?x=1280",
       "categories": [
         "collab",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "674b5029be3a",
-      "title": "「これで心おきなくひみつ本を読める」ダイソーのブックカバーが『映画ちいかわ』の特典冊子にぴったりと話題(2/2)",
-      "url": "https://news.allabout.co.jp/articles/o/130876/?page",
-      "host": "news.allabout.co.jp",
-      "source": "All About ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "image": "",
-      "categories": [
         "anime"
       ],
       "series": [],
@@ -1875,26 +1896,6 @@
       "isNew": false
     },
     {
-      "id": "d2bf76c92396",
-      "title": "リポビタン×ちいかわ「いっしょにがんばろう！ファイトイッパーツ！キャンペーン」開催 オリジナルグッズがもらえる＆当たる",
-      "url": "https://www.sanyonews.jp/article/1926943",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/3/3/4/b3344ba9f214b200feeef2f16fa78fa3_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e5d72a712582",
       "title": "ちいかわ ぷくちゅるシール③ プライズ 10月9日より登場!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-prize-parade-puku-churu-seal3-2026/",
@@ -2122,7 +2123,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-09T02:27:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485226/20261008_125849_p_o_74395487.jpg",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -2195,25 +2196,6 @@
       "isNew": false
     },
     {
-      "id": "76c710688903",
-      "title": "ちいかわ ボーロ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/41bec0be187d/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-09T01:20:59.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ed185e93ce77",
       "title": "「むちゃうま!!ちいかわ寿司 POP UP STORE」横浜スカイビルで10月22日(木)～開催決定",
       "url": "https://www.sumaitoseikatsu.yokohama/archives/67888",
@@ -2271,9 +2253,29 @@
       "isNew": false
     },
     {
-      "id": "2ba9630217b7",
-      "title": "ちいかわ おすわりぬいぐるみ①｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/425a41d845a8/",
+      "id": "efe455756a98",
+      "title": "映画ちいかわ 人魚の島のひみつ マルチタオル｜ちいかわのガチャガチャ 発売日・価格・設置場所",
+      "url": "https://charagoo.jp/gacha/item/a958e080341b/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-09T01:18:05.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "219fdc537b1b",
+      "title": "ちいかわ ふわふわフロッキードール｜ちいかわのガチャガチャ 発売日・価格・設置場所",
+      "url": "https://charagoo.jp/gacha/item/e2ae382a8bbb/",
       "host": "charagoo.jp",
       "source": "キャラグー",
       "summary": "",
@@ -2287,12 +2289,12 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "219fdc537b1b",
-      "title": "ちいかわ ふわふわフロッキードール｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/e2ae382a8bbb/",
+      "id": "2ba9630217b7",
+      "title": "ちいかわ おすわりぬいぐるみ①｜ちいかわのガチャガチャ 発売日・価格・設置場所",
+      "url": "https://charagoo.jp/gacha/item/425a41d845a8/",
       "host": "charagoo.jp",
       "source": "キャラグー",
       "summary": "",
@@ -2484,7 +2486,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "26d139280799",
@@ -2820,7 +2822,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e083ed23187f",
@@ -2955,27 +2957,6 @@
         "event"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "18e79d29a365",
-      "title": "「うさぎだけセクシーポーズwww」 【ちいかわ】ご当地限定グッズにファンたち歓喜… 広島の「牡蠣」、箱根の「黒たまご」、大阪の「お笑い芸人」も（LASISA）",
-      "url": "https://news.yahoo.co.jp/articles/dc28d5e7ce52eb8b11978cc95f285799cb6415c7",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:09:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-10163735-lasisa-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
