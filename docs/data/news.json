@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-11T07:30:20.417Z",
+  "updatedAt": "2026-10-11T08:00:18.662Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 113,
+  "total": 115,
   "todayCount": 15,
   "categories": [
     {
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 26
+      "count": 25
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 28
+      "count": 31
     },
     {
       "id": "book",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "usagi",
@@ -90,30 +90,30 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 22
     },
     {
       "name": "キャラグー",
       "count": 9
     },
     {
-      "name": "オリコンニュース",
+      "name": "山陽新聞",
       "count": 8
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "電撃オンライン",
       "count": 7
     },
     {
+      "name": "オリコンニュース",
+      "count": 7
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 6
+    },
+    {
       "name": "インサイド",
-      "count": 6
-    },
-    {
-      "name": "山陽新聞",
-      "count": 6
-    },
-    {
-      "name": "電撃オンライン",
       "count": 6
     },
     {
@@ -139,6 +139,18 @@
     {
       "name": "アニメ！アニメ！",
       "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
+      "name": "au Webポータル",
+      "count": 2
+    },
+    {
+      "name": "デイリー新潮",
+      "count": 1
     },
     {
       "name": "ニコニコニュース",
@@ -173,7 +185,15 @@
       "count": 1
     },
     {
+      "name": "毎日キレイ",
+      "count": 1
+    },
+    {
       "name": "Gizmodo",
+      "count": 1
+    },
+    {
+      "name": "씨네플레이",
       "count": 1
     },
     {
@@ -237,10 +257,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
       "name": "Infoseek",
       "count": 1
     },
@@ -259,14 +275,6 @@
     {
       "name": "いこーよニュース",
       "count": 1
-    },
-    {
-      "name": "LIMO | くらしとお金の経済メディア",
-      "count": 1
-    },
-    {
-      "name": "KAI-YOU",
-      "count": 1
     }
   ],
   "topics": [
@@ -278,8 +286,8 @@
       "image": "https://www.inside-games.jp/imgs/rss/1790686.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-10-11T01:18:26.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "anime",
         "kuji"
@@ -287,7 +295,7 @@
       "keywords": [
         "ハチワレ",
         "うさぎ",
-        "モモンガ"
+        "待望"
       ],
       "articles": [
         {
@@ -312,10 +320,74 @@
           "isPR": false
         },
         {
+          "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！",
+          "url": "https://dot.asahi.com/articles/-/294846?page",
+          "source": "AERA DIGITAL",
+          "publishedAt": "2026-10-09T03:01:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "ちいかわ・ハチワレ・うさぎがレイクタウンに！10月12日、撮影会とARラリー開催",
           "url": "https://yashion.jp/event/45274",
           "source": "やしおん",
           "publishedAt": "2026-10-09T03:00:40.000Z",
+          "isPR": false
+        },
+        {
+          "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！ | 株式会社バンダイのプレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000001022.000055569.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-09T03:00:02.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "0d512cbbb23e",
+      "title": "＜ちいかわ＞クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/853feb33b85c7765c68542e27993eb6c605dde78/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncI33W0VqfeHNTXatjkG4CcSaduQujhVfV2XnzPPNkVhweobMypShPMxvVvTZ8hGG1Pf31932w3O4GWC0p6ZwaeD3JodtmBfFtVdBTwg6Fr5U3AWaVUIgLeSsjYeVAdMQw==",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-10T06:10:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "keywords": [
+        "クリスマスマーケット",
+        "マーケット",
+        "サンタ"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ：クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも",
+          "url": "https://mainichikirei.jp/article/20261010dog00m100009000a.html",
+          "source": "毎日キレイ",
+          "publishedAt": "2026-10-10T06:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ＞クリスマスマーケット開催 サンタさんなちいかわたち 鎧さんマーケット グッズも (MANTANWEB)",
+          "url": "https://news.yahoo.co.jp/articles/572b7d7f3b78dbddf9640005cde8f4f5cb259285/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-10T05:38:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ちいかわ】クリスマスマーケットが11月24日より開催！",
+          "url": "https://animageplus.jp/articles/detail/67945",
+          "source": "アニメージュプラス",
+          "publishedAt": "2026-10-08T12:04:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-christmas-market-makuhari-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-08T10:13:59.000Z",
           "isPR": false
         }
       ]
@@ -364,91 +436,6 @@
       ]
     },
     {
-      "id": "b2223146891c",
-      "title": "「ハチワレちゃんとツリーを見たい」「かーっ！これは行かなきゃ」『ちいかわ』クリスマスマーケット開催発表、SNSで期待の声",
-      "summary": "",
-      "url": "https://times.abema.tv/articles/-/10278306",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/8/1/1200w/img_81eac514a7c2499781aadc64d403ddbd185618.jpg",
-      "leadSource": "ABEMA TIMES",
-      "publishedAt": "2026-10-09T10:16:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "event"
-      ],
-      "keywords": [
-        "クリスマスマーケット",
-        "sns",
-        "幕張"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわクリスマスマーケット“幕張”で開催発表にSNSどよめく…「めっちゃ行きたい」「これは激戦になるぞ」（LASISA）",
-          "url": "https://news.yahoo.co.jp/articles/e6665690f7caac5b6cd1acc3c2daed87b2bd4144",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-08T17:33:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「めっちゃ行きたい」ちいかわクリスマスマーケット、幕張で開催決定！SNSが即反応「激戦になる」「ちいかわを足したら動けない」",
-          "url": "https://lasisa.net/photo/163702",
-          "source": "lasisa.net",
-          "publishedAt": "2026-10-08T08:11:31.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も",
-          "url": "https://report.iko-yo.net/articles/34424",
-          "source": "いこーよニュース",
-          "publishedAt": "2026-10-08T08:02:23.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "0d512cbbb23e",
-      "title": "＜ちいかわ＞クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/853feb33b85c7765c68542e27993eb6c605dde78/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncI33W0VqfeHNTXatjkG4CcSaduQujhVfV2XnzPPNkVhweobMypShPMxvVvTZ8hGG1Pf31932w3O4GWC0p6ZwaeD3JodtmBfFtVdBTwg6Fr5U3AWaVUIgLeSsjYeVAdMQw==",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T06:10:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "keywords": [
-        "クリスマスマーケット",
-        "マーケット",
-        "サンタ"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ＞クリスマスマーケット開催 サンタさんなちいかわたち 鎧さんマーケット グッズも (MANTANWEB)",
-          "url": "https://news.yahoo.co.jp/articles/572b7d7f3b78dbddf9640005cde8f4f5cb259285/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-10T05:38:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわ】クリスマスマーケットが11月24日より開催！",
-          "url": "https://animageplus.jp/articles/detail/67945",
-          "source": "アニメージュプラス",
-          "publishedAt": "2026-10-08T12:04:12.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわクリスマスマーケット in 豊砂公園 11月24日より開催!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-christmas-market-makuhari-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-10-08T10:13:59.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "29c7668dc190",
       "title": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売",
       "summary": "",
@@ -485,13 +472,48 @@
       ]
     },
     {
-      "id": "15b58a7e707d",
-      "title": "「ちいかわクリスマスマーケット」が11月24日より開催決定！⇒「可愛すぎて絶句」「これは行かなきゃ」SNS注目",
+      "id": "b2223146891c",
+      "title": "「ハチワレちゃんとツリーを見たい」「かーっ！これは行かなきゃ」『ちいかわ』クリスマスマーケット開催発表、SNSで期待の声",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/800e9fd9bfdfb99879e4981859478928b0d7e17e",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-10061065-bfj-000-1-view.png?fmt=jpeg&q=85&exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T02:35:01.000Z",
+      "url": "https://times.abema.tv/articles/-/10278306",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/8/1/1200w/img_81eac514a7c2499781aadc64d403ddbd185618.jpg",
+      "leadSource": "ABEMA TIMES",
+      "publishedAt": "2026-10-09T10:16:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "event"
+      ],
+      "keywords": [
+        "sns",
+        "クリスマスマーケット",
+        "開催発表"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわクリスマスマーケット“幕張”で開催発表にSNSどよめく…「めっちゃ行きたい」「これは激戦になるぞ」（LASISA）",
+          "url": "https://news.yahoo.co.jp/articles/e6665690f7caac5b6cd1acc3c2daed87b2bd4144",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-08T17:33:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「めっちゃ行きたい」ちいかわクリスマスマーケット、幕張で開催決定！SNSが即反応「激戦になる」「ちいかわを足したら動けない」",
+          "url": "https://lasisa.net/photo/163702",
+          "source": "lasisa.net",
+          "publishedAt": "2026-10-08T08:11:31.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "53cc1e9dce93",
+      "title": "「ちいかわクリスマスマーケット」開催決定 約6メートルのツリー&スノードームなどフォトスポット盛りだくさん",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/news/2485226/full/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485226/20261008_125849_p_o_74395487.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-10-09T02:27:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -501,57 +523,22 @@
       "keywords": [
         "クリスマスマーケット",
         "開催決定",
-        "クリスマス"
+        "ツリー"
       ],
       "articles": [
         {
-          "title": "ちいかわたちとクリスマスを楽しむ「ちいかわクリスマスマーケット」を2026年11月24日（火）より開催決定！｜Infoseekニュース",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000004081_000064643/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-08T15:40:00.000Z",
+          "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
+          "url": "https://article.auone.jp/947a265c-dbdd-40b8-9ea8-7908c62fd23e",
+          "source": "au Webポータル",
+          "publishedAt": "2026-10-08T08:07:00.000Z",
           "isPR": false
         },
         {
-          "title": "「ちいかわクリスマスマーケット」開催決定 オリジナルフード全35種・オリジナルグッズ販売など",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5td1ZySDVudVlBbjY1UTNFMmp1REktbHlDR2dob1ZFeXNqVjlhUjNBeXZyb1dtbE1jWU0wY2U2M2t5RGFPRzhVZ0EtcmFQa0MtUnR6T0pqVTFON0xOcEtJcnFwck5tamU5WGZ4a3prc0dTcEhJMEo2bzZzVdIBgAFBVV95cUxOYkc2U2YxU1hQWjEtUDctMFJ3X2Jya0ZPem9sMldyRGl4X01CdDRmcm0waVE1ZDRnMHQ5SDQxQkNzZF9UbmFWLUktcjliYXZGamtwdEQtblFlMVQ0WmFSVndDdmg1ZG5oV0EtcU5rbUlITXVYQmFweHFSQmZHdFlaMQ?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-08T07:45:08.000Z",
+          "title": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も",
+          "url": "https://report.iko-yo.net/articles/34424",
+          "source": "いこーよニュース",
+          "publishedAt": "2026-10-08T08:02:23.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ccbd9bcd918b",
-      "title": "【ちいかわ】「光るパジャマ」にアニメちいかわが登場！（アニメージュプラス）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/8a2025481fb5a02a6e6fbd4fe3f4a5b63e8c0023",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00067953-animage-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "パジャマ",
-        "アニメ",
-        "応援"
-      ],
-      "articles": [
-        {
-          "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！",
-          "url": "https://dot.asahi.com/articles/-/294846?page",
-          "source": "AERA DIGITAL",
-          "publishedAt": "2026-10-09T03:01:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！ | 株式会社バンダイのプレスリリース",
-          "url": "https://prtimes.jp/main/html/rd/p/000001022.000055569.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-09T03:00:02.000Z",
-          "isPR": true
         }
       ]
     },
@@ -627,6 +614,34 @@
       ]
     },
     {
+      "id": "8c3db60c948f",
+      "title": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！",
+      "summary": "",
+      "url": "https://dengekionline.com/article/202610/90681",
+      "image": "https://cimg.kgl-systems.io/camion/files/90681/ogp_bjLJ.jpg?x=1280",
+      "leadSource": "電撃オンライン",
+      "publishedAt": "2026-10-11T07:50:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "other"
+      ],
+      "keywords": [
+        "セット",
+        "再現"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ「くりまんじゅう」のだし割りを自宅で再現できる日本酒セットが発売",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0FpNWlhR3ZUaGFlR1FjY0pmTkN4YlIwRGQyTW5iVWx6T3k1cy1HTXJfZ09jWmhPRHFmUExSNFpGTFM4aXotZ0VQNWxiNEpEcGx6WW9yU2NNd2F5c1R1NDlnTzZJRjVtZ2VITS1ZaHEtZFRkYXBTSkp4TThSWF94YTdR0gGCAUFVX3lxTE5PQWk1aWFHdlRoYWVHUWNjSmZOQ3hiUjBEZDJNbmJVbHpPeTVzLUdNcl9nT2NaaE9EcWZQTFI0WkZMUzhpei1nRVA1bGI0SkRwbHpZb3JTY013YXlzVHU0OWdPNklGNW1nZUhNLVlocS1kVGRhcFNKSnhNOFJYX3hhN1E?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-10T22:01:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "9a2d67c546fb",
       "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいど！さまざまなオプションが付属、購入特典にはセリフプレートも",
       "summary": "「ねんどろいど くりまんじゅう/シーサー」が予約受付中！期間は11月11日までとなっています。",
@@ -682,52 +697,69 @@
       ]
     },
     {
-      "id": "fc90d3570be2",
-      "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋）",
+      "id": "ba877fe50511",
+      "title": "「劇場版ちいかわ」、公開10日で100万人突破 大人の涙を誘う純粋な真実",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/bc4b01ab85be2b0daf09bce743dafb5c670841b4",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00132479-futaman-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-09T21:30:36.000Z",
+      "url": "https://www.cineplay.co.kr/ja-jp/articles/30133",
+      "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-08/0da01050-aec1-4c65-94a2-c983862a9a08.jpg",
+      "leadSource": "씨네플레이",
+      "publishedAt": "2026-10-10T03:29:29.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "goods",
         "anime"
       ],
       "keywords": [
-        "スタート",
-        "フィギュア",
-        "ファン"
+        "劇場版",
+        "万人突破"
       ],
       "articles": [
         {
-          "title": "映画『ちいかわ』入場者特典「第6弾」がスタート！まさかのフィギュアにファン歓喜「かわいすぎる」 | 概要 | アニメ | 最新コラム",
-          "url": "https://futaman.futabanet.jp/articles/-/132479",
-          "source": "ふねぽ",
-          "publishedAt": "2026-10-09T21:00:00.000Z",
+          "title": "公開からわずか10日で100万人突破！ 『ちいかわ』劇場版、驚異の大ヒット : 문화 : 財経日報",
+          "url": "https://news.jkn.co.kr/editions/japanese/post/1014682",
+          "source": "재경일보",
+          "publishedAt": "2026-10-09T20:45:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-11T07:00:18.711Z",
-    "previousCount": 114,
-    "newCount": 4
+    "previousAt": "2026-10-11T07:30:20.417Z",
+    "previousCount": 113,
+    "newCount": 8
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T08:00:20.417Z",
+  "nextUpdateAt": "2026-10-11T08:30:18.662Z",
   "items": [
     {
-      "id": "ff907755cd68",
-      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」",
-      "url": "https://www.oricon.co.jp/news/2485864/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "id": "8c3db60c948f",
+      "title": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！",
+      "url": "https://dengekionline.com/article/202610/90681",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-10-11T07:19:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485864/20260629_181034_p_o_17488151.jpg",
+      "publishedAt": "2026-10-11T07:50:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/90681/ogp_bjLJ.jpg?x=1280",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ff907755cd68",
+      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/1200768f60bfc7b2f48459873316e24a705c10a9",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-11T07:19:13.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-00000421-oric-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -738,7 +770,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "3d274f9e5d9d",
+      "title": "「日本社会特有の“不安”が背景に…」 欧米メディアが論じた「ちいかわ」大ヒットの理由 関心は「アジア圏以外でも通用するのか？」（写真1）",
+      "url": "https://www.dailyshincho.jp/article/2026/10111001/?photo",
+      "host": "dailyshincho.jp",
+      "source": "デイリー新潮",
+      "summary": "",
+      "publishedAt": "2026-10-11T05:46:06.000Z",
+      "image": "https://www.dailyshincho.com/wp-content/uploads/2026/10/1508334_2.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "8801f9e8d14f",
@@ -790,25 +841,6 @@
       "categories": [
         "anime",
         "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3d274f9e5d9d",
-      "title": "「日本社会特有の“不安”が背景に…」 欧米メディアが論じた「ちいかわ」大ヒットの理由 関心は「アジア圏以外でも通用するのか？」",
-      "url": "https://news.yahoo.co.jp/articles/9203409f4fff200f460a7c2168c51b87b37c6c13",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-11T02:01:19.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-01508334-shincho-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -981,38 +1013,20 @@
       "isNew": false
     },
     {
-      "id": "3a319641ba03",
-      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
-      "url": "https://www.sanyonews.jp/article/1996985?kw",
+      "id": "0b011c2949bc",
+      "title": "映画『ちいかわ』OPはハチワレ歌唱の新曲「くつずれ」 島二郎役は最上嗣生、セイレーン役は鈴木みのり【予告映像解禁】",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-10T16:48:19.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/a/a/5/baa52f1712008e82898c525cc1220ef6_1.jpg",
+      "publishedAt": "2026-10-10T16:59:14.000Z",
+      "image": "",
       "categories": [
-        "goods"
+        "anime"
       ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2b5914603edc",
-      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
-      "url": "https://www.sanyonews.jp/article/1994867?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T15:47:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
+      "series": [
+        "hachiware"
       ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1237,6 +1251,26 @@
       "isNew": false
     },
     {
+      "id": "2a74042924f5",
+      "title": "ちいかわ：クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも",
+      "url": "https://mainichikirei.jp/article/20261010dog00m100009000a.html",
+      "host": "mainichikirei.jp",
+      "source": "毎日キレイ",
+      "summary": "",
+      "publishedAt": "2026-10-10T06:00:00.000Z",
+      "image": "https://storage.mainichikirei.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/10/20261010dog00m100009000a/001.jpg",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1745592ad1da",
       "title": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！",
       "url": "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
@@ -1274,6 +1308,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ba877fe50511",
+      "title": "「劇場版ちいかわ」、公開10日で100万人突破 大人の涙を誘う純粋な真実",
+      "url": "https://www.cineplay.co.kr/ja-jp/articles/30133",
+      "host": "cineplay.co.kr",
+      "source": "씨네플레이",
+      "summary": "",
+      "publishedAt": "2026-10-10T03:29:29.000Z",
+      "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-10-08/0da01050-aec1-4c65-94a2-c983862a9a08.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0583b5107f89",
@@ -1513,7 +1566,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "539421a839b7",
@@ -1526,6 +1579,25 @@
       "image": "https://static.sanyonews.jp/image/article/size1/e/f/9/f/ef9fbc013be31ad61267725f20590bac_1.jpg",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3a319641ba03",
+      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
+      "url": "https://www.sanyonews.jp/article/1996985?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-09T18:04:16.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/a/a/5/baa52f1712008e82898c525cc1220ef6_1.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1854,6 +1926,26 @@
       "isNew": false
     },
     {
+      "id": "1cfc62f740d4",
+      "title": "『映画ちいかわ』コラボカフェ開催決定 “島”テーマの16メニュー展開",
+      "url": "https://www.sanyonews.jp/article/1941189",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/5/b/0/a5b0b638c055dc2326cc9808bce41131_1.jpg",
+      "categories": [
+        "collab",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2acc58f8d6c3",
       "title": "【きょうから】マクドナルド、ハッピーセット第2弾「ちいかわ」 クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
       "url": "https://www.sanyonews.jp/article/1928603",
@@ -1894,6 +1986,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d2bf76c92396",
+      "title": "リポビタン×ちいかわ「いっしょにがんばろう！ファイトイッパーツ！キャンペーン」開催 オリジナルグッズがもらえる＆当たる",
+      "url": "https://www.sanyonews.jp/article/1926943",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/3/3/4/b3344ba9f214b200feeef2f16fa78fa3_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e5d72a712582",
@@ -2014,6 +2126,25 @@
       "isNew": false
     },
     {
+      "id": "f91e2a63d750",
+      "title": "暗闇でちいかわたちが浮かび上がる！バンダイ「光るパジャマ®」『アニメちいかわ』冬物パジャマ (2026年10月9日掲載)",
+      "url": "https://news.livedoor.com/topics/detail/32526992/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-09T03:42:14.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/3/0/30774_1604_cc8ac551_c7f4b286.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d0739796c44b",
       "title": "「ちいかわ」くりまんじゅうシリーズが発売！お酒を飲んだり禁酒になったりなアパレルが勢揃い（インサイド）",
       "url": "https://news.yahoo.co.jp/articles/8e7e8f3f6328341843d458ecf07e312528333ef0",
@@ -2123,7 +2254,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-09T02:27:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485226/20261008_125849_p_o_74395487.jpg",
       "categories": [
         "event"
       ],
@@ -2234,6 +2365,25 @@
       "isNew": false
     },
     {
+      "id": "f4acf94e5d6b",
+      "title": "ちいかわ アクリルキーホルダー3｜ちいかわのガチャガチャ 発売日・価格・設置場所",
+      "url": "https://charagoo.jp/gacha/item/0d2b37663eb9/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-09T01:18:05.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f94fac1a2dc1",
       "title": "ポンデクルール ちいかわ マルチカラーパウダー｜ちいかわのガチャガチャ 発売日・価格・設置場所",
       "url": "https://charagoo.jp/gacha/item/e6978b26aa5e/",
@@ -2264,25 +2414,6 @@
       "categories": [
         "goods",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "219fdc537b1b",
-      "title": "ちいかわ ふわふわフロッキードール｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/e2ae382a8bbb/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-09T01:18:05.000Z",
-      "image": "",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2806,6 +2937,28 @@
       "isNew": false
     },
     {
+      "id": "6ff321ed8a34",
+      "title": "新作「ちいかわ」グッズがしまむらオンラインで販売！首にリボンを巻いた「ハチワレ」「うさぎ」らの腹巻3種",
+      "url": "https://article.auone.jp/7f29e591-9a7c-4b2d-b392-b09451ac503e",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-10-08T08:24:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/09/https___news_jp_i_1480843868400206093_w400.webp",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6c8efc569e4a",
       "title": "「めっちゃ行きたい」ちいかわクリスマスマーケット、幕張で開催決定！SNSが即反応「激戦になる」「ちいかわを足したら動けない」",
       "url": "https://lasisa.net/photo/163702",
@@ -2825,6 +2978,26 @@
       "isNew": false
     },
     {
+      "id": "ec8efcc8c833",
+      "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
+      "url": "https://article.auone.jp/947a265c-dbdd-40b8-9ea8-7908c62fd23e",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-10-08T08:07:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/09/https___news_jp_i_1480839543880925406_w640.webp",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e083ed23187f",
       "title": "ちいかわクリスマスマーケット開催決定！ 千葉・幕張で限定フード35種やツリー演出も",
       "url": "https://report.iko-yo.net/articles/34424",
@@ -2833,126 +3006,6 @@
       "summary": "",
       "publishedAt": "2026-10-08T08:02:23.000Z",
       "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/34313/normal.jpeg?1791446436",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6ff321ed8a34",
-      "title": "新作「ちいかわ」グッズがしまむらオンラインで販売！首にリボンを巻いた「ハチワレ」「うさぎ」らの腹巻3種（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/78852413566b5d54dbddc12d62dca14ff3031da1",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T08:00:04.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000036-isd-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ec8efcc8c833",
-      "title": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/482c84f1f9c80bd35ce8c662a3be4eda69ff1486",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:50:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000037-isd-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6ed2f6b7dee8",
-      "title": "ちいかわの「クリスマスマーケット」が千葉県千葉市で開催 6メートルの巨大クリスマスツリーでオリジナルストーリーも体験できる",
-      "url": "https://news.yahoo.co.jp/articles/7a801274a252590202d75fabcf1678729938991a/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:50:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnaemingAQ-apTJMr_cdm6BlxUp6VojSgx2ZnLcHP8FOTagHZjpb_PMstcVxH39DfwVohaLSw9b0xdwbmS_cNfGTZsrossnGxbXS3n1uMhJQQ9YwgQmntauU9q_JlzAihDw==",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c6acd1ab1232",
-      "title": "「ちいかわクリスマスマーケット」開催決定 オリジナルフード全35種・オリジナルグッズ販売など",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5td1ZySDVudVlBbjY1UTNFMmp1REktbHlDR2dob1ZFeXNqVjlhUjNBeXZyb1dtbE1jWU0wY2U2M2t5RGFPRzhVZ0EtcmFQa0MtUnR6T0pqVTFON0xOcEtJcnFwck5tamU5WGZ4a3prc0dTcEhJMEo2bzZzVdIBgAFBVV95cUxOYkc2U2YxU1hQWjEtUDctMFJ3X2Jya0ZPem9sMldyRGl4X01CdDRmcm0waVE1ZDRnMHQ5SDQxQkNzZF9UbmFWLUktcjliYXZGamtwdEQtblFlMVQ0WmFSVndDdmg1ZG5oV0EtcU5rbUlITXVYQmFweHFSQmZHdFlaMQ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:45:08.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "342af68679c0",
-      "title": "【GU】ちいかわコラボが「14万いいね」を集める注目の的！3990円セーターから1990円ポーチまで事前チェック 11月20日発売！大人からキッズまで着られるノルディックセーターやカマクラ型ポーチが並ぶ第1弾 | 概要",
-      "url": "https://limo.media/articles/-/141110",
-      "host": "limo.media",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:45:00.000Z",
-      "image": "https://limo.ismcdn.jp/mwimgs/4/6/1200w/img_46cdcdad8224db4f116f000771ba689864142.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f812a6bbc903",
-      "title": "ちいかわの「クリスマスマーケット」千葉県で開催 “さすまたチュロス”もあるよ - KAI-YOU",
-      "url": "https://kai-you.net/article/96781",
-      "host": "kai-you.net",
-      "source": "KAI-YOU",
-      "summary": "",
-      "publishedAt": "2026-10-08T07:45:00.000Z",
-      "image": "https://img.kai-you.net/storage/2026/10/f2962429-dacf-4fb8-9bf2-fc45b231898b/jpg/chiikawa_xmas.jpg",
       "categories": [
         "event"
       ],
