@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-11T16:30:16.721Z",
+  "updatedAt": "2026-10-11T17:00:23.057Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 107,
+  "total": 104,
   "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 35
+      "count": 34
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 28
+      "count": 27
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 27
+      "count": 26
     }
   ],
   "series": [
@@ -64,7 +64,7 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 7
+      "count": 5
     },
     {
       "id": "kurimanju",
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 5
+      "count": 4
     },
     {
       "id": "kuma",
@@ -98,11 +98,11 @@
     },
     {
       "name": "キャラグー",
-      "count": 9
+      "count": 8
     },
     {
       "name": "電撃オンライン",
-      "count": 8
+      "count": 7
     },
     {
       "name": "インサイド",
@@ -213,10 +213,6 @@
       "count": 1
     },
     {
-      "name": "アニメハック",
-      "count": 1
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 1
     },
@@ -275,7 +271,7 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-11T01:18:26.000Z",
       "sourceCount": 6,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "anime",
         "kuji"
@@ -283,7 +279,7 @@
       "keywords": [
         "ハチワレ",
         "うさぎ",
-        "プライズ"
+        "モモンガ"
       ],
       "articles": [
         {
@@ -317,13 +313,6 @@
         {
           "title": "ちいかわ モモンガ超BIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
           "url": "https://charagoo.jp/prize/item/1d4262c5a027/",
-          "source": "キャラグー",
-          "publishedAt": "2026-10-09T01:24:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ もっちるおかお超BIGぬいぐるみ②｜ちいかわのプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/d78be7f5ccc0/",
           "source": "キャラグー",
           "publishedAt": "2026-10-09T01:24:02.000Z",
           "isPR": false
@@ -700,12 +689,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-11T16:00:20.600Z",
-    "previousCount": 104,
-    "newCount": 5
+    "previousAt": "2026-10-11T16:30:16.721Z",
+    "previousCount": 107,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T17:00:16.721Z",
+  "nextUpdateAt": "2026-10-11T17:30:23.057Z",
   "items": [
     {
       "id": "1ff93f8a9420",
@@ -866,12 +855,12 @@
     {
       "id": "99f6d4146d7d",
       "title": "映画の「ちいかわ」たちが可愛すぎ！ユニクロ「ちいかわスウェット」で秋支度。ルームウェアにもいいかも。3990円（LIMO）",
-      "url": "https://news.yahoo.co.jp/articles/425a2e4fdc32ee3e0f335f2f3ac93af9d86114fd?page",
+      "url": "https://news.yahoo.co.jp/articles/425a2e4fdc32ee3e0f335f2f3ac93af9d86114fd",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-11T08:31:08.000Z",
-      "image": "",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-00141710-toushin-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1221,7 +1210,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "84173348c380",
@@ -1342,27 +1331,6 @@
       "isNew": false
     },
     {
-      "id": "4dd4f3257e1c",
-      "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
-      "url": "https://dengekionline.com/article/202610/90653",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-10T12:07:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_RcXB.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "shisa"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b52a955d1149",
       "title": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる！超可愛い！」「こんな世界",
       "url": "https://news.nicovideo.jp/watch/nw19867746",
@@ -1400,27 +1368,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "990ae1ffaca1",
-      "title": "「ちいかわ」100均雑貨の“第8シリーズ”新作が登場 ビビッドカラーのポーチやふせんなど実用性バツグン モモンガ・古本屋も",
-      "url": "https://www.sanyonews.jp/article/1876138",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:22:59.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/7/d/4/77d4b64dc8a89b8afdaa0976c48ef977_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "momonga"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "29c7668dc190",
@@ -1701,6 +1648,26 @@
       "isNew": false
     },
     {
+      "id": "4529ccf968cb",
+      "title": "【入場特典リスト 10月最新版】「映画ちいかわ」名シーンのチャームミニフィギュア登場 「ガルパン」も注目（映画.com）",
+      "url": "https://news.yahoo.co.jp/articles/067397a04916ebf8cbd958c1df4705aaa7640924",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-09T22:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00000002-eiga-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "fc90d3570be2",
       "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋）",
       "url": "https://news.yahoo.co.jp/articles/bc4b01ab85be2b0daf09bce743dafb5c670841b4",
@@ -1937,26 +1904,6 @@
       "isNew": false
     },
     {
-      "id": "4529ccf968cb",
-      "title": "【入場特典リスト 10月最新版】「映画ちいかわ」名シーンのチャームミニフィギュア登場 「ガルパン」も注目",
-      "url": "https://anime.eiga.com/news/column/tokuten_list/127627/",
-      "host": "anime.eiga.com",
-      "source": "アニメハック",
-      "summary": "",
-      "publishedAt": "2026-10-09T10:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127627/photo/f941ffcd8dd351b9/640.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "add59a5c9925",
       "title": "「ちいかわ」くりまんじゅうの新商品が登場！ 光る提灯キーホルダーやおでん皿、アパレルも",
       "url": "https://animeanime.jp/article/2026/10/09/103658.html",
@@ -2014,27 +1961,6 @@
       "series": [
         "hachiware",
         "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "89630bfe97f3",
-      "title": "実は死と隣り合わせ…『ちいかわ』衝撃の“過酷エピソード”（4）水面に映る姿は…元・モモンガの残酷すぎる真実（映画チャンネル）",
-      "url": "https://news.yahoo.co.jp/articles/bce8f8ec8858aa3335ab214c824a53634487142d",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-09T09:05:06.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00010028-eigach-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "momonga"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2136,7 +2062,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8606441a3170",
@@ -2161,6 +2087,26 @@
       "isNew": false
     },
     {
+      "id": "d2bf76c92396",
+      "title": "リポビタン×ちいかわ「いっしょにがんばろう！ファイトイッパーツ！キャンペーン」開催 オリジナルグッズがもらえる＆当たる",
+      "url": "https://www.sanyonews.jp/article/1926943",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/3/3/4/b3344ba9f214b200feeef2f16fa78fa3_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "85a4aa8efa3a",
       "title": "『映画ちいかわ 人魚の島のひみつ』コラボレーションカフェが登場 オープン前日に行ってきた【内覧会リポート】",
       "url": "https://www.sanyonews.jp/article/1952836?kw",
@@ -2178,7 +2124,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3da29feda303",
@@ -2442,26 +2388,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "562a7a5c4cb0",
-      "title": "ちいかわ もっちるおかお超BIGぬいぐるみ②｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/d78be7f5ccc0/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-09T01:24:02.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2b873cbdd130",
