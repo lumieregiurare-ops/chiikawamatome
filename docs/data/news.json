@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:00:18.884Z",
+  "updatedAt": "2026-10-12T18:30:18.694Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 26
+      "count": 27
     },
     {
       "id": "kuji",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 18
+      "count": 16
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 13
+      "count": 12
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "series": [
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 25
+      "count": 23
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 17
     },
     {
       "name": "インサイド",
@@ -114,6 +114,10 @@
     },
     {
       "name": "クランクイン！",
+      "count": 2
+    },
+    {
+      "name": "東洋経済オンライン",
       "count": 2
     },
     {
@@ -197,40 +201,43 @@
       "count": 1
     },
     {
-      "name": "東洋経済オンライン",
-      "count": 1
-    },
-    {
       "name": "재경일보",
       "count": 1
     }
   ],
   "topics": [
     {
-      "id": "5dc4bc751d19",
-      "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
+      "id": "2abc9433825a",
+      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1912545",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/0/6/a/206a8f6736f9248712e80e9b09d71376_1.jpg",
+      "url": "https://www.sanyonews.jp/article/1951762?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
       "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-12T06:06:52.000Z",
-      "sourceCount": 5,
+      "publishedAt": "2026-10-12T06:20:36.000Z",
+      "sourceCount": 4,
       "articleCount": 6,
       "categories": [
         "anime",
         "kuji"
       ],
       "keywords": [
-        "ハチワレ",
         "映画",
+        "ハチワレ",
         "うさぎ"
       ],
       "articles": [
         {
-          "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
-          "url": "https://www.sanyonews.jp/article/1951762?kw",
+          "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
+          "url": "https://www.sanyonews.jp/article/1912545",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-11T16:00:26.000Z",
+          "publishedAt": "2026-10-12T06:06:52.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
+          "url": "https://www.sanyonews.jp/article/1946478?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-11T20:41:48.000Z",
           "isPR": false
         },
         {
@@ -252,13 +259,6 @@
           "url": "https://109cinemas.net/news/10102.html",
           "source": "１０９シネマズ",
           "publishedAt": "2026-10-10T07:59:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ 人魚の島のひみつ』ちいかわ＆ハチワレらが見つめ合う第2弾メインビジュアル解禁",
-          "url": "https://www.crank-in.net/gallery/news/192325/2",
-          "source": "クランクイン！",
-          "publishedAt": "2026-10-10T06:07:27.000Z",
           "isPR": false
         }
       ]
@@ -330,6 +330,42 @@
           "url": "https://iflyer.tv/news/chiikawaxmas",
           "source": "iFLYER",
           "publishedAt": "2026-10-10T03:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "cfca7dca339a",
+      "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
+      "summary": "",
+      "url": "https://toyokeizai.net/articles/photo/957290?pn",
+      "image": "https://jprime.ismcdn.jp/mwimgs/3/8/-/img_385bdb0736bea551cdfe7621176451c2650846.jpg",
+      "leadSource": "東洋経済オンライン",
+      "publishedAt": "2026-10-12T03:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "collab",
+        "kuji"
+      ],
+      "keywords": [
+        "コラボ",
+        "寿司",
+        "choice"
+      ],
+      "articles": [
+        {
+          "title": "《くら寿司×ちいかわコラボ》千葉県内の店舗で景品の湯呑みを無料提供していた！広報部「お詫びとしてお渡し」と認める《2026年10月Choice》",
+          "url": "https://www.jprime.jp/articles/-/43907?display",
+          "source": "週刊女性PRIME",
+          "publishedAt": "2026-10-11T12:37:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像・写真】《くら寿司×ちいかわコラボ》千葉県内の店舗で景品の湯呑みを無料提供していた！広報部「お詫びとしてお渡し」と認める《2026年10月Choice》",
+          "url": "https://www.jprime.jp/articles/photo/43907",
+          "source": "週刊女性PRIME",
+          "publishedAt": "2026-10-11T00:45:00.000Z",
           "isPR": false
         }
       ]
@@ -428,6 +464,34 @@
       ]
     },
     {
+      "id": "0b011c2949bc",
+      "title": "映画『ちいかわ』OPはハチワレ歌唱の新曲「くつずれ」 島二郎役は最上嗣生、セイレーン役は鈴木みのり【予告映像解禁】",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "image": "https://www.crank-in.net/img/db/267107072150251_1200.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-10T16:59:14.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "映画",
+        "解禁"
+      ],
+      "articles": [
+        {
+          "title": "『映画ちいかわ 人魚の島のひみつ』ちいかわ＆ハチワレらが見つめ合う第2弾メインビジュアル解禁",
+          "url": "https://www.crank-in.net/gallery/news/192325/2",
+          "source": "クランクイン！",
+          "publishedAt": "2026-10-10T06:07:27.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "ba877fe50511",
       "title": "「劇場版ちいかわ」、公開10日で100万人突破 大人の涙を誘う純粋な真実",
       "summary": "",
@@ -480,15 +544,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "ccade37ce9b1",
+      "title": "『ちいかわ』興収168億超、『踊る大捜査線』復活！ フジテレビの「IPを育てて稼ぐ」新方程式（東洋経済オンライン）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/296b1a5341451e9ad552a998e57a45b3afea5e7f",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00959563-toyo-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-09T20:50:28.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "フジテレビ",
+        "興収",
+        "億超"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』興収168億超､『踊る大捜査線』復活！ フジテレビの｢IPを育てて稼ぐ｣新方程式 2ページ目 | ビジネス",
+          "url": "https://toyokeizai.net/articles/-/959563?page",
+          "source": "東洋経済オンライン",
+          "publishedAt": "2026-10-09T20:50:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T17:30:16.159Z",
-    "previousCount": 85,
-    "newCount": 4
+    "previousAt": "2026-10-12T18:00:18.884Z",
+    "previousCount": 84,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T18:30:18.884Z",
+  "nextUpdateAt": "2026-10-12T19:00:18.694Z",
   "items": [
     {
       "id": "ff907755cd68",
@@ -666,18 +758,21 @@
       "isNew": false
     },
     {
-      "id": "3c19c0311a07",
-      "title": "メルカリ、くら寿司『ちいかわ』キャンペーン中止めぐり「必要な対応を進めています」",
-      "url": "https://www.sanyonews.jp/article/1985111",
+      "id": "2abc9433825a",
+      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
+      "url": "https://www.sanyonews.jp/article/1951762?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-12T06:32:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/3/9/4/0394cd2d2c1dbfb3773583f0d6e92cec_1.jpg",
+      "publishedAt": "2026-10-12T06:20:36.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
       "categories": [
-        "collab"
+        "anime"
       ],
-      "series": [],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -724,25 +819,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "61b1057e4d30",
-      "title": "『ちいかわ』黒猫姿のパンが今年も登場 栗あん・ほうじ茶クリーム・かぼちゃあん入り、3個購入で限定BOX",
-      "url": "https://www.sanyonews.jp/article/1986167",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T05:45:31.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/6/7/1/567112489e19b78c6ef2aac02192292b_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "163b5947b94d",
@@ -842,6 +918,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cfca7dca339a",
+      "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
+      "url": "https://toyokeizai.net/articles/photo/957290?pn",
+      "host": "toyokeizai.net",
+      "source": "東洋経済オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-12T03:00:00.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "89420786aead",
@@ -965,7 +1060,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "10afcdbd6f62",
@@ -999,28 +1094,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2abc9433825a",
-      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
-      "url": "https://www.sanyonews.jp/article/1951762?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-11T16:00:26.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1382,7 +1455,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d90aae149a6f",
@@ -1648,30 +1721,6 @@
       "isNew": false
     },
     {
-      "id": "f45dbed4d556",
-      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
-      "url": "https://www.sanyonews.jp/article/1885622",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2acc58f8d6c3",
       "title": "【きょうから】マクドナルド、ハッピーセット第2弾「ちいかわ」 クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
       "url": "https://www.sanyonews.jp/article/1928603",
@@ -1712,6 +1761,30 @@
       "isNew": false
     },
     {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "60a21394f89e",
       "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
       "url": "https://www.sanyonews.jp/article/1965008?kw",
@@ -1732,6 +1805,25 @@
       "isNew": false
     },
     {
+      "id": "d4e83171438f",
+      "title": "ちいかわ×東京スカイツリー（R）３年ぶり再タッグ 限定グッズや特別ライティング…チケット転売禁止の呼びかけも",
+      "url": "https://www.sanyonews.jp/article/1923662?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/9/3/a/f93ad631a4e585bd8ba5b3c39423c4b4_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c50718f285a6",
       "title": "マクドナルド、次回ハッピーセット「ちいかわ」5・15より クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
       "url": "https://www.sanyonews.jp/article/1917452",
@@ -1750,26 +1842,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "651a974225ab",
-      "title": "「ちいかわベーカリー ポップアップショップ」がオープン “パン型”スクイーズが新登場",
-      "url": "https://www.sanyonews.jp/article/1876005?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/f/9/c5f98e5b38680605e9d63478f75d0e09_1.jpg",
-      "categories": [
-        "event",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d0e4896a4701",
@@ -2131,9 +2203,28 @@
       "isNew": false
     },
     {
+      "id": "ccade37ce9b1",
+      "title": "『ちいかわ』興収168億超、『踊る大捜査線』復活！ フジテレビの「IPを育てて稼ぐ」新方程式（東洋経済オンライン）",
+      "url": "https://news.yahoo.co.jp/articles/296b1a5341451e9ad552a998e57a45b3afea5e7f",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-09T20:50:28.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00959563-toyo-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8cb91b52c597",
-      "title": "『ちいかわ』興収168億超､『踊る大捜査線』復活！ フジテレビの｢IPを育てて稼ぐ｣新方程式",
-      "url": "https://toyokeizai.net/articles/-/959563?display",
+      "title": "『ちいかわ』興収168億超､『踊る大捜査線』復活！ フジテレビの｢IPを育てて稼ぐ｣新方程式 2ページ目 | ビジネス",
+      "url": "https://toyokeizai.net/articles/-/959563?page",
       "host": "toyokeizai.net",
       "source": "東洋経済オンライン",
       "summary": "",
