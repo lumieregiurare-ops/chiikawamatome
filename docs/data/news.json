@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:00:19.357Z",
+  "updatedAt": "2026-10-12T15:30:26.747Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 30
+      "count": 29
     },
     {
       "id": "kuji",
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 2
+      "count": 1
     },
     {
       "id": "game",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 22
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "momonga",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "インサイド",
@@ -181,10 +181,6 @@
       "count": 1
     },
     {
-      "name": "テクノエッジ TechnoEdge",
-      "count": 1
-    },
-    {
       "name": "毎日キレイ",
       "count": 1
     },
@@ -211,10 +207,6 @@
     {
       "name": "TRILL",
       "count": 1
-    },
-    {
-      "name": "時事ドットコム",
-      "count": 1
     }
   ],
   "topics": [
@@ -227,17 +219,31 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-10-12T06:20:36.000Z",
       "sourceCount": 5,
-      "articleCount": 5,
+      "articleCount": 7,
       "categories": [
         "anime",
         "goods"
       ],
       "keywords": [
+        "映画",
         "ハチワレ",
-        "うさぎ",
-        "映画"
+        "うさぎ"
       ],
       "articles": [
+        {
+          "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
+          "url": "https://www.sanyonews.jp/article/1912545",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-12T06:06:52.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
+          "url": "https://www.sanyonews.jp/article/1946478?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-11T20:41:48.000Z",
+          "isPR": false
+        },
         {
           "title": "映画ちいかわ 人魚の島のひみつ＞入プレ第6弾はチャームミニフィギュア ちいかわ＆ハチワレ／うさぎ＆モモンガの2種類",
           "url": "https://thetv.jp/news/detail/1444152/landing/",
@@ -264,42 +270,6 @@
           "url": "https://109cinemas.net/news/10102.html",
           "source": "１０９シネマズ",
           "publishedAt": "2026-10-10T07:59:18.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1ff93f8a9420",
-      "title": "AmazonがGoogle Play対応『Alexa Tablet』を発表。日本国内は『ちいかわ』『パウパト』モデルの『キッズ タブレット』が10月14日より発売",
-      "summary": "",
-      "url": "https://uzurea.net/amazon-alexa-tablet-google-play/",
-      "image": "https://uzurea.net/cwp/wp-content/uploads/2026/10/amazon-alexa-tablet-google-play.webp",
-      "leadSource": "uzurea.net",
-      "publishedAt": "2026-10-11T14:22:05.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "event"
-      ],
-      "keywords": [
-        "amazon",
-        "play",
-        "キッズ"
-      ],
-      "articles": [
-        {
-          "title": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売",
-          "url": "https://www.techno-edge.net/article/2026/10/10/5572.html",
-          "source": "テクノエッジ TechnoEdge",
-          "publishedAt": "2026-10-10T07:18:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！",
-          "url": "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
-          "source": "Gizmodo",
-          "publishedAt": "2026-10-10T06:00:00.000Z",
           "isPR": false
         }
       ]
@@ -335,40 +305,6 @@
           "url": "https://iflyer.tv/news/chiikawaxmas",
           "source": "iFLYER",
           "publishedAt": "2026-10-10T03:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ccbd9bcd918b",
-      "title": "【ちいかわ】「光るパジャマ」にアニメちいかわが登場！（アニメージュプラス）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/8a2025481fb5a02a6e6fbd4fe3f4a5b63e8c0023",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00067953-animage-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-10T01:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "パジャマ",
-        "アニメ"
-      ],
-      "articles": [
-        {
-          "title": "【画像】【ちいかわ】「光るパジャマ」にアニメちいかわが登場！",
-          "url": "https://news.livedoor.com/article/image_detail/32534366/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-10T01:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！",
-          "url": "https://www.jiji.com/jc/article?k",
-          "source": "時事ドットコム",
-          "publishedAt": "2026-10-09T15:10:00.000Z",
           "isPR": false
         }
       ]
@@ -475,29 +411,30 @@
       ]
     },
     {
-      "id": "10afcdbd6f62",
-      "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
+      "id": "1ff93f8a9420",
+      "title": "AmazonがGoogle Play対応『Alexa Tablet』を発表。日本国内は『ちいかわ』『パウパト』モデルの『キッズ タブレット』が10月14日より発売",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1946478?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-11T20:41:48.000Z",
+      "url": "https://uzurea.net/amazon-alexa-tablet-google-play/",
+      "image": "https://uzurea.net/cwp/wp-content/uploads/2026/10/amazon-alexa-tablet-google-play.webp",
+      "leadSource": "uzurea.net",
+      "publishedAt": "2026-10-11T14:22:05.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime"
+        "other",
+        "event"
       ],
       "keywords": [
-        "ビジュアル",
-        "映画",
-        "人魚"
+        "amazon",
+        "play",
+        "キッズ"
       ],
       "articles": [
         {
-          "title": "『映画ちいかわ 人魚の島のひみつ』ちいかわ＆ハチワレらが見つめ合う第2弾メインビジュアル解禁",
-          "url": "https://www.crank-in.net/gallery/news/192325/2",
-          "source": "クランクイン！",
-          "publishedAt": "2026-10-10T06:07:27.000Z",
+          "title": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！",
+          "url": "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
+          "source": "Gizmodo",
+          "publishedAt": "2026-10-10T06:00:00.000Z",
           "isPR": false
         }
       ]
@@ -531,6 +468,34 @@
       ]
     },
     {
+      "id": "0b011c2949bc",
+      "title": "映画『ちいかわ』OPはハチワレ歌唱の新曲「くつずれ」 島二郎役は最上嗣生、セイレーン役は鈴木みのり【予告映像解禁】",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "image": "https://www.crank-in.net/img/db/267107072150251_1200.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-10T16:59:14.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "映画",
+        "解禁"
+      ],
+      "articles": [
+        {
+          "title": "『映画ちいかわ 人魚の島のひみつ』ちいかわ＆ハチワレらが見つめ合う第2弾メインビジュアル解禁",
+          "url": "https://www.crank-in.net/gallery/news/192325/2",
+          "source": "クランクイン！",
+          "publishedAt": "2026-10-10T06:07:27.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "ba877fe50511",
       "title": "「劇場版ちいかわ」、公開10日で100万人突破 大人の涙を誘う純粋な真実",
       "summary": "",
@@ -553,6 +518,33 @@
           "url": "https://news.jkn.co.kr/editions/japanese/post/1014682",
           "source": "재경일보",
           "publishedAt": "2026-10-09T20:45:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ccbd9bcd918b",
+      "title": "【ちいかわ】「光るパジャマ」にアニメちいかわが登場！（アニメージュプラス）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/8a2025481fb5a02a6e6fbd4fe3f4a5b63e8c0023",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00067953-animage-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "パジャマ",
+        "アニメ"
+      ],
+      "articles": [
+        {
+          "title": "【画像】【ちいかわ】「光るパジャマ」にアニメちいかわが登場！",
+          "url": "https://news.livedoor.com/article/image_detail/32534366/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-10T01:00:00.000Z",
           "isPR": false
         }
       ]
@@ -587,13 +579,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T14:30:18.043Z",
-    "previousCount": 86,
-    "newCount": 5
+    "previousAt": "2026-10-12T15:00:19.357Z",
+    "previousCount": 88,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T15:30:19.357Z",
+  "nextUpdateAt": "2026-10-12T16:00:26.747Z",
   "items": [
+    {
+      "id": "9d0090c41c31",
+      "title": "話題のちいかわ『でかつよ』みたいな犬 ⇒ まさかの……あくびしながら〝威風堂々〟登場「絶対つよい」「そのまま戦闘に入るタイプのボス」（西日本新聞me）",
+      "url": "https://news.yahoo.co.jp/articles/a643e7f362d0b89092060bacb12d84990e60194d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-12T14:50:01.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00010011-nishinp-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "a0206f80b785",
       "title": "『ちいかわ』最新話更新（10/12）。夜空にプレゼン…シーサーの想いは三ツ星に届くのか？",
@@ -617,15 +628,15 @@
     },
     {
       "id": "d47bcce99691",
-      "title": "美容師が「ちいかわ」をカットしたら……「やばいwwww」 衝撃の仕上がりに「おおおおおおお」「悪くない仕上がりで草」（1/3） | 漫画 ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/cont/articles/4031433/",
+      "title": "美容師が「ちいかわ」をカットしたら……「やばいwwww」 衝撃の仕上がりに「おおおおおおお」「悪くない仕上がりで草」",
+      "url": "https://nlab.itmedia.co.jp/cont/articles/4031433/image/",
       "host": "nlab.itmedia.co.jp",
       "source": "ねとらぼ",
       "summary": "",
       "publishedAt": "2026-10-12T12:15:00.000Z",
       "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/09/1790563422_0e9b85e0958d9288554ce7da6bc2d6b0.jpg",
       "categories": [
-        "book"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -731,13 +742,13 @@
     },
     {
       "id": "62dcfecb635b",
-      "title": "二宮和也がベージュ×ブラウンの部屋着を着てナチュラルカラーのベッドの上にちょっこり立つ姿に「ちいかわとかシルバニアみたいでかわいい」「かわいすぎて戸惑う」「妖精なの…？」 (THE FIRST TIMES)",
-      "url": "https://news.yahoo.co.jp/articles/0bfd19625dd87b845c7eb70a17aad912a5c331df/images/000",
+      "title": "二宮和也がベージュ×ブラウンの部屋着を着てナチュラルカラーのベッドの上にちょっこり立つ姿に「ちいかわとかシルバニアみたいでかわいい」「かわいすぎて戸惑う」「妖精なの…？」（THE FIRST TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/0bfd19625dd87b845c7eb70a17aad912a5c331df",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-12T07:04:30.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfr36I70o42CnI51Y1IrGMB4PxJHjZKavdq8fFYWy13gbzjJzNnYrPh4l5MVk_8fN2lEvfG6VNtVv4JunAwdd5qlshoFzpy-clGJDXxinibZ",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000020-mnet-000-2-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -746,7 +757,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2abc9433825a",
@@ -788,6 +799,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5dc4bc751d19",
+      "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
+      "url": "https://www.sanyonews.jp/article/1912545",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:06:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/6/a/206a8f6736f9248712e80e9b09d71376_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "163b5947b94d",
@@ -994,6 +1027,25 @@
       "isNew": false
     },
     {
+      "id": "b9521b17f0c3",
+      "title": "「ちいかわベーカリー」のアドベントカレンダーが登場 すでに追加生産も決定…“特別なクリスマス”をちいかわたちとカウントダウン",
+      "url": "https://www.sanyonews.jp/article/1983833?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T20:42:57.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/a/6/a/0a6ac55ff276b1073a104102784a1383_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "10afcdbd6f62",
       "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
       "url": "https://www.sanyonews.jp/article/1946478?kw",
@@ -1011,25 +1063,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "503606a1d7c7",
-      "title": "南原清隆、“ちいかわ好き”芸人にちいかわグッズをプレゼント「おじさんがおじさんの為に列に並んで買いました」",
-      "url": "https://www.sanyonews.jp/article/1994331",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-11T19:03:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/5/4/d/854d9380966e62e8e28aa9c04d345ac2_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "1ff93f8a9420",
@@ -1779,25 +1812,6 @@
       "isNew": false
     },
     {
-      "id": "29c7668dc190",
-      "title": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売",
-      "url": "https://www.techno-edge.net/article/2026/10/10/5572.html",
-      "host": "techno-edge.net",
-      "source": "テクノエッジ TechnoEdge",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:18:17.000Z",
-      "image": "https://www.techno-edge.net/imgs/ogp_f/34728.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "2acc58f8d6c3",
       "title": "【きょうから】マクドナルド、ハッピーセット第2弾「ちいかわ」 クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
       "url": "https://www.sanyonews.jp/article/1928603",
@@ -1831,6 +1845,30 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1875,30 +1913,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f45dbed4d556",
-      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
-      "url": "https://www.sanyonews.jp/article/1885622",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d0e4896a4701",
@@ -2276,7 +2290,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8cb91b52c597",
@@ -2328,25 +2342,6 @@
       "categories": [
         "goods",
         "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cbc2d5a9c9ce",
-      "title": "お子さまのおやすみを応援する「光るパジャマ」に『アニメちいかわ』が待望の登場！",
-      "url": "https://www.jiji.com/jc/article?k",
-      "host": "jiji.com",
-      "source": "時事ドットコム",
-      "summary": "",
-      "publishedAt": "2026-10-09T15:10:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
