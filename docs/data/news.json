@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-12T06:30:18.103Z",
+  "updatedAt": "2026-10-12T07:00:16.785Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 98,
+  "total": 97,
   "todayCount": 16,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 28
+      "count": 30
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 16
+      "count": 14
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 27
+      "count": 28
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 26
+      "count": 25
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 17
+      "count": 16
     },
     {
       "id": "usagi",
@@ -64,7 +64,7 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 4
+      "count": 6
     },
     {
       "id": "kurimanju",
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 6
+      "count": 10
     },
     {
       "id": "kuma",
@@ -89,12 +89,12 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 22
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 19
+    },
+    {
+      "name": "山陽新聞",
+      "count": 17
     },
     {
       "name": "インサイド",
@@ -102,11 +102,15 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ｄメニューニュース",
       "count": 4
+    },
+    {
+      "name": "ファッションプレス",
+      "count": 3
     },
     {
       "name": "씨네플레이",
@@ -157,10 +161,6 @@
       "count": 1
     },
     {
-      "name": "Howl.link",
-      "count": 1
-    },
-    {
       "name": "にじめん",
       "count": 1
     },
@@ -174,6 +174,10 @@
     },
     {
       "name": "１０９シネマズ",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -221,6 +225,10 @@
       "count": 1
     },
     {
+      "name": "All About ニュース",
+      "count": 1
+    },
+    {
       "name": "ABEMA TIMES",
       "count": 1
     },
@@ -238,10 +246,6 @@
     },
     {
       "name": "株式会社共同通信社",
-      "count": 1
-    },
-    {
-      "name": "株式会社ピクセラ",
       "count": 1
     }
   ],
@@ -403,6 +407,35 @@
       ]
     },
     {
+      "id": "974a6918c587",
+      "title": "「ちいかわ」くりまんじゅう、シーサーの“ねんどろいど”が予約受付中！ 「缶ビール」や「お酒の本」などオプションパーツも豊富",
+      "summary": "「ねんどろいど くりまんじゅう/シーサー」が予約受付中！期間は11月11日までとなっています。",
+      "url": "https://www.inside-games.jp/article/2026/10/12/189127.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1786038.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-11T23:20:06.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "other"
+      ],
+      "keywords": [
+        "シーサー",
+        "くりまんじゅう",
+        "ビール"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
+          "url": "https://dengekionline.com/article/202610/90653",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-10T12:07:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "2abc9433825a",
       "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
       "summary": "",
@@ -454,6 +487,34 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZkdBaXpuYWQ1UFVIWGhHQ1ZrTkRvWFlUZ1c4aHV6V2lHTmtRVHN1bHJVN3pmR0VFWWt1d3dRUzB6QXpMV0MzdE9UY1VEY3JwMEJvdTBuVEttVUZaVDVKcnpaakp6QTZkaFY5dzhSV2M3ODlNWTR3UnR5dmRIcG5pb3BnYWI5Y2fSAYcBQVVfeXFMUGZHQWl6bmFkNVBVSFhoR0NWa05Eb1hZVGdXOGh1eldpR05rUVRzdWxyVTd6ZkdFRVlrdXd3UVMwekF6TFdDM3RPVGNVRGNycDBCb3UwblRLbVVGWlQ1SnJ6WmpKekE2ZGhWOXc4UldjNzg5TVk0d1J0eXZkSHBuaW9wZ2FiOWNn?oc=5",
           "source": "ｄメニューニュース",
           "publishedAt": "2026-10-11T08:10:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "うさぎ"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ＆ハチワレ＆うさぎが暗闇で浮かび上がる！「光るパジャマ」登場",
+          "url": "https://fan.books.rakuten.co.jp/articles/htcoxw1o6vsr7z8jnoi70tfb",
+          "source": "推し楽",
+          "publishedAt": "2026-10-09T09:10:19.000Z",
           "isPR": false
         }
       ]
@@ -514,34 +575,6 @@
       ]
     },
     {
-      "id": "b9588cdce399",
-      "title": "【越谷市】ちいかわ・ハチワレ・うさぎがやってくる！イオンレイクタウンmoriで「むちゃフォトパーティ!!」開催",
-      "summary": "",
-      "url": "https://koshigaya.goguynet.jp/2026/10/10/laketown-ivent-2/",
-      "image": "https://koshigaya.goguynet.jp/wp-content/uploads/sites/48/2026/09/31120450_m.jpg",
-      "leadSource": "号外NET 越谷市",
-      "publishedAt": "2026-10-09T22:07:09.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event",
-        "other"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ＆ハチワレ＆うさぎが暗闇で浮かび上がる！「光るパジャマ」登場",
-          "url": "https://fan.books.rakuten.co.jp/articles/htcoxw1o6vsr7z8jnoi70tfb",
-          "source": "推し楽",
-          "publishedAt": "2026-10-09T09:10:19.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "fc90d3570be2",
       "title": "映画『ちいかわ』入場者特典「第6弾」スタート！ まさかのフィギュアにファン歓喜「かわいすぎる」（ふたまん＋）",
       "summary": "",
@@ -572,12 +605,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T06:00:17.535Z",
-    "previousCount": 97,
-    "newCount": 2
+    "previousAt": "2026-10-12T06:30:18.103Z",
+    "previousCount": 98,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T07:00:18.103Z",
+  "nextUpdateAt": "2026-10-12T07:30:16.785Z",
   "items": [
     {
       "id": "163b5947b94d",
@@ -1095,6 +1128,28 @@
       "isNew": false
     },
     {
+      "id": "dfa496f4748d",
+      "title": "写真21/30｜ちいかわ「シーサーのおみやげやさん」那覇空港内に、スッパイマンやオリオンビールのコラボグッズなど",
+      "url": "https://www.fashion-press.net/news/gallery/149855/2525294",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-10-11T08:02:50.000Z",
+      "image": "https://www.fashion-press.net/img/news/149855/vyg.jpg?1786676570",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8c3db60c948f",
       "title": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！",
       "url": "https://dengekionline.com/article/202610/90681",
@@ -1135,25 +1190,48 @@
       "isNew": false
     },
     {
-      "id": "691c807ba479",
-      "title": "でかつよなのに自分をハチワレと信じて疑わない宇佐美リト【にじさんじ】【手書き切り抜き】",
-      "url": "https://t.co/96KWEF2Aty",
-      "host": "t.co",
-      "source": "Howl.link",
+      "id": "3da29feda303",
+      "title": "「ちいかわ」モモンガ＆あのこがふわふわ♪ ハチワレたちは冬支度〜☆ノルディックセーターなどあったかアパレルがGUに集合",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmllSjZaSmdJelZzeGNyb2ZYMVE1RDZOUWcxSy1acnVMeF9CaGd2OVV1TTJLYmVMUkNHQzZTdDZBbXJINjN5aTdRS1pKc2ZwbnlMRG1mdzUzWldCQWlaQzNBVHQydjVPdXIxOXhNZmduSEN2Z1F1QURQMGdrakc5X05ESHNDNFVLNzhFMEN6NFFFNFnSAY8BQVVfeXFMTzk3WHZvRDJtMC1qa3Jpckg2WXJzdkhZSlUxX1BPQVkyeWlrUG1uVVBBWDFHbXJSNDNFRkJjY3pjbHdfRlhQUWZrRTJPM1IzcWp2M3JlcExObFlTdGl3Y3U1ZXhRRTBWN21uZFhxRVY2S0xNSWdidXROOThmdFlBT2tmMDFkZEdPNlFmVDlWRnc?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-10-11T07:00:07.000Z",
+      "publishedAt": "2026-10-11T06:59:04.000Z",
       "image": "",
       "categories": [
-        "other"
+        "goods"
       ],
       "series": [
-        "hachiware"
+        "hachiware",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1be753eada9a",
+      "title": "写真3/30｜ちいかわ「シーサーのおみやげやさん」那覇空港内に、スッパイマンやオリオンビールのコラボグッズなど",
+      "url": "https://www.fashion-press.net/news/gallery/149855/2525245",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-10-11T03:40:24.000Z",
+      "image": "https://www.fashion-press.net/img/news/149855/U3s.jpg?1786676196",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "shisa"
       ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "8801f9e8d14f",
@@ -1517,6 +1595,27 @@
       "isNew": false
     },
     {
+      "id": "4dd4f3257e1c",
+      "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
+      "url": "https://dengekionline.com/article/202610/90653",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-10T12:07:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_RcXB.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b52a955d1149",
       "title": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる！超可愛い！」「こんな世界",
       "url": "https://news.nicovideo.jp/watch/nw19867746",
@@ -1554,6 +1653,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d0bf428ebf2d",
+      "title": "『ちいかわ』モモンガ役の声優 井口裕香、最新グラビアのオフショットに衝撃「スタイルの良さに脱帽」",
+      "url": "http://www.excite.co.jp/news/article/Oricon_2485742/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:53:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "29c7668dc190",
@@ -1595,6 +1715,30 @@
       "isNew": false
     },
     {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "60a21394f89e",
       "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
       "url": "https://www.sanyonews.jp/article/1965008?kw",
@@ -1606,25 +1750,6 @@
       "categories": [
         "collab",
         "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d4e83171438f",
-      "title": "ちいかわ×東京スカイツリー（R）３年ぶり再タッグ 限定グッズや特別ライティング…チケット転売禁止の呼びかけも",
-      "url": "https://www.sanyonews.jp/article/1923662?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/9/3/a/f93ad631a4e585bd8ba5b3c39423c4b4_1.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1651,7 +1776,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0e4896a4701",
@@ -1953,7 +2078,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fc90d3570be2",
@@ -2177,14 +2302,33 @@
       "isNew": false
     },
     {
+      "id": "674b5029be3a",
+      "title": "「これで心おきなくひみつ本を読める」ダイソーのブックカバーが『映画ちいかわ』の特典冊子にぴったりと話題(2/2)",
+      "url": "https://news.allabout.co.jp/articles/o/130876/?page",
+      "host": "news.allabout.co.jp",
+      "source": "All About ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a9b9d63a72d6",
       "title": "『ちいかわ』2027年卓上カレンダーが11月28日発売。めくると仲間が飛び出すポップアップ仕様！",
-      "url": "https://dengekionline.com/article/images/202610/90453/896475",
+      "url": "https://dengekionline.com/article/images/202610/90453/896474",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-09T11:13:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90453/a1bd575ecf47679dc813f7417ffdf5322.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90453/ab7661c2271cd7790c1297bdffa042f4b.jpg?x=1280",
       "categories": [
         "event"
       ],
@@ -2337,6 +2481,28 @@
       "isNew": false
     },
     {
+      "id": "1181c6ecf6c5",
+      "title": "写真12/30｜ちいかわ「シーサーのおみやげやさん」那覇空港内に、スッパイマンやオリオンビールのコラボグッズなど",
+      "url": "https://www.fashion-press.net/news/gallery/149855/2525273",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-10-09T08:39:28.000Z",
+      "image": "https://www.fashion-press.net/img/news/149855/Nv8.jpg?1786676536",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ac4eba6b0bec",
       "title": "『ちいかわクリスマスマーケット』が11月24日より開催決定！ 限定オリジナルフードやグッズが登場",
       "url": "https://dengekionline.com/article/202610/90559",
@@ -2391,148 +2557,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bd9b78374bcd",
-      "title": "「ちいかわ×ドンキホーテ」コラボ初日6・6は整理券配布を実施 対象店舗全店で",
-      "url": "https://www.sanyonews.jp/article/1932662",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/e/d/a/fedad8a4a12c74e3b3c563dee66346a0_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1cfc62f740d4",
-      "title": "『映画ちいかわ』コラボカフェ開催決定 “島”テーマの16メニュー展開",
-      "url": "https://www.sanyonews.jp/article/1941189",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/a/5/b/0/a5b0b638c055dc2326cc9808bce41131_1.jpg",
-      "categories": [
-        "collab",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "77cada88428b",
-      "title": "【きょうから】『映画ちいかわ』とCoCo壱番屋のコラボ詳細発表 限定メニュー＆シール・フィギュアプレゼントも",
-      "url": "https://www.sanyonews.jp/article/1955869",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/a/6/9/4a6944f3e8ed393c7295f32b50a04402_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8606441a3170",
-      "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
-      "url": "https://www.sanyonews.jp/article/1957105",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/d/81ed3cd58d746b5d67d29a2e730a46a7_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "85a4aa8efa3a",
-      "title": "『映画ちいかわ 人魚の島のひみつ』コラボレーションカフェが登場 オープン前日に行ってきた【内覧会リポート】",
-      "url": "https://www.sanyonews.jp/article/1952836?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/f/3/c/2f3c350a3b72b986f3f6f91f9d8a4b95_1.jpg",
-      "categories": [
-        "collab",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d445d28ce846",
-      "title": "ちいかわのアニメはどこで見れる？見放題サブスク9社と無料で見る方法",
-      "url": "https://pixela.co.jp/delivery/chiikawa-streaming/",
-      "host": "pixela.co.jp",
-      "source": "株式会社ピクセラ",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "image": "https://pixela.co.jp/delivery/wp-content/uploads/chiikawa-streaming.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3da29feda303",
-      "title": "「ちいかわ」モモンガ＆あのこがふわふわ♪ ハチワレたちは冬支度〜☆ノルディックセーターなどあったかアパレルがGUに集合",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHZ5OWx6Q19KcXM4N3BLcjFENm1IUnV1WjZsSV93LVpaVEZRZU9EUUdSLVBSQmo4Zi1OS1lfWTVMM2NLS1JacjBaSkxVTjY2dU9XVEIwTmYzMTlvNmFVT1Jzekhfa2xMQk8zOUR0TjJwbUtyaUFGdld2TU9VdG1pOVVRVDhGU0xwNXRaaU53UlNUbmPSAY8BQVVfeXFMTzk3WHZvRDJtMC1qa3Jpckg2WXJzdkhZSlUxX1BPQVkyeWlrUG1uVVBBWDFHbXJSNDNFRkJjY3pjbHdfRlhQUWZrRTJPM1IzcWp2M3JlcExObFlTdGl3Y3U1ZXhRRTBWN21uZFhxRVY2S0xNSWdidXROOThmdFlBT2tmMDFkZEdPNlFmVDlWRnc?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-10-09T06:34:30.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "momonga"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     }
