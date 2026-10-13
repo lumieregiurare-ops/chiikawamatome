@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T17:30:18.817Z",
+  "updatedAt": "2026-10-13T18:00:19.678Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 106,
+  "total": 108,
   "todayCount": 4,
   "categories": [
     {
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 0
+      "count": 1
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 17
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 5
+      "count": 6
     },
     {
       "id": "kuma",
@@ -105,6 +105,10 @@
       "count": 5
     },
     {
+      "name": "電撃オンライン",
+      "count": 4
+    },
+    {
       "name": "ｄメニューニュース",
       "count": 4
     },
@@ -114,10 +118,6 @@
     },
     {
       "name": "PASH! PLUS",
-      "count": 3
-    },
-    {
-      "name": "電撃オンライン",
       "count": 3
     },
     {
@@ -222,6 +222,10 @@
     },
     {
       "name": "TVer",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -743,12 +747,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T17:00:22.311Z",
+    "previousAt": "2026-10-13T17:30:18.817Z",
     "previousCount": 106,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T18:00:18.817Z",
+  "nextUpdateAt": "2026-10-13T18:30:19.678Z",
   "items": [
     {
       "id": "8799c25d4fb5",
@@ -1540,7 +1544,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2d3c3c204288",
@@ -1600,7 +1604,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2d327f9995ee",
@@ -1620,7 +1624,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f977d51a7de1",
@@ -1820,7 +1824,7 @@
     },
     {
       "id": "3e4a3fb62226",
-      "title": "【画像】お弁当とお店屋さんモチーフ、10月24日発売！ちいかわぽけっと 公式グッズ第4弾／POP UP STORE 3/21",
+      "title": "【画像】お弁当とお店屋さんモチーフ、10月24日発売！ちいかわぽけっと 公式グッズ第4弾／POP UP STORE 4/21",
       "url": "https://news.livedoor.com/article/image_detail/32554006/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -2074,6 +2078,25 @@
       "isNew": false
     },
     {
+      "id": "3cb426beb2f1",
+      "title": "KADOKAWAが絵本ちいかわ あいうえおを2026年10月2日に発売",
+      "url": "https://news.dellows.jp/573339/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-12T21:10:37.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/573339_1.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "53cc1e9dce93",
       "title": "「ちいかわクリスマスマーケット」開催決定 約6メートルのツリー＆スノードームなどフォトスポット盛りだくさん",
       "url": "https://www.sanyonews.jp/article/2001612?kw",
@@ -2192,6 +2215,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a0206f80b785",
+      "title": "『ちいかわ』最新話更新（10/12）。夜空にプレゼン…シーサーの想いは三ツ星に届くのか？",
+      "url": "https://dengekionline.com/article/images/202610/90762/899725",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-12T13:42:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90762/a4027c42d8ca8a6125212692aaf0658e3.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "20f263306ab4",
