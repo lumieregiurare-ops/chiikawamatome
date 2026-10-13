@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-13T21:00:20.575Z",
+  "updatedAt": "2026-10-13T21:30:19.398Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 107,
+  "total": 109,
   "todayCount": 5,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 50
+      "count": 51
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 27
+      "count": 29
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 20
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 7
+      "count": 6
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "山陽新聞",
@@ -105,12 +105,12 @@
       "count": 6
     },
     {
-      "name": "電撃オンライン",
+      "name": "ライブドアニュース",
       "count": 5
     },
     {
-      "name": "ライブドアニュース",
-      "count": 5
+      "name": "電撃オンライン",
+      "count": 4
     },
     {
       "name": "PASH! PLUS",
@@ -138,6 +138,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -217,10 +221,6 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "TVer",
       "count": 1
     },
@@ -250,6 +250,10 @@
     },
     {
       "name": "cinemacafe.net",
+      "count": 1
+    },
+    {
+      "name": "씨네플레이",
       "count": 1
     },
     {
@@ -609,6 +613,42 @@
       ]
     },
     {
+      "id": "79e7d0af68c8",
+      "title": "ちいかわ 秋だもんマスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "summary": "",
+      "url": "https://charagoo.jp/prize/item/484f8584e679/",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000021-isd-000-1-view.jpg?exp=10800",
+      "leadSource": "キャラグー",
+      "publishedAt": "2026-10-12T23:52:49.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "keywords": [
+        "マスコット",
+        "プライズ",
+        "入荷予定"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ 討伐マスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/5a58000ee57e/",
+          "source": "キャラグー",
+          "publishedAt": "2026-10-12T23:52:49.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ」たちがフッサフッサなパジャマ姿に！コーデュロイ生地を使ったマスコット3種がプライズ展開（インサイド）",
+          "url": "https://news.yahoo.co.jp/articles/68da8f241ba919d73c09ddec2b9b5ecccfbed615",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-12T03:45:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "c2bf8cf981ef",
       "title": "「急に横に来て警戒…」同居猫を警戒するハチワレ猫の目つきがたまらない！（LIMO）",
       "summary": "",
@@ -694,34 +734,6 @@
       ]
     },
     {
-      "id": "79e7d0af68c8",
-      "title": "ちいかわ 秋だもんマスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "summary": "",
-      "url": "https://charagoo.jp/prize/item/484f8584e679/",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000021-isd-000-1-view.jpg?exp=10800",
-      "leadSource": "キャラグー",
-      "publishedAt": "2026-10-12T23:52:49.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "kuji"
-      ],
-      "keywords": [
-        "マスコット",
-        "プライズ"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」たちがフッサフッサなパジャマ姿に！コーデュロイ生地を使ったマスコット3種がプライズ展開（インサイド）",
-          "url": "https://news.yahoo.co.jp/articles/68da8f241ba919d73c09ddec2b9b5ecccfbed615",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-12T03:45:02.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "53cc1e9dce93",
       "title": "「ちいかわクリスマスマーケット」開催決定 約6メートルのツリー＆スノードームなどフォトスポット盛りだくさん",
       "summary": "",
@@ -750,12 +762,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T20:30:18.839Z",
-    "previousCount": 105,
-    "newCount": 5
+    "previousAt": "2026-10-13T21:00:20.575Z",
+    "previousCount": 107,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T21:30:20.575Z",
+  "nextUpdateAt": "2026-10-13T22:00:19.398Z",
   "items": [
     {
       "id": "8799c25d4fb5",
@@ -1017,7 +1029,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b719c88d5f0",
@@ -1274,7 +1286,7 @@
       "source": "もぐナビ",
       "summary": "",
       "publishedAt": "2026-10-13T09:56:44.000Z",
-      "image": "https://mognavi.jp/image/food/00/00/51/3646295_original.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1453,6 +1465,25 @@
       "isNew": false
     },
     {
+      "id": "55201bf3d77e",
+      "title": "「何っ回でも劇場で観たくなる最高の映画でーーーす！」『映画ちいかわ 人魚の島のひみつ』前川葵氏が描くセイレーンのイラストが話題（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/62ec5fc5dd83b73c05874fe98ecb4ef7df969cdc",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:57:15.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-10280001-abemad-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "94557ba94627",
       "title": "映画『ちいかわ』旋風は終わらない──週末動員ランキング1位に返り咲く 興収179億円を突破 (KAI-YOU)",
       "url": "https://news.yahoo.co.jp/articles/2e0f9e36a003c6db5946cc0aa49b37dd2032c387/images/000",
@@ -1520,7 +1551,7 @@
       "source": "ふくおかナビ",
       "summary": "",
       "publishedAt": "2026-10-13T08:23:20.000Z",
-      "image": "",
+      "image": "https://www.fukuoka-navi.jp/wp-content/uploads/2026/10/156996-46-d0931ff08c713a449a0e2870ba6bdc4e-1200x630-1.webp",
       "categories": [
         "event",
         "goods"
@@ -1589,7 +1620,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2d3c3c204288",
@@ -2065,6 +2096,26 @@
       "isNew": false
     },
     {
+      "id": "ad51cb982e0e",
+      "title": "ちいかわ 討伐マスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/5a58000ee57e/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-12T23:52:49.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "91e0ec2fe222",
       "title": "ちいかわ 2022年放送 第36話 ふしぎな杖(1)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
       "url": "https://tver.jp/episodes/eprbgyp8j8",
@@ -2119,7 +2170,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "53cc1e9dce93",
@@ -2216,27 +2267,6 @@
         "game"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a0206f80b785",
-      "title": "『ちいかわ』最新話更新（10/12）。夜空にプレゼン…シーサーの想いは三ツ星に届くのか？",
-      "url": "https://dengekionline.com/article/202610/90762",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-12T13:39:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_XyvT.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "shisa"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2419,6 +2449,25 @@
       "isNew": false
     },
     {
+      "id": "89420786aead",
+      "title": "【興行】「劇場版ちいかわ」旋風、わずか215人差で連休首位…「暗殺者たち」は300万人",
+      "url": "https://www.cineplay.co.kr/ja-jp/articles/30160",
+      "host": "cineplay.co.kr",
+      "source": "씨네플레이",
+      "summary": "",
+      "publishedAt": "2026-10-12T01:43:00.000Z",
+      "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-09-18/b76ea9fd-53ec-412c-845c-eb06807bc73c.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "da0d4043a8dc",
       "title": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種",
       "url": "https://www.inside-games.jp/article/2026/10/12/189128.html",
@@ -2584,12 +2633,12 @@
     {
       "id": "8c3db60c948f",
       "title": "【ちいかわ】プラキット『ちいプラ』3種セットが予約受付中。3体そろえれば、原作どおり2人乗りシーンも再現できる！",
-      "url": "https://dengekionline.com/article/images/202610/90681/899065",
+      "url": "https://dengekionline.com/article/images/202610/90681/899062",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-11T07:59:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90681/abac85dd2f5d91481b9e27403be673174.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90681/a73bf6b6bca9d02ea6a906439b71a4127.jpg?x=1280",
       "categories": [
         "goods"
       ],
@@ -2620,7 +2669,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3da29feda303",
@@ -2783,7 +2832,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "74489feda862",
