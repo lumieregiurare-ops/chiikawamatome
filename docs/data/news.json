@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T08:30:17.172Z",
+  "updatedAt": "2026-10-13T09:00:19.302Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 87,
-  "todayCount": 42,
+  "total": 90,
+  "todayCount": 45,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 28
+      "count": 32
     },
     {
       "id": "kuji",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 9
+      "count": 10
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 24
+      "count": 27
     },
     {
       "id": "book",
@@ -42,12 +42,12 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 20
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "momonga",
@@ -90,23 +90,27 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 17
     },
     {
       "name": "山陽新聞",
-      "count": 13
+      "count": 14
     },
     {
       "name": "インサイド",
-      "count": 5
+      "count": 6
     },
     {
       "name": "電撃オンライン",
-      "count": 5
+      "count": 4
     },
     {
       "name": "ｄメニューニュース",
       "count": 4
+    },
+    {
+      "name": "Infoseek",
+      "count": 2
     },
     {
       "name": "ナタリー",
@@ -145,7 +149,7 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "MANTANWEB",
       "count": 1
     },
     {
@@ -206,10 +210,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 1
-    },
-    {
-      "name": "日刊スポーツ",
       "count": 1
     },
     {
@@ -309,25 +309,39 @@
       ]
     },
     {
-      "id": "71136fa2739a",
-      "title": "映画『ちいかわ』週末動員ランキング1位に返り咲く 『バイオハザード』が初登場2位 - KAI-YOU",
+      "id": "1224059468ee",
+      "title": "「ちいかわ」返り咲きV！ 新作は2位「バイオハザード」、4位「汝、星のごとく」、7位「DIGGER」など【国内映画ランキング】",
       "summary": "",
-      "url": "https://kai-you.net/article/96819",
-      "image": "https://img.kai-you.net/storage/2026/07/21dc8fb2-4d0a-4f94-9aa7-9a415f8e5001/jpg/chiiiiii.jpg",
-      "leadSource": "KAI-YOU",
-      "publishedAt": "2026-10-13T08:14:00.000Z",
+      "url": "https://news.yahoo.co.jp/articles/77d634e7d179e299c37b8deb71e6d5cc74f26c38",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000023-eiga-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-13T08:30:00.000Z",
       "sourceCount": 4,
-      "articleCount": 4,
+      "articleCount": 6,
       "categories": [
-        "anime",
-        "goods"
+        "goods",
+        "anime"
       ],
       "keywords": [
         "バイオハザード",
         "映画",
-        "動員"
+        "ランキング"
       ],
       "articles": [
+        {
+          "title": "映画『ちいかわ』週末動員ランキング1位に返り咲く 『バイオハザード』が初登場2位 - KAI-YOU",
+          "url": "https://kai-you.net/article/96819",
+          "source": "KAI-YOU",
+          "publishedAt": "2026-10-13T08:14:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ』3度目の首位返り咲き！『バイオハザード』新作が初登場2位：映画週末興行成績（シネマトゥデイ）",
+          "url": "https://news.yahoo.co.jp/articles/b70d15fc9142241178509d5ae11997860992ead3",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-13T07:53:02.000Z",
+          "isPR": false
+        },
         {
           "title": "『映画ちいかわ〜』がまたしても1位に返り咲き！新作は『バイオハザード』『汝、星のごとく』など4本がランクイン（2026年10月9日-10月11日）",
           "url": "http://www.kogyotsushin.com/archives/topics/t8/202610/13154234.php",
@@ -390,6 +404,41 @@
           "url": "https://news.yahoo.co.jp/articles/ecf57d548b5772e71a73d8ede7cf8944a6836370",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-13T07:34:21.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c0f01cd32ece",
+      "title": "【写真・画像】アニメ「映画ちいかわ 人魚の島のひみつ」のビジュアル（C）ナガノ ／ 2026「映画ちいかわ」製作委員会",
+      "summary": "",
+      "url": "https://mantan-web.jp/article/20261013dog00m200067000a/photopage/001.html",
+      "image": "https://storage.mantan-web.jp/w=1083,h=608,f=webp:auto/images/2026/10/13/20261013dog00m200067000a/001.jpg",
+      "leadSource": "MANTANWEB",
+      "publishedAt": "2026-10-13T07:50:55.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "映画",
+        "人魚",
+        "アニメ"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『映画ちいかわ 人魚の島のひみつ』場面カット（C）ナガノ / 2026「映画ちいかわ」製作委員会",
+          "url": "https://www.sankei.com/article/20261013-4QMEDKBX3VKW7OZQEEGC5FG6BE/photo/E76SDKJPCBLBFH3Q56L5U32NNE/",
+          "source": "産経ニュース",
+          "publishedAt": "2026-10-13T03:31:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
+          "url": "https://www.sanyonews.jp/article/1946478?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-12T15:47:29.000Z",
           "isPR": false
         }
       ]
@@ -502,46 +551,11 @@
       ]
     },
     {
-      "id": "2abc9433825a",
-      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1951762?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-12T17:03:38.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "映画"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
-          "url": "https://www.sanyonews.jp/article/1912545",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-12T06:06:52.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「映画ちいかわ」入場者特典6弾“カレーチャンス”のちいかわ＆ハチワレチャームを全方向から見てみた！うさぎ＆モモンガも",
-          "url": "https://gourmet.watch.impress.co.jp/docs/news/2147379.html",
-          "source": "グルメ Watch",
-          "publishedAt": "2026-10-11T01:18:26.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "88c602a2480d",
       "title": "『ちいかわ』新商品にネット衝撃 売り切れ続出で「受注して下さい！」 (オリコン)",
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/fb238efe4800223f27ef26df4835c23b43da3150/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnST2OyMpcL51S2KXyqsf9k9ofsBDgDf8zUjj-N3TpNKbG5Ysa5BFhWdXb7V3yOCeRQ9_h9mKf8L-jls-jqDKmB7hqMkFjn1UuWzn1cQxbj6I",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnST2OyMpcL51S2KXyqsf9k-VNxWn1Jy8GoYhilR7SacNwfr55n8Qqn262_FYHxiSBE-U7FdpZ37eHFL6D8hd2-QSKSZjVJfzCFQCzFb_6DTl",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-13T07:40:02.000Z",
       "sourceCount": 2,
@@ -557,7 +571,7 @@
       "articles": [
         {
           "title": "『ちいかわ』新商品にネットざわつく 売り切れ続出で「受注して下さい!」",
-          "url": "https://www.oricon.co.jp/news/2486030/photo/2/?anc",
+          "url": "https://www.oricon.co.jp/news/2486030/photo/2/",
           "source": "オリコンニュース",
           "publishedAt": "2026-10-13T02:50:00.000Z",
           "isPR": false
@@ -620,27 +634,29 @@
       ]
     },
     {
-      "id": "0f0b3e40a471",
-      "title": "「ちいかわ」くりまんじゅう、シーサーが可愛い“ねんどろいど”に！ 「缶ビール」「お酒の本」などオプションパーツも豊富",
+      "id": "2abc9433825a",
+      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
       "summary": "",
-      "url": "https://www.inside-games.jp/article/2026/10/12/189127.html",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1786038.webp",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-10-11T23:20:06.000Z",
+      "url": "https://www.sanyonews.jp/article/1951762?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-11T16:00:26.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other"
+        "anime"
       ],
       "keywords": [
-        "シーサー"
+        "ハチワレ",
+        "うさぎ",
+        "映画"
       ],
       "articles": [
         {
-          "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
-          "url": "https://dengekionline.com/article/images/202610/90653/898848",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-10T12:12:00.000Z",
+          "title": "「映画ちいかわ」入場者特典6弾“カレーチャンス”のちいかわ＆ハチワレチャームを全方向から見てみた！うさぎ＆モモンガも",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2147379.html",
+          "source": "グルメ Watch",
+          "publishedAt": "2026-10-11T01:18:26.000Z",
           "isPR": false
         }
       ]
@@ -675,13 +691,74 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T08:00:20.278Z",
-    "previousCount": 89,
-    "newCount": 6
+    "previousAt": "2026-10-13T08:30:17.172Z",
+    "previousCount": 87,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T09:00:17.172Z",
+  "nextUpdateAt": "2026-10-13T09:30:19.302Z",
   "items": [
+    {
+      "id": "8c497b23a824",
+      "title": "ちいかわの「ヤダッ！！」やハチワレの「…ってコト！？」など、セリフデザイン全9種がグッズ作成サービス「Talking ODM」に10月14日追加！",
+      "url": "https://www.inside-games.jp/article/2026/10/13/189195.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「ちいかわ セリフデザイン」がオンデマンドサービス 「TalkingODM 」に登場！",
+      "publishedAt": "2026-10-13T08:45:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1793109.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "924c01d24c4e",
+      "title": "『バイオハザード』新作映画が生まれ故郷・日本で公開、初週末は「ちいかわ」に続き洋画首位 興収6億円超（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/303473a8ac4bc7071ec12b232c2d678061045903",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:34:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00173400-otakulab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1224059468ee",
+      "title": "「ちいかわ」返り咲きV！ 新作は2位「バイオハザード」、4位「汝、星のごとく」、7位「DIGGER」など【国内映画ランキング】",
+      "url": "https://news.yahoo.co.jp/articles/77d634e7d179e299c37b8deb71e6d5cc74f26c38",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:30:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000023-eiga-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "33a934a25634",
       "title": "『ちいかわぽけっと』公式グッズ第4弾が10月24日発売！ 福岡PARCOにポップアップストアも登場",
@@ -700,7 +777,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "71136fa2739a",
@@ -719,7 +796,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e3e84d77ecf",
@@ -739,7 +816,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "98fcd896ea0a",
@@ -753,6 +830,45 @@
       "categories": [
         "event",
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7266dddd3be4",
+      "title": "『映画ちいかわ』3度目の首位返り咲き！『バイオハザード』新作が初登場2位：映画週末興行成績（シネマトゥデイ）",
+      "url": "https://news.yahoo.co.jp/articles/b70d15fc9142241178509d5ae11997860992ead3",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:53:02.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000012-flix-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c0f01cd32ece",
+      "title": "【写真・画像】アニメ「映画ちいかわ 人魚の島のひみつ」のビジュアル（C）ナガノ ／ 2026「映画ちいかわ」製作委員会",
+      "url": "https://mantan-web.jp/article/20261013dog00m200067000a/photopage/001.html",
+      "host": "mantan-web.jp",
+      "source": "MANTANWEB",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:50:55.000Z",
+      "image": "https://storage.mantan-web.jp/w=1083,h=608,f=webp:auto/images/2026/10/13/20261013dog00m200067000a/001.jpg",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -779,7 +895,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "88c602a2480d",
@@ -789,7 +905,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-13T07:40:02.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnST2OyMpcL51S2KXyqsf9k9ofsBDgDf8zUjj-N3TpNKbG5Ysa5BFhWdXb7V3yOCeRQ9_h9mKf8L-jls-jqDKmB7hqMkFjn1UuWzn1cQxbj6I",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnST2OyMpcL51S2KXyqsf9k-VNxWn1Jy8GoYhilR7SacNwfr55n8Qqn262_FYHxiSBE-U7FdpZ37eHFL6D8hd2-QSKSZjVJfzCFQCzFb_6DTl",
       "categories": [
         "goods"
       ],
@@ -897,7 +1013,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a0e71c548a40",
@@ -1214,7 +1330,7 @@
     {
       "id": "2a9a5caab482",
       "title": "『ちいかわ』新商品にネットざわつく 売り切れ続出で「受注して下さい!」",
-      "url": "https://www.oricon.co.jp/news/2486030/photo/2/?anc",
+      "url": "https://www.oricon.co.jp/news/2486030/photo/2/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -1232,13 +1348,13 @@
     },
     {
       "id": "676940b698d9",
-      "title": "ANAの「ちいかわジェット」まもなく就航開始！初便は羽田ー長崎便に決定、機内までちいかわ仕様に (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/659e4016f28e941dde3e8bdc2b9f0f2ddf1089e2/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "ANAの「ちいかわジェット」まもなく就航開始！初便は羽田ー長崎便に決定、機内までちいかわ仕様に",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_209514/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-13T02:38:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnRzu4yB5BsU0BPZv9slpx93kKF2p4b6xMTFQ_WVkRU_pF4TmhacalZgyR1MGBmylVyp8k9nw0pidAV7U6Suy6lDo7bge-UiXsBwXD1DPoT1G",
+      "publishedAt": "2026-10-13T02:36:26.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_209514_0-enlarge.jpg",
       "categories": [
         "other"
       ],
@@ -1260,25 +1376,6 @@
       "image": "https://newsdig.ismcdn.jp/mwimgs/2/d/1200w/img_2dfb35884461975b6349e1b1b6774cae144959.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fe708a1033a7",
-      "title": "ちいかわのバスボムを使ったら……「一瞬不具合なのかと思った」 “まさかの中身”に「えええ、なにこれ」（ねとらぼ）",
-      "url": "https://news.yahoo.co.jp/articles/8d65ede318cf604cde527f05e5f8f52ffa9af8d2",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T01:45:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-10171948-it_nlab-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1444,28 +1541,6 @@
       "isNew": false
     },
     {
-      "id": "2abc9433825a",
-      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
-      "url": "https://www.sanyonews.jp/article/1951762?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T17:03:38.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "cfb96cf2c719",
       "title": "𝕏𝕚𝕒𝕝𝕪(しありー)🎨 on X: \"この状態可愛いなぁ…🐾 #ちいかわファンアート #ハチワレ\"",
       "url": "https://t.co/X9OPExg2AT",
@@ -1497,25 +1572,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f6039b37f8f4",
-      "title": "中国で「ちいかわ」人気加速 日中関係悪化した昨年以降もグッズ店続々 特別展にも多くのファン",
-      "url": "https://www.nikkansports.com/general/photonews/photonews_nsInc_202610020000910-3.html",
-      "host": "nikkansports.com",
-      "source": "日刊スポーツ",
-      "summary": "",
-      "publishedAt": "2026-10-12T14:49:01.000Z",
-      "image": "https://www.nikkansports.com/mod2015/img/common/sns_nikkansports.png",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1634,28 +1690,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5dc4bc751d19",
-      "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
-      "url": "https://www.sanyonews.jp/article/1912545",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:06:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/0/6/a/206a8f6736f9248712e80e9b09d71376_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1857,6 +1891,28 @@
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2abc9433825a",
+      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
+      "url": "https://www.sanyonews.jp/article/1951762?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T16:00:26.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2345,6 +2401,28 @@
       "isNew": false
     },
     {
+      "id": "75dc5bff39c5",
+      "title": "【きょうから】『ちいかわぽけっと』「お月見」イベント開始 ちいかわたちの新衣装が一斉登場、シーサーがもらえるイベントも",
+      "url": "https://www.sanyonews.jp/article/1979906?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T22:16:09.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/a/b/5/6ab5cb54a30fa60f7eaf7630ba0f6e9f_1.jpg",
+      "categories": [
+        "event",
+        "game"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fe6e808c2998",
       "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
       "url": "https://www.sanyonews.jp/article/1994052?rct",
@@ -2365,6 +2443,26 @@
       "isNew": false
     },
     {
+      "id": "2b5914603edc",
+      "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
+      "url": "https://www.sanyonews.jp/article/1994867?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T15:47:44.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/e/5/9/7e596223428ed965af6d5decfbbd46a8_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e7404f65f4e5",
       "title": "『ちいかわ』吹替に「ハチワレが英語しゃべってて感動」国際版予告に海外ファンも興奮。キャラ紹介にも「感心」のワケは？",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRnVuY0gyb2ZZemhKTWR5UE9tMlJ1LTdCY19IdjR0eFc0RWY2QWZnM1U4ejFaVTRvYnQ3ekxyZk1WemFKbS13clhYZi1KbnExb0R0Q1E2VzdYbUVzTzY0ZDF3RVdyTmlIRHNlRVVTb0lkNlRMWldrMGVYanU0T0VnRzIzODdQald0c3BxQUVYWlJDOHhSb0J4V0Zwc1Q5cndOS1lLeDZmRkMwV3U20gGoAUFVX3lxTE5XcmpVaDRxNEtYbkFwZ3dBN09lbmdHdXpBVDZFM1ZaejRYOGJvb0tocXBTMFZhSmh2SUpCMm1mV09zcTV3dTdHVXZhNXgxRDhWT1FaOWRGMFRubVl4b1R3Zm5JMTlFM2M2eGJZcTRpWEdZZjZvdjZsODZzSlFVdXJveDdMVzM5cGFjb3BzNU5tR0lKWk5rUGtaX1hvbDZzZjh0UW9YTmtJYg?oc=5",
@@ -2382,27 +2480,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4dd4f3257e1c",
-      "title": "『ちいかわ』最新話更新。がんばり過ぎないことに決めたシーサー。鎧さんは？？？だろうけど、よかった！",
-      "url": "https://dengekionline.com/article/images/202610/90653/898848",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-10T12:12:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90653/abcf6f36fdf44d010b952e50a4d7c1da9.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "shisa"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     }
