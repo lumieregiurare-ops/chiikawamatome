@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-13T19:30:17.512Z",
+  "updatedAt": "2026-10-13T20:00:20.091Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 106,
+  "total": 107,
   "todayCount": 5,
   "categories": [
     {
@@ -27,17 +27,17 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 18
+      "count": 17
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 29
+      "count": 28
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 0
+      "count": 1
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 20
     }
   ],
   "series": [
@@ -109,11 +109,11 @@
       "count": 5
     },
     {
-      "name": "PASH! PLUS",
-      "count": 3
+      "name": "電撃オンライン",
+      "count": 4
     },
     {
-      "name": "電撃オンライン",
+      "name": "PASH! PLUS",
       "count": 3
     },
     {
@@ -121,19 +121,15 @@
       "count": 3
     },
     {
-      "name": "ファッションプレス",
+      "name": "Excite エキサイト",
+      "count": 3
+    },
+    {
+      "name": "ナタリー",
       "count": 3
     },
     {
       "name": "AppBank",
-      "count": 2
-    },
-    {
-      "name": "にじめん",
-      "count": 2
-    },
-    {
-      "name": "ナタリー",
       "count": 2
     },
     {
@@ -145,7 +141,7 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
+      "name": "ファッションプレス",
       "count": 2
     },
     {
@@ -229,6 +225,10 @@
       "count": 1
     },
     {
+      "name": "Dellows News",
+      "count": 1
+    },
+    {
       "name": "デイリースポーツ",
       "count": 1
     },
@@ -249,11 +249,11 @@
       "count": 1
     },
     {
-      "name": "씨네플레이",
+      "name": "uzurea.net",
       "count": 1
     },
     {
-      "name": "uzurea.net",
+      "name": "にじめん",
       "count": 1
     },
     {
@@ -372,8 +372,8 @@
         },
         {
           "title": "『まじかるちいかわ』強くなったハチワレとうさぎとあのこの巨大抱きぬいぐるみが10月13日より受注予約開始！",
-          "url": "https://nijimen.kusuguru.co.jp/topics/639905",
-          "source": "にじめん",
+          "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000639905/",
+          "source": "Excite エキサイト",
           "publishedAt": "2026-10-13T10:24:00.000Z",
           "isPR": false
         },
@@ -447,6 +447,42 @@
           "source": "聯合ニュース",
           "publishedAt": "2026-10-12T04:28:42.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b60b70458ba4",
+      "title": "【ちいかわ】期間限定のグリーティングやかわいいグッズが登場！ 11月20日より「ちいかわパーク」がクリスマス仕様に",
+      "summary": "",
+      "url": "https://www.pashplus.jp/event/498742/",
+      "image": "https://www.pashplus.jp/wp-content/uploads/08-1099.jpg",
+      "leadSource": "PASH! PLUS",
+      "publishedAt": "2026-10-13T13:21:07.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "other"
+      ],
+      "keywords": [
+        "パーク",
+        "クリスマス",
+        "グリーティング"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわパークにちいかわたちがクリスマス限定衣装で登場、11月20日からスタート",
+          "url": "https://natalie.mu/comic/news/693537",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-13T10:12:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわパーク」がクリスマス仕様に！11月20日(金)より期間限定の装飾や特別グリーティングを開催",
+          "url": "https://prtimes.jp/main/html/rd/p/000000144.000074811.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-13T09:00:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -601,35 +637,6 @@
       ]
     },
     {
-      "id": "b60b70458ba4",
-      "title": "【ちいかわ】期間限定のグリーティングやかわいいグッズが登場！ 11月20日より「ちいかわパーク」がクリスマス仕様に",
-      "summary": "",
-      "url": "https://www.pashplus.jp/event/498742/",
-      "image": "https://www.pashplus.jp/wp-content/uploads/08-1099.jpg",
-      "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-10-13T13:21:07.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "keywords": [
-        "グリーティング",
-        "パーク",
-        "クリスマス"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわパーク」がクリスマス仕様に！11月20日(金)より期間限定の装飾や特別グリーティングを開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000144.000074811.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-13T09:00:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "c2bf8cf981ef",
       "title": "「急に横に来て警戒…」同居猫を警戒するハチワレ猫の目つきがたまらない！（LIMO）",
       "summary": "",
@@ -743,12 +750,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T19:00:18.994Z",
-    "previousCount": 103,
-    "newCount": 5
+    "previousAt": "2026-10-13T19:30:17.512Z",
+    "previousCount": 106,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T20:00:17.512Z",
+  "nextUpdateAt": "2026-10-13T20:30:20.091Z",
   "items": [
     {
       "id": "8799c25d4fb5",
@@ -1008,7 +1015,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b719c88d5f0",
@@ -1112,7 +1119,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee6164892a35",
@@ -1156,12 +1163,12 @@
     {
       "id": "867991aa83d0",
       "title": "『まじかるちいかわ』強くなったハチワレとうさぎとあのこの巨大抱きぬいぐるみが10月13日より受注予約開始！",
-      "url": "https://nijimen.kusuguru.co.jp/topics/639905",
-      "host": "nijimen.kusuguru.co.jp",
-      "source": "にじめん",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000639905/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-10-13T10:24:00.000Z",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/thumb-779.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -1194,6 +1201,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b887e981ceb3",
+      "title": "ちいかわパークにちいかわたちがクリスマス限定衣装で登場、11月20日からスタート",
+      "url": "https://natalie.mu/comic/news/693537",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-13T10:12:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b2f2bcc63611",
@@ -1580,7 +1606,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2d3c3c204288",
@@ -1660,7 +1686,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f977d51a7de1",
@@ -2114,6 +2140,25 @@
       "isNew": false
     },
     {
+      "id": "3cb426beb2f1",
+      "title": "KADOKAWAが絵本ちいかわ あいうえおを2026年10月2日に発売",
+      "url": "https://news.dellows.jp/573339/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-12T21:10:37.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/573339_1.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "53cc1e9dce93",
       "title": "「ちいかわクリスマスマーケット」開催決定 約6メートルのツリー＆スノードームなどフォトスポット盛りだくさん",
       "url": "https://www.sanyonews.jp/article/2001612?kw",
@@ -2167,25 +2212,6 @@
       "series": [
         "kuma"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "497fc2ae7c3f",
-      "title": "ルクア大阪の新館「ルクア サウス」国内最大級キャラクターゾーン誕生へ、ちいかわパークストア初出店",
-      "url": "https://www.fashion-press.net/news/149233",
-      "host": "fashion-press.net",
-      "source": "ファッションプレス",
-      "summary": "",
-      "publishedAt": "2026-10-12T18:05:26.000Z",
-      "image": "https://www.fashion-press.net/img/news/149233/top.jpg?1785305162",
-      "categories": [
-        "event"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2409,25 +2435,6 @@
       "isNew": false
     },
     {
-      "id": "89420786aead",
-      "title": "【興行】「劇場版ちいかわ」旋風、わずか215人差で連休首位…「暗殺者たち」は300万人",
-      "url": "https://www.cineplay.co.kr/ja-jp/articles/30160",
-      "host": "cineplay.co.kr",
-      "source": "씨네플레이",
-      "summary": "",
-      "publishedAt": "2026-10-12T01:43:00.000Z",
-      "image": "https://cdn.www.cineplay.co.kr/w1200/q100/f_jpg/article-images/2026-09-18/b76ea9fd-53ec-412c-845c-eb06807bc73c.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "da0d4043a8dc",
       "title": "「ちいかわ」カラビナつきポーチがプライズ展開！ハチワレやくりまんじゅうなど全8種",
       "url": "https://www.inside-games.jp/article/2026/10/12/189128.html",
@@ -2487,6 +2494,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4d0ce29fa422",
+      "title": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！",
+      "url": "https://dengekionline.com/article/202610/90700",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-11T12:03:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_CgxN.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b39cd13756d1",
@@ -2610,7 +2636,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3da29feda303",
