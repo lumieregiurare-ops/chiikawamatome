@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T02:00:15.793Z",
+  "updatedAt": "2026-10-13T02:30:16.724Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 91,
-  "todayCount": 12,
+  "total": 90,
+  "todayCount": 13,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "kuji",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 13
+      "count": 11
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 24
+      "count": 23
     }
   ],
   "series": [
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 26
+      "count": 28
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 14
     },
     {
       "name": "インサイド",
@@ -113,6 +113,10 @@
       "count": 3
     },
     {
+      "name": "TBS NEWS DIG",
+      "count": 2
+    },
+    {
       "name": "クランクイン！",
       "count": 2
     },
@@ -123,6 +127,10 @@
     {
       "name": "週刊女性PRIME",
       "count": 2
+    },
+    {
+      "name": "radiko news",
+      "count": 1
     },
     {
       "name": "LIMO | くらしとお金の経済メディア",
@@ -141,10 +149,6 @@
       "count": 1
     },
     {
-      "name": "千葉テレビ放送株式会社",
-      "count": 1
-    },
-    {
       "name": "デイリースポーツ",
       "count": 1
     },
@@ -154,14 +158,6 @@
     },
     {
       "name": "神ゲー攻略",
-      "count": 1
-    },
-    {
-      "name": "TBS NEWS DIG",
-      "count": 1
-    },
-    {
-      "name": "山形新聞",
       "count": 1
     },
     {
@@ -213,10 +209,6 @@
       "count": 1
     },
     {
-      "name": "テクノエッジ TechnoEdge",
-      "count": 1
-    },
-    {
       "name": "Gizmodo",
       "count": 1
     },
@@ -265,42 +257,6 @@
           "url": "https://www.crank-in.net/gallery/news/192325/2",
           "source": "クランクイン！",
           "publishedAt": "2026-10-10T06:07:27.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1ff93f8a9420",
-      "title": "AmazonがGoogle Play対応『Alexa Tablet』を発表。日本国内は『ちいかわ』『パウパト』モデルの『キッズ タブレット』が10月14日より発売",
-      "summary": "",
-      "url": "https://uzurea.net/amazon-alexa-tablet-google-play/",
-      "image": "https://uzurea.net/cwp/wp-content/uploads/2026/10/amazon-alexa-tablet-google-play.webp",
-      "leadSource": "uzurea.net",
-      "publishedAt": "2026-10-11T14:22:05.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "event"
-      ],
-      "keywords": [
-        "amazon",
-        "play",
-        "キッズ"
-      ],
-      "articles": [
-        {
-          "title": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売",
-          "url": "https://www.techno-edge.net/article/2026/10/10/5572.html",
-          "source": "テクノエッジ TechnoEdge",
-          "publishedAt": "2026-10-10T07:18:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！",
-          "url": "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
-          "source": "Gizmodo",
-          "publishedAt": "2026-10-10T06:00:00.000Z",
           "isPR": false
         }
       ]
@@ -517,6 +473,35 @@
       ]
     },
     {
+      "id": "1ff93f8a9420",
+      "title": "AmazonがGoogle Play対応『Alexa Tablet』を発表。日本国内は『ちいかわ』『パウパト』モデルの『キッズ タブレット』が10月14日より発売",
+      "summary": "",
+      "url": "https://uzurea.net/amazon-alexa-tablet-google-play/",
+      "image": "https://uzurea.net/cwp/wp-content/uploads/2026/10/amazon-alexa-tablet-google-play.webp",
+      "leadSource": "uzurea.net",
+      "publishedAt": "2026-10-11T14:22:05.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "event"
+      ],
+      "keywords": [
+        "amazon",
+        "play",
+        "キッズ"
+      ],
+      "articles": [
+        {
+          "title": "Amazonのちいかわキッズタブレット、大きいお友達も大興奮。Playストア対応だ！",
+          "url": "https://www.gizmodo.jp/article/2610-chiikawa-amazon-kids-tablet/",
+          "source": "Gizmodo",
+          "publishedAt": "2026-10-10T06:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "bebe8b3110c4",
       "title": "「ちいかわ」×「GU」コラボに癒される…！テーマは「さむ～い雪の日も楽しもう！」、おでかけ着やルームウェアなど実用性バッチリ",
       "summary": "GUと「ちいかわ」のコラボレーションが決定！第1弾が2026年11月20日、第2弾が11月27日に発売予定。",
@@ -574,13 +559,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T01:30:19.200Z",
-    "previousCount": 89,
-    "newCount": 4
+    "previousAt": "2026-10-13T02:00:15.793Z",
+    "previousCount": 91,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T02:30:15.793Z",
+  "nextUpdateAt": "2026-10-13T03:00:16.724Z",
   "items": [
+    {
+      "id": "1959e30af9f6",
+      "title": "鈴木Mob.とそわんわんが恋愛を語る！？ちいかわ愛 BAYFM78『鈴木Mob.と○○の週末ワロタ』",
+      "url": "https://news.radiko.jp/article/station/BAYFM78/140139/",
+      "host": "news.radiko.jp",
+      "source": "radiko news",
+      "summary": "",
+      "publishedAt": "2026-10-13T02:10:20.000Z",
+      "image": "https://news.radiko.jp/img/article/20261013/addd5f367ef3a7d14b57412304f84555.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6bcd7489b46f",
+      "title": "【ちいかわジェット】初便は長崎へ ANA特別機が10月19日就航 紙コップも特別仕様…機内限定グッズも",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3004828?display",
+      "host": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
+      "summary": "",
+      "publishedAt": "2026-10-13T02:00:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "fe708a1033a7",
       "title": "ちいかわのバスボムを使ったら……「一瞬不具合なのかと思った」 “まさかの中身”に「えええ、なにこれ」（ねとらぼ）",
@@ -598,7 +621,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "145f12dc1517",
@@ -688,25 +711,6 @@
       "summary": "",
       "publishedAt": "2026-10-12T22:00:00.000Z",
       "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "72a5bfa3a1ff",
-      "title": "【Amazonセール】「ちいかわ」の24金アクセがセール対象商品に【プライム感謝祭2026】",
-      "url": "https://www.chiba-tv.com/plus/detail/2026102105083",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-10-12T21:11:27.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1482486329660802874/origin_1.jpg",
       "categories": [
         "other"
       ],
@@ -854,7 +858,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "efe52cacd2b5",
@@ -926,25 +930,6 @@
       "image": "https://newsdig.ismcdn.jp/mwimgs/7/3/1200w/img_73f135b37d050ba60daee66021ce6cc7205011.jpg",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a319641ba03",
-      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
-      "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
-      "host": "yamagata-np.jp",
-      "source": "山形新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T08:53:10.000Z",
-      "image": "https://www.yamagata-np.jp/",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1028,6 +1013,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3c19c0311a07",
+      "title": "メルカリ、くら寿司『ちいかわ』キャンペーン中止めぐり「必要な対応を進めています」",
+      "url": "https://www.sanyonews.jp/article/1985111",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:32:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/3/9/4/0394cd2d2c1dbfb3773583f0d6e92cec_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5dc4bc751d19",
@@ -1506,6 +1510,26 @@
       "isNew": false
     },
     {
+      "id": "2acc58f8d6c3",
+      "title": "【きょうから】マクドナルド、ハッピーセット第2弾「ちいかわ」 クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
+      "url": "https://www.sanyonews.jp/article/1928603",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/a/c/0/2ac00e6b9e6e2e3ffed79e8bf7940217_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "3da29feda303",
       "title": "「ちいかわ」モモンガ＆あのこがふわふわ♪ ハチワレたちは冬支度〜☆ノルディックセーターなどあったかアパレルがGUに集合",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmllSjZaSmdJelZzeGNyb2ZYMVE1RDZOUWcxSy1acnVMeF9CaGd2OVV1TTJLYmVMUkNHQzZTdDZBbXJINjN5aTdRS1pKc2ZwbnlMRG1mdzUzWldCQWlaQzNBVHQydjVPdXIxOXhNZmduSEN2Z1F1QURQMGdrakc5X05ESHNDNFVLNzhFMEN6NFFFNFnSAY8BQVVfeXFMTzk3WHZvRDJtMC1qa3Jpckg2WXJzdkhZSlUxX1BPQVkyeWlrUG1uVVBBWDFHbXJSNDNFRkJjY3pjbHdfRlhQUWZrRTJPM1IzcWp2M3JlcExObFlTdGl3Y3U1ZXhRRTBWN21uZFhxRVY2S0xNSWdidXROOThmdFlBT2tmMDFkZEdPNlFmVDlWRnc?oc=5",
@@ -1808,6 +1832,25 @@
       "isNew": false
     },
     {
+      "id": "3a319641ba03",
+      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
+      "url": "https://www.sanyonews.jp/article/1996985?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T16:48:19.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/a/a/5/baa52f1712008e82898c525cc1220ef6_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "2b5914603edc",
       "title": "『ちいかわ』人気エピソードに登場のグッズがついに商品化「絶対コラボすると思った～！」「逆に今までなかったんだッ!!」",
       "url": "https://www.sanyonews.jp/article/1994867?rct",
@@ -1929,89 +1972,6 @@
       "isNew": false
     },
     {
-      "id": "29c7668dc190",
-      "title": "Google Play対応の『ちいかわ』版も。新Amazonキッズタブレット国内発売",
-      "url": "https://www.techno-edge.net/article/2026/10/10/5572.html",
-      "host": "techno-edge.net",
-      "source": "テクノエッジ TechnoEdge",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:18:17.000Z",
-      "image": "https://www.techno-edge.net/imgs/ogp_f/34728.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4e0b3c75d448",
-      "title": "しまむら、『映画ちいかわ』グッズ受注生産へ「ご好評につき」 きのう発売、購入制限など呼びかけていた",
-      "url": "https://www.sanyonews.jp/article/1986839",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/6/1/0/c61010ac431cc95dbe4ea8f977d9b52d_1.jpg",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f45dbed4d556",
-      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
-      "url": "https://www.sanyonews.jp/article/1885622",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2acc58f8d6c3",
-      "title": "【きょうから】マクドナルド、ハッピーセット第2弾「ちいかわ」 クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
-      "url": "https://www.sanyonews.jp/article/1928603",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/a/c/0/2ac00e6b9e6e2e3ffed79e8bf7940217_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5020dc9e401e",
       "title": "『映画ちいかわ』とCoCo壱番屋のコラボ詳細発表 限定メニュー＆シール・フィギュアプレゼントも",
       "url": "https://www.sanyonews.jp/article/1947486",
@@ -2048,7 +2008,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "60a21394f89e",
@@ -2081,6 +2041,26 @@
       "image": "https://static.sanyonews.jp/image/article/size1/f/9/3/a/f93ad631a4e585bd8ba5b3c39423c4b4_1.jpg",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4e0b3c75d448",
+      "title": "しまむら、『映画ちいかわ』グッズ受注生産へ「ご好評につき」 きのう発売、購入制限など呼びかけていた",
+      "url": "https://www.sanyonews.jp/article/1986839",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/6/1/0/c61010ac431cc95dbe4ea8f977d9b52d_1.jpg",
+      "categories": [
+        "goods",
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2130,6 +2110,30 @@
       "isNew": false
     },
     {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "651a974225ab",
       "title": "「ちいかわベーカリー ポップアップショップ」がオープン “パン型”スクイーズが新登場",
       "url": "https://www.sanyonews.jp/article/1876005?kw",
@@ -2167,7 +2171,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0b011c2949bc",
@@ -2184,26 +2188,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0d512cbbb23e",
-      "title": "＜ちいかわ＞クリスマスマーケット開催 ちいかわたちがサンタさんに！ 自分だけのキーチャーム作れる鎧さんマーケット グッズも",
-      "url": "https://news.yahoo.co.jp/articles/853feb33b85c7765c68542e27993eb6c605dde78/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-10T06:10:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncI33W0VqfeHNTXatjkG4CcSaduQujhVfV2XnzPPNkVhweobMypShPMxvVvTZ8hGG1Pf31932w3O4GWC0p6ZwaeD3JodtmBfFtVdBTwg6Fr5U3AWaVUIgLeSsjYeVAdMQw==",
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2241,26 +2225,6 @@
       "publishedAt": "2026-10-10T06:00:00.000Z",
       "image": "https://media.loom-app.com/loom/2026/10/09/ac1bfd5a-ec58-4018-850e-7924e7a4e4c2/original.jpg?w=1200&h=630",
       "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d1c1541ca035",
-      "title": "ちいかわ＞クリスマスマーケット開催 サンタさんなちいかわたち 鎧さんマーケット グッズも (MANTANWEB)",
-      "url": "https://news.yahoo.co.jp/articles/572b7d7f3b78dbddf9640005cde8f4f5cb259285/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-10T05:38:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnRvdDn-_eFoaCA3VkmZqP8HsPNINtY3FxG3HLAxyR109EIWsQdGYY7Yj9Y8DdadQilbVD5QtvKyAb6JAtwyareNSVctI1VqAMR2ABEaVdssQpPyI_iT5WsEvahvDlH0Law==",
-      "categories": [
-        "goods",
         "event"
       ],
       "series": [],
