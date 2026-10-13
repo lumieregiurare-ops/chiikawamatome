@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T18:00:19.678Z",
+  "updatedAt": "2026-10-13T18:30:18.712Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 108,
+  "total": 103,
   "todayCount": 4,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 51
+      "count": 48
     },
     {
       "id": "kuji",
@@ -27,27 +27,27 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 18
+      "count": 19
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 31
+      "count": 29
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 1
+      "count": 0
     },
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 16
     }
   ],
   "series": [
@@ -102,10 +102,6 @@
     },
     {
       "name": "ライブドアニュース",
-      "count": 5
-    },
-    {
-      "name": "電撃オンライン",
       "count": 4
     },
     {
@@ -121,15 +117,15 @@
       "count": 3
     },
     {
+      "name": "電撃オンライン",
+      "count": 3
+    },
+    {
       "name": "ファッションプレス",
       "count": 3
     },
     {
       "name": "AppBank",
-      "count": 2
-    },
-    {
-      "name": "映画.com",
       "count": 2
     },
     {
@@ -181,6 +177,10 @@
       "count": 1
     },
     {
+      "name": "映画.com",
+      "count": 1
+    },
+    {
       "name": "ふくおかナビ",
       "count": 1
     },
@@ -194,10 +194,6 @@
     },
     {
       "name": "推し楽",
-      "count": 1
-    },
-    {
-      "name": "MANTANWEB",
       "count": 1
     },
     {
@@ -222,10 +218,6 @@
     },
     {
       "name": "TVer",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -278,8 +270,8 @@
       "image": "https://animeanime.jp/imgs/rss/942039.png",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-13T16:45:55.000Z",
-      "sourceCount": 12,
-      "articleCount": 18,
+      "sourceCount": 11,
+      "articleCount": 16,
       "categories": [
         "goods",
         "game"
@@ -340,10 +332,10 @@
           "isPR": false
         },
         {
-          "title": "【画像】「ちいかわぽけっと」第4弾グッズ発売へ！ “お弁当”モチーフのマスコットなど登場",
-          "url": "https://news.livedoor.com/article/image_detail/32556699/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-13T08:05:00.000Z",
+          "title": "「ちいかわぽけっと」お弁当＆お店屋さんモチーフのグッズ第4弾発売決定！ 全国5カ所でポップアップストアも",
+          "url": "https://fan.books.rakuten.co.jp/articles/wajjgg5r3f1xgc3qvbzh9l58",
+          "source": "推し楽",
+          "publishedAt": "2026-10-13T07:56:00.000Z",
           "isPR": false
         }
       ]
@@ -747,12 +739,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T17:30:18.817Z",
-    "previousCount": 106,
-    "newCount": 2
+    "previousAt": "2026-10-13T18:00:19.678Z",
+    "previousCount": 108,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T18:30:19.678Z",
+  "nextUpdateAt": "2026-10-13T19:00:18.712Z",
   "items": [
     {
       "id": "8799c25d4fb5",
@@ -887,25 +879,6 @@
       "categories": [
         "goods",
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6d5502d6e7ec",
-      "title": "「4回目。いつも同じ場面で涙が出てしまいます。」映画ちいかわ 人魚の島のひみつ ケルビムさんの映画レビュー（感想・評価）",
-      "url": "https://eiga.com/movie/105109/review/07095344/",
-      "host": "eiga.com",
-      "source": "映画.com",
-      "summary": "",
-      "publishedAt": "2026-10-13T13:53:01.000Z",
-      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1210,7 +1183,7 @@
       "source": "もぐナビ",
       "summary": "",
       "publishedAt": "2026-10-13T09:56:44.000Z",
-      "image": "",
+      "image": "https://mognavi.jp/image/food/00/00/51/3646295_original.jpg",
       "categories": [
         "anime"
       ],
@@ -1527,26 +1500,6 @@
       "isNew": false
     },
     {
-      "id": "26f01b5ce725",
-      "title": "【画像】「ちいかわぽけっと」第4弾グッズ発売へ！ “お弁当”モチーフのマスコットなど登場",
-      "url": "https://news.livedoor.com/article/image_detail/32556699/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T08:05:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/3/7/370ee_1729_40345464_2e17c09f.jpg",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2d3c3c204288",
       "title": "「ちいかわベーカリー」2周年記念イベントが10月15日よりスタート！ コロネになったちいかわたちのマスコットが新登場!!",
       "url": "https://eeo.today/media/2026/10/07/400234/",
@@ -1598,26 +1551,6 @@
       "categories": [
         "goods",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2d327f9995ee",
-      "title": "「ちいかわ」初のスマホアプリ『ちいかわぽけっと』、公式グッズ第4弾、2026年10月24日に発売開始が決定！！",
-      "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000758a/photopage/001.html",
-      "host": "mantan-web.jp",
-      "source": "MANTANWEB",
-      "summary": "",
-      "publishedAt": "2026-10-13T07:48:53.000Z",
-      "image": "https://prtimes.jp/img/156996/46/resize/d156996-46-5b4fdcd8d4bad501837b-0.jpg",
-      "categories": [
-        "game",
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1824,7 +1757,7 @@
     },
     {
       "id": "3e4a3fb62226",
-      "title": "【画像】お弁当とお店屋さんモチーフ、10月24日発売！ちいかわぽけっと 公式グッズ第4弾／POP UP STORE 4/21",
+      "title": "【画像】お弁当とお店屋さんモチーフ、10月24日発売！ちいかわぽけっと 公式グッズ第4弾／POP UP STORE 2/21",
       "url": "https://news.livedoor.com/article/image_detail/32554006/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -2078,25 +2011,6 @@
       "isNew": false
     },
     {
-      "id": "3cb426beb2f1",
-      "title": "KADOKAWAが絵本ちいかわ あいうえおを2026年10月2日に発売",
-      "url": "https://news.dellows.jp/573339/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-12T21:10:37.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/573339_1.jpg",
-      "categories": [
-        "book"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "53cc1e9dce93",
       "title": "「ちいかわクリスマスマーケット」開催決定 約6メートルのツリー＆スノードームなどフォトスポット盛りだくさん",
       "url": "https://www.sanyonews.jp/article/2001612?kw",
@@ -2215,27 +2129,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "a0206f80b785",
-      "title": "『ちいかわ』最新話更新（10/12）。夜空にプレゼン…シーサーの想いは三ツ星に届くのか？",
-      "url": "https://dengekionline.com/article/images/202610/90762/899725",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-12T13:42:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90762/a4027c42d8ca8a6125212692aaf0658e3.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "shisa"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "20f263306ab4",
@@ -2897,24 +2790,26 @@
       "isNew": false
     },
     {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
-      "url": "https://www.sanyonews.jp/article/1994052?rct",
+      "id": "75dc5bff39c5",
+      "title": "【きょうから】『ちいかわぽけっと』「お月見」イベント開始 ちいかわたちの新衣装が一斉登場、シーサーがもらえるイベントも",
+      "url": "https://www.sanyonews.jp/article/1979906?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-10T18:09:54.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "publishedAt": "2026-10-10T22:16:09.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/a/b/5/6ab5cb54a30fa60f7eaf7630ba0f6e9f_1.jpg",
       "categories": [
-        "anime",
-        "goods"
+        "event",
+        "game"
       ],
-      "series": [],
+      "series": [
+        "shisa"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     }
   ]
 }
