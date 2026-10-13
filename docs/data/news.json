@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T01:30:19.200Z",
+  "updatedAt": "2026-10-13T02:00:15.793Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 89,
-  "todayCount": 11,
+  "total": 91,
+  "todayCount": 12,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 23
+      "count": 25
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 25
+      "count": 26
     },
     {
       "id": "book",
@@ -90,15 +90,19 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 16
     },
     {
       "name": "インサイド",
       "count": 7
+    },
+    {
+      "name": "オリコンニュース",
+      "count": 4
     },
     {
       "name": "ｄメニューニュース",
@@ -106,10 +110,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 3
-    },
-    {
-      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -137,10 +137,6 @@
       "count": 1
     },
     {
-      "name": "매일경제",
-      "count": 1
-    },
-    {
       "name": "めざましmedia",
       "count": 1
     },
@@ -150,6 +146,10 @@
     },
     {
       "name": "デイリースポーツ",
+      "count": 1
+    },
+    {
+      "name": "日刊スポーツ",
       "count": 1
     },
     {
@@ -170,10 +170,6 @@
     },
     {
       "name": "au Webポータル",
-      "count": 1
-    },
-    {
-      "name": "cinemacafe.net",
       "count": 1
     },
     {
@@ -269,42 +265,6 @@
           "url": "https://www.crank-in.net/gallery/news/192325/2",
           "source": "クランクイン！",
           "publishedAt": "2026-10-10T06:07:27.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1c3aeada9a4a",
-      "title": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開（クランクイン！）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/5cf08e1a1ab54da67695ef63988afea8f3f14543",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00192381-crankinn-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-12T08:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "keywords": [
-        "クリスマスマーケット",
-        "フードマーケット",
-        "ツリー"
-      ],
-      "articles": [
-        {
-          "title": "（写真）千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開",
-          "url": "https://www.crank-in.net/trend/gallery/events/192381/2",
-          "source": "クランクイン！",
-          "publishedAt": "2026-10-12T08:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわクリスマスマーケット」開催、11月24日から フードマーケット＆限定オリジナルグッズも",
-          "url": "https://www.cinemacafe.net/article/2026/10/12/113264.html",
-          "source": "cinemacafe.net",
-          "publishedAt": "2026-10-12T04:20:03.000Z",
           "isPR": false
         }
       ]
@@ -431,6 +391,42 @@
       ]
     },
     {
+      "id": "1c3aeada9a4a",
+      "title": "千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開（クランクイン！）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/5cf08e1a1ab54da67695ef63988afea8f3f14543",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00192381-crankinn-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-12T08:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "keywords": [
+        "クリスマスマーケット",
+        "フードマーケット",
+        "ツリー"
+      ],
+      "articles": [
+        {
+          "title": "（写真）千葉・幕張で「ちいかわクリスマスマーケット」開催へ！ 巨大ツリーやフードマーケットなど展開",
+          "url": "https://www.crank-in.net/trend/gallery/events/192381/2",
+          "source": "クランクイン！",
+          "publishedAt": "2026-10-12T08:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわクリスマスマーケット」開催、11月24日から フードマーケット＆限定オリジナルグッズも（cinemacafe.net）",
+          "url": "https://news.yahoo.co.jp/articles/ce794fd6891c07e40e98f110025f3c762437dbf3",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-12T04:20:03.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "cfca7dca339a",
       "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
       "summary": "",
@@ -489,35 +485,6 @@
           "url": "https://www.sanyonews.jp/article/1994331",
           "source": "山陽新聞",
           "publishedAt": "2026-10-11T19:03:16.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "31e349e624e3",
-      "title": "「暗殺者（たち）」、3万人をかろうじて超えて1位…「ちいかわ」と580人差【MKボックスオフィス】",
-      "summary": "",
-      "url": "https://www.mk.co.kr/jp/movies/12174069",
-      "image": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.7cd86a0480914d1aad742ecac5c33bef_R.jpeg",
-      "leadSource": "매일경제",
-      "publishedAt": "2026-10-12T22:26:52.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "暗殺者",
-        "万人",
-        "人差"
-      ],
-      "articles": [
-        {
-          "title": "【興行】「劇場版ちいかわ」旋風、わずか215人差で連休首位…「暗殺者たち」は300万人",
-          "url": "https://www.cineplay.co.kr/ja-jp/articles/30160",
-          "source": "씨네플레이",
-          "publishedAt": "2026-10-12T01:43:00.000Z",
           "isPR": false
         }
       ]
@@ -607,13 +574,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T01:00:19.154Z",
-    "previousCount": 90,
-    "newCount": 6
+    "previousAt": "2026-10-13T01:30:19.200Z",
+    "previousCount": 89,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T02:00:19.200Z",
+  "nextUpdateAt": "2026-10-13T02:30:15.793Z",
   "items": [
+    {
+      "id": "fe708a1033a7",
+      "title": "ちいかわのバスボムを使ったら……「一瞬不具合なのかと思った」 “まさかの中身”に「えええ、なにこれ」（ねとらぼ）",
+      "url": "https://news.yahoo.co.jp/articles/8d65ede318cf604cde527f05e5f8f52ffa9af8d2",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T01:45:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-10171948-it_nlab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "145f12dc1517",
       "title": "南原清隆、“ちいかわ好き”小峠英二に「ちいかわグッズ」プレゼント「ちいかわおじさん爆誕」「よく似合ってます」ネットほっこり",
@@ -631,7 +617,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2bc1df18141e",
@@ -673,23 +659,25 @@
       "isNew": false
     },
     {
-      "id": "31e349e624e3",
-      "title": "「暗殺者（たち）」、3万人をかろうじて超えて1位…「ちいかわ」と580人差【MKボックスオフィス】",
-      "url": "https://www.mk.co.kr/jp/movies/12174069",
-      "host": "mk.co.kr",
-      "source": "매일경제",
+      "id": "ff907755cd68",
+      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」",
+      "url": "https://www.oricon.co.jp/news/2485864/photo/2/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-10-12T22:26:52.000Z",
-      "image": "https://pimg.mk.co.kr/news/cms/202610/13/news-p.v1.20261013.7cd86a0480914d1aad742ecac5c33bef_R.jpeg",
+      "publishedAt": "2026-10-12T22:25:23.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485864/20261011_160951_p_o_28463514.jpg",
       "categories": [
-        "other"
+        "anime"
       ],
-      "series": [],
+      "series": [
+        "momonga"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "44a9f0def509",
@@ -848,6 +836,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f6039b37f8f4",
+      "title": "中国で「ちいかわ」人気加速 日中関係悪化した昨年以降もグッズ店続々 特別展にも多くのファン",
+      "url": "https://www.nikkansports.com/general/photonews/photonews_nsInc_202610020000910-3.html",
+      "host": "nikkansports.com",
+      "source": "日刊スポーツ",
+      "summary": "",
+      "publishedAt": "2026-10-12T14:49:01.000Z",
+      "image": "https://www.nikkansports.com/mod2015/img/common/sns_nikkansports.png",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "efe52cacd2b5",
@@ -1023,25 +1030,6 @@
       "isNew": false
     },
     {
-      "id": "3c19c0311a07",
-      "title": "メルカリ、くら寿司『ちいかわ』キャンペーン中止めぐり「必要な対応を進めています」",
-      "url": "https://www.sanyonews.jp/article/1985111",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:32:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/3/9/4/0394cd2d2c1dbfb3773583f0d6e92cec_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "5dc4bc751d19",
       "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
       "url": "https://www.sanyonews.jp/article/1912545",
@@ -1080,7 +1068,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "163b5947b94d",
@@ -1123,13 +1111,13 @@
     },
     {
       "id": "ba0349ea295e",
-      "title": "「ちいかわクリスマスマーケット」開催、11月24日から フードマーケット＆限定オリジナルグッズも",
-      "url": "https://www.cinemacafe.net/article/2026/10/12/113264.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
+      "title": "「ちいかわクリスマスマーケット」開催、11月24日から フードマーケット＆限定オリジナルグッズも（cinemacafe.net）",
+      "url": "https://news.yahoo.co.jp/articles/ce794fd6891c07e40e98f110025f3c762437dbf3",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-12T04:20:03.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/838503.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000003-cine-000-1-view.jpg?exp=10800",
       "categories": [
         "goods",
         "event"
@@ -1404,12 +1392,12 @@
     {
       "id": "4d0ce29fa422",
       "title": "『ちいかわ』最新話更新（10/11）。深くは聞かない、待ってくれる。鎧さんがスーパー師匠（上司）すぎ！",
-      "url": "https://dengekionline.com/article/images/202610/90700/899171",
+      "url": "https://dengekionline.com/article/202610/90700",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-10-11T12:14:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90700/a1ab14a4c3522beb5f259f63ca07eeb99.jpg?x=1280",
+      "publishedAt": "2026-10-11T12:03:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_CgxN.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1511,27 +1499,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ff907755cd68",
-      "title": "『映画ちいかわ』来場者特典めぐり映画館が異例の呼びかけ 反響相次ぐ「映画館も大変だな…」「モモンガを相手にするのは大変やな」（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/1200768f60bfc7b2f48459873316e24a705c10a9",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-11T07:19:13.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-00000421-oric-000-2-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "momonga"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1899,7 +1866,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b52a955d1149",
@@ -2065,6 +2032,25 @@
       "isNew": false
     },
     {
+      "id": "bd9b78374bcd",
+      "title": "「ちいかわ×ドンキホーテ」コラボ初日6・6は整理券配布を実施 対象店舗全店で",
+      "url": "https://www.sanyonews.jp/article/1932662?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/e/d/a/fedad8a4a12c74e3b3c563dee66346a0_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "60a21394f89e",
       "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
       "url": "https://www.sanyonews.jp/article/1965008?kw",
@@ -2155,6 +2141,26 @@
       "categories": [
         "event",
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "851ff91d6dec",
+      "title": "フジテレビのキャラグッズ、大丸神戸店に限定登場へ めざましくん、アニメ『ちいかわ』など【注目アイテム】",
+      "url": "https://www.sanyonews.jp/article/1934590",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T07:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/d/4/e/4/d4e488292d9d31e0072773bc9a4f8cd5_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
