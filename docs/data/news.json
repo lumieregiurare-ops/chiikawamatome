@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-14T15:26:21.042Z",
+  "updatedAt": "2026-10-14T16:00:21.637Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 123,
+  "total": 124,
   "todayCount": 1,
   "categories": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "キャラグー",
@@ -113,11 +113,11 @@
       "count": 4
     },
     {
-      "name": "cinemacafe.net",
-      "count": 3
+      "name": "電撃オンライン",
+      "count": 4
     },
     {
-      "name": "電撃オンライン",
+      "name": "cinemacafe.net",
       "count": 3
     },
     {
@@ -250,10 +250,6 @@
     },
     {
       "name": "もぐナビ",
-      "count": 1
-    },
-    {
-      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -825,12 +821,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T14:30:20.346Z",
-    "previousCount": 125,
-    "newCount": 3
+    "previousAt": "2026-10-14T15:26:21.042Z",
+    "previousCount": 123,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T15:56:21.042Z",
+  "nextUpdateAt": "2026-10-14T16:30:21.637Z",
   "items": [
     {
       "id": "a345f51fdf30",
@@ -850,7 +846,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6bcd7489b46f",
@@ -1407,12 +1403,12 @@
     {
       "id": "22f0f7865baa",
       "title": "『ちいかわ』限定エコバッグが登場。水に強く汚れにくい素材で、買い物やプールなどのお出かけにオススメ！",
-      "url": "https://dengekionline.com/article/images/202610/90865/901109",
+      "url": "https://dengekionline.com/article/202610/90865",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-10-14T04:16:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/90865/a224cac8b1ec3ec7c6d2f8c32e16961ba.jpg?x=1280",
+      "publishedAt": "2026-10-14T04:15:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/90865/ogp_mAZl.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -2164,7 +2160,7 @@
       "source": "もぐナビ",
       "summary": "",
       "publishedAt": "2026-10-13T10:52:07.000Z",
-      "image": "https://mognavi.jp/image/food/00/00/51/3646295_original.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2237,29 +2233,6 @@
       "isNew": false
     },
     {
-      "id": "9c9f95ea9d74",
-      "title": "「映画ちいかわ」大判マルチタオルがカプセルトイで再販！ちいかわ＆ハチワレの名シーン、うさぎたちの“歌合戦”など全5種",
-      "url": "https://article.auone.jp/ffd7838c-c2e2-4458-9d36-244a8125c78c",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-10-13T10:07:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/14/https___news_jp_i_1482681762255208565_w640.webp",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "48d5e2a1f560",
       "title": "『まじかるちいかわ』強くなったハチワレ＆うさぎ、あのこが全長70cmのぬいぐるみに！ 「ちいかわマーケット」で受注予約スタート",
       "url": "https://news.yahoo.co.jp/articles/f10def753d9367070e424d9aa85f93d00817e655",
@@ -2292,6 +2265,29 @@
       "image": "",
       "categories": [
         "goods"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9c9f95ea9d74",
+      "title": "「映画ちいかわ」大判マルチタオルがカプセルトイで再販！ちいかわ＆ハチワレの名シーン、うさぎたちの“歌合戦”など全5種",
+      "url": "https://news.yahoo.co.jp/articles/658e7ecb3a7337f551b0ce55c357c6064b5e5df8",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T09:50:02.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000051-isd-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
       ],
       "series": [
         "hachiware",
@@ -2878,7 +2874,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7e90603a6e84",
@@ -2898,7 +2894,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "48fdfbfa480e",
@@ -3113,6 +3109,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a0206f80b785",
+      "title": "『ちいかわ』最新話更新（10/12）。夜空にプレゼン…シーサーの想いは三ツ星に届くのか？",
+      "url": "https://dengekionline.com/article/202610/90762",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-12T13:39:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_XyvT.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "20f263306ab4",
