@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-14T17:00:23.148Z",
+  "updatedAt": "2026-10-14T17:30:25.786Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 122,
+  "total": 125,
   "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 65
+      "count": 66
     },
     {
       "id": "kuji",
@@ -42,12 +42,12 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 11
+      "count": 13
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "series": [
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 23
     },
     {
       "name": "キャラグー",
@@ -123,6 +123,10 @@
     {
       "name": "オリコンニュース",
       "count": 3
+    },
+    {
+      "name": "MANTANWEB",
+      "count": 2
     },
     {
       "name": "eeo",
@@ -165,12 +169,8 @@
       "count": 2
     },
     {
-      "name": "ライブドアニュース",
+      "name": "ナタリー",
       "count": 2
-    },
-    {
-      "name": "MANTANWEB",
-      "count": 1
     },
     {
       "name": "TBS NEWS DIG",
@@ -277,10 +277,6 @@
       "count": 1
     },
     {
-      "name": "ナタリー",
-      "count": 1
-    },
-    {
       "name": "株式会社サイバーエージェント",
       "count": 1
     },
@@ -293,11 +289,19 @@
       "count": 1
     },
     {
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
       "name": "TVer",
       "count": 1
     },
     {
       "name": "デイリースポーツ",
+      "count": 1
+    },
+    {
+      "name": "神ゲー攻略",
       "count": 1
     },
     {
@@ -315,7 +319,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-14T07:45:00.000Z",
       "sourceCount": 16,
-      "articleCount": 19,
+      "articleCount": 20,
       "categories": [
         "goods",
         "event"
@@ -902,12 +906,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T16:30:20.082Z",
+    "previousAt": "2026-10-14T17:00:23.148Z",
     "previousCount": 122,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T17:30:23.148Z",
+  "nextUpdateAt": "2026-10-14T18:00:25.786Z",
   "items": [
     {
       "id": "c0f01cd32ece",
@@ -926,7 +930,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a345f51fdf30",
@@ -2268,7 +2272,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "867991aa83d0",
@@ -2561,26 +2565,6 @@
       "isNew": false
     },
     {
-      "id": "7505665b2839",
-      "title": "「ちいかわぽけっと」第4弾グッズ発売へ！ “お弁当”モチーフのマスコットなど登場 (2026年10月13日掲載)",
-      "url": "https://news.livedoor.com/topics/detail/32556699/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T08:05:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/3/7/370ee_1729_40345464_2e17c09f.jpg",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "98fcd896ea0a",
       "title": "「ちいかわぽけっと」お弁当＆お店屋さんモチーフのグッズ第4弾発売決定！ 全国5カ所でポップアップストアも",
       "url": "https://fan.books.rakuten.co.jp/articles/wajjgg5r3f1xgc3qvbzh9l58",
@@ -2599,6 +2583,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2d327f9995ee",
+      "title": "「ちいかわ」初のスマホアプリ『ちいかわぽけっと』、公式グッズ第4弾、2026年10月24日に発売開始が決定！！",
+      "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000758a/photopage/001.html",
+      "host": "mantan-web.jp",
+      "source": "MANTANWEB",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:48:53.000Z",
+      "image": "https://prtimes.jp/img/156996/46/resize/d156996-46-5b4fdcd8d4bad501837b-0.jpg",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f977d51a7de1",
@@ -2716,6 +2720,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d7b28cd383f3",
+      "title": "「ちいかわぽけっと お弁当なTシャツ」 [画像ギャラリー 9/20]",
+      "url": "https://natalie.mu/comic/gallery/news/693486/2990038",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-13T05:38:35.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "daad80acb642",
@@ -2917,6 +2941,25 @@
       "isNew": false
     },
     {
+      "id": "fe708a1033a7",
+      "title": "ちいかわのバスボムを使ったら……「一瞬不具合なのかと思った」 “まさかの中身”に「えええ、なにこれ」（ねとらぼ）",
+      "url": "https://news.yahoo.co.jp/articles/8d65ede318cf604cde527f05e5f8f52ffa9af8d2",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T01:45:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-10171948-it_nlab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "79e7d0af68c8",
       "title": "ちいかわ 秋だもんマスコット｜ちいかわのプライズ 入荷予定・取扱店舗",
       "url": "https://charagoo.jp/prize/item/484f8584e679/",
@@ -3091,7 +3134,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "91e0ec2fe222",
@@ -3150,6 +3193,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c519f748b8bf",
+      "title": "【ちいぽけ】最新アップデートまとめ｜1.5周年アプデの内容と今後の予定【ちいかわぽけっと】",
+      "url": "https://kamigame.jp/chiikawa-pocket/page/440246353617013549.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-10-12T14:24:22.000Z",
+      "image": "https://lh3.googleusercontent.com/XbzjWOsC-y7iXwbI4lBc5osPi_Pc7aDPMH1C2PhzaopKQTz9saokUXA-wr9opFf84OKz5O-jxCcxxIDS7Q4n0U09N3rYR30_77Nykb17LKumvVHkrks=s0-s0",
+      "categories": [
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a0206f80b785",
