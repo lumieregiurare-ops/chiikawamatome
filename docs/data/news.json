@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-14T20:00:17.983Z",
+  "updatedAt": "2026-10-14T20:30:18.091Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 123,
-  "todayCount": 4,
+  "total": 125,
+  "todayCount": 5,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 63
+      "count": 65
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 27
+      "count": 29
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 19
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kuma",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 24
+      "count": 25
     },
     {
       "name": "キャラグー",
-      "count": 9
+      "count": 10
     },
     {
       "name": "インサイド",
@@ -113,19 +113,19 @@
       "count": 4
     },
     {
-      "name": "オリコンニュース",
-      "count": 4
-    },
-    {
       "name": "cinemacafe.net",
       "count": 3
     },
     {
-      "name": "MANTANWEB",
-      "count": 2
+      "name": "オリコンニュース",
+      "count": 3
     },
     {
-      "name": "eeo",
+      "name": "電撃オンライン",
+      "count": 3
+    },
+    {
+      "name": "MANTANWEB",
       "count": 2
     },
     {
@@ -149,6 +149,10 @@
       "count": 2
     },
     {
+      "name": "eeo",
+      "count": 2
+    },
+    {
       "name": "クランクイン！",
       "count": 2
     },
@@ -158,10 +162,6 @@
     },
     {
       "name": "PASH! PLUS",
-      "count": 2
-    },
-    {
-      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -193,6 +193,10 @@
       "count": 1
     },
     {
+      "name": "Howl.link",
+      "count": 1
+    },
+    {
       "name": "ゲームドライブ",
       "count": 1
     },
@@ -210,10 +214,6 @@
     },
     {
       "name": "風傳媒",
-      "count": 1
-    },
-    {
-      "name": "いこーよニュース",
       "count": 1
     },
     {
@@ -242,10 +242,6 @@
     },
     {
       "name": "もぐナビ",
-      "count": 1
-    },
-    {
-      "name": "ファッションプレス",
       "count": 1
     },
     {
@@ -278,6 +274,10 @@
     },
     {
       "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -384,8 +384,8 @@
       "image": "https://animeanime.jp/imgs/rss/942533.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-14T11:00:03.000Z",
-      "sourceCount": 12,
-      "articleCount": 12,
+      "sourceCount": 10,
+      "articleCount": 10,
       "categories": [
         "event",
         "other"
@@ -408,13 +408,6 @@
           "url": "https://japan.storm.mg/articles/1172137",
           "source": "風傳媒",
           "publishedAt": "2026-10-14T04:29:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "クリスマス衣装のちいかわたちに会える！池袋「ちいかわパーク」が冬限定の装飾に",
-          "url": "https://report.iko-yo.net/articles/34594",
-          "source": "いこーよニュース",
-          "publishedAt": "2026-10-14T04:23:39.000Z",
           "isPR": false
         },
         {
@@ -447,9 +440,16 @@
         },
         {
           "title": "（写真）ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開",
-          "url": "https://www.crank-in.net/trend/gallery/trip/192604/12",
+          "url": "https://www.crank-in.net/trend/gallery/trip/192604/11",
           "source": "クランクイン！",
           "publishedAt": "2026-10-14T02:20:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ちいかわ】期間限定のグリーティングやかわいいグッズが登場！ 11月20日より「ちいかわパーク」がクリスマス仕様に",
+          "url": "https://www.pashplus.jp/event/498742/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-10-13T13:21:07.000Z",
           "isPR": false
         }
       ]
@@ -623,13 +623,6 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわベーカリー」2周年記念イベントが10月15日よりスタート！ コロネになったちいかわたちのマスコットが新登場!!",
-          "url": "https://eeo.today/media/2026/10/07/400234/",
-          "source": "eeo",
-          "publishedAt": "2026-10-14T06:49:56.000Z",
-          "isPR": false
-        },
-        {
           "title": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種",
           "url": "https://www.inside-games.jp/article/2026/10/14/189221.html",
           "source": "インサイド",
@@ -648,6 +641,13 @@
           "url": "https://www.cinemacafe.net/article/2026/10/14/113294.html",
           "source": "cinemacafe.net",
           "publishedAt": "2026-10-14T00:00:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわベーカリー」2周年記念イベントが10月15日よりスタート！ コロネになったちいかわたちのマスコットが新登場!!",
+          "url": "https://eeo.today/media/2026/10/07/400234/",
+          "source": "eeo",
+          "publishedAt": "2026-10-13T07:00:00.000Z",
           "isPR": false
         }
       ]
@@ -740,7 +740,7 @@
       "leadSource": "キャラグー",
       "publishedAt": "2026-10-14T00:19:15.000Z",
       "sourceCount": 2,
-      "articleCount": 10,
+      "articleCount": 11,
       "categories": [
         "goods",
         "kuji"
@@ -845,6 +845,42 @@
       ]
     },
     {
+      "id": "b177490f07a6",
+      "title": "『ちいかわ』新商品にネット衝撃／ドラゴンボール 故人の声優出演【10／13よく読まれたアニメ＆ゲームニュース】",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/special/76594/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486030/20261013_110219_p_o_36722180.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-10-13T22:50:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "keywords": [
+        "ネット",
+        "新商品",
+        "アニメ"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』新商品にネットざわつく 売り切れ続出で「受注して下さい!」",
+          "url": "https://www.oricon.co.jp/news/2486030/photo/2/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-13T02:50:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ「ちいかわ」に新商品…ネット上ざわつく「受注して！」 (2026年10月13日掲載)",
+          "url": "https://news.livedoor.com/topics/detail/32552878/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-13T02:50:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "3e9d93c7da36",
       "title": "『ちいかわ』公式ショップの配送料が沖縄4070円で《高すぎ》とファン悲鳴も物流のプロが「極めて妥当」と答えるワケ",
       "summary": "",
@@ -874,13 +910,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T19:30:21.372Z",
-    "previousCount": 125,
-    "newCount": 2
+    "previousAt": "2026-10-14T20:00:17.983Z",
+    "previousCount": 123,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T20:30:17.983Z",
+  "nextUpdateAt": "2026-10-14T21:00:18.091Z",
   "items": [
+    {
+      "id": "9ce5ccbcbe25",
+      "title": "ニュースワード「ちいかわ」（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/441fe56ae76b8bc33956454f8961c6403758b9e7",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-14T20:01:31.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "40a3f054b122",
       "title": "56歳・浅香唯、ハマっている“ちいかわ”のキャラクター明かす “2ショット”も披露「最強コンビ」「世界で一番可愛い56ちゃい」",
@@ -1114,6 +1169,25 @@
       "isNew": false
     },
     {
+      "id": "747a648bf741",
+      "title": "ちいかわのアニメダンス、リアルで再現してみた！",
+      "url": "https://t.co/tCBBZXL1pf",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-14T08:00:07.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40321b6ba19e",
       "title": "『ちいかわ』仲良しコンビの居酒屋に衝撃ハプニングが…⇨“ドリフ”すぎる展開に「懐かしいw」「あのBGMが聞こえる」と爆笑",
       "url": "https://news.yahoo.co.jp/articles/a04cd9ac3422abfb595c4eadae19b3dada68ce8f",
@@ -1224,26 +1298,6 @@
       "image": "https://news.mynavi.jp/article/20261014-5126569/ogp_images/ogp.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2d3c3c204288",
-      "title": "「ちいかわベーカリー」2周年記念イベントが10月15日よりスタート！ コロネになったちいかわたちのマスコットが新登場!!",
-      "url": "https://eeo.today/media/2026/10/07/400234/",
-      "host": "eeo.today",
-      "source": "eeo",
-      "summary": "",
-      "publishedAt": "2026-10-14T06:49:56.000Z",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/10/20261007_chiikawa-3.jpg",
-      "categories": [
-        "goods",
-        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -1432,25 +1486,6 @@
       "isNew": false
     },
     {
-      "id": "736860d07124",
-      "title": "クリスマス衣装のちいかわたちに会える！池袋「ちいかわパーク」が冬限定の装飾に",
-      "url": "https://report.iko-yo.net/articles/34594",
-      "host": "report.iko-yo.net",
-      "source": "いこーよニュース",
-      "summary": "",
-      "publishedAt": "2026-10-14T04:23:39.000Z",
-      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/34583/normal.jpeg?1791963302",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e99225196e46",
       "title": "ちいかわパークがクリスマス仕様に！ 限定衣装のちいかわたちに会える＆冬の新グッズも",
       "url": "https://fan.books.rakuten.co.jp/articles/ctpveutpxuwnz1jhel3u35zv?scid",
@@ -1609,7 +1644,7 @@
     {
       "id": "0981f7bd1b11",
       "title": "（写真）ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開",
-      "url": "https://www.crank-in.net/trend/gallery/trip/192604/12",
+      "url": "https://www.crank-in.net/trend/gallery/trip/192604/11",
       "host": "crank-in.net",
       "source": "クランクイン！",
       "summary": "",
@@ -2172,7 +2207,7 @@
       "source": "もぐナビ",
       "summary": "",
       "publishedAt": "2026-10-13T10:52:07.000Z",
-      "image": "",
+      "image": "https://mognavi.jp/image/food/00/00/51/3646295_original.jpg",
       "categories": [
         "anime"
       ],
@@ -2285,25 +2320,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "499a02ad9127",
-      "title": "池袋「ちいかわパーク」がクリスマス仕様に、限定グリーティング＆”あのこ”のふわふわファーハット",
-      "url": "https://www.fashion-press.net/news/151982",
-      "host": "fashion-press.net",
-      "source": "ファッションプレス",
-      "summary": "",
-      "publishedAt": "2026-10-13T09:55:00.000Z",
-      "image": "https://www.fashion-press.net/img/news/151982/top.jpg?1791884176",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3a60838f9b26",
@@ -2650,6 +2666,26 @@
       "isNew": false
     },
     {
+      "id": "2d3c3c204288",
+      "title": "「ちいかわベーカリー」2周年記念イベントが10月15日よりスタート！ コロネになったちいかわたちのマスコットが新登場!!",
+      "url": "https://eeo.today/media/2026/10/07/400234/",
+      "host": "eeo.today",
+      "source": "eeo",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/10/20261007_chiikawa-3.jpg",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e0666e66e32c",
       "title": "【ヤフコメで話題】「ちいかわグッズの転売問題」「受注生産や再販の現実的な課題」 - 公式グッズ供給と転売対策を巡る議論",
       "url": "https://news.yahoo.co.jp/articles/ce88f816161085ba74e9956da58de3ee214dddd4",
@@ -2869,6 +2905,26 @@
       "isNew": false
     },
     {
+      "id": "3b7569d5eae5",
+      "title": "アニメ「ちいかわ」に新商品…ネット上ざわつく「受注して！」 (2026年10月13日掲載)",
+      "url": "https://news.livedoor.com/topics/detail/32552878/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T02:50:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/6/168e1_760_2486030_20261013_110303_size640wh_82494020.jpg",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "676940b698d9",
       "title": "ANAの「ちいかわジェット」まもなく就航開始！初便は羽田ー長崎便に決定、機内までちいかわ仕様に（オタク総研）",
       "url": "https://news.yahoo.co.jp/articles/659e4016f28e941dde3e8bdc2b9f0f2ddf1089e2",
@@ -3065,6 +3121,26 @@
       "isNew": false
     },
     {
+      "id": "b5d809c0337b",
+      "title": "ちいかわ 雨の日BIGぬいぐるみ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/de14b69b9de8/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-12T23:52:49.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "91e0ec2fe222",
       "title": "ちいかわ 2022年放送 第36話 ふしぎな杖(1)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
       "url": "https://tver.jp/episodes/eprbgyp8j8",
@@ -3142,6 +3218,27 @@
       "isNew": false
     },
     {
+      "id": "a0206f80b785",
+      "title": "『ちいかわ』最新話更新（10/12）。夜空にプレゼン…シーサーの想いは三ツ星に届くのか？",
+      "url": "https://dengekionline.com/article/202610/90762",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-12T13:39:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_XyvT.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "20f263306ab4",
       "title": "ちいかわ人気でソウルの常設店に長蛇の列…始発で到着しても700番台（KOREA WAVE）",
       "url": "https://news.yahoo.co.jp/articles/f244cc0f025e699cb773d0d8d17cac71a6fb0116",
@@ -3178,25 +3275,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "be8569104268",
-      "title": "画像・写真 | なだぎ武『ちいかわ』まさかの鑑賞回数！貰った特典発表 深い考察にネット衝撃「オタク的感想で凄くいい！」 14枚目",
-      "url": "https://www.oricon.co.jp/news/2479242/photo/14/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:01:25.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2480000/2479242/20260810_182116_p_o_89190085.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "61b1057e4d30",
