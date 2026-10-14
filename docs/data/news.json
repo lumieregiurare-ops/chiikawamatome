@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:30:17.772Z",
+  "updatedAt": "2026-10-14T19:00:19.858Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 66
+      "count": 65
     },
     {
       "id": "kuji",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 20
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 24
     },
     {
       "name": "キャラグー",
@@ -125,11 +125,15 @@
       "count": 3
     },
     {
-      "name": "MANTANWEB",
-      "count": 2
+      "name": "PR TIMES",
+      "count": 3
     },
     {
       "name": "eeo",
+      "count": 2
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 2
     },
     {
@@ -165,12 +169,12 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "ナタリー",
       "count": 2
     },
     {
-      "name": "ナタリー",
-      "count": 2
+      "name": "MANTANWEB",
+      "count": 1
     },
     {
       "name": "東洋経済オンライン",
@@ -194,10 +198,6 @@
     },
     {
       "name": "マイナビニュース",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -451,7 +451,7 @@
         },
         {
           "title": "（写真）ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開",
-          "url": "https://www.crank-in.net/trend/gallery/trip/192604/11",
+          "url": "https://www.crank-in.net/trend/gallery/trip/192604/12",
           "source": "クランクイン！",
           "publishedAt": "2026-10-14T02:20:00.000Z",
           "isPR": false
@@ -906,12 +906,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T18:00:21.345Z",
-    "previousCount": 123,
+    "previousAt": "2026-10-14T18:30:17.772Z",
+    "previousCount": 124,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T19:00:17.772Z",
+  "nextUpdateAt": "2026-10-14T19:30:19.858Z",
   "items": [
     {
       "id": "40a3f054b122",
@@ -930,7 +930,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "08951e59db43",
@@ -1682,7 +1682,7 @@
     {
       "id": "0981f7bd1b11",
       "title": "（写真）ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開",
-      "url": "https://www.crank-in.net/trend/gallery/trip/192604/11",
+      "url": "https://www.crank-in.net/trend/gallery/trip/192604/12",
       "host": "crank-in.net",
       "source": "クランクイン！",
       "summary": "",
@@ -2018,25 +2018,6 @@
       "isNew": false
     },
     {
-      "id": "b903639c44c2",
-      "title": "ちいかわ超えの人気》愛子さまカレンダーがAmazonランキングで1位に！ 販売前から予約殺到、国民的キャラクターも敵わない異例の売れ行きの理由とは（NEWSポストセブン",
-      "url": "https://news.yahoo.co.jp/articles/8476398f904e709c65d9bfaf9c24cfeebc085d1c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T22:15:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00000003-pseven-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5d84b149be8c",
       "title": "10月14日(水)の「ちいかわ占い」",
       "url": "https://mezamashi.media/articles/-/355281",
@@ -2234,6 +2215,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "639815962c7d",
+      "title": "「お兄ちゃんハチワレに似てる」中川翔子、双子息子とのお散歩ショット公開！ 「絶対モテますね」",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG1GV3hWMHVGSUU2b2N1ZUVDNDVpRnY1MzhDSV9mZnB4MVRYRFZYNC1wbnBqeXpzdWFjQVEzTGp2cFFoNk9iNC1NV1p5Rlk1LXZ6Nkdtc0dRU3JMYVpMaV9QSWtUMXdTTnhCeTNNelFhbmRwczJuZ09WbUE1TTd1enZTZWNPd0prYUM1SUl3MNIBlAFBVV95cUxNeVF1ak5sZnFaZVRvRzNZZGVlOXZFdkNBYWdCY2RmU1E2aFBmbWlFLUtwUEJvaFRSRWhKTWJaVDNDVUVhZ1d2VFlNb3BzYnBZRWY0d0E4RjJzSm9CczRqcDBENTFhckZ4X3Q1eWJWQTg2Zm5adkhNeTBRTE9jQ1F4al9Sekg3Nk5lNFpzRGFFMXREajdl?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T11:05:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "564ee5d5d82c",
@@ -2604,26 +2606,6 @@
       "isNew": false
     },
     {
-      "id": "2d327f9995ee",
-      "title": "「ちいかわ」初のスマホアプリ『ちいかわぽけっと』、公式グッズ第4弾、2026年10月24日に発売開始が決定！！",
-      "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000758a/photopage/001.html",
-      "host": "mantan-web.jp",
-      "source": "MANTANWEB",
-      "summary": "",
-      "publishedAt": "2026-10-13T07:48:53.000Z",
-      "image": "https://prtimes.jp/img/156996/46/resize/d156996-46-5b4fdcd8d4bad501837b-0.jpg",
-      "categories": [
-        "game",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f977d51a7de1",
       "title": "「ちいかわぽけっと」お弁当とお店屋さんモチーフのグッズがラインナップする公式グッズ第4弾が10月24日より発売！",
       "url": "https://www.gamer.ne.jp/news/202610130035/",
@@ -2836,6 +2818,26 @@
       "series": [],
       "isOfficial": false,
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2d327f9995ee",
+      "title": "「ちいかわ」初のスマホアプリ『ちいかわぽけっと』、公式グッズ第4弾、2026年10月24日に発売開始が決定！！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000046.000156996.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-13T04:17:23.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/156996/46/156996-46-d0931ff08c713a449a0e2870ba6bdc4e-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -3242,7 +3244,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-12T06:32:52.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/3/9/4/0394cd2d2c1dbfb3773583f0d6e92cec_1.jpg",
       "categories": [
         "collab"
       ],
@@ -3261,7 +3263,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-12T05:45:31.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/6/7/1/567112489e19b78c6ef2aac02192292b_1.jpg",
       "categories": [
         "collab"
       ],
@@ -3362,7 +3364,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-11T20:41:48.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
       "categories": [
         "anime"
       ],
