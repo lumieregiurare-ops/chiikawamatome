@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-14T11:00:18.312Z",
+  "updatedAt": "2026-10-14T11:30:30.115Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 127,
+  "total": 126,
   "todayCount": 58,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 30
+      "count": 29
     },
     {
       "id": "book",
@@ -42,19 +42,19 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 18
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "usagi",
@@ -84,7 +84,7 @@
     {
       "id": "kuma",
       "label": "自分ツッコミくま",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
@@ -98,14 +98,14 @@
     },
     {
       "name": "山陽新聞",
-      "count": 8
-    },
-    {
-      "name": "インサイド",
       "count": 7
     },
     {
       "name": "コラボカフェ",
+      "count": 6
+    },
+    {
+      "name": "インサイド",
       "count": 6
     },
     {
@@ -118,10 +118,6 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 4
-    },
-    {
-      "name": "ナタリー",
       "count": 4
     },
     {
@@ -146,6 +142,10 @@
     },
     {
       "name": "電撃ホビーウェブ",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -181,6 +181,10 @@
       "count": 2
     },
     {
+      "name": "ナタリー",
+      "count": 2
+    },
+    {
       "name": "PR TIMES",
       "count": 2
     },
@@ -202,10 +206,6 @@
     },
     {
       "name": "レッツエンジョイ東京",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -293,7 +293,15 @@
       "count": 1
     },
     {
+      "name": "神ゲー攻略",
+      "count": 1
+    },
+    {
       "name": "千葉テレビ放送",
+      "count": 1
+    },
+    {
+      "name": "聯合ニュース",
       "count": 1
     },
     {
@@ -311,14 +319,14 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-14T07:45:00.000Z",
       "sourceCount": 17,
-      "articleCount": 21,
+      "articleCount": 19,
       "categories": [
         "goods",
         "event"
       ],
       "keywords": [
-        "ちいかわぽけっと",
         "公式",
+        "ちいかわぽけっと",
         "弁当"
       ],
       "articles": [
@@ -543,8 +551,8 @@
       "image": "https://mediadogs.jp/wp-content/uploads/2026/10/chiikawa-movie-box-office-12th.webp",
       "leadSource": "ニコニコニュース",
       "publishedAt": "2026-10-14T10:30:24.000Z",
-      "sourceCount": 6,
-      "articleCount": 8,
+      "sourceCount": 5,
+      "articleCount": 7,
       "categories": [
         "anime",
         "collab"
@@ -595,13 +603,6 @@
           "url": "https://news.yahoo.co.jp/articles/dcbf2f430c65aa83be885312db763c77edf1a12d",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-13T07:08:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「映画ちいかわ」動員1位に、「バイオハザード」は2位 「汝、星のごとく」なども初登場",
-          "url": "https://natalie.mu/eiga/news/693491",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-13T05:16:00.000Z",
           "isPR": false
         }
       ]
@@ -893,12 +894,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T10:30:18.309Z",
-    "previousCount": 126,
-    "newCount": 4
+    "previousAt": "2026-10-14T11:00:18.312Z",
+    "previousCount": 127,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T11:30:18.312Z",
+  "nextUpdateAt": "2026-10-14T12:00:30.115Z",
   "items": [
     {
       "id": "d3fdd1a6df28",
@@ -919,7 +920,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5a9d8f56fba2",
@@ -939,7 +940,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00a93b8b0d97",
@@ -1242,7 +1243,7 @@
       "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-14T05:25:47.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/d2575976357c136d9a74e4a4cad64f35-4.jpeg",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -1305,7 +1306,7 @@
       "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-14T04:34:57.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-25.jpeg",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -1541,7 +1542,7 @@
       "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-14T03:19:15.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-event-chiikawa-park-christmas-2026-greeting.jpg",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -2185,7 +2186,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "639815962c7d",
@@ -2290,6 +2291,27 @@
       "isNew": false
     },
     {
+      "id": "b2f2bcc63611",
+      "title": "「ちいかわ まじかるちいかわ ふんわりもっちり ごろりん抱きぬいぐるみ（強くなったハチワレ）」 [画像・動画ギャラリー 4/16]",
+      "url": "https://natalie.mu/comic/gallery/news/693539/2990428",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-13T10:07:14.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9c9f95ea9d74",
       "title": "「映画ちいかわ」大判マルチタオルがカプセルトイで再販！ちいかわ＆ハチワレの名シーン、うさぎたちの“歌合戦”など全5種",
       "url": "https://article.auone.jp/ffd7838c-c2e2-4458-9d36-244a8125c78c",
@@ -2342,7 +2364,7 @@
       "source": "もぐナビ",
       "summary": "",
       "publishedAt": "2026-10-13T09:56:44.000Z",
-      "image": "https://mognavi.jp/image/food/00/00/51/3646295_original.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2675,57 +2697,16 @@
       "isNew": false
     },
     {
-      "id": "5dece636add4",
-      "title": "『ちいかわぽけっと』公式グッズ第4弾が10月24日発売！お弁当の具やお店屋さん衣装Tシャツ、トートバッグなど豊富なデザイン",
-      "url": "https://www.inside-games.jp/article/2026/10/13/189179.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "id": "e0666e66e32c",
+      "title": "【ヤフコメで話題】「ちいかわグッズの転売問題」「受注生産や再販の現実的な課題」 - 公式グッズ供給と転売対策を巡る議論",
+      "url": "https://news.yahoo.co.jp/articles/ce88f816161085ba74e9956da58de3ee214dddd4",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-13T06:20:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1793194.jpg",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "18b04369e522",
-      "title": "「ちいかわぽけっと」の公式グッズ第4弾 [画像ギャラリー 1/20]",
-      "url": "https://natalie.mu/comic/gallery/news/693486/2990030",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-13T05:38:27.000Z",
+      "publishedAt": "2026-10-13T06:39:27.000Z",
       "image": "",
       "categories": [
-        "goods",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "daad80acb642",
-      "title": "「ちいかわぽけっと お弁当なマスコット」 [画像ギャラリー 2/20]",
-      "url": "https://natalie.mu/comic/gallery/news/693486/2990031",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-13T05:33:02.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "game"
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2733,6 +2714,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
+    },
+    {
+      "id": "5dece636add4",
+      "title": "『ちいかわぽけっと』公式グッズ第4弾が10月24日発売！お弁当の具やお店屋さん衣装Tシャツ、トートバッグなど豊富なデザイン",
+      "url": "https://news.infoseek.co.jp/article/inside_189179/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-13T06:20:03.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189179_0-enlarge.jpg",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "6c5c2eccf05e",
@@ -2746,25 +2747,6 @@
       "categories": [
         "goods",
         "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "78b5f067c7e8",
-      "title": "「映画ちいかわ」動員1位に、「バイオハザード」は2位 「汝、星のごとく」なども初登場",
-      "url": "https://natalie.mu/eiga/news/693491",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-13T05:16:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -3147,27 +3129,6 @@
       "isNew": false
     },
     {
-      "id": "4afdaed9e50c",
-      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
-      "url": "https://www.sanyonews.jp/article/1982996?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T19:30:50.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/0/c/3/20c3bd5fd117f75e8519caa6e4337ef1_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kuma"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2abc9433825a",
       "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
       "url": "https://www.sanyonews.jp/article/1951762?kw",
@@ -3188,6 +3149,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "efe52cacd2b5",
+      "title": "【ちいぽけ】日付更新は毎日15時｜リセットされるもの一覧【ちいかわぽけっと】",
+      "url": "https://kamigame.jp/chiikawa-pocket/page/444216408012804217.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-10-12T14:23:01.000Z",
+      "image": "https://lh3.googleusercontent.com/QXg80KaRs4s3rps5zu3kg-fCIZaNvpAIYzBokkMbn7gm_PPc6uAwxeTEorL3Mf_2QXturm-B2eNDFgpOeyU6KHBPCVTpl61M6xfAqT1RfTyz=s0",
+      "categories": [
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a0206f80b785",
@@ -3290,12 +3270,12 @@
     {
       "id": "5f0b4b26bb9c",
       "title": "「映画ちいかわ」 韓国で週末興行1位",
-      "url": "https://news.yahoo.co.jp/articles/effdb027bef12de5193d0718c09d4c98e0a69eab",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://jp.yna.co.kr/view/AJP20261012001600882",
+      "host": "jp.yna.co.kr",
+      "source": "聯合ニュース",
       "summary": "",
       "publishedAt": "2026-10-12T04:28:42.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00536854-yonh-000-1-view.jpg?exp=10800",
+      "image": "https://img4.yna.co.kr/etc/inner/JP/2026/10/12/AJP20261012001600882_02_i_P4.jpg",
       "categories": [
         "anime"
       ],
