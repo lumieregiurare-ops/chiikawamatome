@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-15T18:30:24.161Z",
+  "updatedAt": "2026-10-15T19:00:16.970Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 141,
+  "total": 140,
   "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 83
+      "count": 82
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 22
+      "count": 20
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 24
+      "count": 22
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 20
     }
   ],
   "series": [
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 23
+      "count": 25
     },
     {
       "name": "インサイド",
-      "count": 9
+      "count": 8
     },
     {
       "name": "コラボカフェ",
@@ -137,6 +137,10 @@
       "count": 3
     },
     {
+      "name": "au Webポータル",
+      "count": 3
+    },
+    {
       "name": "マイナビニュース",
       "count": 3
     },
@@ -174,14 +178,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 2
-    },
-    {
-      "name": "au Webポータル",
       "count": 2
     },
     {
@@ -229,7 +225,7 @@
       "count": 1
     },
     {
-      "name": "FlyTeam",
+      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -273,10 +269,6 @@
       "count": 1
     },
     {
-      "name": "クランクイン！",
-      "count": 1
-    },
-    {
       "name": "https://mediadogs.jp/",
       "count": 1
     },
@@ -297,6 +289,10 @@
       "count": 1
     },
     {
+      "name": "ABEMA TIMES",
+      "count": 1
+    },
+    {
       "name": "Gamer",
       "count": 1
     },
@@ -314,10 +310,6 @@
     },
     {
       "name": "TVer",
-      "count": 1
-    },
-    {
-      "name": "デイリースポーツ",
       "count": 1
     }
   ],
@@ -385,17 +377,17 @@
           "isPR": false
         },
         {
+          "title": "ANA×ちいかわ、限定コラボグッズ10月23日発売！羽田空港に特設ショップも",
+          "url": "https://www.chiba-tv.com/plus/detail/2026102116112",
+          "source": "千葉テレビ放送株式会社",
+          "publishedAt": "2026-10-15T04:05:15.000Z",
+          "isPR": false
+        },
+        {
           "title": "ちいかわ × ANA 10月23日より制服姿のコラボグッズ発売!",
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-ana-add-info-goods-2026/",
           "source": "コラボカフェ",
           "publishedAt": "2026-10-15T03:59:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ：ANAコラボグッズ 制服姿で働くちいかわたち ぬいぐるみ、缶バッジ 機内紙コップデザインのマグカップも",
-          "url": "https://mantan-web.jp/article/20261015dog00m200023000a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-10-15T03:50:32.000Z",
           "isPR": false
         }
       ]
@@ -543,8 +535,8 @@
       "image": "https://animeanime.jp/imgs/rss/942533.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-15T06:53:28.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "event",
         "anime"
@@ -574,13 +566,6 @@
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-event-chiikawa-park-christmas-2026/?amp",
           "source": "コラボカフェ",
           "publishedAt": "2026-10-14T03:19:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "（写真）ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開",
-          "url": "https://www.crank-in.net/trend/gallery/trip/192604/2",
-          "source": "クランクイン！",
-          "publishedAt": "2026-10-14T02:20:00.000Z",
           "isPR": false
         },
         {
@@ -907,12 +892,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T18:00:19.938Z",
+    "previousAt": "2026-10-15T18:30:24.161Z",
     "previousCount": 141,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T19:00:24.161Z",
+  "nextUpdateAt": "2026-10-15T19:30:16.970Z",
   "items": [
     {
       "id": "756231199550",
@@ -1528,6 +1513,26 @@
       "isNew": false
     },
     {
+      "id": "38ada4b87e6c",
+      "title": "ANA×ちいかわ、限定コラボグッズ10月23日発売！羽田空港に特設ショップも",
+      "url": "https://www.chiba-tv.com/plus/detail/2026102116112",
+      "host": "chiba-tv.com",
+      "source": "千葉テレビ放送株式会社",
+      "summary": "",
+      "publishedAt": "2026-10-15T04:05:15.000Z",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1483315243516150863/origin_1.png",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "321fb5fdf196",
       "title": "ちいかわ × ANA 10月23日より制服姿のコラボグッズ発売!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-ana-add-info-goods-2026/",
@@ -1556,26 +1561,6 @@
       "summary": "",
       "publishedAt": "2026-10-15T03:50:32.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/15/20261015dog00m200023000a/001.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "38ada4b87e6c",
-      "title": "ANA×ちいかわ、限定コラボグッズ10月23日発売！羽田空港に特設ショップも",
-      "url": "https://flyteam.jp/news/article/146521",
-      "host": "flyteam.jp",
-      "source": "FlyTeam",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:50:00.000Z",
-      "image": "",
       "categories": [
         "goods",
         "collab"
@@ -1618,6 +1603,26 @@
       "image": "https://www.aviationwire.jp/wp-content/uploads/2026/10/261015_anatc_chiikawa_01-720.jpg",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "78fdb6f377be",
+      "title": "「ちいかわ×ANA」オリジナルコラボグッズ第1弾が10月23日順次発売！ANA制服姿で働くちいかわたちのマスコットやぬいぐるみなど多数",
+      "url": "https://article.auone.jp/0f3d48dc-e334-4d04-8a77-86e3b56677d6",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:42:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/15/https___news_jp_i_1483309468869509904_w500.webp",
+      "categories": [
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1775,26 +1780,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-11797684-asahiand-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "78fdb6f377be",
-      "title": "「ちいかわ×ANA」オリジナルコラボグッズ第1弾が10月23日順次発売！ANA制服姿で働くちいかわたちのマスコットやぬいぐるみなど多数",
-      "url": "https://www.inside-games.jp/article/2026/10/15/189285.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:20:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1794092.jpg",
-      "categories": [
-        "goods",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -2277,16 +2262,15 @@
     },
     {
       "id": "4f262ad59407",
-      "title": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話 | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10278466",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "title": "ちいかわがギチギチに捕らえられ走馬灯を…衝撃展開に「怖すぎる」と反響『ちいかわ』183話 (ABEMA TIMES)",
+      "url": "https://news.yahoo.co.jp/articles/76a18cceba65b4622ff9f8ce53ee10e58661fbc2/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-14T12:03:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/7/7/1200w/img_771e50bee2142314898c3ce99ba4f86f490636.jpg",
+      "publishedAt": "2026-10-14T12:06:17.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnSXhmXzPgw9t-L_6HvyUksc8cs0L2Kq_mNkUeUInIMNO9RH2pAwuM4V25rcQVXzw6TfnxrFGTLVWgFUhZjy6mG-lqxP6R5Rxlf7HgQxtnje_39Ldn54olpsIceItfe7yxw==",
       "categories": [
-        "collab",
-        "anime"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -2594,7 +2578,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8ac35d801713",
@@ -2667,25 +2651,6 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-event-chiikawa-park-christmas-2026-greeting.jpg",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0981f7bd1b11",
-      "title": "（写真）ちいかわパークのクリスマスが11．20開始！ 限定衣装のグリーティングや新グッズを展開",
-      "url": "https://www.crank-in.net/trend/gallery/trip/192604/2",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-10-14T02:20:00.000Z",
-      "image": "https://www.crank-in.net/img/db/263109140114084_1200.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2815,8 +2780,8 @@
     },
     {
       "id": "f0cc7e855f75",
-      "title": "『ちいかわ』公式ショップの配送料、沖縄4070円で《高すぎ》ファン悲鳴も物流のプロは「めちゃくちゃ親切です」（2ページ目）",
-      "url": "https://www.jprime.jp/articles/-/44060?page",
+      "title": "『ちいかわ』公式ショップの配送料、沖縄4070円で《高すぎ》ファン悲鳴も物流のプロは「めちゃくちゃ親切です」",
+      "url": "https://www.jprime.jp/articles/-/44060?display",
       "host": "jprime.jp",
       "source": "週刊女性PRIME",
       "summary": "",
@@ -3657,7 +3622,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a9a5caab482",
@@ -3679,6 +3644,25 @@
       "isNew": false
     },
     {
+      "id": "676940b698d9",
+      "title": "ANAの「ちいかわジェット」まもなく就航開始！初便は羽田ー長崎便に決定、機内までちいかわ仕様に（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/659e4016f28e941dde3e8bdc2b9f0f2ddf1089e2",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T02:38:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00113800-otakulab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "91e0ec2fe222",
       "title": "ちいかわ 2022年放送 第36話 ふしぎな杖(1)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
       "url": "https://tver.jp/episodes/eprbgyp8j8",
@@ -3689,26 +3673,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a92f76f819a9",
-      "title": "紅白歌合戦でちいかわコラボ計画浮上 映画大ヒット、近年増加“アニメ枠” 今年を象徴する顔としてリストアップ",
-      "url": "https://www.daily.co.jp/gossip/2026/10/13/0020922320.shtml",
-      "host": "daily.co.jp",
-      "source": "デイリースポーツ",
-      "summary": "",
-      "publishedAt": "2026-10-12T20:00:00.000Z",
-      "image": "https://i.daily.jp/gossip/2026/10/13/Images/f_20922321.jpg",
-      "categories": [
-        "anime",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
