@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T22:00:18.056Z",
+  "updatedAt": "2026-10-15T22:30:21.143Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 141,
-  "todayCount": 5,
+  "total": 143,
+  "todayCount": 7,
   "categories": [
     {
       "id": "goods",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 35
+      "count": 34
     },
     {
       "id": "anime",
@@ -42,12 +42,12 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 18
     }
   ],
   "series": [
@@ -64,7 +64,7 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kurimanju",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 27
     },
     {
       "name": "インサイド",
@@ -111,6 +111,10 @@
     {
       "name": "ナタリー",
       "count": 5
+    },
+    {
+      "name": "めざましmedia",
+      "count": 4
     },
     {
       "name": "eeo",
@@ -138,10 +142,6 @@
     },
     {
       "name": "山陽新聞",
-      "count": 3
-    },
-    {
-      "name": "めざましmedia",
       "count": 3
     },
     {
@@ -906,13 +906,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T21:30:20.210Z",
+    "previousAt": "2026-10-15T22:00:18.056Z",
     "previousCount": 141,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T22:30:18.056Z",
+  "nextUpdateAt": "2026-10-15T23:00:21.143Z",
   "items": [
+    {
+      "id": "d7ef1508d22d",
+      "title": "ちいかわ「モモンガ」キャラ弁を制作 あまりのクオリティの高さに「開けたら感動」（LIMO）",
+      "url": "https://news.yahoo.co.jp/articles/a236c6b7636cd13f4f9bbca068911bff0dffde2e",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T22:20:40.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00141937-toushin-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6e9eb8539fbb",
+      "title": "10月16日(金)の「ちいかわ占い」",
+      "url": "https://mezamashi.media/articles/-/355283",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
+      "summary": "",
+      "publishedAt": "2026-10-15T22:00:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "8db9a6c51fd3",
       "title": "バンダイ「光るパジャマ」×『ちいかわ』コラボ登場！ あまりのキュートさにファン悶絶「神アイテム」 | 概要 | 漫画 | 最新コラム",
@@ -931,7 +971,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d2518a43c86b",
@@ -1787,12 +1827,12 @@
       "url": "https://www.inside-games.jp/article/2026/10/15/189287.html",
       "host": "inside-games.jp",
       "source": "インサイド",
-      "summary": "「ちいかわクリスマスマーケット」が11月24日～12月25日の期間、千葉県千葉市の豊砂公園にて開催！",
+      "summary": "",
       "publishedAt": "2026-10-15T03:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1791636.png",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1791636.png",
       "categories": [
         "goods",
-        "event"
+        "game"
       ],
       "series": [],
       "isOfficial": false,
@@ -2810,7 +2850,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b177490f07a6",
@@ -3318,7 +3358,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e3e84d77ecf",
