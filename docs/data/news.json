@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:00:19.938Z",
+  "updatedAt": "2026-10-15T18:30:24.161Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 84
+      "count": 83
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 35
+      "count": 34
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 23
+      "count": 24
     },
     {
       "id": "book",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "usagi",
@@ -105,6 +105,10 @@
       "count": 6
     },
     {
+      "name": "電撃オンライン",
+      "count": 5
+    },
+    {
       "name": "オリコンニュース",
       "count": 5
     },
@@ -114,10 +118,6 @@
     },
     {
       "name": "eeo",
-      "count": 4
-    },
-    {
-      "name": "電撃オンライン",
       "count": 4
     },
     {
@@ -185,10 +185,6 @@
       "count": 2
     },
     {
-      "name": "https://mediadogs.jp/",
-      "count": 2
-    },
-    {
       "name": "ニコニコニュース",
       "count": 2
     },
@@ -213,7 +209,7 @@
       "count": 1
     },
     {
-      "name": "Yahoo!ファイナンス",
+      "name": "Reuters",
       "count": 1
     },
     {
@@ -281,6 +277,10 @@
       "count": 1
     },
     {
+      "name": "https://mediadogs.jp/",
+      "count": 1
+    },
+    {
       "name": "キャラグー",
       "count": 1
     },
@@ -297,10 +297,6 @@
       "count": 1
     },
     {
-      "name": "もぐナビ",
-      "count": 1
-    },
-    {
       "name": "Gamer",
       "count": 1
     },
@@ -310,6 +306,10 @@
     },
     {
       "name": "Dtimes",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -630,7 +630,7 @@
           "title": "画像・写真 | 映画『ちいかわ』興収179.5億円突破 『踊る大捜査線 レインボーブリッジを封鎖せよ！』抜き歴代12位 5枚目",
           "url": "https://www.oricon.co.jp/news/2486071/photo/5/",
           "source": "オリコンニュース",
-          "publishedAt": "2026-10-13T07:10:00.000Z",
+          "publishedAt": "2026-10-13T08:37:55.000Z",
           "isPR": false
         },
         {
@@ -907,12 +907,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T17:30:19.432Z",
+    "previousAt": "2026-10-15T18:00:19.938Z",
     "previousCount": 141,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T18:30:19.938Z",
+  "nextUpdateAt": "2026-10-15T19:00:24.161Z",
   "items": [
     {
       "id": "756231199550",
@@ -1312,13 +1312,13 @@
     },
     {
       "id": "c93acf08e968",
-      "title": "東宝、営業利益予想据え置き 「ちいかわ」ヒットは織り込み済み(ロイター)",
-      "url": "https://finance.yahoo.co.jp/news/detail/e082ed7c220fce68717dea01968ad3204812b5a0",
-      "host": "finance.yahoo.co.jp",
-      "source": "Yahoo!ファイナンス",
+      "title": "東宝、営業利益予想据え置き 「ちいかわ」ヒットは織り込み済み",
+      "url": "https://www.reuters.com/jp/world/OUZTY25RWBPLRMOVCEAEB5IPQA-2026-10-15/",
+      "host": "reuters.com",
+      "source": "Reuters",
       "summary": "",
-      "publishedAt": "2026-10-15T07:45:25.000Z",
-      "image": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+      "publishedAt": "2026-10-15T07:47:03.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2578,6 +2578,25 @@
       "isNew": false
     },
     {
+      "id": "22f0f7865baa",
+      "title": "『ちいかわ』限定エコバッグが登場。水に強く汚れにくい素材で、買い物やプールなどのお出かけにオススメ！",
+      "url": "https://dengekionline.com/article/202610/90865",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-14T04:15:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/90865/ogp_mAZl.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8ac35d801713",
       "title": "【第31回釜山国際映画祭】日本アニメ特集でりんたろう「メトロポリス」に若い世代から質問相次ぐ 韓国初登場1位「ちいかわ」も盛況 : 映画ニュース",
       "url": "https://eiga.com/news/20261014/10/",
@@ -2930,26 +2949,6 @@
       "isNew": false
     },
     {
-      "id": "a7c90c520b4b",
-      "title": "ちいかわクリスマスマーケットが千葉幕張で開催 チケット予約方法や特典とグッズを整理",
-      "url": "https://mediadogs.jp/2026/10/14/chiikawa-christmas-market-chiba/",
-      "host": "mediadogs.jp",
-      "source": "https://mediadogs.jp/",
-      "summary": "",
-      "publishedAt": "2026-10-13T15:22:46.000Z",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/01/sp_image_16_9_4.webp",
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "bbaf00d94cb2",
       "title": "『ちいかわ』最新話更新（10/13）。シーサーの少し強引な免許返納（物理）。結果は…!?",
       "url": "https://dengekionline.com/article/202610/90866",
@@ -3067,25 +3066,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36eb47aadbc7",
-      "title": "不二家 ちいかわ ペロペロチョコ（不二家）クチコミ1件・評価5.0/7点",
-      "url": "https://mognavi.jp/product/1384712",
-      "host": "mognavi.jp",
-      "source": "もぐナビ",
-      "summary": "",
-      "publishedAt": "2026-10-13T10:10:44.000Z",
-      "image": "https://mognavi.jp/image/food/00/00/51/3636199_original.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -3283,6 +3263,25 @@
       "isNew": false
     },
     {
+      "id": "ee6164892a35",
+      "title": "画像・写真 | 映画『ちいかわ』興収179.5億円突破 『踊る大捜査線 レインボーブリッジを封鎖せよ！』抜き歴代12位 5枚目",
+      "url": "https://www.oricon.co.jp/news/2486071/photo/5/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T08:37:55.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486071/20260928_154632_p_o_18196788.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "33a934a25634",
       "title": "『ちいかわぽけっと』公式グッズ第4弾が10月24日発売！ 福岡PARCOにポップアップストアも登場",
       "url": "https://www.fukuoka-navi.jp/416167",
@@ -3394,25 +3393,6 @@
       "categories": [
         "event",
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ee6164892a35",
-      "title": "画像・写真 | 映画『ちいかわ』興収179.5億円突破 『踊る大捜査線 レインボーブリッジを封鎖せよ！』抜き歴代12位 5枚目",
-      "url": "https://www.oricon.co.jp/news/2486071/photo/5/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T07:10:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486071/20260928_154632_p_o_18196788.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -3657,6 +3637,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "de6a2b0f0194",
+      "title": "【ちいかわ】ハチワレたちのダンスがかわいすぎる…！ 『ちいかわ』第36話「ふしぎな杖①」が見逃し配信中",
+      "url": "http://www.excite.co.jp/news/article/pashplus_EXCITE_498587/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-13T03:01:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2a9a5caab482",
