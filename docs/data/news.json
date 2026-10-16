@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:26:05.069Z",
+  "updatedAt": "2026-10-16T01:00:19.417Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,12 +12,12 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 83
+      "count": 82
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "collab",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 33
+      "count": 32
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 23
+      "count": 24
     },
     {
       "id": "book",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 21
+      "count": 22
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 31
+      "count": 32
     },
     {
       "name": "コラボカフェ",
@@ -102,7 +102,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 6
+      "count": 5
     },
     {
       "name": "ナタリー",
@@ -185,6 +185,10 @@
       "count": 2
     },
     {
+      "name": "キャラグー",
+      "count": 2
+    },
+    {
       "name": "ニコニコニュース",
       "count": 2
     },
@@ -193,7 +197,7 @@
       "count": 2
     },
     {
-      "name": "キャラクターサービスのPerfect World Tokyo",
+      "name": "パーフェクトワールド株式会社",
       "count": 1
     },
     {
@@ -245,10 +249,6 @@
       "count": 1
     },
     {
-      "name": "AIRLINE web",
-      "count": 1
-    },
-    {
       "name": "TRAICY（トライシー）",
       "count": 1
     },
@@ -278,10 +278,6 @@
     },
     {
       "name": "映画.com",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     },
     {
@@ -326,8 +322,8 @@
       "image": "https://animeanime.jp/imgs/rss/943082.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-15T12:00:02.000Z",
-      "sourceCount": 20,
-      "articleCount": 23,
+      "sourceCount": 19,
+      "articleCount": 22,
       "categories": [
         "goods",
         "collab"
@@ -596,6 +592,63 @@
       ]
     },
     {
+      "id": "7d558ef4b33a",
+      "title": "「ちいかわパーク」クリスマス企画が11月20日より開催決定！ 期間限定の装飾や特別グリーティングなどが実施",
+      "summary": "",
+      "url": "https://eeo.today/media/2026/10/15/402902/",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/10/20261014_chiikawa-1.jpg",
+      "leadSource": "eeo",
+      "publishedAt": "2026-10-15T06:53:28.000Z",
+      "sourceCount": 5,
+      "articleCount": 6,
+      "categories": [
+        "event",
+        "anime"
+      ],
+      "keywords": [
+        "パーク",
+        "クリスマス",
+        "グリーティング"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場（アニメ！アニメ！）",
+          "url": "https://news.yahoo.co.jp/articles/b452fed5d925febff92f081ae79108bb429ff952",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-14T11:00:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわパーク」がクリスマス仕様に!華やかな装飾やちいかわが特別な衣装で登場するグリーティングを開催 (めざましmedia)",
+          "url": "https://news.yahoo.co.jp/articles/babd8bad7f52dcc5ccd2aab5bbbb005cafeaf143/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-14T03:40:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわパークがクリスマス仕様に 限定衣装で11月20日より開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-event-chiikawa-park-christmas-2026/?amp",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-14T03:19:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ「ちいかわ」カップスープ2種類が期間限定で登場！キラキラシール付き",
+          "url": "https://charalab.com/144118/",
+          "source": "キャラクター情報サイト",
+          "publishedAt": "2026-10-13T23:03:28.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわパーク」がクリスマス仕様に！11月20日(金)より期間限定の装飾や特別グリーティングを開催",
+          "url": "https://news.nicovideo.jp/watch/nw19875086",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-13T19:18:27.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "f559302bdd9d",
       "title": "コロネになった「ちいかわ」たちのマスコットが10月15日発売！ぐるぐる巻かれ、カラフルなフレーバー全8種",
       "summary": "「ちいかわベーカリー コロネなマスコット（全8種）」が10月15日11時よりちいかわマーケットにて発売！",
@@ -653,56 +706,6 @@
       ]
     },
     {
-      "id": "d3fdd1a6df28",
-      "title": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場",
-      "summary": "『ちいかわ』の体験型施設「ちいかわパーク」では2026年11月20日から12月25日にかけて、クリスマスシーズンに合わせた期間限定企画が開催される。期間中は、パーク内がクリスマスをイメージした華やかな装飾に彩られ、いつもとはひと味違う空間を楽しめる。さらに、ちいかわたちがクリスマス限定衣装で登場する特別なグリーティン…",
-      "url": "https://animeanime.jp/article/2026/10/14/103807.html",
-      "image": "https://animeanime.jp/imgs/rss/942533.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-15T06:53:28.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "event",
-        "anime"
-      ],
-      "keywords": [
-        "パーク",
-        "クリスマス",
-        "グリーティング"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわパーク」クリスマス企画が11月20日より開催決定！ 期間限定の装飾や特別グリーティングなどが実施",
-          "url": "https://eeo.today/media/2026/10/15/402902/",
-          "source": "eeo",
-          "publishedAt": "2026-10-15T06:53:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわパーク」がクリスマス仕様に!華やかな装飾やちいかわが特別な衣装で登場するグリーティングを開催 (めざましmedia)",
-          "url": "https://news.yahoo.co.jp/articles/babd8bad7f52dcc5ccd2aab5bbbb005cafeaf143/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-14T03:40:34.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわパークがクリスマス仕様に 限定衣装で11月20日より開催!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-event-chiikawa-park-christmas-2026/?amp",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-10-14T03:19:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわパーク」がクリスマス仕様に！11月20日(金)より期間限定の装飾や特別グリーティングを開催",
-          "url": "https://news.nicovideo.jp/watch/nw19875086",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-13T19:18:27.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "867991aa83d0",
       "title": "『まじかるちいかわ』強くなったハチワレとうさぎとあのこの巨大抱きぬいぐるみが10月13日より受注予約開始！",
       "summary": "",
@@ -753,15 +756,15 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-15T10:10:03.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "goods",
         "kuji"
       ],
       "keywords": [
         "プライズ",
-        "展開",
-        "big"
+        "ハチワレ",
+        "展開"
       ],
       "articles": [
         {
@@ -774,6 +777,13 @@
         {
           "title": "ちいかわ ふわふわBIGブランケット｜ちいかわのプライズ 入荷予定・取扱店舗",
           "url": "https://charagoo.jp/prize/item/59effef26c99/",
+          "source": "キャラグー",
+          "publishedAt": "2026-10-14T00:19:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
           "source": "キャラグー",
           "publishedAt": "2026-10-14T00:19:15.000Z",
           "isPR": false
@@ -910,12 +920,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T00:00:16.661Z",
+    "previousAt": "2026-10-16T00:26:05.069Z",
     "previousCount": 143,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T00:56:05.069Z",
+  "nextUpdateAt": "2026-10-16T01:30:19.417Z",
   "items": [
     {
       "id": "756231199550",
@@ -1040,7 +1050,7 @@
       "title": "ちいかわ×アウトドアコラボペンケース。ちいかわのふわふわとした愛らしいデザインが癒しすぎます。",
       "url": "https://perfectworld.tokyo/news/tiikawaoutdoorpouch/",
       "host": "perfectworld.tokyo",
-      "source": "キャラクターサービスのPerfect World Tokyo",
+      "source": "パーフェクトワールド株式会社",
       "summary": "",
       "publishedAt": "2026-10-15T21:12:47.000Z",
       "image": "https://perfectworld.tokyo/news/wp-content/uploads/2026/10/0b1ee9ccfd1545c3d5e0b0c2884f3ec1.png",
@@ -1238,7 +1248,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-15T10:18:27.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/538/02.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1845,25 +1855,6 @@
       "isNew": false
     },
     {
-      "id": "d132d1f9a0a4",
-      "title": "「ちいかわ×ANA」オリジナルグッズ第1弾が10月23日より順次発売。ANA FESTA羽田店はちいかわ仕様に",
-      "url": "https://airline.ikaros.jp/news/62014/",
-      "host": "airline.ikaros.jp",
-      "source": "AIRLINE web",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:32:53.000Z",
-      "image": "https://airline.ikaros.jp/wp-content/uploads/2026/10/20261015_ana-chiikawa_01.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "e6cdf2a2863a",
       "title": "「ちいかわクリスマスマーケット」チケット先行抽選が開始！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
       "url": "https://www.inside-games.jp/article/2026/10/15/189287.html",
@@ -2378,15 +2369,15 @@
     },
     {
       "id": "d3fdd1a6df28",
-      "title": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場",
-      "url": "https://animeanime.jp/article/2026/10/14/103807.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "『ちいかわ』の体験型施設「ちいかわパーク」では2026年11月20日から12月25日にかけて、クリスマスシーズンに合わせた期間限定企画が開催される。期間中は、パーク内がクリスマスをイメージした華やかな装飾に彩られ、いつもとはひと味違う空間を楽しめる。さらに、ちいかわたちがクリスマス限定衣装で登場する特別なグリーティン…",
+      "title": "「ちいかわパーク」がクリスマス仕様に！ サンタ帽を被ったハチワレたちとグリーティング♪ 新商品も登場（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/b452fed5d925febff92f081ae79108bb429ff952",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-10-14T11:00:03.000Z",
-      "image": "https://animeanime.jp/imgs/rss/942533.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00000026-anmanmv-000-1-view.jpg?exp=10800",
       "categories": [
-        "event"
+        "anime"
       ],
       "series": [
         "hachiware"
@@ -2815,6 +2806,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "82498abc23d4",
+      "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-14T00:19:15.000Z",
+      "image": "",
+      "categories": [
+        "kuji"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e09aec4fdf14",
