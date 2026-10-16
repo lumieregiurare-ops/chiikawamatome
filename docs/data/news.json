@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:00:16.616Z",
+  "updatedAt": "2026-10-16T16:30:17.065Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -117,10 +117,6 @@
       "count": 3
     },
     {
-      "name": "ふねぽ",
-      "count": 3
-    },
-    {
       "name": "めざましmedia",
       "count": 3
     },
@@ -145,11 +141,19 @@
       "count": 2
     },
     {
+      "name": "au Webポータル",
+      "count": 2
+    },
+    {
       "name": "風傳媒",
       "count": 2
     },
     {
       "name": "Infoseek",
+      "count": 2
+    },
+    {
+      "name": "ふねぽ",
       "count": 2
     },
     {
@@ -254,10 +258,6 @@
     },
     {
       "name": "MANTANWEB",
-      "count": 1
-    },
-    {
-      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -871,12 +871,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T15:30:18.102Z",
-    "previousCount": 124,
-    "newCount": 1
+    "previousAt": "2026-10-16T16:00:16.616Z",
+    "previousCount": 122,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T16:30:16.616Z",
+  "nextUpdateAt": "2026-10-16T17:00:17.065Z",
   "items": [
     {
       "id": "11449e4cfc35",
@@ -1036,6 +1036,25 @@
       "isNew": false
     },
     {
+      "id": "e30d07a8ab2d",
+      "title": "「一番くじ ちいかわ ～みんなで遊園地～」発売決定！ ファンから嬉しい悲鳴続々「ちいかわ貯金始めなきゃ…！」",
+      "url": "https://article.auone.jp/c71bf2a0-da44-437f-8707-601fb9c44958",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-10-16T08:33:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/16/https___news_jp_i_1483745167873458983_w1080.webp",
+      "categories": [
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "def8d7d2fa3f",
       "title": "「一番くじ ちいかわ 〜みんなで遊園地〜」発売決定！ ファンから嬉しい悲鳴続々「ちいかわ貯金始めなきゃ…！」（ふたまん＋）",
       "url": "https://news.yahoo.co.jp/articles/b3d8cd1f143f13f800ca93151e4a9f3cb8153560",
@@ -1065,25 +1084,6 @@
       "image": "https://www.inside-games.jp/imgs/rss/1795000.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e30d07a8ab2d",
-      "title": "「一番くじ ちいかわ ～みんなで遊園地～」発売決定！ファンから嬉しい悲鳴続々「ちいかわ貯金始めなきゃ…！」",
-      "url": "https://futaman.futabanet.jp/articles/-/132553?page",
-      "host": "futaman.futabanet.jp",
-      "source": "ふねぽ",
-      "summary": "",
-      "publishedAt": "2026-10-16T08:00:00.000Z",
-      "image": "https://futaman.ismcdn.jp/mwimgs/a/3/1200wm/img_a3490f72aeeb93053e6c83a735127cfa304271.jpg",
-      "categories": [
-        "kuji"
       ],
       "series": [],
       "isOfficial": false,
@@ -2337,7 +2337,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5257966841e2",
