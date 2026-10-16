@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:00:18.480Z",
+  "updatedAt": "2026-10-16T18:30:17.811Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 120,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "goods",
@@ -17,12 +17,12 @@
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 24
+      "count": 23
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 14
+      "count": 15
     },
     {
       "id": "book",
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "momonga",
@@ -105,6 +105,10 @@
       "count": 5
     },
     {
+      "name": "山陽新聞",
+      "count": 3
+    },
+    {
       "name": "オリコンニュース",
       "count": 3
     },
@@ -131,6 +135,10 @@
     {
       "name": "にじめん",
       "count": 3
+    },
+    {
+      "name": "キャラグー",
+      "count": 2
     },
     {
       "name": "アニメハック",
@@ -177,18 +185,6 @@
       "count": 2
     },
     {
-      "name": "山陽新聞",
-      "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "電撃オンライン",
       "count": 1
     },
@@ -218,10 +214,6 @@
     },
     {
       "name": "旅とおでかけ 鉄道チャンネル",
-      "count": 1
-    },
-    {
-      "name": "パーフェクトワールド株式会社",
       "count": 1
     },
     {
@@ -282,6 +274,10 @@
     },
     {
       "name": "Koubo",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     }
   ],
@@ -585,8 +581,8 @@
       "image": "https://times-abema.ismcdn.jp/mwimgs/7/7/1200w/img_771e50bee2142314898c3ce99ba4f86f490636.jpg",
       "leadSource": "ABEMA TIMES",
       "publishedAt": "2026-10-15T12:12:00.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "other",
         "goods"
@@ -623,13 +619,6 @@
           "url": "https://hobby.dengeki.com/news/3195041/",
           "source": "電撃ホビーウェブ",
           "publishedAt": "2026-10-14T04:58:34.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【受注予約】『まじかるちいかわ』より強くなったハチワレ・強くなったうさぎ・あのこの巨大な「ふんわりもっちり",
-          "url": "https://news.nicovideo.jp/watch/nw19875083",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-13T19:18:24.000Z",
           "isPR": false
         }
       ]
@@ -907,13 +896,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T17:30:24.713Z",
+    "previousAt": "2026-10-16T18:00:18.480Z",
     "previousCount": 120,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T18:30:18.480Z",
+  "nextUpdateAt": "2026-10-16T19:00:17.811Z",
   "items": [
+    {
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.sanyonews.jp/article/1994052?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-16T16:01:53.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d81b52ba2559",
       "title": "ちいかわ むちゃうま！！ちいかわ寿司POP UP STORE 福岡三越｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
@@ -932,7 +941,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "11449e4cfc35",
@@ -1560,25 +1569,6 @@
       "summary": "",
       "publishedAt": "2026-10-15T21:30:00.000Z",
       "image": "https://futaman.ismcdn.jp/mwimgs/8/5/1200wm/img_85d4aa5da3a709905b8c5b4f1691f7eb141878.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d2518a43c86b",
-      "title": "ちいかわ×アウトドアコラボペンケース。ちいかわのふわふわとした愛らしいデザインが癒しすぎます。",
-      "url": "https://perfectworld.tokyo/news/tiikawaoutdoorpouch/",
-      "host": "perfectworld.tokyo",
-      "source": "パーフェクトワールド株式会社",
-      "summary": "",
-      "publishedAt": "2026-10-15T21:12:47.000Z",
-      "image": "https://perfectworld.tokyo/news/wp-content/uploads/2026/10/0b1ee9ccfd1545c3d5e0b0c2884f3ec1.png",
       "categories": [
         "collab"
       ],
@@ -3107,7 +3097,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1a6296a6e9d5",
@@ -3130,6 +3120,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "82498abc23d4",
+      "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-14T00:19:15.000Z",
+      "image": "",
+      "categories": [
+        "kuji"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6f320f5b9a85",
@@ -3266,28 +3277,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b113f06ff746",
-      "title": "【受注予約】『まじかるちいかわ』より強くなったハチワレ・強くなったうさぎ・あのこの巨大な「ふんわりもっちり",
-      "url": "https://news.nicovideo.jp/watch/nw19875083",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T19:18:24.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
