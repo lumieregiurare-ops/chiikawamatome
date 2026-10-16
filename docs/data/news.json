@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:00:16.661Z",
+  "updatedAt": "2026-10-16T00:26:05.069Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,12 +12,12 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 82
+      "count": 83
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "collab",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 22
+      "count": 21
     },
     {
       "id": "usagi",
@@ -90,15 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 29
-    },
-    {
-      "name": "インサイド",
-      "count": 9
+      "count": 31
     },
     {
       "name": "コラボカフェ",
       "count": 8
+    },
+    {
+      "name": "インサイド",
+      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
@@ -185,10 +185,6 @@
       "count": 2
     },
     {
-      "name": "キャラグー",
-      "count": 2
-    },
-    {
       "name": "ニコニコニュース",
       "count": 2
     },
@@ -249,6 +245,10 @@
       "count": 1
     },
     {
+      "name": "AIRLINE web",
+      "count": 1
+    },
+    {
       "name": "TRAICY（トライシー）",
       "count": 1
     },
@@ -278,6 +278,10 @@
     },
     {
       "name": "映画.com",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     },
     {
@@ -323,7 +327,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-15T12:00:02.000Z",
       "sourceCount": 20,
-      "articleCount": 22,
+      "articleCount": 23,
       "categories": [
         "goods",
         "collab"
@@ -749,15 +753,15 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-15T10:10:03.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "goods",
         "kuji"
       ],
       "keywords": [
         "プライズ",
-        "ハチワレ",
-        "展開"
+        "展開",
+        "big"
       ],
       "articles": [
         {
@@ -770,13 +774,6 @@
         {
           "title": "ちいかわ ふわふわBIGブランケット｜ちいかわのプライズ 入荷予定・取扱店舗",
           "url": "https://charagoo.jp/prize/item/59effef26c99/",
-          "source": "キャラグー",
-          "publishedAt": "2026-10-14T00:19:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
           "source": "キャラグー",
           "publishedAt": "2026-10-14T00:19:15.000Z",
           "isPR": false
@@ -913,12 +910,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T23:30:21.094Z",
-    "previousCount": 142,
-    "newCount": 3
+    "previousAt": "2026-10-16T00:00:16.661Z",
+    "previousCount": 143,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T00:30:16.661Z",
+  "nextUpdateAt": "2026-10-16T00:56:05.069Z",
   "items": [
     {
       "id": "756231199550",
@@ -1174,7 +1171,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fc98fde63a53",
@@ -1848,6 +1845,25 @@
       "isNew": false
     },
     {
+      "id": "d132d1f9a0a4",
+      "title": "「ちいかわ×ANA」オリジナルグッズ第1弾が10月23日より順次発売。ANA FESTA羽田店はちいかわ仕様に",
+      "url": "https://airline.ikaros.jp/news/62014/",
+      "host": "airline.ikaros.jp",
+      "source": "AIRLINE web",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:32:53.000Z",
+      "image": "https://airline.ikaros.jp/wp-content/uploads/2026/10/20261015_ana-chiikawa_01.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e6cdf2a2863a",
       "title": "「ちいかわクリスマスマーケット」チケット先行抽選が開始！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
       "url": "https://www.inside-games.jp/article/2026/10/15/189287.html",
@@ -1908,13 +1924,13 @@
     },
     {
       "id": "78fdb6f377be",
-      "title": "「ちいかわ×ANA」オリジナルコラボグッズ第1弾が10月23日順次発売！ANA制服姿で働くちいかわたちのマスコットやぬいぐるみなど多数",
-      "url": "https://www.inside-games.jp/article/2026/10/15/189285.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "「ちいかわ×ANA」オリジナルコラボグッズ第1弾が10月23日順次発売！ANA制服姿で働くちいかわたちのマスコットやぬいぐるみなど多数 (インサイド)",
+      "url": "https://news.yahoo.co.jp/articles/0dce763af03868528bafb32da7ec834bafe68d90/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-15T03:20:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1794092.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnShob4swnPbQuvcdhumKephwoFSMpzjFEXsuLB0EnLoDau8r14etI6WEVTcYipVofn1esR04uJ5rEPA12oaWNAlGUGCOW47gq1-5wtyZ02Qq",
       "categories": [
         "goods",
         "collab"
@@ -2548,7 +2564,7 @@
       "source": "コラボカフェ",
       "summary": "",
       "publishedAt": "2026-10-14T05:25:47.000Z",
-      "image": "",
+      "image": "https://collabo-cafe.com/wp-content/uploads/d2575976357c136d9a74e4a4cad64f35-4.jpeg",
       "categories": [
         "event"
       ],
@@ -2799,27 +2815,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "82498abc23d4",
-      "title": "ちいかわプレミアムドームクッションちいかわ&ハチワレ｜ちいかわのプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/64d2c88e720a/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-14T00:19:15.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e09aec4fdf14",
@@ -3311,13 +3306,13 @@
     },
     {
       "id": "8c497b23a824",
-      "title": "ちいかわの「ヤダッ！！」やハチワレの「…ってコト！？」など、セリフデザイン全9種がグッズ作成サービス「Talking ODM」に10月14日追加！",
-      "url": "https://www.inside-games.jp/article/2026/10/13/189195.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "ちいかわの「ヤダッ！！」やハチワレの「…ってコト！？」など、セリフデザイン全9種がグッズ作成サービス「Talking ODM」に10月14日追加！（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/b1434171aab33d1176f011ca1a3ca3f66feeefff",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-13T08:45:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1793109.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000044-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -3367,7 +3362,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e3e84d77ecf",
