@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:30:18.786Z",
+  "updatedAt": "2026-10-17T00:00:18.985Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 61
+      "count": 60
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 12
+      "count": 11
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 28
+      "count": 27
     },
     {
       "name": "インサイド",
@@ -117,10 +117,6 @@
       "count": 3
     },
     {
-      "name": "cinemacafe.net",
-      "count": 3
-    },
-    {
       "name": "にじめん",
       "count": 3
     },
@@ -130,6 +126,10 @@
     },
     {
       "name": "キャラグー",
+      "count": 2
+    },
+    {
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -169,6 +169,10 @@
       "count": 2
     },
     {
+      "name": "cinemacafe.net",
+      "count": 2
+    },
+    {
       "name": "LIMO | くらしとお金の経済メディア",
       "count": 2
     },
@@ -186,10 +190,6 @@
     },
     {
       "name": "日本経済新聞",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -270,6 +270,10 @@
     },
     {
       "name": "映画.com",
+      "count": 1
+    },
+    {
+      "name": "NewsCafe",
       "count": 1
     }
   ],
@@ -494,9 +498,9 @@
       ],
       "articles": [
         {
-          "title": "強くなったハチワレ＆強くなったうさぎ＆あのこ「まじかるちいかわ」巨大ぬいぐるみが登場",
-          "url": "https://www.cinemacafe.net/article/2026/10/14/113309.html",
-          "source": "cinemacafe.net",
+          "title": "強くなったハチワレ＆強くなったうさぎ＆あのこ「まじかるちいかわ」巨大ぬいぐるみが登場（cinemacafe.net）",
+          "url": "https://news.yahoo.co.jp/articles/84c6af86024b852c7a9e210ee3ba557eb41d0b6b",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-14T07:00:03.000Z",
           "isPR": false
         },
@@ -625,14 +629,15 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-10-16T22:30:03.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "goods",
         "kuji"
       ],
       "keywords": [
         "展開",
-        "プライズ"
+        "プライズ",
+        "最新話更新"
       ],
       "articles": [
         {
@@ -647,6 +652,13 @@
           "url": "https://animeanime.jp/article/2026/10/16/103857.html",
           "source": "アニメ！アニメ！",
           "publishedAt": "2026-10-16T00:30:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』最新話更新（10/15）。そうきたか…まさかの展開でシーサーはどうなる!?",
+          "url": "https://dengekionline.com/article/202610/91131",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-15T13:54:00.000Z",
           "isPR": false
         }
       ]
@@ -692,7 +704,7 @@
       "title": "映画『ちいかわ』特典年内に一部リバイバル配布決定 意味深な新ビジュアル解禁",
       "summary": "",
       "url": "https://www.sanyonews.jp/article/2001001?rct",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/14/20261014dog00m200010000a/001.jpg",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/a/7/f/fa7f1ed6c0de0d3ceca04712a3d2fa7b_1.jpg",
       "leadSource": "山陽新聞",
       "publishedAt": "2026-10-14T16:24:39.000Z",
       "sourceCount": 3,
@@ -731,7 +743,7 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000001-isd-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-14T15:10:03.000Z",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "articleCount": 3,
       "categories": [
         "goods",
@@ -751,10 +763,10 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種（cinemacafe.net）",
-          "url": "https://news.yahoo.co.jp/articles/895f43dbed6b4d6f9e0a805c260cd5deda3e68b7",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-14T00:00:04.000Z",
+          "title": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種",
+          "url": "https://www.newscafe.ne.jp/article/2026/10/14/3034334.html",
+          "source": "NewsCafe",
+          "publishedAt": "2026-10-14T00:16:06.000Z",
           "isPR": false
         }
       ]
@@ -817,12 +829,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T23:00:17.572Z",
-    "previousCount": 114,
-    "newCount": 2
+    "previousAt": "2026-10-16T23:30:18.786Z",
+    "previousCount": 115,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T00:00:18.786Z",
+  "nextUpdateAt": "2026-10-17T00:30:18.985Z",
   "items": [
     {
       "id": "9150b2e547e7",
@@ -1440,26 +1452,6 @@
       "isNew": false
     },
     {
-      "id": "09fbdc7b5516",
-      "title": "【映画ランキング】新作4本参戦も『ちいかわ』首位奪還！『バイオハザード』2位、横浜流星×広瀬すず『汝、星のごとく』4位",
-      "url": "https://news.yahoo.co.jp/articles/e53d27c559a06a8f647d1baa87bbda10f7649709",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T02:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-01448367-tkwalk-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "65db532a225d",
       "title": "「ちいかわクリスマスマーケット」幕張豊砂で11/24から！先行抽選は10/15～25まで、どう申し込む？ 限定フード全35種、入場は大人2,500円",
       "url": "https://tetsudo-ch.com/13041326.html",
@@ -1558,6 +1550,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d34b5da7c7ac",
+      "title": "『ちいかわ』最新話更新（10/15）。そうきたか…まさかの展開でシーサーはどうなる!?",
+      "url": "https://dengekionline.com/article/202610/91131",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-15T13:54:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_Tnsc.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d148fb69c30f",
@@ -1712,7 +1725,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd88df87b50a",
@@ -1722,7 +1735,7 @@
       "source": "ふくおかナビ",
       "summary": "",
       "publishedAt": "2026-10-15T08:23:34.000Z",
-      "image": "https://www.fukuoka-navi.jp/wp-content/uploads/2026/10/9jFudSJYYaxJFI4gZVuef05folQ3oBziJrkOV0eN_tFDKeYG99AIZ8j9n5OF30YtjPWAYYw4t8q2ADLH49ToYcGIih1MXpUpG0e6sO1fhv7iPoMWKPCmohaRQRwEwu6OPzO4cgbTpvzzJh2LspiPAgFxntNEWwDNi8kmIFZHtgaWrk-K_8LEFjFAwIKS5cuG.jpeg",
+      "image": "",
       "categories": [
         "goods",
         "collab"
@@ -2411,7 +2424,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-14T22:30:00.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/707611_1.jpg",
+      "image": "",
       "categories": [
         "event",
         "goods"
@@ -2488,7 +2501,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-14T16:58:10.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/c/3/20c3bd5fd117f75e8519caa6e4337ef1_1.jpg",
       "categories": [
         "other"
       ],
@@ -2509,7 +2522,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-14T16:24:39.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/a/7/f/fa7f1ed6c0de0d3ceca04712a3d2fa7b_1.jpg",
       "categories": [
         "anime"
       ],
@@ -2718,13 +2731,13 @@
     },
     {
       "id": "665f6286760c",
-      "title": "強くなったハチワレ＆強くなったうさぎ＆あのこ「まじかるちいかわ」巨大ぬいぐるみが登場",
-      "url": "https://www.cinemacafe.net/article/2026/10/14/113309.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
+      "title": "強くなったハチワレ＆強くなったうさぎ＆あのこ「まじかるちいかわ」巨大ぬいぐるみが登場（cinemacafe.net）",
+      "url": "https://news.yahoo.co.jp/articles/84c6af86024b852c7a9e210ee3ba557eb41d0b6b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-14T07:00:03.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/839379.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00000008-cine-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -3084,13 +3097,13 @@
     },
     {
       "id": "6f320f5b9a85",
-      "title": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種（cinemacafe.net）",
-      "url": "https://news.yahoo.co.jp/articles/895f43dbed6b4d6f9e0a805c260cd5deda3e68b7",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ちいかわベーカリー」2周年記念グッズ、10月15日発売！コロネなマスコット全8種",
+      "url": "https://www.newscafe.ne.jp/article/2026/10/14/3034334.html",
+      "host": "newscafe.ne.jp",
+      "source": "NewsCafe",
       "summary": "",
-      "publishedAt": "2026-10-14T00:00:04.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00000002-cine-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-14T00:16:06.000Z",
+      "image": "https://www.newscafe.ne.jp/imgs/ogp_f/22852352.jpg",
       "categories": [
         "goods"
       ],
