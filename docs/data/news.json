@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T12:30:19.959Z",
+  "updatedAt": "2026-10-17T13:00:17.360Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 99,
-  "todayCount": 21,
+  "total": 97,
+  "todayCount": 20,
   "categories": [
     {
       "id": "goods",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 25
+      "count": 26
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 8
+      "count": 6
     },
     {
       "id": "book",
@@ -42,19 +42,19 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 18
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 13
+      "count": 11
     },
     {
       "id": "usagi",
@@ -90,11 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 25
     },
     {
       "name": "インサイド",
       "count": 9
+    },
+    {
+      "name": "山陽新聞",
+      "count": 4
     },
     {
       "name": "電撃オンライン",
@@ -105,11 +109,11 @@
       "count": 4
     },
     {
-      "name": "朝日新聞",
+      "name": "Infoseek",
       "count": 3
     },
     {
-      "name": "山陽新聞",
+      "name": "朝日新聞",
       "count": 3
     },
     {
@@ -121,15 +125,7 @@
       "count": 3
     },
     {
-      "name": "ライブドアニュース",
-      "count": 3
-    },
-    {
       "name": "オリコンニュース",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -165,10 +161,6 @@
       "count": 1
     },
     {
-      "name": "47NEWS",
-      "count": 1
-    },
-    {
       "name": "めざましmedia",
       "count": 1
     },
@@ -201,10 +193,6 @@
       "count": 1
     },
     {
-      "name": "TVer",
-      "count": 1
-    },
-    {
       "name": "K-TREND TIMES",
       "count": 1
     },
@@ -214,6 +202,10 @@
     },
     {
       "name": "いこーよニュース",
+      "count": 1
+    },
+    {
+      "name": "ファッションプレス",
       "count": 1
     },
     {
@@ -246,6 +238,10 @@
     },
     {
       "name": "ナタリー",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -703,12 +699,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T12:00:18.456Z",
-    "previousCount": 102,
-    "newCount": 1
+    "previousAt": "2026-10-17T12:30:19.959Z",
+    "previousCount": 99,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T13:00:19.959Z",
+  "nextUpdateAt": "2026-10-17T13:30:17.360Z",
   "items": [
     {
       "id": "53fb0bc584e9",
@@ -912,16 +908,16 @@
       "isNew": false
     },
     {
-      "id": "14e344f6800c",
-      "title": "「ちいかわジェット」が長崎空港に！ ＡＮＡが就航、紙コップもオリジナルデザイン",
-      "url": "https://www.47news.jp/15095140.html",
-      "host": "47news.jp",
-      "source": "47NEWS",
+      "id": "5a02f8a57c36",
+      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-17T02:45:00.000Z",
-      "image": "https://img.cf.47news.jp/public/photo/0a319c9b00c74dd1b873068fc85051a3/photo.jpg",
+      "publishedAt": "2026-10-17T03:11:30.000Z",
+      "image": "",
       "categories": [
-        "other"
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1002,25 +998,6 @@
       "categories": [
         "goods",
         "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d0fb98af7ea5",
-      "title": "映画「ちいかわ」大ヒットの東宝、中間決算で上方修正はあるか？ 決算発表で見るべき3つの視点（MONEY PLUS）",
-      "url": "https://news.yahoo.co.jp/articles/2bd50e672b06a41fb3e4542c5f8a16e5e35c0a94?page",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T22:02:45.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1283,27 +1260,6 @@
       "isNew": false
     },
     {
-      "id": "9ca9734ff930",
-      "title": "キャットホイールで遊ぶハチワレ猫の肩に四つ葉のような筋肉が浮かぶ (2026年10月16日掲載)",
-      "url": "https://news.livedoor.com/topics/detail/32582849/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T06:50:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/e/4/e4fc7_1847_367bd5c5d4e84fd2cbd430fd5febd24a.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6c5c2eccf05e",
       "title": "「ちいかわぽけっと」公式グッズ第4弾はお弁当＆お店屋さん、ちいかわたちがお弁当に（コミックナタリー）",
       "url": "https://news.yahoo.co.jp/articles/c362816966880000b2deca7fc2095a077a8a01a3",
@@ -1362,6 +1318,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f02b0f7afc9f",
+      "title": "韓国で「ちいかわ」人気が止まらない…「暗殺者（たち）」を抑えて興行1位｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/wowkorea_539181/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:03:40.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/wowkorea/wowkorea_539181_0-enlarge.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0eba86b8a959",
@@ -1518,25 +1493,6 @@
         "hachiware",
         "kurimanju"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "524855a58aab",
-      "title": "ちいかわ 2022年放送 第37話 ふしぎな杖(2)｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
-      "url": "https://tver.jp/episodes/epzw975rod",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-10-15T23:17:11.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1720,6 +1676,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3c7c36a03386",
+      "title": "「ちいかわクリスマスマーケット」千葉・豊砂公園で、討伐チュロスなどフード＆“鎧さん”の参加型ゲーム",
+      "url": "https://www.fashion-press.net/news/151844",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-10-15T10:30:00.000Z",
+      "image": "https://www.fashion-press.net/img/news/151844/top.jpg?1791431756",
+      "categories": [
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "371a3946ad0f",
@@ -1949,27 +1924,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "10a82b5ce87b",
-      "title": "【画像】【ちいかわ】ちいかわやハチワレが全高約13cmのステッキに！ 組み立てて楽しめるガシャポン全4種 4/5",
-      "url": "https://news.livedoor.com/article/image_detail/32573858/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T06:07:33.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/d/1/d13b8_1223_4ad93a525f82248a3bade9b512685991.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
