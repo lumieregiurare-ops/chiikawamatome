@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:00:15.685Z",
+  "updatedAt": "2026-10-17T14:30:16.527Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 96,
-  "todayCount": 19,
+  "todayCount": 20,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 25
+      "count": 26
     },
     {
       "id": "event",
@@ -90,11 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 27
+      "count": 26
     },
     {
       "name": "インサイド",
       "count": 9
+    },
+    {
+      "name": "山陽新聞",
+      "count": 4
     },
     {
       "name": "電撃オンライン",
@@ -109,19 +113,11 @@
       "count": 3
     },
     {
-      "name": "山陽新聞",
-      "count": 3
-    },
-    {
       "name": "eeo",
       "count": 3
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 3
-    },
-    {
-      "name": "推し楽",
       "count": 3
     },
     {
@@ -134,6 +130,14 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
+      "count": 2
+    },
+    {
+      "name": "推し楽",
       "count": 2
     },
     {
@@ -177,10 +181,6 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
       "name": "LOG OITA",
       "count": 1
     },
@@ -217,6 +217,10 @@
       "count": 1
     },
     {
+      "name": "Aviation Wire",
+      "count": 1
+    },
+    {
       "name": "GAME Watch",
       "count": 1
     },
@@ -226,10 +230,6 @@
     },
     {
       "name": "トラベル Watch",
-      "count": 1
-    },
-    {
-      "name": "ナタリー",
       "count": 1
     },
     {
@@ -309,17 +309,17 @@
           "isPR": false
         },
         {
+          "title": "ANA制服の「ちいかわ」グッズ、10/23発売 羽田ANA FESTAは“専用店”に",
+          "url": "https://www.aviationwire.jp/archives/352463",
+          "source": "Aviation Wire",
+          "publishedAt": "2026-10-15T03:45:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "「ちいかわ×ANA」オリジナルグッズ第1弾、10月23日より販売開始 ANA制服姿のちいかわたちが登場",
           "url": "https://game.watch.impress.co.jp/docs/news/2148330.html",
           "source": "GAME Watch",
           "publishedAt": "2026-10-15T03:38:10.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ×ANA」オリジナルグッズ第1弾、10月23日より販売開始（GAME Watch）",
-          "url": "https://news.yahoo.co.jp/articles/4c38057c26c96cdc458fa99aad1afe783d708c72",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-15T03:38:00.000Z",
           "isPR": false
         }
       ]
@@ -683,12 +683,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T13:30:17.846Z",
-    "previousCount": 99,
-    "newCount": 0
+    "previousAt": "2026-10-17T14:00:15.685Z",
+    "previousCount": 96,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T14:30:15.685Z",
+  "nextUpdateAt": "2026-10-17T15:00:16.527Z",
   "items": [
     {
       "id": "53fb0bc584e9",
@@ -890,6 +890,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5a02f8a57c36",
+      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-17T03:11:30.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e91e1358fc5f",
@@ -1224,25 +1243,6 @@
       "isNew": false
     },
     {
-      "id": "58182fd1011e",
-      "title": "ちいかわの関連画像",
-      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/1113322",
-      "host": "fan.books.rakuten.co.jp",
-      "source": "推し楽",
-      "summary": "",
-      "publishedAt": "2026-10-16T06:17:12.000Z",
-      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6c5c2eccf05e",
       "title": "「ちいかわぽけっと」公式グッズ第4弾はお弁当＆お店屋さん、ちいかわたちがお弁当に（コミックナタリー）",
       "url": "https://news.yahoo.co.jp/articles/c362816966880000b2deca7fc2095a077a8a01a3",
@@ -1301,6 +1301,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f02b0f7afc9f",
+      "title": "韓国で「ちいかわ」人気が止まらない…「暗殺者（たち）」を抑えて興行1位｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/wowkorea_539181/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:03:40.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/wowkorea/wowkorea_539181_0-enlarge.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0eba86b8a959",
@@ -1448,7 +1467,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-16T00:30:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/943467.jpg",
+      "image": "",
       "categories": [
         "goods",
         "kuji"
@@ -1687,7 +1706,7 @@
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-15T09:00:04.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1794434.webp",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -1956,25 +1975,6 @@
       "isNew": false
     },
     {
-      "id": "eae0ffee6a68",
-      "title": "ANA制服の「ちいかわ」グッズ、10/23発売 羽田ANA FESTAは“専用店”に（Aviation Wire）",
-      "url": "https://news.yahoo.co.jp/articles/6fee0b496ce58cc254dc175e9778a288188f1c2c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:54:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000004-awire-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e3d129c5cdae",
       "title": "＜ちいかわ＞ANAコラボグッズ 制服姿で働くちいかわたち ぬいぐるみ、缶バッジ 機内紙コップデザインのマグカップも",
       "url": "https://news.yahoo.co.jp/articles/93ea406149c537b801f5365406f8b57f6cdc5e19/images/000",
@@ -1986,6 +1986,25 @@
       "categories": [
         "goods",
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "eae0ffee6a68",
+      "title": "ANA制服の「ちいかわ」グッズ、10/23発売 羽田ANA FESTAは“専用店”に",
+      "url": "https://www.aviationwire.jp/archives/352463",
+      "host": "aviationwire.jp",
+      "source": "Aviation Wire",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:45:00.000Z",
+      "image": "https://www.aviationwire.jp/wp-content/uploads/2026/10/261015_anatc_chiikawa_01-720.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2265,25 +2284,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2443d8662e27",
-      "title": "ちいかわたちがANAの制服を着てお仕事 ちいかわジェットの就航記念グッズ発売",
-      "url": "https://natalie.mu/comic/news/693775",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-15T02:31:00.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
