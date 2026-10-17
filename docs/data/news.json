@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T22:30:16.516Z",
+  "updatedAt": "2026-10-17T23:00:17.029Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 92,
+  "total": 90,
   "todayCount": 4,
   "categories": [
     {
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 27
+      "count": 25
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "anime",
@@ -42,12 +42,12 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 18
     }
   ],
   "series": [
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 2
+      "count": 1
     },
     {
       "id": "kuma",
@@ -97,15 +97,11 @@
       "count": 10
     },
     {
-      "name": "電撃オンライン",
-      "count": 4
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
-      "name": "朝日新聞",
+      "name": "電撃オンライン",
       "count": 3
     },
     {
@@ -137,7 +133,7 @@
       "count": 2
     },
     {
-      "name": "山陽新聞",
+      "name": "朝日新聞",
       "count": 2
     },
     {
@@ -157,6 +153,10 @@
       "count": 2
     },
     {
+      "name": "マイナビニュース",
+      "count": 2
+    },
+    {
       "name": "高知新聞",
       "count": 1
     },
@@ -170,6 +170,10 @@
     },
     {
       "name": "日本経済新聞",
+      "count": 1
+    },
+    {
+      "name": "山陽新聞",
       "count": 1
     },
     {
@@ -230,10 +234,6 @@
     },
     {
       "name": "トラベル Watch",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -442,40 +442,6 @@
       ]
     },
     {
-      "id": "5069217e1cd8",
-      "title": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開",
-      "summary": "",
-      "url": "https://www.afpbb.com/articles/-/3657414?cx_part",
-      "image": "https://afpbb.ismcdn.jp/mwimgs/4/6/1000x/img_46792ed2c6dd8b116146f65f316b507d156980.jpg",
-      "leadSource": "AFPBB News",
-      "publishedAt": "2026-10-17T07:42:09.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "展開",
-        "最新話更新"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわ』最新話更新（10/16）。三ツ星はしっかり見ていた…これはこれでいい展開!?",
-          "url": "https://dengekionline.com/article/202610/91252",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-16T14:26:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』最新話更新（10/15）。そうきたか…まさかの展開でシーサーはどうなる!?",
-          "url": "https://dengekionline.com/article/202610/91131",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-15T13:54:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "c30ccb9d517e",
       "title": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種",
       "summary": "「ちいかわ めじるしアクセサリー3」が全国のガシャポン自販機にて2026年10月4週より再販！",
@@ -498,6 +464,32 @@
           "url": "https://game.watch.impress.co.jp/docs/news/2147639.html",
           "source": "GAME Watch",
           "publishedAt": "2026-10-17T15:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "5069217e1cd8",
+      "title": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開",
+      "summary": "",
+      "url": "https://www.afpbb.com/articles/-/3657414?cx_part",
+      "image": "https://afpbb.ismcdn.jp/mwimgs/4/6/1000x/img_46792ed2c6dd8b116146f65f316b507d156980.jpg",
+      "leadSource": "AFPBB News",
+      "publishedAt": "2026-10-17T07:42:09.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "展開"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』最新話更新（10/16）。三ツ星はしっかり見ていた…これはこれでいい展開!?",
+          "url": "https://dengekionline.com/article/202610/91252",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-16T14:26:00.000Z",
           "isPR": false
         }
       ]
@@ -670,12 +662,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T22:00:17.503Z",
-    "previousCount": 94,
-    "newCount": 0
+    "previousAt": "2026-10-17T22:30:16.516Z",
+    "previousCount": 92,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T23:00:16.516Z",
+  "nextUpdateAt": "2026-10-17T23:30:17.029Z",
   "items": [
     {
       "id": "33c3447b20b7",
@@ -949,25 +941,6 @@
       "categories": [
         "event",
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5a02f8a57c36",
-      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T03:11:30.000Z",
-      "image": "",
-      "categories": [
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1552,26 +1525,6 @@
       "isNew": false
     },
     {
-      "id": "9375f06ccc2b",
-      "title": "「ちいかわ」初のスマホアプリ『ちいかわぽけっと』9月27日より1.5 Year Anniversaryを記念した「ピーターパン」イベントを実施！特設サイトと記念動画も公開！",
-      "url": "https://www.asahi.com/and/pressrelease/16901084",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-15T22:41:54.000Z",
-      "image": "",
-      "categories": [
-        "game",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "57cc1817aabd",
       "title": "「光るパジャマ」×『ちいかわ』コラボ登場！ キュートな演出にファン悶絶「神アイテム」（ふたまん＋）",
       "url": "https://news.yahoo.co.jp/articles/e3ef8fe5e818f570f3d08ed78b9a2c544abfd52e",
@@ -1604,27 +1557,6 @@
         "game"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d34b5da7c7ac",
-      "title": "『ちいかわ』最新話更新（10/15）。そうきたか…まさかの展開でシーサーはどうなる!?",
-      "url": "https://dengekionline.com/article/202610/91131",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-15T13:54:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_Tnsc.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "shisa"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2474,6 +2406,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3b16c6cc7c02",
+      "title": "海外発・ニッポン新発見(21) 台湾の「ちいかわ」現象がすごい! 600万人規模イベントの主役に、巨大バルーンも出現する熱狂ぶり",
+      "url": "https://news.mynavi.jp/article/nippon_insekai-21/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T02:05:00.000Z",
+      "image": "https://news.mynavi.jp/article/nippon_insekai-21/ogp_images/ogp.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "381150486a9f",
