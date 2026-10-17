@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-17T22:00:17.503Z",
+  "updatedAt": "2026-10-17T22:30:16.516Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 94,
-  "todayCount": 3,
+  "total": 92,
+  "todayCount": 4,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 50
+      "count": 48
     },
     {
       "id": "kuji",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 15
+      "count": 14
     },
     {
       "id": "anime",
@@ -90,15 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 24
+      "count": 23
     },
     {
       "name": "インサイド",
       "count": 10
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 5
     },
     {
       "name": "電撃オンライン",
@@ -119,6 +115,14 @@
     {
       "name": "推し楽",
       "count": 3
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 2
     },
     {
       "name": "GAME Watch",
@@ -234,10 +238,6 @@
     },
     {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     }
   ],
@@ -670,13 +670,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T21:30:18.188Z",
-    "previousCount": 93,
-    "newCount": 3
+    "previousAt": "2026-10-17T22:00:17.503Z",
+    "previousCount": 94,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T22:30:17.503Z",
+  "nextUpdateAt": "2026-10-17T23:00:16.516Z",
   "items": [
+    {
+      "id": "33c3447b20b7",
+      "title": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定",
+      "url": "https://news.nicovideo.jp/watch/nw19891092?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-17T22:03:16.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "1c0b3c81f055",
       "title": "「ちいかわ」並べて飾りたい「くりまんじゅう」「シーサー」ねんどろいどが予約受付中！購入特典にはセリフプレートも",
@@ -697,7 +716,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f7ec7008b8e3",
@@ -819,12 +838,12 @@
     {
       "id": "6f8136841fa7",
       "title": "愛猫【 ミキ・亜生 】「気を遣える男はモテるぞ」 神経質な黒猫とマイペースなハチワレ兄弟の距離感にフォロワー「可愛い」",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHbHhoaGRwRklhTGRmVHNOQmRTNGxJUmw1TTNhc0ZCVVppa0tyNHpSNVM5bXdBYTE3V3c0T1l0MC1TTzdDVzN3dWw0Y3JlaTVTYkVCQU9HS01wblYxSWFRX3kwM1VqbThuWVl1N3lkMEM3bWVLNFNqNFRCUmpwd9IBfkFVX3lxTFBHbHhoaGRwRklhTGRmVHNOQmRTNGxJUmw1TTNhc0ZCVVppa0tyNHpSNVM5bXdBYTE3V3c0T1l0MC1TTzdDVzN3dWw0Y3JlaTVTYkVCQU9HS01wblYxSWFRX3kwM1VqbThuWVl1N3lkMEM3bWVLNFNqNFRCUmpwdw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.yahoo.co.jp/articles/74f60aae0086433811ad507b84bcec9a6697ad0e",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-17T06:49:00.000Z",
-      "image": "",
+      "publishedAt": "2026-10-17T06:50:26.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-23019565-jnn-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -833,7 +852,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -955,7 +974,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e91e1358fc5f",
@@ -1550,7 +1569,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "57cc1817aabd",
@@ -2315,33 +2334,14 @@
       "isNew": false
     },
     {
-      "id": "33c3447b20b7",
-      "title": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWluY1JoMFJFOXRaNEpfQ0d1MXNCTUZMQ1FKb0FDRmhwOTVSMXY0ZzZ4N01uUW1ZZjdEaU41UXhXX2JsTE1OSkN3M1V4NlR3WWZ1UmpFejlXb212WkpPWXdrTHpEb3NsVXJ6akxXVkhBTm5SU2xVX05fYUpCR2ZSSEZuNVRGRzjSAYwBQVVfeXFMTU15ZUF4aThZd2hzOFFfS19lRUhLVFphaEV1SHd2cC1ETGtTMFlFU041NklZdENjN2FybWFLckhsVVlqVVhHWmI3dWR4bTZJcGdIaHJOMmo0V3ZkdkxNeUt1WnhrTEQ4NlozN1lPQTh5T3YxTjl5Q1NNRi11Z01fZlRMY3l6b3VESHlKN2w?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:01:00.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c21b49d22bd0",
-      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/9d46e40b3cd187a96e436b9e40ef866102e29fd4",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
+      "url": "https://news.nicovideo.jp/watch/nw19880596",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-10-15T02:37:37.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000404-oric-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-15T02:39:22.000Z",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2491,45 +2491,6 @@
       "series": [],
       "isOfficial": false,
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9e5248f2acdc",
-      "title": "ちいかわぽけっと公式グッズ第4弾発売へ 全国5箇所でポップアップストアも開催",
-      "url": "https://news.dellows.jp/707611/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-14T22:30:00.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/707611_1.jpg",
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "34fb41439987",
-      "title": "「まじかるちいかわ」抱きぬいぐるみが受注予約開始！ まさかのサイズにファン騒然「めっちゃデカい」（ふたまん＋）",
-      "url": "https://news.yahoo.co.jp/articles/c5d7e23394f987295f13b7b0c5df81b1802c5945",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-14T22:00:33.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00132577-futaman-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
