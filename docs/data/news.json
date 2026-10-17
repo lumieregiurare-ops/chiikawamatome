@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T18:30:18.639Z",
+  "updatedAt": "2026-10-17T18:57:52.357Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 91,
+  "total": 92,
   "todayCount": 1,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 26
+      "count": 27
     },
     {
       "id": "event",
@@ -117,6 +117,10 @@
       "count": 3
     },
     {
+      "name": "推し楽",
+      "count": 3
+    },
+    {
       "name": "GAME Watch",
       "count": 2
     },
@@ -134,14 +138,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
-      "count": 2
-    },
-    {
-      "name": "推し楽",
       "count": 2
     },
     {
@@ -169,11 +165,19 @@
       "count": 1
     },
     {
+      "name": "K-POP、韓国エンタメニュース、取材レポートならコレポ！",
+      "count": 1
+    },
+    {
       "name": "au Webポータル",
       "count": 1
     },
     {
       "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -666,12 +670,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T18:00:16.665Z",
-    "previousCount": 92,
-    "newCount": 1
+    "previousAt": "2026-10-17T18:30:18.639Z",
+    "previousCount": 91,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T19:00:18.639Z",
+  "nextUpdateAt": "2026-10-17T19:27:52.357Z",
   "items": [
     {
       "id": "d3f69a46a94d",
@@ -910,7 +914,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e91e1358fc5f",
@@ -1132,6 +1136,25 @@
       "isNew": false
     },
     {
+      "id": "4a2d0c95c2d0",
+      "title": "韓国で「ちいかわ」人気が止まらない…「暗殺者（たち）」を抑えて興行1位 - K-POP、韓国エンタメニュース、取材レポートならコレポ！",
+      "url": "https://korepo.com/archives/1721285",
+      "host": "korepo.com",
+      "source": "K-POP、韓国エンタメニュース、取材レポートならコレポ！",
+      "summary": "",
+      "publishedAt": "2026-10-16T10:50:15.000Z",
+      "image": "https://korepo.com/wp-content/uploads/2026/10/455722_640.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6a564c574566",
       "title": "「ちいかわ」ボンドロやコインチョコ、シャンメリーも！ 可愛すぎるクリスマス商品が続々登場♪",
       "url": "https://animeanime.jp/article/2026/10/16/103894.html",
@@ -1248,6 +1271,25 @@
       "isNew": false
     },
     {
+      "id": "58182fd1011e",
+      "title": "ちいかわの関連画像",
+      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/1113322",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
+      "summary": "",
+      "publishedAt": "2026-10-16T06:17:12.000Z",
+      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6c5c2eccf05e",
       "title": "「ちいかわぽけっと」公式グッズ第4弾はお弁当＆お店屋さん、ちいかわたちがお弁当に（コミックナタリー）",
       "url": "https://news.yahoo.co.jp/articles/c362816966880000b2deca7fc2095a077a8a01a3",
@@ -1299,25 +1341,6 @@
       "categories": [
         "goods",
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f02b0f7afc9f",
-      "title": "韓国で「ちいかわ」人気が止まらない…「暗殺者（たち）」を抑えて興行1位｜Infoseekニュース",
-      "url": "https://news.infoseek.co.jp/article/wowkorea_539181/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-16T03:03:40.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/wowkorea/wowkorea_539181_0-enlarge.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
