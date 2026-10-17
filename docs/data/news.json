@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-17T07:00:17.103Z",
+  "updatedAt": "2026-10-17T07:30:17.002Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 104,
-  "todayCount": 19,
+  "total": 105,
+  "todayCount": 20,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "kuji",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 25
+      "count": 24
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 21
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "momonga",
@@ -101,19 +101,23 @@
       "count": 5
     },
     {
-      "name": "朝日新聞",
-      "count": 3
-    },
-    {
       "name": "推し楽",
       "count": 3
     },
     {
-      "name": "コラボカフェ",
+      "name": "朝日新聞",
+      "count": 3
+    },
+    {
+      "name": "山陽新聞",
       "count": 3
     },
     {
       "name": "eeo",
+      "count": 3
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 3
     },
     {
@@ -137,15 +141,15 @@
       "count": 2
     },
     {
+      "name": "コラボカフェ",
+      "count": 2
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 2
     },
     {
       "name": "アニメハック",
-      "count": 2
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -173,15 +177,11 @@
       "count": 2
     },
     {
-      "name": "山陽新聞",
-      "count": 2
-    },
-    {
-      "name": "47NEWS",
+      "name": "AFPBB News",
       "count": 1
     },
     {
-      "name": "スポーツ報知",
+      "name": "長崎新聞ホームページ",
       "count": 1
     },
     {
@@ -237,6 +237,10 @@
       "count": 1
     },
     {
+      "name": "ナタリー",
+      "count": 1
+    },
+    {
       "name": "ふねぽ",
       "count": 1
     },
@@ -246,10 +250,6 @@
     },
     {
       "name": "ゲームドライブ",
-      "count": 1
-    },
-    {
-      "name": "NewsCafe",
       "count": 1
     }
   ],
@@ -262,8 +262,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-00010005-huffpost-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-17T00:00:51.000Z",
-      "sourceCount": 17,
-      "articleCount": 20,
+      "sourceCount": 18,
+      "articleCount": 21,
       "categories": [
         "collab",
         "goods"
@@ -491,18 +491,17 @@
       ]
     },
     {
-      "id": "0a2b90efe6b5",
-      "title": "「ちいかわ×ANA」コラボが楽しみ！「ちいかわジェット」がいよいよ空へ、グッズやキャンペーンも展開",
-      "summary": "特別デザイン機「ちいかわジェット」が国内線で各地を飛び回る！キャンペーンやグッズも展開。",
-      "url": "https://www.inside-games.jp/article/2026/10/17/189416.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1790453.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-10-17T06:30:03.000Z",
+      "id": "5069217e1cd8",
+      "title": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開",
+      "summary": "",
+      "url": "https://www.afpbb.com/articles/-/3657414?cx_part",
+      "image": "https://afpbb.ismcdn.jp/mwimgs/4/6/1000x/img_46792ed2c6dd8b116146f65f316b507d156980.jpg",
+      "leadSource": "AFPBB News",
+      "publishedAt": "2026-10-17T07:00:38.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
-        "collab",
-        "goods"
+        "other"
       ],
       "keywords": [
         "展開",
@@ -698,13 +697,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T06:30:18.073Z",
-    "previousCount": 105,
-    "newCount": 1
+    "previousAt": "2026-10-17T07:00:17.103Z",
+    "previousCount": 104,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T07:30:17.103Z",
+  "nextUpdateAt": "2026-10-17T08:00:17.002Z",
   "items": [
+    {
+      "id": "5069217e1cd8",
+      "title": "「ちいかわ」、中国伝統建築の神獣モチーフを北京限定で展開",
+      "url": "https://www.afpbb.com/articles/-/3657414?cx_part",
+      "host": "afpbb.com",
+      "source": "AFPBB News",
+      "summary": "",
+      "publishedAt": "2026-10-17T07:00:38.000Z",
+      "image": "https://afpbb.ismcdn.jp/mwimgs/4/6/1000x/img_46792ed2c6dd8b116146f65f316b507d156980.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "6f8136841fa7",
       "title": "愛猫【 ミキ・亜生 】「気を遣える男はモテるぞ」 神経質な黒猫とマイペースなハチワレ兄弟の距離感にフォロワー「可愛い」",
@@ -724,7 +742,29 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "978b837f3a07",
+      "title": "画像・写真 | ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場 9枚目",
+      "url": "https://www.oricon.co.jp/news/2486559/photo/9/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-17T06:43:23.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486559/20261015_111435_p_o_86299549.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "0a2b90efe6b5",
@@ -740,28 +780,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "978b837f3a07",
-      "title": "画像・写真 | ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場 7枚目",
-      "url": "https://www.oricon.co.jp/news/2486559/photo/7/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-17T05:47:40.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486559/20261015_111429_p_o_46978536.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "kurimanju"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -808,6 +826,25 @@
       "isNew": false
     },
     {
+      "id": "58182fd1011e",
+      "title": "ちいかわの関連画像",
+      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/1113328",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
+      "summary": "",
+      "publishedAt": "2026-10-17T03:40:05.000Z",
+      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e51e25e7e8bf",
       "title": "「ちいかわぽけっと」公式グッズ第4弾“お弁当”と“お店屋さん”発売！ 全国5か所でポップアップストアも",
       "url": "https://www.asahi.com/and/entertainment/16973135",
@@ -830,31 +867,12 @@
     {
       "id": "14e344f6800c",
       "title": "「ちいかわジェット」が長崎空港に！ ＡＮＡが就航、紙コップもオリジナルデザイン",
-      "url": "https://www.47news.jp/15095140.html",
-      "host": "47news.jp",
-      "source": "47NEWS",
+      "url": "https://www.nagasaki-np.co.jp/kijis/?kijiid",
+      "host": "nagasaki-np.co.jp",
+      "source": "長崎新聞ホームページ",
       "summary": "",
       "publishedAt": "2026-10-17T02:45:00.000Z",
-      "image": "https://img.cf.47news.jp/public/photo/0a319c9b00c74dd1b873068fc85051a3/photo.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "58182fd1011e",
-      "title": "ちいかわの関連画像",
-      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/1113330",
-      "host": "fan.books.rakuten.co.jp",
-      "source": "推し楽",
-      "summary": "",
-      "publishedAt": "2026-10-17T02:21:40.000Z",
-      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
+      "image": "https://www.nagasaki-np.co.jp/rs/images/nagasakishimbun_ogp.png",
       "categories": [
         "other"
       ],
@@ -902,25 +920,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "00a93b8b0d97",
-      "title": "中国人がわざわざ日本に観に来る熱狂ぶり…｢映画ちいかわ｣が中華圏の若者に刺さる\"日本とは全く別の理由\"",
-      "url": "https://hochi.news/articles/20261015-OHT1T51171.html",
-      "host": "hochi.news",
-      "source": "スポーツ報知",
-      "summary": "",
-      "publishedAt": "2026-10-17T01:00:00.000Z",
-      "image": "https://hochi.news/images/2026/10/15/20261015-OHT1I51368-C.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1042,6 +1041,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.sanyonews.jp/article/1994052?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-16T16:01:53.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7df818b64f97",
@@ -1935,6 +1954,27 @@
       "isNew": false
     },
     {
+      "id": "10a82b5ce87b",
+      "title": "【画像】【ちいかわ】ちいかわやハチワレが全高約13cmのステッキに！ 組み立てて楽しめるガシャポン全4種 4/5",
+      "url": "https://news.livedoor.com/article/image_detail/32573858/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T06:07:33.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/d/1/d13b8_1223_4ad93a525f82248a3bade9b512685991.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cbdca1e733aa",
       "title": "【ちいかわ】ちいかわやハチワレが全高約13cmのステッキに！ 組み立てて楽しめるガシャポン全4種",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XMG1vQ0d0Y3BUbTFmZWk5SkZzTmJNZVFKUnRDakJWUE9kdUpvaXROblhlb3p1SVdpR0Rkam5hd1VHSmR2VDRTeEFzX1JVVXhKY2Q0S2RCRm9ubWNDS2wxTW93SGFMWU1zMjN1RVZMTjRqS3PSAXhBVV95cUxPOEY2SmJ3anZJalFiMlV1dGd3Nkt6MGtXYTlwRk5NUnJsNnlnU1JzQXpQWDFEWV9LN1JqdzN1cjZlVDFUUlNuRWxidHlfVUROTlE5QW5MenlQOGhkOFFtQjJ4ZUZKVXZBUHIyRC1JYzhzMU9YS2IyaW8?oc=5",
@@ -2042,7 +2082,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-15T03:38:10.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/330/0.jpg",
       "categories": [
         "goods"
       ],
@@ -2290,6 +2330,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2443d8662e27",
+      "title": "ちいかわたちがANAの制服を着てお仕事 ちいかわジェットの就航記念グッズ発売",
+      "url": "https://natalie.mu/comic/news/693775",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-15T02:31:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5257966841e2",
@@ -2715,47 +2774,6 @@
         "event"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d4e288643ecb",
-      "title": "ちいかわ ポップアップストア in 海老名マルイ 10月23日より開催!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-popup-store-ebina-marui-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-14T07:21:34.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-26.jpeg",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "665f6286760c",
-      "title": "強くなったハチワレ＆強くなったうさぎ＆あのこ「まじかるちいかわ」巨大ぬいぐるみが登場",
-      "url": "https://www.newscafe.ne.jp/article/2026/10/14/3034406.html",
-      "host": "newscafe.ne.jp",
-      "source": "NewsCafe",
-      "summary": "",
-      "publishedAt": "2026-10-14T07:18:51.000Z",
-      "image": "https://www.newscafe.ne.jp/imgs/ogp_f/22854020.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
