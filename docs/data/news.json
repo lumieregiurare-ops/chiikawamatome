@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:30:16.527Z",
+  "updatedAt": "2026-10-17T15:00:21.186Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 96,
-  "todayCount": 20,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 26
+      "count": 25
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 7
+      "count": 6
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "series": [
@@ -90,15 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 27
     },
     {
       "name": "インサイド",
       "count": 9
-    },
-    {
-      "name": "山陽新聞",
-      "count": 4
     },
     {
       "name": "電撃オンライン",
@@ -121,6 +117,10 @@
       "count": 3
     },
     {
+      "name": "推し楽",
+      "count": 3
+    },
+    {
       "name": "アニメハック",
       "count": 2
     },
@@ -137,10 +137,6 @@
       "count": 2
     },
     {
-      "name": "推し楽",
-      "count": 2
-    },
-    {
       "name": "cinemacafe.net",
       "count": 2
     },
@@ -154,6 +150,14 @@
     },
     {
       "name": "マイナビニュース",
+      "count": 2
+    },
+    {
+      "name": "ふねぽ",
+      "count": 2
+    },
+    {
+      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -217,10 +221,6 @@
       "count": 1
     },
     {
-      "name": "Aviation Wire",
-      "count": 1
-    },
-    {
       "name": "GAME Watch",
       "count": 1
     },
@@ -239,10 +239,6 @@
     {
       "name": "Dellows News",
       "count": 1
-    },
-    {
-      "name": "ふねぽ",
-      "count": 1
     }
   ],
   "topics": [
@@ -254,8 +250,8 @@
       "image": "https://eeo.today/media/wp-content/uploads/2026/10/sub8-6.jpg",
       "leadSource": "eeo",
       "publishedAt": "2026-10-16T13:17:22.000Z",
-      "sourceCount": 16,
-      "articleCount": 18,
+      "sourceCount": 15,
+      "articleCount": 17,
       "categories": [
         "goods",
         "collab"
@@ -309,17 +305,17 @@
           "isPR": false
         },
         {
-          "title": "ANA制服の「ちいかわ」グッズ、10/23発売 羽田ANA FESTAは“専用店”に",
-          "url": "https://www.aviationwire.jp/archives/352463",
-          "source": "Aviation Wire",
-          "publishedAt": "2026-10-15T03:45:00.000Z",
-          "isPR": false
-        },
-        {
           "title": "「ちいかわ×ANA」オリジナルグッズ第1弾、10月23日より販売開始 ANA制服姿のちいかわたちが登場",
           "url": "https://game.watch.impress.co.jp/docs/news/2148330.html",
           "source": "GAME Watch",
           "publishedAt": "2026-10-15T03:38:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ×ANA」オリジナルグッズ第1弾、10月23日より販売開始（GAME Watch）",
+          "url": "https://news.yahoo.co.jp/articles/4c38057c26c96cdc458fa99aad1afe783d708c72",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-15T03:38:00.000Z",
           "isPR": false
         }
       ]
@@ -683,12 +679,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T14:00:15.685Z",
+    "previousAt": "2026-10-17T14:30:16.527Z",
     "previousCount": 96,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T15:00:16.527Z",
+  "nextUpdateAt": "2026-10-17T15:30:21.186Z",
   "items": [
     {
       "id": "53fb0bc584e9",
@@ -892,25 +888,6 @@
       "isNew": false
     },
     {
-      "id": "5a02f8a57c36",
-      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T03:11:30.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "e91e1358fc5f",
       "title": "お正月にピッタリな「ちいかわ」ポチ袋！袴姿で新年をお祝い、“五円玉になったうさぎ”も可愛い",
       "url": "https://www.inside-games.jp/article/2026/10/17/189408.html",
@@ -1039,26 +1016,6 @@
       "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3723370014102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=514b7a443de83eb94000a12d18625d7e",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
-      "url": "https://www.sanyonews.jp/article/1994052?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-16T16:01:53.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1243,6 +1200,25 @@
       "isNew": false
     },
     {
+      "id": "58182fd1011e",
+      "title": "ちいかわの関連画像",
+      "url": "https://fan.books.rakuten.co.jp/tags/26547/photos/1113322",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
+      "summary": "",
+      "publishedAt": "2026-10-16T06:17:12.000Z",
+      "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6c5c2eccf05e",
       "title": "「ちいかわぽけっと」公式グッズ第4弾はお弁当＆お店屋さん、ちいかわたちがお弁当に（コミックナタリー）",
       "url": "https://news.yahoo.co.jp/articles/c362816966880000b2deca7fc2095a077a8a01a3",
@@ -1319,7 +1295,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0eba86b8a959",
@@ -1467,7 +1443,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-16T00:30:03.000Z",
-      "image": "",
+      "image": "https://animeanime.jp/imgs/ogp_f/943467.jpg",
       "categories": [
         "goods",
         "kuji"
@@ -1706,7 +1682,7 @@
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-15T09:00:04.000Z",
-      "image": "",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1794434.webp",
       "categories": [
         "goods"
       ],
@@ -1975,6 +1951,25 @@
       "isNew": false
     },
     {
+      "id": "eae0ffee6a68",
+      "title": "ANA制服の「ちいかわ」グッズ、10/23発売 羽田ANA FESTAは“専用店”に（Aviation Wire）",
+      "url": "https://news.yahoo.co.jp/articles/6fee0b496ce58cc254dc175e9778a288188f1c2c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:54:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000004-awire-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e3d129c5cdae",
       "title": "＜ちいかわ＞ANAコラボグッズ 制服姿で働くちいかわたち ぬいぐるみ、缶バッジ 機内紙コップデザインのマグカップも",
       "url": "https://news.yahoo.co.jp/articles/93ea406149c537b801f5365406f8b57f6cdc5e19/images/000",
@@ -1986,25 +1981,6 @@
       "categories": [
         "goods",
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "eae0ffee6a68",
-      "title": "ANA制服の「ちいかわ」グッズ、10/23発売 羽田ANA FESTAは“専用店”に",
-      "url": "https://www.aviationwire.jp/archives/352463",
-      "host": "aviationwire.jp",
-      "source": "Aviation Wire",
-      "summary": "",
-      "publishedAt": "2026-10-15T03:45:00.000Z",
-      "image": "https://www.aviationwire.jp/wp-content/uploads/2026/10/261015_anatc_chiikawa_01-720.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2483,6 +2459,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "35ed95ab9d8c",
+      "title": "(2ページ目) 「まじかるちいかわ」抱きぬいぐるみが受注予約開始！ まさかのサイズにファン騒然「めっちゃデカい」",
+      "url": "https://futaman.futabanet.jp/articles/-/132577?page",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-10-14T21:30:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/c/4/1200wm/img_c4581dc77fe5639c5349cb52ea495a7e9594988.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "77aacb138632",
