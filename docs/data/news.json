@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T00:30:17.858Z",
+  "updatedAt": "2026-10-18T01:00:16.246Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 91,
+  "total": 95,
   "todayCount": 9,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 47
+      "count": 50
     },
     {
       "id": "kuji",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 26
+      "count": 27
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 6
+      "count": 7
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "other",
@@ -54,12 +54,12 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "momonga",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "インサイド",
-      "count": 10
+      "count": 11
     },
     {
       "name": "アニメ！アニメ！",
@@ -106,6 +106,10 @@
     },
     {
       "name": "eeo",
+      "count": 3
+    },
+    {
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -121,10 +125,6 @@
       "count": 2
     },
     {
-      "name": "山陽新聞",
-      "count": 2
-    },
-    {
       "name": "GAME Watch",
       "count": 2
     },
@@ -133,15 +133,19 @@
       "count": 2
     },
     {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
       "name": "朝日新聞",
       "count": 2
     },
     {
-      "name": "コラボカフェ",
+      "name": "山陽新聞",
       "count": 2
     },
     {
-      "name": "オリコンニュース",
+      "name": "コラボカフェ",
       "count": 2
     },
     {
@@ -251,10 +255,6 @@
     {
       "name": "マイナビニュース",
       "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
-      "count": 1
     }
   ],
   "topics": [
@@ -337,6 +337,56 @@
       ]
     },
     {
+      "id": "1727f1fc82c9",
+      "title": "【画像】【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売",
+      "summary": "",
+      "url": "https://news.livedoor.com/article/image_detail/32589905/?img_id",
+      "image": "https://image.news.livedoor.com/newsimage/stf/8/1/813d3_1589_cc1ac627_370ed408.jpg",
+      "leadSource": "ライブドアニュース",
+      "publishedAt": "2026-10-17T04:15:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "keywords": [
+        "ちいかわぽけっと",
+        "弁当",
+        "店屋"
+      ],
+      "articles": [
+        {
+          "title": "【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売",
+          "url": "https://otonanswer.jp/post/401724/",
+          "source": "オトナンサー",
+          "publishedAt": "2026-10-17T04:03:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわぽけっと」公式グッズ第4弾“お弁当”と“お店屋さん”発売！ 全国5か所でポップアップストアも",
+          "url": "https://www.asahi.com/and/entertainment/16973135",
+          "source": "朝日新聞",
+          "publishedAt": "2026-10-17T03:15:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわぽけっと」公式グッズ第4弾はお弁当＆お店屋さん、ちいかわたちがお弁当に（コミックナタリー）",
+          "url": "https://news.yahoo.co.jp/articles/c362816966880000b2deca7fc2095a077a8a01a3",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-16T05:47:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわぽけっと」公式グッズ第4弾が10月24日刊行へ 「お弁当」「お店屋さん」モチーフで全国5都市でポップアップも",
+          "url": "https://news.yahoo.co.jp/articles/9abdbe6182fc7a90ebd02f22092fded637dbe65b",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-16T04:30:10.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "5993f2455be2",
       "title": "ちいかわ×ANAコラボグッズ第1弾、10月23日より順次発売 制服姿のちいかわたちをデザイン : ニュース",
       "summary": "",
@@ -380,49 +430,6 @@
       ]
     },
     {
-      "id": "f4f97104193f",
-      "title": "【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売",
-      "summary": "",
-      "url": "https://otonanswer.jp/post/401724/",
-      "image": "https://otonanswer.jp/wp-content/uploads/2027/10/20261016chiikawa01.jpg",
-      "leadSource": "オトナンサー",
-      "publishedAt": "2026-10-17T04:03:21.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "keywords": [
-        "ちいかわぽけっと",
-        "弁当",
-        "店屋"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわぽけっと」公式グッズ第4弾“お弁当”と“お店屋さん”発売！ 全国5か所でポップアップストアも",
-          "url": "https://www.asahi.com/and/entertainment/16973135",
-          "source": "朝日新聞",
-          "publishedAt": "2026-10-17T03:15:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわぽけっと」公式グッズ第4弾はお弁当＆お店屋さん、ちいかわたちがお弁当に（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/c362816966880000b2deca7fc2095a077a8a01a3",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-16T05:47:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわぽけっと」公式グッズ第4弾が10月24日刊行へ 「お弁当」「お店屋さん」モチーフで全国5都市でポップアップも",
-          "url": "https://news.yahoo.co.jp/articles/9abdbe6182fc7a90ebd02f22092fded637dbe65b",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-16T04:30:10.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "94c798691b2f",
       "title": "「むちゃうま!!ちいかわ寿司POP UP STORE」10/16から開催！“お皿みたいなトレカ”の特典も",
       "summary": "",
@@ -454,34 +461,6 @@
           "source": "PR TIMES",
           "publishedAt": "2026-10-15T03:10:01.000Z",
           "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "69e01b89e5df",
-      "title": "『ちいかわ』センス抜群な新商品 ラガーシャツ、ニットカーディガンなど続々",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/oricon/oricon_2486810_0-enlarge.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-17T17:15:52.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "センス",
-        "ラガーシャツ",
-        "ニットカーディガン"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわ』センス抜群な新商品 ラガーシャツ、ニットカーディガンなど続々｜Infoseekニュース",
-          "url": "https://news.infoseek.co.jp/article/oricon_2486810/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-16T02:50:00.000Z",
-          "isPR": false
         }
       ]
     },
@@ -675,16 +654,67 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "860bd53ba13c",
+      "title": "『ちいかわ』センス抜群な新商品 ラガーシャツ、ニットカーディガンなど続々｜Infoseekニュース",
+      "summary": "",
+      "url": "https://news.infoseek.co.jp/article/oricon_2486810/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oricon/oricon_2486810_0-enlarge.jpg",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-16T02:50:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "センス",
+        "ラガーシャツ",
+        "ニットカーディガン"
+      ],
+      "articles": [
+        {
+          "title": "『ちいかわ』センス抜群な新商品 ラガーシャツ、ニットカーディガンなど続々",
+          "url": "https://www.oricon.co.jp/news/2486810/full/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-16T02:50:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T00:00:17.796Z",
+    "previousAt": "2026-10-18T00:30:17.858Z",
     "previousCount": 91,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T01:00:17.858Z",
+  "nextUpdateAt": "2026-10-18T01:30:16.246Z",
   "items": [
+    {
+      "id": "d8ca5ff20e9a",
+      "title": "全長70cmを超える特大サイズ！「まじかるちいかわ」 あの子、強くなったハチワレ/うさぎの抱きぬいぐるみが限定受注生産",
+      "url": "https://www.inside-games.jp/article/2026/10/18/189432.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「まじかるちいかわ ふんわりもっちり ごろりん抱きぬいぐるみ（全3種）」が公式オンラインストア限定受注生産！",
+      "publishedAt": "2026-10-18T01:00:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1793495.jpg",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "8ad339ac7fec",
       "title": "ちいかわたちの可愛いお顔をデザイン！ハード食感の「ちいかわ 流れ星グミ」が登場！ちょっとすっぱい“黒い流れ星グミ”が入っているかも？",
@@ -706,8 +736,8 @@
     },
     {
       "id": "d8d4057f63f8",
-      "title": "くら寿司×ちいかわに続き《牛角でも不正行為発覚》『呪術廻戦』コラボグッズを開封済みで提供、運営元は「厳正に処分しております」《2026年10月Choice》（2ページ目）",
-      "url": "https://www.jprime.jp/articles/-/43914?page",
+      "title": "くら寿司×ちいかわに続き《牛角でも不正行為発覚》『呪術廻戦』コラボグッズを開封済みで提供、運営元は「厳正に処分しております」《2026年10月Choice》",
+      "url": "https://www.jprime.jp/articles/-/43914",
       "host": "jprime.jp",
       "source": "週刊女性PRIME",
       "summary": "",
@@ -760,7 +790,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c0b3c81f055",
@@ -792,25 +822,6 @@
       "source": "高知新聞",
       "summary": "",
       "publishedAt": "2026-10-17T20:00:00.000Z",
-      "image": "https://images.www.kochinews.co.jp/media/article/1053666/images/main_7025c47e6c0f5c3800fc99d947dceca1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "69e01b89e5df",
-      "title": "『ちいかわ』センス抜群な新商品 ラガーシャツ、ニットカーディガンなど続々",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T17:15:52.000Z",
       "image": "",
       "categories": [
         "other"
@@ -1000,6 +1011,26 @@
       "isNew": false
     },
     {
+      "id": "1727f1fc82c9",
+      "title": "【画像】【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売",
+      "url": "https://news.livedoor.com/article/image_detail/32589905/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-17T04:15:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/8/1/813d3_1589_cc1ac627_370ed408.jpg",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4f97104193f",
       "title": "【ちいかわ】お弁当＆お店屋さんに マスコット、トートバッグ、Tシャツ、バスタオル…「ちいかわぽけっと」最新公式グッズ発売",
       "url": "https://otonanswer.jp/post/401724/",
@@ -1038,6 +1069,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5a02f8a57c36",
+      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-17T03:11:30.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e91e1358fc5f",
@@ -1535,6 +1585,25 @@
       "isNew": false
     },
     {
+      "id": "69e01b89e5df",
+      "title": "『ちいかわ』センス抜群な新商品 ラガーシャツ、ニットカーディガンなど続々",
+      "url": "https://www.oricon.co.jp/news/2486810/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T02:50:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486810/20261016_114017_p_o_65019810.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e7404f65f4e5",
       "title": "『ちいかわ』吹替に「ハチワレが英語しゃべってて感動」国際版予告に海外ファンも興奮。キャラ紹介にも「感心」のワケは？",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFhWDRCQlNMMGpUdENNMXVOWWVfNFZvYnlOR0NUVXQ5TXpfNXdkOVYxWjZZR1BnN21fWUdSbmo3RUUyRWNxZXJ6S052dVNsUHZOQWcxaEZRQVJYWl8yUzZoanlQT0xYQUpwRGRoQ3ZNZ1VEeGtCaXJVUjZiQUQteVUtWXhKaV9CY0VITU0wU0h0R283Rk9mZEZDMW5RTFVMZmF6Z3lxTzdVLWtX0gGoAUFVX3lxTE5XcmpVaDRxNEtYbkFwZ3dBN09lbmdHdXpBVDZFM1ZaejRYOGJvb0tocXBTMFZhSmh2SUpCMm1mV09zcTV3dTdHVXZhNXgxRDhWT1FaOWRGMFRubVl4b1R3Zm5JMTlFM2M2eGJZcTRpWEdZZjZvdjZsODZzSlFVdXJveDdMVzM5cGFjb3BzNU5tR0lKWk5rUGtaX1hvbDZzZjh0UW9YTmtJYg?oc=5",
@@ -1554,6 +1623,26 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "09fbdc7b5516",
+      "title": "【映画ランキング】新作4本参戦も『ちいかわ』首位奪還！『バイオハザード』2位、横浜流星×広瀬すず『汝、星のごとく』4位",
+      "url": "https://news.yahoo.co.jp/articles/e53d27c559a06a8f647d1baa87bbda10f7649709",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-01448367-tkwalk-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "65db532a225d",
@@ -1685,7 +1774,7 @@
       "source": "いこーよニュース",
       "summary": "",
       "publishedAt": "2026-10-15T11:56:19.000Z",
-      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/34714/normal.jpg?1792057945",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -2113,7 +2202,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-15T03:38:10.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/330/0.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
