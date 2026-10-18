@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-18T20:00:15.758Z",
+  "updatedAt": "2026-10-18T20:30:15.470Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 77,
-  "todayCount": 2,
+  "total": 80,
+  "todayCount": 3,
   "categories": [
     {
       "id": "goods",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 10
+      "count": 11
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "momonga",
@@ -97,12 +97,12 @@
       "count": 6
     },
     {
-      "name": "山陽新聞",
+      "name": "ｄメニューニュース",
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
-      "count": 4
+      "name": "山陽新聞",
+      "count": 3
     },
     {
       "name": "キャラグー",
@@ -125,6 +125,10 @@
       "count": 2
     },
     {
+      "name": "オリコンニュース",
+      "count": 2
+    },
+    {
       "name": "Infoseek",
       "count": 2
     },
@@ -139,6 +143,10 @@
     {
       "name": "アニメ！アニメ！",
       "count": 2
+    },
+    {
+      "name": "北國新聞",
+      "count": 1
     },
     {
       "name": "AIRLINE web",
@@ -170,6 +178,10 @@
     },
     {
       "name": "sky-budget スカイバジェット",
+      "count": 1
+    },
+    {
+      "name": "サンスポ",
       "count": 1
     },
     {
@@ -209,10 +221,6 @@
       "count": 1
     },
     {
-      "name": "オリコンニュース",
-      "count": 1
-    },
-    {
       "name": "ライブドアニュース",
       "count": 1
     },
@@ -226,6 +234,10 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 1
+    },
+    {
+      "name": "TVer",
       "count": 1
     },
     {
@@ -316,6 +328,56 @@
           "url": "https://news.yahoo.co.jp/articles/4c3c68e0d6c9ad2c54d70a42bb842cc28756f991",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-17T00:00:51.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "779a74ff7b69",
+      "title": "〈トピックス〉全日空、ちいかわ特別機｜社会｜全国のニュース｜富山新聞",
+      "summary": "",
+      "url": "https://www.hokkoku.co.jp/articles/tym/2263259",
+      "image": "https://hokkoku.ismcdn.jp/mwimgs/3/2/1200wm/img_3210781b51e212933f90762572e80b4d215607.jpg",
+      "leadSource": "北國新聞",
+      "publishedAt": "2026-10-18T20:00:00.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "other",
+        "collab"
+      ],
+      "keywords": [
+        "全日空",
+        "特別機",
+        "国内各地"
+      ],
+      "articles": [
+        {
+          "title": "全日空、ちいかわ特別機を公開 国内各地で就航へ",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11S2Z2a25xZXR2N21NZGYxNFJ0eWdrZUs0bEFNX0ZTek8ySW9oOTNWWUdGRjFnUVZUcnpGYlBsWWxHR1Y4WWxFSEVkQXBaUG5wRVY0MUpOQkFXMXBNb3BlYkxtYmJtdVZobTBsQnRGWFR4RE40REHSAYoBQVVfeXFMTWZhaTU5WE4wN3BqWkV3eEEybDRxUzY3dWxjcm1kWlF4emVLb2RRLXpFTUJVMzBQV3E0RlZBLXV2ODBDZ05EVkV2ZGNxQ2xhT21xMVRmc3IycGtERHI0YjZkdFAtOE1sNGh5WDU3RzVkcnh4RUx1UVF4MXlBWVFqWWZENE5QY2tTQVpB?oc=5",
+          "source": "サンスポ",
+          "publishedAt": "2026-10-18T08:29:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわデザインの特別機 全日空が公開 国内各地で就航へ コラボ商品も機内販売",
+          "url": "https://www.sankei.com/article/20261018-EM7C3ZXRMVILPMQZQT3ZE67FKU/",
+          "source": "産経ニュース",
+          "publishedAt": "2026-10-18T07:58:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ特別機を公開 全日空、国内各地で就航へ",
+          "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate",
+          "source": "山形新聞",
+          "publishedAt": "2026-10-18T07:13:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ特別機を公開 全日空、第1便は19日朝の羽田―長崎便を予定",
+          "url": "https://www.nishinippon.co.jp/item/1550327/",
+          "source": "西日本新聞me",
+          "publishedAt": "2026-10-18T07:13:00.000Z",
           "isPR": false
         }
       ]
@@ -472,42 +534,6 @@
           "url": "https://www.oricon.co.jp/news/2486559/photo/7/",
           "source": "オリコンニュース",
           "publishedAt": "2026-10-17T05:47:40.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "a177f8d8869f",
-      "title": "ちいかわデザインの特別機 全日空が公開 国内各地で就航へ コラボ商品も機内販売",
-      "summary": "",
-      "url": "https://www.sankei.com/article/20261018-EM7C3ZXRMVILPMQZQT3ZE67FKU/",
-      "image": "https://www.sankei.com/resizer/v2/NSIYWPVGVZMVLCYTMJ3ZLWCMII.jpg?auth=e8d252e2d407896ef92bba9be758807607c405f2c397780b4ccc852c14660f17&quality=50&smart=true&width=1200&height=675",
-      "leadSource": "産経ニュース",
-      "publishedAt": "2026-10-18T07:58:48.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "collab",
-        "other"
-      ],
-      "keywords": [
-        "特別機",
-        "全日空",
-        "国内各地"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ特別機を公開 全日空、国内各地で就航へ",
-          "url": "https://www.yamagata-np.jp/news_core/index_pr.php?kate",
-          "source": "山形新聞",
-          "publishedAt": "2026-10-18T07:13:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ特別機を公開 全日空、第1便は19日朝の羽田―長崎便を予定",
-          "url": "https://www.nishinippon.co.jp/item/1550327/",
-          "source": "西日本新聞me",
-          "publishedAt": "2026-10-18T07:13:00.000Z",
           "isPR": false
         }
       ]
@@ -681,13 +707,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T19:30:16.919Z",
+    "previousAt": "2026-10-18T20:00:15.758Z",
     "previousCount": 77,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T20:30:15.758Z",
+  "nextUpdateAt": "2026-10-18T21:00:15.470Z",
   "items": [
+    {
+      "id": "779a74ff7b69",
+      "title": "〈トピックス〉全日空、ちいかわ特別機｜社会｜全国のニュース｜富山新聞",
+      "url": "https://www.hokkoku.co.jp/articles/tym/2263259",
+      "host": "hokkoku.co.jp",
+      "source": "北國新聞",
+      "summary": "",
+      "publishedAt": "2026-10-18T20:00:00.000Z",
+      "image": "https://hokkoku.ismcdn.jp/mwimgs/3/2/1200wm/img_3210781b51e212933f90762572e80b4d215607.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "10a25d46a074",
       "title": "ANAとちいかわが初コラボ、「ちいかわジェット」ついにお披露目。制服姿のちいかわたちもサプライズでやってきた！",
@@ -939,6 +984,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e267a7d6e4c8",
+      "title": "全日空、ちいかわ特別機を公開 国内各地で就航へ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11S2Z2a25xZXR2N21NZGYxNFJ0eWdrZUs0bEFNX0ZTek8ySW9oOTNWWUdGRjFnUVZUcnpGYlBsWWxHR1Y4WWxFSEVkQXBaUG5wRVY0MUpOQkFXMXBNb3BlYkxtYmJtdVZobTBsQnRGWFR4RE40REHSAYoBQVVfeXFMTWZhaTU5WE4wN3BqWkV3eEEybDRxUzY3dWxjcm1kWlF4emVLb2RRLXpFTUJVMzBQV3E0RlZBLXV2ODBDZ05EVkV2ZGNxQ2xhT21xMVRmc3IycGtERHI0YjZkdFAtOE1sNGh5WDU3RzVkcnh4RUx1UVF4MXlBWVFqWWZENE5QY2tTQVpB?oc=5",
+      "host": "sanspo.com",
+      "source": "サンスポ",
+      "summary": "",
+      "publishedAt": "2026-10-18T08:29:42.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "494e7332461a",
@@ -1236,28 +1300,6 @@
       "isNew": false
     },
     {
-      "id": "5dc4bc751d19",
-      "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
-      "url": "https://www.sanyonews.jp/article/1912545",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-18T01:31:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/0/6/a/206a8f6736f9248712e80e9b09d71376_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5661821873b1",
       "title": "本田三姉妹の母 名門大入学の末娘・紗来に作った「ちいかわ弁当」が職人レベル！→本人感激「びっくり！幸せ（涙）」",
       "url": "https://news.yahoo.co.jp/articles/3580652bf1972245e1130392c3e3db0aaff9e489",
@@ -1393,7 +1435,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8d4057f63f8",
@@ -1455,6 +1497,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b52a955d1149",
+      "title": "『映画ちいかわ』アニメーション制作・サイピクが新たなイラストを公開「セイレーンが島の服着てる!超可愛い!」「こんな世界線もあってもよかった……」",
+      "url": "https://www.oricon.co.jp/news/2485743/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-17T21:27:10.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2486000/2485743/20260629_181034_p_o_17488151.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bae08581b62a",
@@ -1974,6 +2035,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1a86960d03b1",
+      "title": "ちいかわ 第21話～第23話 「なんとかバニア」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/episodes/eptufzm5co",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "58182fd1011e",
