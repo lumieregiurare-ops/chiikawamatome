@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-19T19:00:19.974Z",
+  "updatedAt": "2026-10-19T19:30:22.678Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 103,
+  "total": 106,
   "todayCount": 2,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 9
+      "count": 10
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 32
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "momonga",
@@ -90,7 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 30
+      "count": 31
+    },
+    {
+      "name": "インサイド",
+      "count": 5
     },
     {
       "name": "オリコンニュース",
@@ -98,10 +102,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 4
-    },
-    {
-      "name": "インサイド",
       "count": 4
     },
     {
@@ -269,6 +269,10 @@
       "count": 1
     },
     {
+      "name": "ファッションプレス",
+      "count": 1
+    },
+    {
       "name": "現代ビジネス",
       "count": 1
     },
@@ -377,7 +381,7 @@
       "leadSource": "NCC長崎文化放送",
       "publishedAt": "2026-10-19T10:28:00.000Z",
       "sourceCount": 6,
-      "articleCount": 8,
+      "articleCount": 9,
       "categories": [
         "other",
         "collab"
@@ -428,6 +432,13 @@
           "url": "https://airline.ikaros.jp/news/62166/",
           "source": "AIRLINE web",
           "publishedAt": "2026-10-18T15:24:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ANA「ちいかわジェット」お披露目 初便は10/19長崎行きNH661便（Aviation Wire）",
+          "url": "https://news.yahoo.co.jp/articles/ec5f2288e74b807795bb54bdb34b4d5a1cf134f1",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-18T07:50:00.000Z",
           "isPR": false
         },
         {
@@ -797,12 +808,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T18:30:23.975Z",
-    "previousCount": 101,
+    "previousAt": "2026-10-19T19:00:19.974Z",
+    "previousCount": 103,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T19:30:19.974Z",
+  "nextUpdateAt": "2026-10-19T20:00:22.678Z",
   "items": [
     {
       "id": "45a346db9ee1",
@@ -901,7 +912,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "30dab7ccb29b",
@@ -1267,7 +1278,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020040031",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020043038",
       "categories": [
         "goods",
         "book"
@@ -2016,7 +2027,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "808e400e2f7a",
@@ -2131,7 +2142,7 @@
       "source": "トラベル Watch",
       "summary": "",
       "publishedAt": "2026-10-19T00:03:41.000Z",
-      "image": "https://travel.watch.impress.co.jp/img/trw/list/2149/094/01.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2159,7 +2170,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ccce0b513ad1",
@@ -2179,6 +2190,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "497fc2ae7c3f",
+      "title": "ルクア大阪の新館「ルクア サウス」国内最大級キャラクターゾーン誕生へ、ちいかわパークストア初出店",
+      "url": "https://www.fashion-press.net/news/149233",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-10-18T22:38:16.000Z",
+      "image": "https://www.fashion-press.net/img/news/149233/top.jpg?1785305162",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a80e8c0e6a13",
@@ -2392,6 +2422,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5a408bab6f43",
+      "title": "ANA「ちいかわジェット」お披露目 初便は10/19長崎行きNH661便（Aviation Wire）",
+      "url": "https://news.yahoo.co.jp/articles/ec5f2288e74b807795bb54bdb34b4d5a1cf134f1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-18T07:50:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00000001-awire-000-2-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "017a98543f2e",
@@ -2774,6 +2823,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e91e1358fc5f",
+      "title": "お正月にピッタリな「ちいかわ」ポチ袋！袴姿で新年をお祝い、“五円玉になったうさぎ”も可愛い",
+      "url": "https://s.inside-games.jp/article/2026/10/17/189408.html",
+      "host": "s.inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-17T01:45:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1790377.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "36756f152630",
