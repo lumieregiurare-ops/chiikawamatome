@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T15:30:23.676Z",
+  "updatedAt": "2026-10-19T16:00:17.785Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 103,
+  "total": 102,
   "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 27
+      "count": 26
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 10
+      "count": 9
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 36
+      "count": 37
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "usagi",
@@ -94,7 +94,7 @@
     },
     {
       "name": "インサイド",
-      "count": 5
+      "count": 4
     },
     {
       "name": "オリコンニュース",
@@ -137,10 +137,6 @@
       "count": 2
     },
     {
-      "name": "キャラグー",
-      "count": 2
-    },
-    {
       "name": "Infoseek",
       "count": 2
     },
@@ -150,6 +146,10 @@
     },
     {
       "name": "朝日新聞",
+      "count": 2
+    },
+    {
+      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -261,6 +261,10 @@
       "count": 1
     },
     {
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
       "name": "めざましmedia",
       "count": 1
     },
@@ -283,10 +287,6 @@
     {
       "name": "アニメハック",
       "count": 1
-    },
-    {
-      "name": "山陽新聞",
-      "count": 1
     }
   ],
   "topics": [
@@ -298,8 +298,8 @@
       "image": "https://animeanime.jp/imgs/rss/944843.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-19T12:41:46.000Z",
-      "sourceCount": 17,
-      "articleCount": 19,
+      "sourceCount": 18,
+      "articleCount": 20,
       "categories": [
         "anime",
         "goods"
@@ -790,12 +790,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T15:00:18.968Z",
-    "previousCount": 100,
-    "newCount": 3
+    "previousAt": "2026-10-19T15:30:23.676Z",
+    "previousCount": 103,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T16:00:23.676Z",
+  "nextUpdateAt": "2026-10-19T16:30:17.785Z",
   "items": [
     {
       "id": "d8d4057f63f8",
@@ -1203,7 +1203,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020003043",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020010029",
       "categories": [
         "goods",
         "book"
@@ -2430,6 +2430,28 @@
       "isNew": false
     },
     {
+      "id": "5dc4bc751d19",
+      "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
+      "url": "https://www.sanyonews.jp/article/1912545",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-18T01:31:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/6/a/206a8f6736f9248712e80e9b09d71376_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d259b24ab465",
       "title": "壁一面に並ぶご当地「ちいかわ」、コンプリート目前の壮観な光景に驚嘆 なぜそこまで…意外な人脈も駆使（ENCOUNT）",
       "url": "https://news.yahoo.co.jp/articles/7860284df39b4e99829dfeffbc4eb6cab1bb49ad",
@@ -2446,7 +2468,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d6f288d209c2",
@@ -2711,27 +2733,6 @@
       "isNew": false
     },
     {
-      "id": "e91e1358fc5f",
-      "title": "お正月にピッタリな「ちいかわ」ポチ袋！袴姿で新年をお祝い、“五円玉になったうさぎ”も可愛い",
-      "url": "https://s.inside-games.jp/article/2026/10/17/189408.html",
-      "host": "s.inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-10-17T01:45:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1790377.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "36756f152630",
       "title": "ポップアップ絵本『とびだす アニメちいかわ』。ちいかわやハチワレたちが元気に飛び出す仕掛けがかわいい",
       "url": "https://dengekionline.com/article/202610/90543",
@@ -2810,26 +2811,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5a0ee4a6ba2e",
-      "title": "ちいかわ☆星ふるスカイツリー(R)とひみつの島｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
-      "url": "https://charagoo.jp/collab/event/a7d9e207df44/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-16T15:50:41.000Z",
-      "image": "",
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
