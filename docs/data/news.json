@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T03:00:20.280Z",
+  "updatedAt": "2026-10-19T03:30:18.491Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 81,
-  "todayCount": 30,
+  "todayCount": 31,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 24
+      "count": 25
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 15
+      "count": 16
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 13
+      "count": 12
     },
     {
       "id": "book",
@@ -47,24 +47,24 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 34
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "kurimanju",
@@ -93,16 +93,20 @@
       "count": 26
     },
     {
-      "name": "山陽新聞",
+      "name": "インサイド",
       "count": 5
     },
     {
-      "name": "インサイド",
+      "name": "山陽新聞",
       "count": 4
     },
     {
       "name": "トラベル Watch",
       "count": 3
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 2
     },
     {
       "name": "AIRLINE web",
@@ -137,10 +141,6 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
-      "count": 2
-    },
-    {
       "name": "電撃オンライン",
       "count": 2
     },
@@ -169,6 +169,10 @@
       "count": 1
     },
     {
+      "name": "現代ビジネス",
+      "count": 1
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
@@ -177,15 +181,7 @@
       "count": 1
     },
     {
-      "name": "매일경제",
-      "count": 1
-    },
-    {
       "name": "めざましmedia",
-      "count": 1
-    },
-    {
-      "name": "現代ビジネス",
       "count": 1
     },
     {
@@ -209,11 +205,15 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "週刊女性PRIME",
       "count": 1
     },
     {
       "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -359,42 +359,6 @@
       ]
     },
     {
-      "id": "650cfa4f2b3c",
-      "title": "『ちいかわ』のめじるしアクセサリー第3弾が再登場！クリアなレインコート姿のちいかわ、ハチワレ、うさぎ、モモンガ、古本屋の全5種類！",
-      "summary": "",
-      "url": "https://hobby.dengeki.com/news/3198521/",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_idJH-qvWuDkp3OtsEYEvw4DqL8KhH3xo_8ZPeDsUQEGMYvWEvVcnUTm6HqLnipyrt.jpg",
-      "leadSource": "電撃ホビーウェブ",
-      "publishedAt": "2026-10-19T00:44:44.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "モモンガ"
-      ],
-      "articles": [
-        {
-          "title": "映画『ちいかわ』新たな特典第6弾発表 ちいかわ＆ハチワレ、うさぎ＆モモンガのチャームフィギュア2種",
-          "url": "https://www.sanyonews.jp/article/1995734?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-17T16:00:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種",
-          "url": "https://www.inside-games.jp/article/2026/10/17/189419.html",
-          "source": "インサイド",
-          "publishedAt": "2026-10-17T08:30:04.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "57a3703c085e",
       "title": "「ちいかわ×ANA」のコラボ、制服姿のキャラクターたちが可愛すぎ。いつから、どこで買える？（ハフポスト日本版）",
       "summary": "",
@@ -426,6 +390,34 @@
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-ana-add-info-goods-2026/",
           "source": "コラボカフェ",
           "publishedAt": "2026-10-16T07:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "650cfa4f2b3c",
+      "title": "『ちいかわ』のめじるしアクセサリー第3弾が再登場！クリアなレインコート姿のちいかわ、ハチワレ、うさぎ、モモンガ、古本屋の全5種類！",
+      "summary": "",
+      "url": "https://hobby.dengeki.com/news/3198521/",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_idJH-qvWuDkp3OtsEYEvw4DqL8KhH3xo_8ZPeDsUQEGMYvWEvVcnUTm6HqLnipyrt.jpg",
+      "leadSource": "電撃ホビーウェブ",
+      "publishedAt": "2026-10-19T00:44:44.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "アクセサリー",
+        "古本屋"
+      ],
+      "articles": [
+        {
+          "title": "大人気「ちいかわ めじるしアクセサリー3」に再販予告！雨カッパを着たハチワレ、古本屋など全5種",
+          "url": "https://www.inside-games.jp/article/2026/10/17/189419.html",
+          "source": "インサイド",
+          "publishedAt": "2026-10-17T08:30:04.000Z",
           "isPR": false
         }
       ]
@@ -571,13 +563,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T02:30:17.410Z",
-    "previousCount": 83,
-    "newCount": 6
+    "previousAt": "2026-10-19T03:00:20.280Z",
+    "previousCount": 81,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T03:30:20.280Z",
+  "nextUpdateAt": "2026-10-19T04:00:18.491Z",
   "items": [
+    {
+      "id": "09d57853d46e",
+      "title": "丸美屋×「ちいかわ」、カップスープ2品を期間限定発売 “草むしり”などをデザイン 10月22日から",
+      "url": "https://news.nicovideo.jp/watch/nw19893328?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T03:18:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1e60cded01c4",
+      "title": "「ちいかわ」の新作「ボンボンドロップシール」が10月下旬より順次発売！待望の「ミニ」デザイン全8種",
+      "url": "https://www.inside-games.jp/article/2026/10/19/189476.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「ボンボンドロップシールミニ」シリーズに「ちいかわ」が登場！2026年10月下旬より順次発売。",
+      "publishedAt": "2026-10-19T03:05:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1795000.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "972a895585bb",
       "title": "興行成績：『映画ちいかわ 人魚の島のひみつ』2週連続週末1位…観客200万人突破なるか（朝鮮日報日本語版）",
@@ -595,7 +625,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e579f8742be1",
@@ -615,7 +645,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9058d69aecc3",
@@ -653,7 +683,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "581b2eb054ac",
@@ -691,7 +721,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5106aa4de035",
@@ -790,6 +820,25 @@
       "isNew": false
     },
     {
+      "id": "7e7b42556915",
+      "title": "ちいかわ「米国で売れすぎて売り場が空っぽ」……アメリカ人がハマるまっとうな理由",
+      "url": "https://gendai.media/articles/-/171844?page",
+      "host": "gendai.media",
+      "source": "現代ビジネス",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:00:28.000Z",
+      "image": "https://cdn.kds.ltd/gendai/on6ny1en4gp1l9pyc6gvq6g5/_",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "808e400e2f7a",
       "title": "ANA、ちいかわジェット国内線就航 初便満席で長崎へ（Aviation Wire）",
       "url": "https://news.yahoo.co.jp/articles/53803c91182508d75a3281032ffb66aac84b1544",
@@ -825,7 +874,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1bf16f0e653c",
@@ -990,25 +1039,6 @@
       "isNew": false
     },
     {
-      "id": "5cd0e1c8c663",
-      "title": "「ちいかわ」週末32万人で圧倒的1位…200万人目前［MKボックスオフィス］",
-      "url": "https://www.mk.co.kr/jp/movies/12179180",
-      "host": "mk.co.kr",
-      "source": "매일경제",
-      "summary": "",
-      "publishedAt": "2026-10-18T23:22:09.000Z",
-      "image": "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.905d5b7ed0e0479b859185bdb3bcd1b2_R.jpeg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "fe0164e8043b",
       "title": "10月19日(月)の「ちいかわ占い」",
       "url": "https://mezamashi.media/articles/-/358754",
@@ -1039,25 +1069,6 @@
       "categories": [
         "goods",
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7e7b42556915",
-      "title": "ちいかわ「米国で売れすぎて売り場が空っぽ」……アメリカ人がハマるまっとうな理由",
-      "url": "https://gendai.media/articles/-/171844",
-      "host": "gendai.media",
-      "source": "現代ビジネス",
-      "summary": "",
-      "publishedAt": "2026-10-18T21:02:07.000Z",
-      "image": "https://cdn.kds.ltd/gendai/on6ny1en4gp1l9pyc6gvq6g5/_",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1157,7 +1168,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-18T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2147/700/000.jpg",
       "categories": [
         "other"
       ],
@@ -1487,7 +1498,7 @@
     {
       "id": "d6f288d209c2",
       "title": "日本アニメ映画「ちいかわ」、「暗殺者（たち）」を3倍差で引き離す…170万人目前",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFdicV9YWlZvOEZpdWZOTV9peUlsWkFBSGlUb0thdkhPb0VpXzg4QzZMY2UzdlVpQlNSTm5uYjlNcnc4aExMTHlBZzRTUHlaeVNpN3B2R2dzQTR5SHZlSjdGN1JoRDUteC01YWxTc21vY05jWFlqdWtweGcxS1NFdDZHT3ZWb0N0OU1FS2VQWdIBlAFBVV95cUxOLXh5eTVpSHQ0c3NjS3ZicWxEZDE4S0RialVCdE1mNG9YQnFleHotWkk4TDdQR1VuMFRIWm9oR3kzVV82LWlzQlpJWTdGemF1amp4SU9tazJ2ZnBjVGFBUzd5b0IyQVg2cTVhV2lieGFGalM3OUU5aUlSVEhlSzluQXQ2ODVQYkppcmx6YVJSY2I3SGdL?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXh5eTVpSHQ0c3NjS3ZicWxEZDE4S0RialVCdE1mNG9YQnFleHotWkk4TDdQR1VuMFRIWm9oR3kzVV82LWlzQlpJWTdGemF1amp4SU9tazJ2ZnBjVGFBUzd5b0IyQVg2cTVhV2lieGFGalM3OUU5aUlSVEhlSzluQXQ2ODVQYkppcmx6YVJSY2I3SGdL0gGUAUFVX3lxTE4teHl5NWlIdDRzc2NLdmJxbERkMThLRGJqVUJ0TWY0b1hCcWV4ei1aSThMN1BHVW4wVEhab2hHeTNVXzYtaXNCWklZN0Z6YXVqanhJT21rMnZmcGNUYUFTN3lvQjJBWDZxNWFXaWJ4YUZqUzc5RTlpSVJUSGVLOW5BdDY4NVBiSmlybHphUlJjYjdIZ0s?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
@@ -1547,6 +1558,26 @@
       "isNew": false
     },
     {
+      "id": "d8d4057f63f8",
+      "title": "くら寿司×ちいかわに続き《牛角でも不正行為発覚》『呪術廻戦』コラボグッズを開封済みで提供、運営元は「厳正に処分しております」《2026年10月Choice》",
+      "url": "https://www.jprime.jp/articles/-/43914?display",
+      "host": "jprime.jp",
+      "source": "週刊女性PRIME",
+      "summary": "",
+      "publishedAt": "2026-10-17T22:45:00.000Z",
+      "image": "https://jprime.ismcdn.jp/mwimgs/5/d/-/img_5d68a8ecf9d8d65b50cb9d2e430b9e2f987318.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "33c3447b20b7",
       "title": "ちいかわの世界観を満喫できる特別なクリスマスマーケットが期間限定で開催決定",
       "url": "https://news.nicovideo.jp/watch/nw19891092",
@@ -1559,30 +1590,6 @@
         "event"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bae08581b62a",
-      "title": "映画『ちいかわ』新たな特典第6弾発表 ちいかわ＆ハチワレ、うさぎ＆モモンガのチャームフィギュア2種",
-      "url": "https://www.sanyonews.jp/article/1995734?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T16:00:40.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/4/7/3/34738b093ed1f226b4196fcc23d6d851_1.jpg",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2151,25 +2158,6 @@
       "categories": [
         "goods",
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f02b0f7afc9f",
-      "title": "韓国で「ちいかわ」人気が止まらない…「暗殺者（たち）」を抑えて興行1位｜Infoseekニュース",
-      "url": "https://news.infoseek.co.jp/article/wowkorea_539181/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-16T03:03:40.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/wowkorea/wowkorea_539181_0-enlarge.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
