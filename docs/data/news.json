@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T21:00:19.108Z",
+  "updatedAt": "2026-10-19T21:30:17.667Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 108,
-  "todayCount": 3,
+  "total": 111,
+  "todayCount": 6,
   "categories": [
     {
       "id": "goods",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 34
     }
   ],
   "series": [
@@ -90,14 +90,10 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 30
+      "count": 31
     },
     {
       "name": "インサイド",
-      "count": 5
-    },
-    {
-      "name": "オリコンニュース",
       "count": 5
     },
     {
@@ -105,11 +101,19 @@
       "count": 4
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 4
+    },
+    {
+      "name": "オリコンニュース",
+      "count": 4
+    },
+    {
       "name": "朝日新聞",
       "count": 3
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -121,7 +125,7 @@
       "count": 3
     },
     {
-      "name": "山陽新聞",
+      "name": "西日本新聞me",
       "count": 2
     },
     {
@@ -154,10 +158,6 @@
     },
     {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "乗りものニュース",
       "count": 1
     },
     {
@@ -381,30 +381,51 @@
       ]
     },
     {
-      "id": "bd4f54e95ff4",
-      "title": "ANA特別塗装機「ちいかわジェット」長崎空港へ初就航「ワクワクで満たされる世界を」",
+      "id": "d740a2c351ee",
+      "title": "長崎空港の展望デッキで、「ちいかわ」をデザインした特別機にカメラを向けるファンたち - ［長崎県］【動画】ようこそちいかわジェット 長崎に第1便到着 400人超お出迎え - 写真・画像(2/2)",
       "summary": "",
-      "url": "https://www.ncctv.co.jp/news/article/16976396",
-      "image": "https://p.potaufeu.asahi.com/50f4-p/picture/31460803/f67254f6f5ec8d06bebb39c80893683e.png",
-      "leadSource": "NCC長崎文化放送",
-      "publishedAt": "2026-10-19T10:28:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 9,
+      "url": "https://www.nishinippon.co.jp/image/1093940/",
+      "image": "https://www.nishinippon.co.jp/uploads/image/1950672/sns_IP261019JAA000154000.jpg",
+      "leadSource": "西日本新聞me",
+      "publishedAt": "2026-10-19T21:02:56.000Z",
+      "sourceCount": 9,
+      "articleCount": 13,
       "categories": [
         "other",
         "collab"
       ],
       "keywords": [
-        "ana",
         "ジェット",
+        "ana",
         "長崎"
       ],
       "articles": [
+        {
+          "title": "［長崎県］【動画】ようこそちいかわジェット 長崎に第1便到着 400人超お出迎え",
+          "url": "https://www.nishinippon.co.jp/item/1550734/",
+          "source": "西日本新聞me",
+          "publishedAt": "2026-10-19T21:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "羽田発の長崎便が初便「ちいかわジェットが就航開始」空港の展望デッキにファン400人《長崎》",
+          "url": "https://news.ntv.co.jp/n/nib/category/society/niecb0584e9a994f829bb6be8a7d2e1cb3",
+          "source": "日テレNEWS NNN",
+          "publishedAt": "2026-10-19T11:50:00.000Z",
+          "isPR": false
+        },
         {
           "title": "400人以上のファンがお出迎え「ちいかわジェット」ANAとコラボした特別機が長崎空港に登場《長崎》",
           "url": "https://news.ntv.co.jp/n/nib/category/society/nib7a5bbe50c4740f092c343f808670cc4",
           "source": "日テレNEWS NNN",
           "publishedAt": "2026-10-19T09:35:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわジェット」が全国初フライトで長崎空港に! 人気漫画キャラクターの機体に展望デッキは400人超のファン 「ぬいぐるみと一緒に撮れたら」",
+          "url": "https://www.ktn.co.jp/news/detail.php?id",
+          "source": "KTNテレビ長崎",
+          "publishedAt": "2026-10-19T08:20:00.000Z",
           "isPR": false
         },
         {
@@ -433,27 +454,6 @@
           "url": "https://news.yahoo.co.jp/articles/1c5569aeeb82b23b720d0a7fe4b4cf763ccc3e56",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-19T00:28:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANAとちいかわが初コラボ、「ちいかわジェット」ついにお披露目。制服姿のちいかわたちもサプライズでやってきた！",
-          "url": "https://airline.ikaros.jp/news/62166/",
-          "source": "AIRLINE web",
-          "publishedAt": "2026-10-18T15:24:51.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANA｢ちいかわジェット｣が羽田空港で初公開 19日から運航開始",
-          "url": "https://www.asahi.com/articles/ASVBL2F1MVBLULFA004M.html",
-          "source": "朝日新聞",
-          "publishedAt": "2026-10-18T07:27:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANA、初の「ちいかわジェット」お披露目 19日羽田ー長崎から就航",
-          "url": "https://www.nikkei.com/article/DGXZQOUC153ZG0V11C26A0000000/",
-          "source": "日本経済新聞",
-          "publishedAt": "2026-10-18T07:23:03.000Z",
           "isPR": false
         }
       ]
@@ -743,30 +743,29 @@
       ]
     },
     {
-      "id": "a47cacc66148",
-      "title": "羽田発の長崎便が初便「ちいかわジェットが就航開始」空港の展望デッキにファン400人《長崎》",
+      "id": "bd4f54e95ff4",
+      "title": "ANA特別塗装機「ちいかわジェット」長崎空港へ初就航「ワクワクで満たされる世界を」",
       "summary": "",
-      "url": "https://news.ntv.co.jp/n/nib/category/society/niecb0584e9a994f829bb6be8a7d2e1cb3",
-      "image": "https://image.gallery.play.jp/nib-news/articles/6db68625a45c470eb39deac91485aa69/6cf6aade-2d21-4187-85d5-92635fcba286.jpg?w=1200",
-      "leadSource": "日テレNEWS NNN",
-      "publishedAt": "2026-10-19T11:50:00.000Z",
+      "url": "https://www.ncctv.co.jp/news/article/16976396",
+      "image": "https://p.potaufeu.asahi.com/50f4-p/picture/31460803/f67254f6f5ec8d06bebb39c80893683e.png",
+      "leadSource": "NCC長崎文化放送",
+      "publishedAt": "2026-10-19T10:28:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "goods"
+        "other"
       ],
       "keywords": [
+        "ana",
         "ジェット",
-        "デッキ",
-        "ファン"
+        "特別塗装機"
       ],
       "articles": [
         {
-          "title": "「ちいかわジェット」が全国初フライトで長崎空港に! 人気漫画キャラクターの機体に展望デッキは400人超のファン 「ぬいぐるみと一緒に撮れたら」",
-          "url": "https://www.ktn.co.jp/news/detail.php?id",
-          "source": "KTNテレビ長崎",
-          "publishedAt": "2026-10-19T08:20:00.000Z",
+          "title": "ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlJldTlYS0wzNnNDaTN2X0dudndTajlmYVBfYnZyV2hCXzZjeFVma1ZPM3NUaHF2Rk5FSkZyWUJfUEtfMzl5TFFnRC11TEhFbWV6aG1OVG1PTjZHc1o5aUEzbm5EVk12NUNMQ0hkRXNaSXFQMDFORXoxUmI3Sl9pLXdR0gGHAUFVX3lxTE1heTlzei1iMkFjRnFKZVlTWGd5dzR3YzZYQmZCTGZwZF9hWEZwQXRRNDFYY0w1b0t6U2o1OEVrS01tcHlETlFjVWlKcWRGX3pzRTZFYmVHU2NvejZ2bDlra3U2YTRzY05PYTBnZElyZ0JZVENpdGVmQ0FzOWVxeDdGb2J5TTF0WQ?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-19T00:18:00.000Z",
           "isPR": false
         }
       ]
@@ -801,13 +800,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T20:30:19.168Z",
-    "previousCount": 105,
+    "previousAt": "2026-10-19T21:00:19.108Z",
+    "previousCount": 108,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T21:30:19.108Z",
+  "nextUpdateAt": "2026-10-19T22:00:17.667Z",
   "items": [
+    {
+      "id": "d740a2c351ee",
+      "title": "長崎空港の展望デッキで、「ちいかわ」をデザインした特別機にカメラを向けるファンたち - ［長崎県］【動画】ようこそちいかわジェット 長崎に第1便到着 400人超お出迎え - 写真・画像(2/2)",
+      "url": "https://www.nishinippon.co.jp/image/1093940/",
+      "host": "nishinippon.co.jp",
+      "source": "西日本新聞me",
+      "summary": "",
+      "publishedAt": "2026-10-19T21:02:56.000Z",
+      "image": "https://www.nishinippon.co.jp/uploads/image/1950672/sns_IP261019JAA000154000.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1d3f904c29ba",
+      "title": "［長崎県］【動画】ようこそちいかわジェット 長崎に第1便到着 400人超お出迎え",
+      "url": "https://www.nishinippon.co.jp/item/1550734/",
+      "host": "nishinippon.co.jp",
+      "source": "西日本新聞me",
+      "summary": "",
+      "publishedAt": "2026-10-19T21:00:00.000Z",
+      "image": "https://www.nishinippon.co.jp/uploads/image/1950673/sns_IP261019JAA000325000.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "125ab4e1702c",
       "title": "ちいかわと空の旅ってコト！？ ＡＮＡ、特別デザイン機",
@@ -826,6 +863,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "91965fea98c8",
+      "title": "「ちいかわ×CITEN」スペシャルコレクション 6アイテムがきょう15日から順次販売【アイテム全カット】",
+      "url": "https://www.sanyonews.jp/article/1989116?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T19:55:24.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/4/d/7/f4d7dfd71cc330d01ebc32bd5b083b5f_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "45a346db9ee1",
@@ -901,25 +957,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "667cc8f16ea5",
-      "title": "【反則級の可愛さ！】ちいかわだらけの飛行機が爆誕！ANA「ちいかわジェット」の実物を間近で見てきた！",
-      "url": "https://trafficnews.jp/post/719720",
-      "host": "trafficnews.jp",
-      "source": "乗りものニュース",
-      "summary": "",
-      "publishedAt": "2026-10-19T12:30:00.000Z",
-      "image": "https://trafficnews.jp/wp-content/uploads/2027/10/chiikawa.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1271,7 +1308,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020060039",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020063030",
       "categories": [
         "goods",
         "book"
@@ -1632,7 +1669,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "02cc85f9254c",
@@ -1867,13 +1904,13 @@
     },
     {
       "id": "0122951610f3",
-      "title": "『ちいかわ焼き』モモンガ(さつまいも)にネット衝撃「絶対コレも美味い」",
-      "url": "https://www.oricon.co.jp/news/2487242/embed/photo/?anc",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "title": "『ちいかわ焼き』モモンガ（さつまいも）にネット衝撃「絶対コレも美味い」（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/0a1cc5b660452348738918eeffd26548d457e484",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-19T03:50:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487242/20261019_105229_p_o_76707230.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00000361-oric-000-5-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -2020,7 +2057,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "808e400e2f7a",
@@ -2126,6 +2163,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "10a0f5372238",
+      "title": "ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlJldTlYS0wzNnNDaTN2X0dudndTajlmYVBfYnZyV2hCXzZjeFVma1ZPM3NUaHF2Rk5FSkZyWUJfUEtfMzl5TFFnRC11TEhFbWV6aG1OVG1PTjZHc1o5aUEzbm5EVk12NUNMQ0hkRXNaSXFQMDFORXoxUmI3Sl9pLXdR0gGHAUFVX3lxTE1heTlzei1iMkFjRnFKZVlTWGd5dzR3YzZYQmZCTGZwZF9hWEZwQXRRNDFYY0w1b0t6U2o1OEVrS01tcHlETlFjVWlKcWRGX3pzRTZFYmVHU2NvejZ2bDlra3U2YTRzY05PYTBnZElyZ0JZVENpdGVmQ0FzOWVxeDdGb2J5TTF0WQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:18:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d2520b0ff6f2",
@@ -2250,7 +2306,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-18T16:48:06.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/539826_1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2452,7 +2508,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fad9696d0147",
@@ -2936,7 +2992,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
