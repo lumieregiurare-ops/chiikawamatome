@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-19T17:00:20.321Z",
+  "updatedAt": "2026-10-19T17:30:21.120Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 103,
+  "total": 104,
   "todayCount": 1,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 36
+      "count": 38
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
@@ -126,6 +126,10 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 2
+    },
+    {
+      "name": "アニメハック",
       "count": 2
     },
     {
@@ -225,6 +229,10 @@
       "count": 1
     },
     {
+      "name": "NewsCafe",
+      "count": 1
+    },
+    {
       "name": "風傳媒",
       "count": 1
     },
@@ -253,15 +261,11 @@
       "count": 1
     },
     {
-      "name": "khb東日本放送",
+      "name": "テレ朝NEWS",
       "count": 1
     },
     {
       "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "めざましmedia",
       "count": 1
     },
     {
@@ -279,10 +283,6 @@
     {
       "name": "ニコニコニュース",
       "count": 1
-    },
-    {
-      "name": "アニメハック",
-      "count": 1
     }
   ],
   "topics": [
@@ -294,8 +294,8 @@
       "image": "https://animeanime.jp/imgs/rss/944843.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-19T12:41:46.000Z",
-      "sourceCount": 17,
-      "articleCount": 19,
+      "sourceCount": 19,
+      "articleCount": 21,
       "categories": [
         "anime",
         "goods"
@@ -311,6 +311,13 @@
           "url": "https://www.pashplus.jp/anime/499496/",
           "source": "PASH! PLUS",
           "publishedAt": "2026-10-19T12:41:46.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「映画ちいかわ」入場特典第7弾はナガノ描き下ろしクリアカード 10月24日から全4種をランダム配布",
+          "url": "https://anime.eiga.com/news/127687/",
+          "source": "アニメハック",
+          "publishedAt": "2026-10-19T09:30:00.000Z",
           "isPR": false
         },
         {
@@ -353,13 +360,6 @@
           "url": "https://fan.books.rakuten.co.jp/articles/b4sc5k0t0yko8rwrwx5zwkqb",
           "source": "推し楽",
           "publishedAt": "2026-10-19T07:22:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「映画ちいかわ」新入場者特典はナガノ先生描き下ろしクリアカード！島を探検するちいかわ・ハチワレ・うさぎなどイラストに",
-          "url": "https://www.inside-games.jp/article/2026/10/19/189492.html",
-          "source": "インサイド",
-          "publishedAt": "2026-10-19T07:15:03.000Z",
           "isPR": false
         }
       ]
@@ -407,8 +407,8 @@
         },
         {
           "title": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種",
-          "url": "https://www.khb-tv.co.jp/news/16975002",
-          "source": "khb東日本放送",
+          "url": "https://news.tv-asahi.co.jp/news_society/articles/000541167.html",
+          "source": "テレ朝NEWS",
           "publishedAt": "2026-10-19T00:28:23.000Z",
           "isPR": false
         },
@@ -793,12 +793,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T16:30:20.838Z",
-    "previousCount": 102,
+    "previousAt": "2026-10-19T17:00:20.321Z",
+    "previousCount": 103,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T17:30:20.321Z",
+  "nextUpdateAt": "2026-10-19T18:00:21.120Z",
   "items": [
     {
       "id": "45a346db9ee1",
@@ -817,7 +817,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8d4057f63f8",
@@ -1093,6 +1093,25 @@
       "isNew": false
     },
     {
+      "id": "83fbaa1caf6c",
+      "title": "「映画ちいかわ」入場特典第7弾はナガノ描き下ろしクリアカード 10月24日から全4種をランダム配布",
+      "url": "https://anime.eiga.com/news/127687/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:30:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127687/photo/f834f76c421f5dd4/640.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c932b6f69ce9",
       "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第7弾「ナガノ氏描き下ろしクリアカード」（ランダム4 種）について",
       "url": "https://109cinemas.net/news/10113.html",
@@ -1225,7 +1244,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020020035",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020023036",
       "categories": [
         "goods",
         "book"
@@ -1532,6 +1551,25 @@
       "isNew": false
     },
     {
+      "id": "6fb3bee52cac",
+      "title": "映画「ちいかわ」入場者プレゼント第7弾はナガノ氏描き下ろしクリアカード ホログラム加工でキラキラ輝くランダム4種・10月24日より数量限定配布",
+      "url": "https://www.newscafe.ne.jp/article/2026/10/19/3035056.html",
+      "host": "newscafe.ne.jp",
+      "source": "NewsCafe",
+      "summary": "",
+      "publishedAt": "2026-10-19T05:15:07.000Z",
+      "image": "https://www.newscafe.ne.jp/imgs/ogp_f/22880199.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5b3a09fbc088",
       "title": "ANA「ちいかわジェット」国内線に就航 機体から機内までちいかわ仕様、23日から限定グッズも | 黃信維（コウ・シンイ） | ニュース",
       "url": "https://japan.storm.mg/articles/1173536",
@@ -1708,7 +1746,7 @@
     {
       "id": "2ddb0b57c653",
       "title": "映画『ちいかわ』興収181億円突破 『ONE PIECE FILM RED』超えるペース 新たな特典発表",
-      "url": "https://www.oricon.co.jp/news/2487319/",
+      "url": "https://www.oricon.co.jp/news/2487319/full/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -2040,12 +2078,12 @@
     {
       "id": "4df06b02661c",
       "title": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種",
-      "url": "https://www.khb-tv.co.jp/news/16975002",
-      "host": "khb-tv.co.jp",
-      "source": "khb東日本放送",
+      "url": "https://news.tv-asahi.co.jp/news_society/articles/000541167.html",
+      "host": "news.tv-asahi.co.jp",
+      "source": "テレ朝NEWS",
       "summary": "",
       "publishedAt": "2026-10-19T00:28:23.000Z",
-      "image": "https://news.tv-asahi.co.jp/articles_img/000541167_640.jpg",
+      "image": "https://news.tv-asahi.co.jp/articles_img/000541167_1200.jpg",
       "categories": [
         "collab"
       ],
@@ -2117,7 +2155,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ccce0b513ad1",
@@ -2130,25 +2168,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00000001-mynavin-000-1-view.jpg?exp=10800",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fe0164e8043b",
-      "title": "10月19日(月)の「ちいかわ占い」",
-      "url": "https://mezamashi.media/articles/-/358754",
-      "host": "mezamashi.media",
-      "source": "めざましmedia",
-      "summary": "",
-      "publishedAt": "2026-10-18T22:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
