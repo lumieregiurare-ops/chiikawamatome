@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T18:00:17.926Z",
+  "updatedAt": "2026-10-19T18:30:23.975Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 102,
-  "todayCount": 1,
+  "total": 101,
+  "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 37
+      "count": 38
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 30
     }
   ],
   "series": [
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 30
+      "count": 31
     },
     {
       "name": "インサイド",
@@ -133,10 +133,6 @@
       "count": 2
     },
     {
-      "name": "cinemacafe.net",
-      "count": 2
-    },
-    {
       "name": "Infoseek",
       "count": 2
     },
@@ -149,15 +145,15 @@
       "count": 2
     },
     {
+      "name": "山陽新聞",
+      "count": 1
+    },
+    {
       "name": "週刊女性PRIME",
       "count": 1
     },
     {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "乗りものニュース",
       "count": 1
     },
     {
@@ -261,10 +257,6 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "現代ビジネス",
       "count": 1
     },
@@ -281,6 +273,10 @@
       "count": 1
     },
     {
+      "name": "cinemacafe.net",
+      "count": 1
+    },
+    {
       "name": "ニコニコニュース",
       "count": 1
     }
@@ -294,7 +290,7 @@
       "image": "https://animeanime.jp/imgs/rss/944843.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-19T12:41:46.000Z",
-      "sourceCount": 19,
+      "sourceCount": 18,
       "articleCount": 21,
       "categories": [
         "anime",
@@ -786,12 +782,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T17:30:21.120Z",
-    "previousCount": 104,
-    "newCount": 0
+    "previousAt": "2026-10-19T18:00:17.926Z",
+    "previousCount": 102,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T18:30:17.926Z",
+  "nextUpdateAt": "2026-10-19T19:00:23.975Z",
   "items": [
     {
       "id": "45a346db9ee1",
@@ -811,6 +807,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "eead1b51e5db",
+      "title": "映画『ちいかわ』公開で早くも満席続々 池袋の劇場1日41回上映『鬼滅の刃』規模で展開",
+      "url": "https://www.sanyonews.jp/article/1960044?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T16:29:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/1/7/1/817186aa70d28d2266070b8fdc1121bc_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d8d4057f63f8",
@@ -848,25 +863,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "667cc8f16ea5",
-      "title": "【反則級の可愛さ！】ちいかわだらけの飛行機が爆誕！ANA「ちいかわジェット」の実物を間近で見てきた！",
-      "url": "https://trafficnews.jp/post/719720",
-      "host": "trafficnews.jp",
-      "source": "乗りものニュース",
-      "summary": "",
-      "publishedAt": "2026-10-19T12:30:00.000Z",
-      "image": "https://trafficnews.jp/wp-content/uploads/2027/10/chiikawa.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1237,7 +1233,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020030036",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261020033035",
       "categories": [
         "goods",
         "book"
@@ -1602,13 +1598,13 @@
     },
     {
       "id": "9d72234bbe13",
-      "title": "『映画ちいかわ 人魚の島のひみつ』第7弾入プレはナガノ氏描き下ろしクリアカードに 10月24日より",
-      "url": "https://www.cinemacafe.net/article/2026/10/19/113409.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
+      "title": "『映画ちいかわ 人魚の島のひみつ』第7弾入プレはナガノ氏描き下ろしクリアカードに 10月24日より (cinemacafe.net)",
+      "url": "https://news.yahoo.co.jp/articles/944165267d3ff23c01f97aac739c3edc24f82170/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-19T05:00:03.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/840263.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnT9dL2hh-dyldSm9Z72FwCd1-Srgh98kHzwHqkJeYqXhOiXaB4Bj7hvdWQ2_vdgbzQsBbdWLPtaJui9K0DCb1SBWx7eQgsCPdtvWZjNrPtXn",
       "categories": [
         "anime"
       ],
@@ -2084,25 +2080,6 @@
       "image": "https://travel.watch.impress.co.jp/img/trw/list/2149/094/01.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "73f311f5e21e",
-      "title": "ちいかわ PUKU CHURU seal①｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/f3e0a38e46c0/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-18T23:45:01.000Z",
-      "image": "",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
