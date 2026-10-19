@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T10:00:18.792Z",
+  "updatedAt": "2026-10-19T10:30:17.623Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 40
+      "count": 39
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 31
     }
   ],
   "series": [
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 30
+      "count": 28
     },
     {
       "name": "インサイド",
@@ -105,6 +105,10 @@
       "count": 4
     },
     {
+      "name": "TBS NEWS DIG",
+      "count": 3
+    },
+    {
       "name": "オリコンニュース",
       "count": 3
     },
@@ -113,15 +117,15 @@
       "count": 3
     },
     {
+      "name": "コラボカフェ",
+      "count": 2
+    },
+    {
       "name": "KAI-YOU",
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
-      "count": 2
-    },
-    {
-      "name": "TBS NEWS DIG",
+      "name": "GAME Watch",
       "count": 2
     },
     {
@@ -145,11 +149,19 @@
       "count": 2
     },
     {
+      "name": "PASH! PLUS",
+      "count": 1
+    },
+    {
       "name": "日テレNEWS NNN",
       "count": 1
     },
     {
       "name": "１０９シネマズ",
+      "count": 1
+    },
+    {
+      "name": "ぴあエンタメ情報",
       "count": 1
     },
     {
@@ -162,10 +174,6 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 1
-    },
-    {
-      "name": "コラボカフェ",
       "count": 1
     },
     {
@@ -189,15 +197,7 @@
       "count": 1
     },
     {
-      "name": "FNNプライムオンライン",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース",
-      "count": 1
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -225,11 +225,11 @@
       "count": 1
     },
     {
-      "name": "ぴあエンタメ情報",
+      "name": "クランクイン！",
       "count": 1
     },
     {
-      "name": "クランクイン！",
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -281,11 +281,11 @@
       "count": 1
     },
     {
-      "name": "GAME Watch",
+      "name": "アニメハック",
       "count": 1
     },
     {
-      "name": "アニメハック",
+      "name": "au Webポータル",
       "count": 1
     }
   ],
@@ -297,8 +297,8 @@
       "url": "https://animeanime.jp/article/2026/10/19/103969.html",
       "image": "https://animeanime.jp/imgs/rss/944843.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-19T09:18:22.000Z",
-      "sourceCount": 20,
+      "publishedAt": "2026-10-19T09:37:45.000Z",
+      "sourceCount": 21,
       "articleCount": 24,
       "categories": [
         "anime",
@@ -311,10 +311,24 @@
       ],
       "articles": [
         {
+          "title": "『映画ちいかわ』ちいかわ・ハチワレ・うさぎ版、ヒトハフタバ版、セイレーン＆人魚たち版、島二郎版の全4種の描き下ろしクリアカードが入場特典第7弾に決定！",
+          "url": "https://www.pashplus.jp/anime/499496/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-10-19T09:37:45.000Z",
+          "isPR": false
+        },
+        {
           "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第7弾「ナガノ氏描き下ろしクリアカード」（ランダム4 種）について",
           "url": "https://109cinemas.net/news/10113.html",
           "source": "１０９シネマズ",
           "publishedAt": "2026-10-19T09:18:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第7弾は「ナガノ描き下ろしクリアカード（全4種）」",
+          "url": "https://lp.p.pia.jp/article/news/515575/photo-gallery/index.html?id",
+          "source": "ぴあエンタメ情報",
+          "publishedAt": "2026-10-19T08:40:45.000Z",
           "isPR": false
         },
         {
@@ -350,20 +364,6 @@
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
           "publishedAt": "2026-10-19T06:10:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ』入場者特典第7弾発表! ナガノ描き下ろしクリアカード全4種をランダム配布",
-          "url": "https://news.mynavi.jp/article/20261019-5155938/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-10-19T05:51:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「映画ちいかわ」の入場特典第7弾がナガノ氏描き下ろしのクリアカードに決定！（GAME Watch）",
-          "url": "https://news.yahoo.co.jp/articles/4955ac4fb5b01dd59f4fa9cdadd66215766f2c6f",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-19T05:48:00.000Z",
           "isPR": false
         }
       ]
@@ -476,49 +476,6 @@
       ]
     },
     {
-      "id": "8edb2cd2784d",
-      "title": "「ちいかわジェット」が全国初フライトで長崎空港に! 人気漫画キャラクターの機体に展望デッキは400人超のファン 「ぬいぐるみと一緒に撮れたら」",
-      "summary": "",
-      "url": "https://www.ktn.co.jp/news/detail.php?id",
-      "image": "https://www.ktn.co.jp/news/images/20261019006.jpg?20261019190032",
-      "leadSource": "KTNテレビ長崎",
-      "publishedAt": "2026-10-19T08:20:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "book"
-      ],
-      "keywords": [
-        "ジェット",
-        "ファン",
-        "長崎空港"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわジェット」きょう就航 400人超えるファン集結",
-          "url": "https://www.fnn.jp/articles/-/1135439",
-          "source": "FNNプライムオンライン",
-          "publishedAt": "2026-10-19T06:01:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわジェット」がやってきた！国内線定期便の就航開始に400人超のファンが長崎空港へ、限定搭乗証明書の発行も ちいかわと空の旅へ",
-          "url": "https://newsdig.tbs.co.jp/articles/-/3021614",
-          "source": "TBS NEWS DIG",
-          "publishedAt": "2026-10-19T04:04:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわジェット」が長崎空港に初到着！国内線定期便の就航開始にファン殺到、限定搭乗証明書の発行も",
-          "url": "https://newsdig.tbs.co.jp/articles/nbc/3021614",
-          "source": "TBS NEWS DIG",
-          "publishedAt": "2026-10-19T04:04:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "581b2eb054ac",
       "title": "ANA「ちいかわジェット」就航 機体いっぱいに人気キャラ、客室も特別仕様 - J-CAST ニュース",
       "summary": "",
@@ -550,41 +507,6 @@
           "url": "https://www.inside-games.jp/article/2026/10/17/189416.html",
           "source": "インサイド",
           "publishedAt": "2026-10-17T06:30:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "f82f888f7cfb",
-      "title": "ANA「ちいかわジェット」が運航開始 陸海空を制覇する最強キャラコンテンツに",
-      "summary": "",
-      "url": "http://www.excite.co.jp/news/article/kaiyou_n_1484777697230848928/",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnb0iLE5yLaLfl9wtstCKbdO4M-zNq3OItjjHh2t2VbR8NyUe9P1h4-jX6LyXP9BVQ6Z6JA4-_GL0xGM6j48_TSJix0O7-Jo5uJ4bsMOLMBKkVIJn2YiXyCKjJQFGSAa1gg==",
-      "leadSource": "Excite エキサイト",
-      "publishedAt": "2026-10-19T04:56:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "ana",
-        "ジェット",
-        "運航開始"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ×ANAの旅客機「ちいかわジェット」が運航開始 日本国内の様々な航路を飛び回る (KAI-YOU)",
-          "url": "https://news.yahoo.co.jp/articles/8fb0927d07582410e221f5541419b741282f4ed3/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-19T04:50:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANA「ちいかわジェット」が運航開始 陸海空を制覇する最強キャラコンテンツに - KAI-YOU",
-          "url": "https://kai-you.net/article/96869",
-          "source": "KAI-YOU",
-          "publishedAt": "2026-10-19T04:46:00.000Z",
           "isPR": false
         }
       ]
@@ -662,6 +584,42 @@
       ]
     },
     {
+      "id": "8edb2cd2784d",
+      "title": "「ちいかわジェット」が全国初フライトで長崎空港に! 人気漫画キャラクターの機体に展望デッキは400人超のファン 「ぬいぐるみと一緒に撮れたら」",
+      "summary": "",
+      "url": "https://www.ktn.co.jp/news/detail.php?id",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261019193031",
+      "leadSource": "KTNテレビ長崎",
+      "publishedAt": "2026-10-19T08:20:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "book"
+      ],
+      "keywords": [
+        "ジェット",
+        "ファン",
+        "長崎空港"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわジェット」がやってきた！国内線定期便の就航開始に400人超のファンが長崎空港へ、限定搭乗証明書の発行も ちいかわと空の旅へ",
+          "url": "https://newsdig.tbs.co.jp/articles/-/3021614",
+          "source": "TBS NEWS DIG",
+          "publishedAt": "2026-10-19T04:04:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわジェット」が長崎空港に初到着！国内線定期便の就航開始にファン殺到、限定搭乗証明書の発行も",
+          "url": "https://newsdig.tbs.co.jp/articles/nbc/3021614",
+          "source": "TBS NEWS DIG",
+          "publishedAt": "2026-10-19T04:04:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "c1c66309f02e",
       "title": "映画『ちいかわ』第7弾特典はナガノ描き下ろしイラストカード 島の思い出が、ホログラム加工で輝く - KAI-YOU",
       "summary": "",
@@ -711,6 +669,34 @@
           "url": "https://news.yahoo.co.jp/articles/7cc870b9fba4f88cdedd2b19d3213390b4f3dd68",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-19T06:30:52.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "3a166336bb0d",
+      "title": "ちいかわ×ANAの旅客機「ちいかわジェット」が運航開始 日本国内の様々な航路を飛び回る (KAI-YOU)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/8fb0927d07582410e221f5541419b741282f4ed3/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnb0iLE5yLaLfl9wtstCKbdO4M-zNq3OItjjHh2t2VbR8NyUe9P1h4-jX6LyXP9BVQ6Z6JA4-_GL0xGM6j48_TSJix0O7-Jo5uJ4bsMOLMBKkVIJn2YiXyCKjJQFGSAa1gg==",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-19T04:50:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ana",
+        "kai-you",
+        "ジェット"
+      ],
+      "articles": [
+        {
+          "title": "ANA「ちいかわジェット」が運航開始 陸海空を制覇する最強キャラコンテンツに - KAI-YOU",
+          "url": "https://kai-you.net/article/96869",
+          "source": "KAI-YOU",
+          "publishedAt": "2026-10-19T04:46:00.000Z",
           "isPR": false
         }
       ]
@@ -774,13 +760,73 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T09:30:19.508Z",
+    "previousAt": "2026-10-19T10:00:18.792Z",
     "previousCount": 100,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T10:30:18.792Z",
+  "nextUpdateAt": "2026-10-19T11:00:17.623Z",
   "items": [
+    {
+      "id": "fda91592c2ac",
+      "title": "「ちいかわジェット」最初の到着地は長崎！海を越えて老若男女400人が駆け付けた長崎空港を取材 搭乗証明書の発行も！",
+      "url": "https://newsdig.tbs.co.jp/articles/nbc/3022967?display",
+      "host": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:09:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d75909d09122",
+      "title": "ちいかわ IDフォトを入れられるミニコレクトブック 10月中旬発売!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-capsule-toy-parade-mini-collect-book-keyholder2-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:05:37.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-capsule-toy-parade-mini-collect-book-keyholder2-2026-main-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8d6b2f6484fc",
+      "title": "『映画ちいかわ』ちいかわ・ハチワレ・うさぎ版、ヒトハフタバ版、セイレーン＆人魚たち版、島二郎版の全4種の描き下ろしクリアカードが入場特典第7弾に決定！",
+      "url": "https://www.pashplus.jp/anime/499496/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:37:45.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/7312c9f3d61a5309fd0d90560185d633.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "66e4c5a9b2e6",
       "title": "400人以上のファンがお出迎え「ちいかわジェット」ANAとコラボした特別機が長崎空港に登場《長崎》",
@@ -798,7 +844,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c932b6f69ce9",
@@ -809,6 +855,25 @@
       "summary": "",
       "publishedAt": "2026-10-19T09:18:22.000Z",
       "image": "https://109cinemas.net/media/W1siZiIsIjIwMjYvMTAvMTkvMThfMTVfMDJfOTcwX183Xy5qcGciXSxbInAiLCJ0aHVtYiIsIjc2MHgiXV0/%E5%85%A5%E5%A0%B4%E8%80%85%E7%89%B9%E5%85%B8%E7%AC%AC7%E5%BC%BE%E7%94%BB%E5%83%8F.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0ffdb37868b2",
+      "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第7弾は「ナガノ描き下ろしクリアカード（全4種）」",
+      "url": "https://lp.p.pia.jp/article/news/515575/photo-gallery/index.html?id",
+      "host": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
+      "summary": "",
+      "publishedAt": "2026-10-19T08:40:45.000Z",
+      "image": "https://lp.p.pia.jp/shared/materials/7315e6fe-a699-42f1-a95a-3d0873c2a949/origin.jpg",
       "categories": [
         "anime"
       ],
@@ -892,7 +957,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261019006.jpg?20261019190032",
+      "image": "https://www.ktn.co.jp/news/images/20261019008.jpg?20261019193031",
       "categories": [
         "goods",
         "book"
@@ -1182,25 +1247,6 @@
       "isNew": false
     },
     {
-      "id": "e7c7402a446d",
-      "title": "「ちいかわジェット」きょう就航 400人超えるファン集結",
-      "url": "https://www.fnn.jp/articles/-/1135439",
-      "host": "fnn.jp",
-      "source": "FNNプライムオンライン",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:01:00.000Z",
-      "image": "https://fnn.ismcdn.jp/mwimgs/5/3/600/img_5336a4ab86013d1ce2f20b6c3720bae3565084.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "477d1acd3c40",
       "title": "『映画ちいかわ』入場者特典第7弾発表! ナガノ描き下ろしクリアカード全4種をランダム配布",
       "url": "https://news.mynavi.jp/article/20261019-5155938/",
@@ -1220,14 +1266,14 @@
       "isNew": false
     },
     {
-      "id": "6b20507a1040",
-      "title": "「映画ちいかわ」の入場特典第7弾がナガノ氏描き下ろしのクリアカードに決定！（GAME Watch）",
-      "url": "https://news.yahoo.co.jp/articles/4955ac4fb5b01dd59f4fa9cdadd66215766f2c6f",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "34562ff25369",
+      "title": "「映画ちいかわ」の入場特典第7弾がナガノ氏描き下ろしのクリアカードに決定！ 島を探検するちいかわたちのデザインなど全4種",
+      "url": "https://game.watch.impress.co.jp/docs/news/2149284.html",
+      "host": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
       "summary": "",
-      "publishedAt": "2026-10-19T05:48:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00000015-impgmw-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-19T05:48:15.000Z",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/284/1.jpg",
       "categories": [
         "anime"
       ],
@@ -1237,28 +1283,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
-    },
-    {
-      "id": "8d6b2f6484fc",
-      "title": "『映画ちいかわ』ちいかわ・ハチワレ・うさぎ版、ヒトハフタバ版、セイレーン＆人魚たち版、島二郎版の全4種の描き下ろしクリアカードが入場特典第7弾に決定！",
-      "url": "https://www.pashplus.jp/anime/499496/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-10-19T05:27:13.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/7312c9f3d61a5309fd0d90560185d633.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
     },
     {
       "id": "4f422a4bb50c",
@@ -1454,21 +1478,21 @@
       "isNew": false
     },
     {
-      "id": "0ffdb37868b2",
-      "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第7弾は「ナガノ描き下ろしクリアカード（全4種）」",
-      "url": "https://lp.p.pia.jp/article/news/515575/index.html?detail",
-      "host": "lp.p.pia.jp",
-      "source": "ぴあエンタメ情報",
+      "id": "d62b76986f31",
+      "title": "画像・写真 | 映画『ちいかわ』興収181億円突破 『ONE PIECE FILM RED』超えるペース 新たな特典発表 2枚目",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdjduaWNvTVpSdU9RYmJkMWpyYTlhRjBHUnUzeEtjSVV3TVlOWEtaOWZMdUwxNkZKM2xTNWRsdGVXb0I1NXF6VmpiWmF0dXJPRjB1WkdpbU5yTml4WVNMYW1HNlJ2OHRhY1QwZ3liYWY2T0pPZl9rUi16dG0yX1BNbGhiRXdBaGVVb0VTS0QwU2c4M0Npa084MXBtOTN3N3B5cllSVFFGN1M1VjYzdlNMV3NNRE4tTFFxNkdHMi1GQnNsTlRVNXplcGVYNklxb010ZTBxMmtqTkhWZVNrb2xVUUpHNVRQU1ZPVGhNbm1MWQ?oc=5",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-19T05:00:00.000Z",
-      "image": "https://lp.p.pia.jp/shared/materials/7315e6fe-a699-42f1-a95a-3d0873c2a949/origin.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1502,44 +1526,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d62b76986f31",
-      "title": "画像・写真 | 映画『ちいかわ』興収181億円突破 『ONE PIECE FILM RED』超えるペース 新たな特典発表 3枚目",
-      "url": "https://www.oricon.co.jp/news/2487319/photo/3/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-19T05:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487319/20261006_110636_p_o_22022621.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f82f888f7cfb",
-      "title": "ANA「ちいかわジェット」が運航開始 陸海空を制覇する最強キャラコンテンツに",
-      "url": "http://www.excite.co.jp/news/article/kaiyou_n_1484777697230848928/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-10-19T04:56:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -2457,7 +2443,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "53fb0bc584e9",
@@ -2740,15 +2726,15 @@
     },
     {
       "id": "6a564c574566",
-      "title": "「ちいかわ」ボンドロやコインチョコ、シャンメリーも！ 可愛すぎるクリスマス商品が続々登場♪（アニメ！アニメ！）",
-      "url": "https://news.yahoo.co.jp/articles/c62c6a5e5cf45b244dfe843133de24cdaa1d38a4",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ちいかわ」ボンドロやコインチョコ、シャンメリーも！ 可愛すぎるクリスマス商品が続々登場♪",
+      "url": "https://article.auone.jp/9a2a6fce-f05c-48aa-855a-5b60d620cd53",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-10-16T10:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00000024-anmanmv-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-16T10:54:00.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/17/https___news_jp_i_1483780743530021655_w640.webp",
       "categories": [
-        "anime"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
