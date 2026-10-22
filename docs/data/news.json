@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-21T23:30:22.621Z",
+  "updatedAt": "2026-10-22T00:00:16.688Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 128,
+  "total": 133,
   "todayCount": 10,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 27
+      "count": 29
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 15
+      "count": 16
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 10
+      "count": 9
     },
     {
       "id": "anime",
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 11
+      "count": 10
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 41
+      "count": 44
     }
   ],
   "series": [
@@ -64,7 +64,7 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "kurimanju",
@@ -90,18 +90,26 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 36
+      "count": 38
     },
     {
       "name": "オリコンニュース",
-      "count": 8
+      "count": 10
     },
     {
       "name": "電撃オンライン",
-      "count": 7
+      "count": 8
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 5
     },
     {
       "name": "朝日新聞",
+      "count": 4
+    },
+    {
+      "name": "めざましmedia",
       "count": 4
     },
     {
@@ -109,23 +117,11 @@
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
-      "count": 4
-    },
-    {
       "name": "はてなブログ",
       "count": 4
     },
     {
-      "name": "めざましmedia",
-      "count": 3
-    },
-    {
       "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
-      "name": "インサイド",
       "count": 3
     },
     {
@@ -141,6 +137,10 @@
       "count": 2
     },
     {
+      "name": "インサイド",
+      "count": 2
+    },
+    {
       "name": "LASISA",
       "count": 2
     },
@@ -153,10 +153,6 @@
       "count": 2
     },
     {
-      "name": "Dellows News",
-      "count": 2
-    },
-    {
       "name": "山陽新聞",
       "count": 2
     },
@@ -165,11 +161,11 @@
       "count": 2
     },
     {
-      "name": "乗りものニュース",
+      "name": "조선일보",
       "count": 1
     },
     {
-      "name": "Lmaga.jp",
+      "name": "乗りものニュース",
       "count": 1
     },
     {
@@ -178,10 +174,6 @@
     },
     {
       "name": "東洋経済オンライン",
-      "count": 1
-    },
-    {
-      "name": "TBS NEWS DIG",
       "count": 1
     },
     {
@@ -205,10 +197,6 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "ASCII.jp",
       "count": 1
     },
@@ -229,6 +217,10 @@
       "count": 1
     },
     {
+      "name": "週刊女性PRIME",
+      "count": 1
+    },
+    {
       "name": "ナタリー",
       "count": 1
     },
@@ -245,7 +237,15 @@
       "count": 1
     },
     {
+      "name": "https://kagoshima-news.jp/",
+      "count": 1
+    },
+    {
       "name": "キャラクター情報サイト",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -273,6 +273,10 @@
       "count": 1
     },
     {
+      "name": "セレクトラ",
+      "count": 1
+    },
+    {
       "name": "J-CAST ニュース",
       "count": 1
     },
@@ -285,11 +289,7 @@
       "count": 1
     },
     {
-      "name": "cinemacafe.net",
-      "count": 1
-    },
-    {
-      "name": "テレ朝NEWS",
+      "name": "khb東日本放送",
       "count": 1
     },
     {
@@ -310,8 +310,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00192964-crankinn-000-1-view.jpg?exp=10800",
       "leadSource": "朝日新聞",
       "publishedAt": "2026-10-21T09:17:13.000Z",
-      "sourceCount": 10,
-      "articleCount": 12,
+      "sourceCount": 9,
+      "articleCount": 11,
       "categories": [
         "anime",
         "book"
@@ -365,17 +365,17 @@
           "isPR": false
         },
         {
-          "title": "アニメちいかわの初となる公式ストーリーブックと仕掛け絵本が講談社より発売中",
-          "url": "https://news.dellows.jp/811459/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-10-20T07:17:36.000Z",
-          "isPR": false
-        },
-        {
           "title": "アニメ「ちいかわ」ちいかわたちが「ヤーッ!!!」と飛び出す仕掛け絵本が登場",
           "url": "https://natalie.mu/comic/news/694460",
           "source": "ナタリー",
           "publishedAt": "2026-10-20T05:14:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ＞アニメのストーリーブック、仕掛け絵本登場 名セリフ＆表情たっぷり (MANTANWEB)",
+          "url": "https://news.yahoo.co.jp/articles/d032da4c1dfba73866f6d4e33cfc67010100db4f/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-20T04:58:00.000Z",
           "isPR": false
         }
       ]
@@ -388,7 +388,7 @@
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2149/284/1.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-10-19T20:42:04.000Z",
-      "sourceCount": 8,
+      "sourceCount": 7,
       "articleCount": 8,
       "categories": [
         "anime"
@@ -401,9 +401,9 @@
       "articles": [
         {
           "title": "「映画ちいかわ」新入場者特典はナガノ先生描き下ろしクリアカード！島を探検するちいかわ・ハチワレ・うさぎなどイラストに",
-          "url": "https://www.inside-games.jp/article/2026/10/19/189492.html",
-          "source": "インサイド",
-          "publishedAt": "2026-10-19T07:15:03.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbk1TbXh0ZFdUNnNqMzJva01OLXdfbGE3QXNIeTcxcE1aTnVSMFAyeXgySHEyQ0NBSGhWdkdScVoyakFNQ1JjS3VoZ3BnSW11ajhiTHF3TUU4QjFWcGZieWVKcFdxdzY5NXEyT0Uwbmw2Rlp5emF1YjZCenlfUFlaeVB30gGHAUFVX3lxTE1malFoS2pOWlpTbmxMeC1KVHRoVmhxTGxfbDNRc1FHR2lLMlpGcUlMcUVnWDhDZ3JCMmFoZ09oTDNtQ2JNMWs1OE1tdVhQRDd5VHJfczNiMzdZOUNUUDJpcDlkdjJFM3dhZWNfOFowUnVfTVA2WFN3WGxZdDRKWWFFY0hvc3B1UQ?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-19T07:15:00.000Z",
           "isPR": false
         },
         {
@@ -428,9 +428,9 @@
           "isPR": false
         },
         {
-          "title": "『映画ちいかわ 人魚の島のひみつ』第7弾入プレはナガノ氏描き下ろしクリアカードに 10月24日より",
-          "url": "https://www.cinemacafe.net/article/2026/10/19/113409.html",
-          "source": "cinemacafe.net",
+          "title": "『映画ちいかわ 人魚の島のひみつ』第7弾入プレはナガノ氏描き下ろしクリアカードに 10月24日より (cinemacafe.net)",
+          "url": "https://news.yahoo.co.jp/articles/944165267d3ff23c01f97aac739c3edc24f82170/images/000",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-19T05:00:03.000Z",
           "isPR": false
         },
@@ -451,30 +451,37 @@
       ]
     },
     {
-      "id": "f4cedd487028",
-      "title": "乗れたらラッキー！ ANA「ちいかわジェット」は機内までかわいい、特別仕様を大紹介 (1/2)",
+      "id": "33fe124bdb1f",
+      "title": "特別機“ちいかわジェット”が長崎に到着 「今まで見たことがないほど多くの人が集まった」400人超お出迎え（西日本新聞me）",
       "summary": "",
-      "url": "https://ascii.jp/elem/000/004/443/4443904/",
-      "image": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/19/5f8a1f7853ee889841736e9b7d57b0f55573e4409541d6dc4897453931f29510.jpg",
-      "leadSource": "ASCII.jp",
-      "publishedAt": "2026-10-20T22:30:00.000Z",
-      "sourceCount": 6,
+      "url": "https://news.yahoo.co.jp/articles/8298363146a020c75b1f0312fdcc0dcd9085c31e",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00010010-nishinpc-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T04:11:08.000Z",
+      "sourceCount": 4,
       "articleCount": 7,
       "categories": [
         "other",
         "collab"
       ],
       "keywords": [
-        "ana",
         "ジェット",
-        "機体"
+        "ana",
+        "長崎"
       ],
       "articles": [
         {
-          "title": "ANA「ちいかわジェット」就航 機体いっぱいに人気キャラ、客室も特別仕様 - J-CAST ニュース",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ2RiamFTV01WOTdnM21YM2luT0hVUi1WeFRuU05oWFgzN0YxcDl4Z19qQkVPQ0M2Q0h1clpKeVlmOVlJUXBMc29VZFk1MlRXdVI1cGJ0U0FaTXdtYkp6RmExTWtnLUlvUlg4NDVZTHNON0RxN0VqUkt5TzJFR0JHazBDTnFDXzRtaUNVVFlOU0hPNm00cDA4X09aNXlrdjlPT2NVY21zdXY2R2dvVm55OWVZeHhwbFNiMmFiYUdldHBLX0ZpUXZHSHJKQXhxZlBwd1I0bmlidFVVZFpFM3MzcmdWZHJ2M1d4b0VhamdPMHBjbzhLanJOSHRvQQ?oc=5",
-          "source": "J-CAST ニュース",
-          "publishedAt": "2026-10-19T06:07:46.000Z",
+          "title": "400人以上のファンがお出迎え「ちいかわジェット」ANAとコラボした特別機が長崎空港に登場《長崎》（長崎国際テレビ）",
+          "url": "https://news.yahoo.co.jp/articles/71f986c507ed6c3a766c59102a39badf89576088?source",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-19T09:35:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわジェット」が全国初フライトで長崎空港に! 人気漫画キャラクターの機体に展望デッキは400人超のファン 「ぬいぐるみと一緒に撮れたら」",
+          "url": "https://www.ktn.co.jp/news/detail.php?id",
+          "source": "KTNテレビ長崎",
+          "publishedAt": "2026-10-19T08:20:00.000Z",
           "isPR": false
         },
         {
@@ -486,8 +493,8 @@
         },
         {
           "title": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種",
-          "url": "https://news.tv-asahi.co.jp/news_society/articles/000541167.html",
-          "source": "テレ朝NEWS",
+          "url": "https://www.khb-tv.co.jp/news/16975002",
+          "source": "khb東日本放送",
           "publishedAt": "2026-10-19T00:28:23.000Z",
           "isPR": false
         },
@@ -503,13 +510,6 @@
           "url": "https://www.qab.co.jp/quebee/video/000541167/",
           "source": "QAB 琉球朝日放送",
           "publishedAt": "2026-10-19T00:28:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlJldTlYS0wzNnNDaTN2X0dudndTajlmYVBfYnZyV2hCXzZjeFVma1ZPM3NUaHF2Rk5FSkZyWUJfUEtfMzl5TFFnRC11TEhFbWV6aG1OVG1PTjZHc1o5aUEzbm5EVk12NUNMQ0hkRXNaSXFQMDFORXoxUmI3Sl9pLXdR0gGHAUFVX3lxTE1heTlzei1iMkFjRnFKZVlTWGd5dzR3YzZYQmZCTGZwZF9hWEZwQXRRNDFYY0w1b0t6U2o1OEVrS01tcHlETlFjVWlKcWRGX3pzRTZFYmVHU2NvejZ2bDlra3U2YTRzY05PYTBnZElyZ0JZVENpdGVmQ0FzOWVxeDdGb2J5TTF0WQ?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-19T00:18:00.000Z",
           "isPR": false
         }
       ]
@@ -642,9 +642,9 @@
         },
         {
           "title": "映画ちいかわ 入場者特典第7弾 クリアカード 10月24日より配布!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-attendants-benefits-vol7/",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-attendants-benefits-vol7/?amp",
           "source": "コラボカフェ",
-          "publishedAt": "2026-10-19T07:40:00.000Z",
+          "publishedAt": "2026-10-19T06:30:15.000Z",
           "isPR": false
         },
         {
@@ -688,6 +688,41 @@
           "url": "https://news.yahoo.co.jp/articles/c109c6a6012dc17e2555dda0ffc40375bba7239c/images/001",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-20T10:14:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "f4cedd487028",
+      "title": "乗れたらラッキー！ ANA「ちいかわジェット」は機内までかわいい、特別仕様を大紹介 (1/2)",
+      "summary": "",
+      "url": "https://ascii.jp/elem/000/004/443/4443904/",
+      "image": "",
+      "leadSource": "ASCII.jp",
+      "publishedAt": "2026-10-20T22:30:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ana",
+        "ジェット",
+        "特別仕様"
+      ],
+      "articles": [
+        {
+          "title": "ANA「ちいかわジェット」就航 機体いっぱいに人気キャラ、客室も特別仕様 - J-CAST ニュース",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ2RiamFTV01WOTdnM21YM2luT0hVUi1WeFRuU05oWFgzN0YxcDl4Z19qQkVPQ0M2Q0h1clpKeVlmOVlJUXBMc29VZFk1MlRXdVI1cGJ0U0FaTXdtYkp6RmExTWtnLUlvUlg4NDVZTHNON0RxN0VqUkt5TzJFR0JHazBDTnFDXzRtaUNVVFlOU0hPNm00cDA4X09aNXlrdjlPT2NVY21zdXY2R2dvVm55OWVZeHhwbFNiMmFiYUdldHBLX0ZpUXZHSHJKQXhxZlBwd1I0bmlidFVVZFpFM3MzcmdWZHJ2M1d4b0VhamdPMHBjbzhLanJOSHRvQQ?oc=5",
+          "source": "J-CAST ニュース",
+          "publishedAt": "2026-10-19T06:07:46.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTlJldTlYS0wzNnNDaTN2X0dudndTajlmYVBfYnZyV2hCXzZjeFVma1ZPM3NUaHF2Rk5FSkZyWUJfUEtfMzl5TFFnRC11TEhFbWV6aG1OVG1PTjZHc1o5aUEzbm5EVk12NUNMQ0hkRXNaSXFQMDFORXoxUmI3Sl9pLXdR0gGHAUFVX3lxTE1heTlzei1iMkFjRnFKZVlTWGd5dzR3YzZYQmZCTGZwZF9hWEZwQXRRNDFYY0w1b0t6U2o1OEVrS01tcHlETlFjVWlKcWRGX3pzRTZFYmVHU2NvejZ2bDlra3U2YTRzY05PYTBnZElyZ0JZVENpdGVmQ0FzOWVxeDdGb2J5TTF0WQ?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-19T00:18:00.000Z",
           "isPR": false
         }
       ]
@@ -811,45 +846,35 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "6de0317b865d",
-      "title": "「ちいかわ」のキャラクター人気ランキング！ 第2位は「ハチワレ」、第1位は？（ねとらぼ）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/bedcd9f1e5a381a5a9d4104b2222745344a112c3",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-10173472-it_nlab-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T10:30:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "book"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "ランキング",
-        "人気"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」のキャラクター人気ランキング！ 第2位は「ハチワレ」、第1位は？ | 漫画 ねとらぼリサーチ",
-          "url": "https://nlab.itmedia.co.jp/research/articles/4062618/3/",
-          "source": "ねとらぼ",
-          "publishedAt": "2026-10-20T10:30:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T23:00:17.603Z",
-    "previousCount": 132,
-    "newCount": 2
+    "previousAt": "2026-10-21T23:30:22.621Z",
+    "previousCount": 128,
+    "newCount": 11
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T00:00:22.621Z",
+  "nextUpdateAt": "2026-10-22T00:30:16.688Z",
   "items": [
+    {
+      "id": "7f1d2dbf88b6",
+      "title": "かわいくて不気味な「ちいかわ」、ヨン・サンホ新作抑え首位守る",
+      "url": "https://www.chosun.com/jp/culture-life-jp/2026/10/22/HXHIUTJ5TNEGBEYSJPRZLY47TY/",
+      "host": "chosun.com",
+      "source": "조선일보",
+      "summary": "",
+      "publishedAt": "2026-10-21T23:25:00.000Z",
+      "image": "https://www.chosun.com/resizer/v2/52BKOXPP6NGI7CKAZC37ZXPQSE.jpg?auth=626a6447916847425a2130120ef1fbfb262f30293faf7f06c5916e8086dc2697&width=1200&height=630&smart=true",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "2c33fe47534d",
       "title": "ちいかわたちのお顔がほんのりライトアップ！お部屋に飾っても可愛い『ちいかわ』スティックライト型チャームが登場！",
@@ -910,14 +935,14 @@
       "isNew": false
     },
     {
-      "id": "bb83e98067e5",
-      "title": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？",
-      "url": "https://trafficnews.jp/photo/719705",
-      "host": "trafficnews.jp",
-      "source": "乗りものニュース",
+      "id": "339ae3eef89b",
+      "title": "10月22日(木)の「ちいかわ占い」",
+      "url": "https://mezamashi.media/articles/-/358758",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
-      "publishedAt": "2026-10-21T21:57:31.000Z",
-      "image": "https://trafficnews.jp/wp-content/uploads/2027/10/A7_07201.jpg",
+      "publishedAt": "2026-10-21T22:00:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
       "categories": [
         "other"
       ],
@@ -926,17 +951,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "bc748fca43bb",
-      "title": "松下洸平、ショックすぎて怪演「ちいかわになった」「顔芸が止まらない」【豊臣兄弟】",
-      "url": "https://www.lmaga.jp/news/2026/10/1111147/",
-      "host": "lmaga.jp",
-      "source": "Lmaga.jp",
+      "id": "bb83e98067e5",
+      "title": "画像ギャラリー | ANAの「ちいかわジェット」ついに空へ！ “超話題”の特別塗装機、今日待望の就航 今後はどこに飛ぶ？",
+      "url": "https://trafficnews.jp/photo/719705",
+      "host": "trafficnews.jp",
+      "source": "乗りものニュース",
       "summary": "",
-      "publishedAt": "2026-10-21T21:04:47.000Z",
-      "image": "https://www.lmaga.jp/wp-content/uploads/2026/10/toyotomikyodai40_4.jpg",
+      "publishedAt": "2026-10-21T21:57:31.000Z",
+      "image": "https://trafficnews.jp/wp-content/uploads/2027/10/A7_07201.jpg",
       "categories": [
         "other"
       ],
@@ -1005,44 +1030,23 @@
       "isNew": false
     },
     {
-      "id": "00ef4e81da8a",
-      "title": "くら寿司「ちいかわ」コラボキャンペーンを中止 従業員が景品を横領しフリマサイトで売却か",
-      "url": "https://newsdig.tbs.co.jp/articles/gallery/2923840",
-      "host": "newsdig.tbs.co.jp",
-      "source": "TBS NEWS DIG",
-      "summary": "",
-      "publishedAt": "2026-10-21T15:18:41.000Z",
-      "image": "https://newsdig.ismcdn.jp/mwimgs/1/2/1200w/img_1200d91a6af9a926bc59818b2a901f1e296669.jpg",
-      "categories": [
-        "collab",
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fe81624b8107",
-      "title": "【映画ちいかわ】あの『しるこサンド』とのコラボ発表 SNSざわつく「やりやがった…やりやがったなっ!!」「なっちゃった。公式に」",
-      "url": "https://www.sanyonews.jp/article/1949475?kw",
+      "id": "96d1c9e4b733",
+      "title": "くら寿司『ちいかわ』コラボ初日「1人でちい活してるおじさんがいるわ…」 なだぎ武がフジ取材クルーと遭遇",
+      "url": "https://www.sanyonews.jp/article/1975715?rct",
       "host": "sanyonews.jp",
       "source": "山陽新聞デジタル｜さんデジ",
       "summary": "",
-      "publishedAt": "2026-10-21T15:16:27.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/7/4/7/3747df33e1f258c2720fe528499b99af_1.jpg",
+      "publishedAt": "2026-10-21T19:13:44.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/e/d/a/9edaca752c07e55aa2b053a449dc0417_1.jpg",
       "categories": [
-        "collab",
-        "anime"
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9f118a866d98",
@@ -1441,6 +1445,25 @@
       "isNew": false
     },
     {
+      "id": "1feee481c1e9",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』イラスト描き苦労「悩みのタネは」 19枚目",
+      "url": "https://www.oricon.co.jp/news/2487794/photo/19/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T03:05:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487794/20260810_152139_p_o_26967699.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "38f6706fa77e",
       "title": "77歳・糸井重里『ちいかわ』イラスト描き苦労「悩みのタネは」",
       "url": "https://www.oricon.co.jp/news/2487794/full/",
@@ -1477,6 +1500,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "820e0e9e29f3",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』イラスト描き苦労「悩みのタネは」 32枚目",
+      "url": "https://www.oricon.co.jp/news/2487794/photo/32/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T03:05:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487794/20260810_182117_p_o_59801505.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3bb0ece32781",
@@ -1527,25 +1569,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00192964-crankinn-000-1-view.jpg?exp=10800",
       "categories": [
         "book"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "73f311f5e21e",
-      "title": "ちいかわ PUKU CHURU seal①｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/f3e0a38e46c0/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-21T01:01:03.000Z",
-      "image": "",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1771,13 +1794,13 @@
     },
     {
       "id": "6de0317b865d",
-      "title": "「ちいかわ」のキャラクター人気ランキング！ 第2位は「ハチワレ」、第1位は？（ねとらぼ）",
-      "url": "https://news.yahoo.co.jp/articles/bedcd9f1e5a381a5a9d4104b2222745344a112c3",
+      "title": "「ちいかわ」のキャラクター人気ランキング！ 第2位は「ハチワレ」、第1位は？ (ねとらぼ)",
+      "url": "https://news.yahoo.co.jp/articles/bedcd9f1e5a381a5a9d4104b2222745344a112c3/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-20T10:30:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-10173472-it_nlab-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-20T12:11:51.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZonF9Q0w_LYYFTIYjOBz4d574V9DH43lqgrcU2W9I30aVVqbQv_-rcj6Hvnx0dJITp7yavqMt3ZQdjxx1a4RkhOiTZ4h8W7CHWorUaLytEH0E2YHYEGVuAUAJtu9BzOmw==",
       "categories": [
         "other"
       ],
@@ -2028,27 +2051,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "8805f240f447",
-      "title": "アニメちいかわの初となる公式ストーリーブックと仕掛け絵本が講談社より発売中",
-      "url": "https://news.dellows.jp/811459/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-20T07:17:36.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/811459_1.jpg",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9dda27032973",
@@ -2087,6 +2090,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1cb9935614a2",
+      "title": "映画『ちいかわ』“第7弾”の特典発表に難色の声、『鬼滅の刃』スタイルを貫くも疑問視される「特典ありき」の映画興行",
+      "url": "https://www.jprime.jp/articles/-/44210?display",
+      "host": "jprime.jp",
+      "source": "週刊女性PRIME",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "image": "https://jprime.ismcdn.jp/mwimgs/6/8/-/img_687a41be15b0a23c87e0761364b1673692651.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cbe6fb0e128c",
@@ -2447,6 +2469,26 @@
       "isNew": false
     },
     {
+      "id": "8e032b7989d3",
+      "title": "【東京から】ANA「ちいかわジェット」国内線就航 コラボグッズの鹿児島空港販売は来月4日から - https://kagoshima-news.jp/",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZU93dXhEdmotSTJvZVVONFdqY2ItTEpxN29DbVMyVVpOUl9iV0xFYVZZQUQtUmliVVA5WHV1MVByT3pkNUVINjdjaThUVFdUTXo4OWNMZHZoTWU2V0dMZy1NejZzSFA0N1VfOVp3ZnJvQ3ZJS1luTnRPbVBSdWJnU3dTMXVLT1RoSW5GUlJ3dXpBUDRXUHhDRzIyVlR0SVB1Q0FoMjhLY2JoTnBiTHc0MDJHUDhyYWxZbGVfUV9vZllob0FUdkRTUHRBSXpqRHM1OEdBQ3A2UkZUaGQ5Z0VJcFQ4VTRHd3UxTGxncUloYUtTcE1teHgwOE4xOTFvX3MwVURMMXFnZEU0cncwVUtDejA5Y3pKbjBOYXZLNF93d3AxcWR1R2tjdk9hVU1vODh3SlFGLTAxY0NvS2NQak95a1huZUVBckFUUlBfY3MtVQ?oc=5",
+      "host": "kagoshima-news.jp",
+      "source": "https://kagoshima-news.jp/",
+      "summary": "",
+      "publishedAt": "2026-10-19T23:01:00.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c92e731de229",
       "title": "「ちいかわ」初のスマホアプリ『ちいかわぽけっと』公式グッズ第4弾が発売！",
       "url": "https://charalab.com/144370/",
@@ -2624,6 +2666,25 @@
       "isNew": false
     },
     {
+      "id": "66e4c5a9b2e6",
+      "title": "400人以上のファンがお出迎え「ちいかわジェット」ANAとコラボした特別機が長崎空港に登場《長崎》（長崎国際テレビ）",
+      "url": "https://news.yahoo.co.jp/articles/71f986c507ed6c3a766c59102a39badf89576088?source",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:35:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-03666893-nib-000-5-thumb.jpg?exp=10800",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c0430fb88e09",
       "title": "強くなったハチワレ＆うさぎ“まじかるちいかわ”抱きぬいぐるみで登場 あのこもラインナップ",
       "url": "https://www.chiba-tv.com/plus/detail/2026102132201",
@@ -2718,7 +2779,7 @@
       "source": "KTNテレビ長崎",
       "summary": "",
       "publishedAt": "2026-10-19T08:20:00.000Z",
-      "image": "https://www.ktn.co.jp/news/images/20261021011.jpg?20261022083044",
+      "image": "https://www.ktn.co.jp/news/images/20261021011.jpg?20261022090039",
       "categories": [
         "goods",
         "book"
@@ -2807,25 +2868,6 @@
       "isNew": false
     },
     {
-      "id": "bcdcc0e5bae6",
-      "title": "映画ちいかわ 入場者特典第7弾 クリアカード 10月24日より配布!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-attendants-benefits-vol7/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-19T07:40:00.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-movie-attendants-benefits-vol7.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "03699df5bd65",
       "title": "「映画ちいかわ」入場者特典第7弾はキラキラの描き下ろしカード全4種！ セイレーン、ヒトハフタバ、島二郎の姿も",
       "url": "https://fan.books.rakuten.co.jp/articles/b4sc5k0t0yko8rwrwx5zwkqb",
@@ -2847,11 +2889,11 @@
     {
       "id": "b77ca8167dc5",
       "title": "「映画ちいかわ」新入場者特典はナガノ先生描き下ろしクリアカード！島を探検するちいかわ・ハチワレ・うさぎなどイラストに",
-      "url": "https://www.inside-games.jp/article/2026/10/19/189492.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbk1TbXh0ZFdUNnNqMzJva01OLXdfbGE3QXNIeTcxcE1aTnVSMFAyeXgySHEyQ0NBSGhWdkdScVoyakFNQ1JjS3VoZ3BnSW11ajhiTHF3TUU4QjFWcGZieWVKcFdxdzY5NXEyT0Uwbmw2Rlp5emF1YjZCenlfUFlaeVB30gGHAUFVX3lxTE1malFoS2pOWlpTbmxMeC1KVHRoVmhxTGxfbDNRc1FHR2lLMlpGcUlMcUVnWDhDZ3JCMmFoZ09oTDNtQ2JNMWs1OE1tdVhQRDd5VHJfczNiMzdZOUNUUDJpcDlkdjJFM3dhZWNfOFowUnVfTVA2WFN3WGxZdDRKWWFFY0hvc3B1UQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-10-19T07:15:03.000Z",
+      "publishedAt": "2026-10-19T07:15:00.000Z",
       "image": "",
       "categories": [
         "anime"
@@ -2862,7 +2904,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2877,6 +2919,65 @@
       "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91165/ad0096ec6c83575373e3a21d129ff8fef.jpg?x=1280",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "16b5823f1329",
+      "title": "映画ちいかわはいつから公開？『人魚の島のひみつ』上映期間や前売券・特典情報まとめ",
+      "url": "https://selectra.jp/streaming/news/chiikawa-movie",
+      "host": "selectra.jp",
+      "source": "セレクトラ",
+      "summary": "",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "image": "https://images.selectra.jp/telecom/chiikawa-movie/chiikawa-movie01.webp",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8272e541b59b",
+      "title": "【ちいかわ】古本屋やモモンガ単体シートも！『ボンボンドロップシールミニ』新作8種が10/21より順次発売",
+      "url": "https://dengekionline.com/article/202610/91400",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-19T06:43:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/91400/ogp_zKQA.jpg?x=1280",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "bcdcc0e5bae6",
+      "title": "映画ちいかわ 入場者特典第7弾 クリアカード 10月24日より配布!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-attendants-benefits-vol7/?amp",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-19T06:30:15.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-movie-attendants-benefits-vol7.jpg",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2982,13 +3083,13 @@
     },
     {
       "id": "9d72234bbe13",
-      "title": "『映画ちいかわ 人魚の島のひみつ』第7弾入プレはナガノ氏描き下ろしクリアカードに 10月24日より",
-      "url": "https://www.cinemacafe.net/article/2026/10/19/113409.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
+      "title": "『映画ちいかわ 人魚の島のひみつ』第7弾入プレはナガノ氏描き下ろしクリアカードに 10月24日より (cinemacafe.net)",
+      "url": "https://news.yahoo.co.jp/articles/944165267d3ff23c01f97aac739c3edc24f82170/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-19T05:00:03.000Z",
-      "image": "",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnT9dL2hh-dyldSm9Z72FwCd1-Srgh98kHzwHqkJeYqXhOiXaB4Bj7hvdWQ2_vdgbzQsBbdWLPtaJui9K0DCb1SBWx7eQgsCPdtvWZjNrPtXn",
       "categories": [
         "anime"
       ],
@@ -3077,6 +3178,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3a166336bb0d",
+      "title": "ちいかわ×ANAの旅客機「ちいかわジェット」が運航開始 日本国内の様々な航路を飛び回る (KAI-YOU)",
+      "url": "https://news.yahoo.co.jp/articles/8fb0927d07582410e221f5541419b741282f4ed3/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T04:50:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnb0iLE5yLaLfl9wtstCKbdO4M-zNq3OItjjHh2t2VbR8NyUe9P1h4-jX6LyXP9BVQ6Z6JA4-_GL0xGM6j48_TSJix0O7-Jo5uJ4bsMOLMBKkVIJn2YiXyCKjJQFGSAa1gg==",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "239c20cf87e0",
@@ -3259,12 +3379,12 @@
     {
       "id": "4df06b02661c",
       "title": "ANAコラボ「ちいかわジェット」運航開始 機体に「ハチワレ」「うさぎ」など8種",
-      "url": "https://news.tv-asahi.co.jp/news_society/articles/000541167.html",
-      "host": "news.tv-asahi.co.jp",
-      "source": "テレ朝NEWS",
+      "url": "https://www.khb-tv.co.jp/news/16975002",
+      "host": "khb-tv.co.jp",
+      "source": "khb東日本放送",
       "summary": "",
       "publishedAt": "2026-10-19T00:28:23.000Z",
-      "image": "",
+      "image": "https://news.tv-asahi.co.jp/articles_img/000541167_640.jpg",
       "categories": [
         "collab"
       ],
@@ -3352,25 +3472,6 @@
       "image": "https://travel.watch.impress.co.jp/img/trw/list/2149/094/01.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ccce0b513ad1",
-      "title": "台湾の「ちいかわ」現象がすごい! 600万人規模イベントの主役に、巨大バルーンも出現する熱狂ぶり",
-      "url": "https://news.yahoo.co.jp/articles/76e1199ae73b7389b82a9465f97dd2dd2142dd5b",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-18T23:43:32.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00000001-mynavin-000-1-view.jpg?exp=10800",
-      "categories": [
-        "event"
       ],
       "series": [],
       "isOfficial": false,
