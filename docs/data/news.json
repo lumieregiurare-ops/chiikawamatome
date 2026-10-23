@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:30:19.397Z",
+  "updatedAt": "2026-10-23T19:00:20.123Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 55
+      "count": 56
     },
     {
       "id": "kuji",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 19
+      "count": 20
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 33
+      "count": 32
     }
   ],
   "series": [
@@ -93,11 +93,11 @@
       "count": 21
     },
     {
-      "name": "オリコンニュース",
-      "count": 9
+      "name": "インサイド",
+      "count": 8
     },
     {
-      "name": "インサイド",
+      "name": "オリコンニュース",
       "count": 8
     },
     {
@@ -113,15 +113,15 @@
       "count": 4
     },
     {
+      "name": "アニメ！アニメ！",
+      "count": 4
+    },
+    {
       "name": "キャラグー",
       "count": 4
     },
     {
       "name": "推し楽",
-      "count": 3
-    },
-    {
-      "name": "アニメ！アニメ！",
       "count": 3
     },
     {
@@ -145,6 +145,10 @@
       "count": 2
     },
     {
+      "name": "au Webポータル",
+      "count": 2
+    },
+    {
       "name": "ニコニコニュース",
       "count": 2
     },
@@ -158,10 +162,6 @@
     },
     {
       "name": "めざましmedia",
-      "count": 2
-    },
-    {
-      "name": "au Webポータル",
       "count": 2
     },
     {
@@ -310,8 +310,8 @@
       "image": "https://www.inside-games.jp/imgs/rss/1797891.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-10-23T10:10:18.000Z",
-      "sourceCount": 10,
-      "articleCount": 10,
+      "sourceCount": 11,
+      "articleCount": 11,
       "categories": [
         "goods",
         "event"
@@ -358,6 +358,13 @@
           "isPR": false
         },
         {
+          "title": "「ちいかわパークストア」ルクア大阪新館に誕生 雑貨やバケツなど人気グッズを関西でも",
+          "url": "https://article.auone.jp/article/f6efc8d7-de84-4168-88c4-4c5f6eb30b3c",
+          "source": "au Webポータル",
+          "publishedAt": "2026-10-23T06:59:19.000Z",
+          "isPR": false
+        },
+        {
           "title": "ちいかわパークの世界観を楽しめる“ちいかわパークストア”、11月24日に大阪にオープン（写真15枚）",
           "url": "https://natalie.mu/comic/news/694941",
           "source": "ナタリー",
@@ -368,13 +375,6 @@
           "title": "大阪に「ちいかわパークストア」11．24誕生！ パークの世界観を感じられるデザインに（クランクイン！）",
           "url": "https://news.yahoo.co.jp/articles/3c72f50cd40459817001794f0bea5ecf8241e44d",
           "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-23T03:54:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "（写真）大阪に「ちいかわパークストア」11．24誕生！ パークの世界観を感じられるデザインに",
-          "url": "https://www.crank-in.net/trend/gallery/trip/193099/7",
-          "source": "クランクイン！",
           "publishedAt": "2026-10-23T03:54:00.000Z",
           "isPR": false
         }
@@ -508,9 +508,9 @@
       "articles": [
         {
           "title": "「ちいかわ」限定図書カードが登場！ 読書を楽しむ姿がかわいい2種類、特製台紙＆封筒付き",
-          "url": "https://article.auone.jp/1d58173c-c777-4dc3-8a8f-71785b2d89db",
-          "source": "au Webポータル",
-          "publishedAt": "2026-10-22T07:36:21.000Z",
+          "url": "https://animeanime.jp/article/2026/10/22/104073.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-22T07:15:02.000Z",
           "isPR": false
         },
         {
@@ -722,7 +722,7 @@
       "id": "70d82861b2ab",
       "title": "スマートフォン向けアプリちいかわぽけっと公式グッズ第4弾が10月24日に発売、全国5箇所で限定ストアも開催",
       "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19909472",
+      "url": "https://news.nicovideo.jp/watch/nw19909472?news_ref",
       "image": "https://news.dellows.jp/wp-content/uploads/2026/10/707611_1.jpg",
       "leadSource": "ニコニコニュース",
       "publishedAt": "2026-10-23T03:03:37.000Z",
@@ -778,12 +778,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T18:00:17.438Z",
-    "previousCount": 125,
+    "previousAt": "2026-10-23T18:30:19.397Z",
+    "previousCount": 123,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T19:00:19.397Z",
+  "nextUpdateAt": "2026-10-23T19:30:20.123Z",
   "items": [
     {
       "id": "cbb665c3d842",
@@ -1296,6 +1296,26 @@
       "isNew": false
     },
     {
+      "id": "0bbb4495c7e9",
+      "title": "「ちいかわパークストア」ルクア大阪新館に誕生 雑貨やバケツなど人気グッズを関西でも",
+      "url": "https://article.auone.jp/article/f6efc8d7-de84-4168-88c4-4c5f6eb30b3c",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-10-23T06:59:19.000Z",
+      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/23/4864336_w700.webp",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "175376c57c14",
       "title": "韓国ロッテシネマ×ちいかわ第4弾！フィギュア＆ふわふわキーリング登場、発売日や購入方法は？ - K-TREND TIMES",
       "url": "https://www.k-trendtimes.com/articles/261023-t3r7",
@@ -1475,7 +1495,7 @@
     {
       "id": "70d82861b2ab",
       "title": "スマートフォン向けアプリちいかわぽけっと公式グッズ第4弾が10月24日に発売、全国5箇所で限定ストアも開催",
-      "url": "https://news.nicovideo.jp/watch/nw19909472",
+      "url": "https://news.nicovideo.jp/watch/nw19909472?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1995,25 +2015,6 @@
       "isNew": false
     },
     {
-      "id": "02dee979c961",
-      "title": "「ちいかわ」限定図書カードが登場！ 読書を楽しむ姿がかわいい2種類、特製台紙＆封筒付き",
-      "url": "https://article.auone.jp/1d58173c-c777-4dc3-8a8f-71785b2d89db",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-10-22T07:36:21.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/23/https___news_jp_i_1485905099390010010_w640.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7929b0ae190f",
       "title": "ANA、「ちいかわ」コラボグッズ購入制限を延長。26日以降も「1種類につき1人2点、Box商品は1点まで」",
       "url": "https://travel.watch.impress.co.jp/docs/news/2150417.html",
@@ -2025,6 +2026,25 @@
       "categories": [
         "goods",
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "02dee979c961",
+      "title": "「ちいかわ」限定図書カードが登場！ 読書を楽しむ姿がかわいい2種類、特製台紙＆封筒付き",
+      "url": "https://animeanime.jp/article/2026/10/22/104073.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:15:02.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/946265.png",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -2753,7 +2773,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8b548c20ce01",
@@ -2979,25 +2999,6 @@
       "summary": "",
       "publishedAt": "2026-10-21T03:05:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487794/20260903_172514_p_o_87763152.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48091be50ac3",
-      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』イラスト描き苦労「悩みのタネは」 3枚目",
-      "url": "https://www.oricon.co.jp/news/2487794/photo/3/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-21T03:05:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487794/20261005_104601_p_o_40843467.jpg",
       "categories": [
         "other"
       ],
