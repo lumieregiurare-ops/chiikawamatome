@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T17:00:19.497Z",
+  "updatedAt": "2026-10-24T17:30:20.621Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 110,
+  "total": 112,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 50
+      "count": 55
     },
     {
       "id": "kuji",
@@ -27,17 +27,17 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 17
+      "count": 18
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 4
+      "count": 7
     },
     {
       "id": "game",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 25
+      "count": 23
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 11
+      "count": 9
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 24
     },
     {
       "name": "コラボカフェ",
@@ -101,7 +101,7 @@
       "count": 4
     },
     {
-      "name": "山陽新聞デジタル｜さんデジ",
+      "name": "インサイド",
       "count": 4
     },
     {
@@ -109,23 +109,19 @@
       "count": 4
     },
     {
-      "name": "女性自身",
-      "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "ｄメニューニュース",
       "count": 3
     },
     {
-      "name": "電撃オンライン",
+      "name": "電撃ホビーウェブ",
       "count": 3
     },
     {
-      "name": "インサイド",
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
+      "name": "山陽新聞デジタル｜さんデジ",
       "count": 3
     },
     {
@@ -133,7 +129,15 @@
       "count": 3
     },
     {
-      "name": "朝日新聞",
+      "name": "ライブドアニュース",
+      "count": 3
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "アニメハック",
       "count": 2
     },
     {
@@ -141,23 +145,15 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
-      "count": 2
-    },
-    {
-      "name": "めざましmedia",
-      "count": 2
-    },
-    {
       "name": "ふねぽ",
       "count": 2
     },
     {
-      "name": "推し楽",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
-      "name": "オタク総研",
+      "name": "推し楽",
       "count": 2
     },
     {
@@ -173,19 +169,11 @@
       "count": 1
     },
     {
-      "name": "Howl.Link",
-      "count": 1
-    },
-    {
-      "name": "ハフポスト",
+      "name": "ABEMA",
       "count": 1
     },
     {
       "name": "産経ニュース",
-      "count": 1
-    },
-    {
-      "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
@@ -209,11 +197,15 @@
       "count": 1
     },
     {
+      "name": "https://mediadogs.jp/",
+      "count": 1
+    },
+    {
       "name": "いこーよニュース",
       "count": 1
     },
     {
-      "name": "アニメハック",
+      "name": "オタク総研",
       "count": 1
     },
     {
@@ -246,10 +238,6 @@
     },
     {
       "name": "KAI-YOU",
-      "count": 1
-    },
-    {
-      "name": "LIMO | くらしとお金の経済メディア",
       "count": 1
     },
     {
@@ -293,11 +281,23 @@
       "count": 1
     },
     {
+      "name": "ハフポスト",
+      "count": 1
+    },
+    {
+      "name": "めざましmedia",
+      "count": 1
+    },
+    {
       "name": "GAME Watch",
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
+      "name": "湘南人",
+      "count": 1
+    },
+    {
+      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -318,8 +318,8 @@
       "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35226/normal.jpeg?1792750114",
       "leadSource": "いこーよニュース",
       "publishedAt": "2026-10-23T10:10:18.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "sourceCount": 8,
+      "articleCount": 9,
       "categories": [
         "goods",
         "event"
@@ -335,6 +335,13 @@
           "url": "https://fan.books.rakuten.co.jp/articles/k4bnwdxxiny1mlr14l64c0cz",
           "source": "推し楽",
           "publishedAt": "2026-10-23T09:46:28.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわパークのグッズが大阪で買える♪「ちいかわパークストア」がオープン｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/oshiraku_29346/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-23T09:41:14.000Z",
           "isPR": false
         },
         {
@@ -382,15 +389,15 @@
       ]
     },
     {
-      "id": "fd2d4efea82b",
-      "title": "「ちいかわ×ANA」コラボレーショングッズ第1弾の購入個数制限期間が延長に！ 10月23日より先行販売中",
+      "id": "db3fab02772d",
+      "title": "ちいかわ×ANAコラボグッズ、23日発売で購入制限を26日以降も延長 ちいかわマーケットなど販売先と全商品・価格を整理",
       "summary": "",
-      "url": "https://animeanime.jp/article/2026/10/23/104108.html",
-      "image": "https://animeanime.jp/imgs/ogp_f/946839.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-23T03:45:13.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "url": "https://mediadogs.jp/2026/10/23/chiikawa-ana-goods-purchase-limit/",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/chiikawa-ana-goods-purchase-limit-eyecatch.webp",
+      "leadSource": "https://mediadogs.jp/",
+      "publishedAt": "2026-10-23T10:44:38.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "goods",
         "collab"
@@ -398,9 +405,16 @@
       "keywords": [
         "ana",
         "延長",
-        "購入個数制限"
+        "コラボグッズ"
       ],
       "articles": [
+        {
+          "title": "「ちいかわ×ANA」コラボレーショングッズ第1弾の購入個数制限期間が延長に！ 10月23日より先行販売中",
+          "url": "https://animeanime.jp/article/2026/10/23/104108.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-23T03:45:13.000Z",
+          "isPR": false
+        },
         {
           "title": "「ちいかわ×ANA」コラボグッズ第一弾の購入個数制限が10月26日以降も延長！購入前の準備まとめ",
           "url": "https://nijimen.kusuguru.co.jp/topics/642112",
@@ -445,7 +459,7 @@
       "url": "https://www.4gamer.net/games/826/G082624/20261022009/",
       "image": "https://www.4gamer.net/games/826/G082624/20261022009/SS/013.jpg",
       "leadSource": "4Gamer",
-      "publishedAt": "2026-10-24T08:35:57.000Z",
+      "publishedAt": "2026-10-24T04:00:20.000Z",
       "sourceCount": 5,
       "articleCount": 5,
       "categories": [
@@ -460,9 +474,9 @@
       "articles": [
         {
           "title": "【ちいかわぽけっと】公式グッズ第4弾が10/24発売！ お弁当やお店屋さん姿のマスコット・アクスタが登場",
-          "url": "https://www.asahi.com/and/w/article/16980066/31465260",
-          "source": "朝日新聞",
-          "publishedAt": "2026-10-24T08:35:57.000Z",
+          "url": "https://news.yahoo.co.jp/articles/23ce1ffb78170bdf93c1e0906284ba4ae9a12fd3",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-24T04:00:20.000Z",
           "isPR": false
         },
         {
@@ -484,56 +498,6 @@
           "url": "https://news.dellows.jp/707611/",
           "source": "Dellows News",
           "publishedAt": "2026-10-22T16:25:44.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "3521bac8af87",
-      "title": "『ちいかわ』限定版図書カードNEXTが10月22日発売！本を手にした3人の2柄、顔型台紙・封筒付き",
-      "summary": "",
-      "url": "https://nijimen.kusuguru.co.jp/topics/642090",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/853e2b8686034168b4b48adc53770c05.png",
-      "leadSource": "にじめん",
-      "publishedAt": "2026-10-22T13:42:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "other",
-        "collab"
-      ],
-      "keywords": [
-        "カード",
-        "図書",
-        "封筒付"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」限定図書カードが登場！ 読書を楽しむ姿がかわいい2種類、特製台紙＆封筒付き",
-          "url": "https://animeanime.jp/article/2026/10/22/104073.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-22T07:15:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ 限定版 図書カードNEXT 読書デザイン全2種 好評発売中!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-toshocard-next-limited-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-10-22T06:40:47.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわ】限定デザインの図書カードが本日発売開始！ 専用の特性台紙＆封筒付き。なかよし読書など全2種類",
-          "url": "https://dengekionline.com/article/202610/91710",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-22T05:31:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわたちが読書タイム♪ 特製台紙＆封筒付きの限定図書カード登場",
-          "url": "https://fan.books.rakuten.co.jp/articles/j70v983ldzykwzevwwbsicz8",
-          "source": "推し楽",
-          "publishedAt": "2026-10-22T03:21:18.000Z",
           "isPR": false
         }
       ]
@@ -625,79 +589,122 @@
       ]
     },
     {
-      "id": "8bca073b1738",
-      "title": "ちいかわ：“シーサーだらけ”のオンラインくじ お師匠とおそろいの鎧姿 名場面のマスコットも",
+      "id": "3521bac8af87",
+      "title": "『ちいかわ』限定版図書カードNEXTが10月22日発売！本を手にした3人の2柄、顔型台紙・封筒付き",
       "summary": "",
-      "url": "https://mantan-web.jp/article/20261022dog00m200040000a.html",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/22/20261022dog00m200040000a/001.jpg",
-      "leadSource": "まんたんウェブ",
-      "publishedAt": "2026-10-22T23:05:54.000Z",
+      "url": "https://nijimen.kusuguru.co.jp/topics/642090",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/853e2b8686034168b4b48adc53770c05.png",
+      "leadSource": "にじめん",
+      "publishedAt": "2026-10-22T13:42:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "カード",
+        "図書",
+        "封筒付"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ」限定図書カードが登場！ 読書を楽しむ姿がかわいい2種類、特製台紙＆封筒付き",
+          "url": "https://animeanime.jp/article/2026/10/22/104073.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-22T07:15:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ 限定版 図書カードNEXT 読書デザイン全2種 好評発売中!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-toshocard-next-limited-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-22T06:40:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわたちが読書タイム♪ 特製台紙＆封筒付きの限定図書カード登場",
+          "url": "https://fan.books.rakuten.co.jp/articles/j70v983ldzykwzevwwbsicz8",
+          "source": "推し楽",
+          "publishedAt": "2026-10-22T03:21:18.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "86db070d618d",
+      "title": "「ちいかわ」オンラインくじにシーサー大集結 超BIGぬいぐるみやフェイスクッションなど全12種（リアルサウンド）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/c497dffae4bc537fbc2ffe1e588ad918114de787",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010023-realsound-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-23T03:30:41.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "goods",
         "kuji"
       ],
       "keywords": [
         "シーサー",
-        "オンライン",
-        "師匠"
+        "big",
+        "オンライン"
       ],
       "articles": [
         {
-          "title": "『ちいかわ』「シーサー」だけ当たるハズレなしのオンラインくじが10月28日より販売開始。「お師匠」とおそろいの金の鎧を",
-          "url": "https://news.nicovideo.jp/watch/nw19906815?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-22T09:18:12.000Z",
+          "title": "【ちいかわ】シーサーだらけのオンラインくじ10月28日より発売！（アニメージュプラス）",
+          "url": "https://news.yahoo.co.jp/articles/d57b9325e2cfee233988948212f9419d11aac177",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T12:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "ちいかわ シーサーだらけくじ 10月28日11時より販売開始!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-kuji-shisa-darake-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-10-22T07:00:00.000Z",
+          "title": "【ちいかわ】「シーサーだらけくじ」 ぽってりボディー「超BIGぬいぐるみ」、「スイッスイッ」「くやシーサー」のぬいぐるみも",
+          "url": "https://news.livedoor.com/topics/detail/32630808/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-22T07:45:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ シーサーだらけくじ」、10月28日11時より販売 超BIGぬいぐるみやマスコットなど。10連特典は着せ替えシール",
+          "url": "https://game.watch.impress.co.jp/docs/news/2150252.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-10-22T02:29:20.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "c810f9da4cd1",
-      "title": "【画像・写真2枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
+      "id": "0895e7f9f081",
+      "title": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に",
       "summary": "",
-      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/1/",
-      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
-      "leadSource": "女性自身",
-      "publishedAt": "2026-10-24T12:03:48.000Z",
-      "sourceCount": 2,
-      "articleCount": 4,
+      "url": "https://eeo.today/media/2026/10/21/405311/",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/10/sub5-10.jpg",
+      "leadSource": "eeo",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
-        "other"
+        "anime",
+        "book"
       ],
       "keywords": [
-        "nhk",
-        "興行収入",
-        "億円"
+        "アニメ",
+        "仕掛",
+        "絵本"
       ],
       "articles": [
         {
-          "title": "【画像・写真3枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
-          "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/2/",
-          "source": "女性自身",
-          "publishedAt": "2026-10-24T09:12:00.000Z",
+          "title": "ちいかわたちが立体で飛び出す！ 仕掛け絵本『とびだす アニメちいかわ』刊行",
+          "url": "https://realsound.jp/book/2026/10/post-2560211.html",
+          "source": "リアルサウンド",
+          "publishedAt": "2026-10-22T01:58:16.000Z",
           "isPR": false
         },
         {
-          "title": "【画像・写真5枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
-          "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/4/",
-          "source": "女性自身",
-          "publishedAt": "2026-10-24T08:48:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」 (女性自身)",
-          "url": "https://news.yahoo.co.jp/articles/2594f85df9e8e1f3a444a84af02569dfd05dea50/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-22T21:00:16.000Z",
+          "title": "【画像】ちいかわたちが立体で飛び出す！ 仕掛け絵本『とびだす アニメちいかわ』刊行",
+          "url": "https://news.livedoor.com/article/image_detail/32626953/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-22T01:58:16.000Z",
           "isPR": false
         }
       ]
@@ -738,37 +745,30 @@
       ]
     },
     {
-      "id": "86db070d618d",
-      "title": "「ちいかわ」オンラインくじにシーサー大集結 超BIGぬいぐるみやフェイスクッションなど全12種（リアルサウンド）",
+      "id": "656775b76e57",
+      "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/c497dffae4bc537fbc2ffe1e588ad918114de787",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010023-realsound-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T03:30:41.000Z",
+      "url": "https://news.nicovideo.jp/watch/nw19914589",
+      "image": "https://media.eiga.com/images/anime/news/127704/photo/5b47e5f07a252647/640.jpg",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-10-24T11:00:36.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
-        "goods",
-        "kuji"
+        "anime",
+        "book"
       ],
       "keywords": [
-        "シーサー",
-        "big",
-        "オンライン"
+        "ハチワレ",
+        "アニメ",
+        "ヤーッ"
       ],
       "articles": [
         {
-          "title": "【ちいかわ】シーサーだらけのオンラインくじ10月28日より発売！（アニメージュプラス）",
-          "url": "https://news.yahoo.co.jp/articles/d57b9325e2cfee233988948212f9419d11aac177",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-22T12:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ シーサーだらけくじ」、10月28日11時より販売 超BIGぬいぐるみやマスコットなど。10連特典は着せ替えシール",
-          "url": "https://game.watch.impress.co.jp/docs/news/2150252.html",
-          "source": "GAME Watch",
-          "publishedAt": "2026-10-22T02:29:20.000Z",
+          "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 : ニュース",
+          "url": "https://anime.eiga.com/news/127704/",
+          "source": "アニメハック",
+          "publishedAt": "2026-10-24T11:00:00.000Z",
           "isPR": false
         }
       ]
@@ -802,41 +802,40 @@
       ]
     },
     {
-      "id": "d14bed232831",
-      "title": "『ちいかわ』東京駅に1000人の行列。人気芸人の“諦めの嘆き”に「わたしも撃沈」「惨敗した」と共感の声（ハフポスト日本版）",
+      "id": "bdc893df1b0c",
+      "title": "意外！？ 【ちいかわ】キャラ 人気ランキング！ 1400人が選んだ、3位：シーサー、2位：ハチワレ… 1位は「全てが、いとおしい」",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/3dee7233647d147d7cef68ce02835bd40eeab228",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00010017-huffpost-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-24T06:20:08.000Z",
+      "url": "https://lasisa.net/post/165670",
+      "image": "https://lasisa.net/wp-content/uploads/2027/10/261023-chi-02.jpg",
+      "leadSource": "LASISA",
+      "publishedAt": "2026-10-23T23:04:03.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other"
+        "other",
+        "kuji"
       ],
       "keywords": [
-        "東京駅",
-        "行列",
-        "人気芸人"
+        "シーサー"
       ],
       "articles": [
         {
-          "title": "【画像】『ちいかわ』東京駅に1000人の行列。人気芸人の“諦めの嘆き”に「わたしも撃沈」「惨敗した」と共感の声",
-          "url": "https://www.huffingtonpost.jp/entry/story_jp_6adc3f6ae4b027da9ae6c7ec",
-          "source": "ハフポスト",
-          "publishedAt": "2026-10-24T06:13:00.000Z",
+          "title": "ちいかわ シーサーだらけくじ 10月28日11時より販売開始!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-kuji-shisa-darake-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-10-22T07:00:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T16:30:19.458Z",
-    "previousCount": 112,
-    "newCount": 4
+    "previousAt": "2026-10-24T17:00:19.497Z",
+    "previousCount": 110,
+    "newCount": 12
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T17:30:19.497Z",
+  "nextUpdateAt": "2026-10-24T18:00:20.621Z",
   "items": [
     {
       "id": "12b24719c95b",
@@ -878,25 +877,6 @@
       "isNew": false
     },
     {
-      "id": "c810f9da4cd1",
-      "title": "【画像・写真2枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
-      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/1/",
-      "host": "jisin.jp",
-      "source": "女性自身",
-      "summary": "",
-      "publishedAt": "2026-10-24T12:03:48.000Z",
-      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "656775b76e57",
       "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」",
       "url": "https://news.nicovideo.jp/watch/nw19914589",
@@ -919,16 +899,17 @@
       "isNew": false
     },
     {
-      "id": "0d36627e6e37",
-      "title": "【アベモスラが歌ってみた】くつずれ/ハチワレ(cv.田中誠人)",
-      "url": "https://t.co/vPtf3GCw7V",
-      "host": "t.co",
-      "source": "Howl.Link",
+      "id": "2bdd8042c28f",
+      "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」 : ニュース",
+      "url": "https://anime.eiga.com/news/127704/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
       "summary": "",
-      "publishedAt": "2026-10-24T10:00:15.000Z",
-      "image": "",
+      "publishedAt": "2026-10-24T11:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127704/photo/5b47e5f07a252647/640.jpg",
       "categories": [
-        "other"
+        "anime",
+        "book"
       ],
       "series": [
         "hachiware"
@@ -937,7 +918,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "c61843a76119",
+      "title": "ちいかわ #185【無料ビデオ1週間】",
+      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ7NMJ92GQAK",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-24T09:44:06.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8a835dc5d202",
@@ -950,64 +950,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00000109-kstylens-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ff6526bcb96",
-      "title": "【画像・写真3枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
-      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/2/",
-      "host": "jisin.jp",
-      "source": "女性自身",
-      "summary": "",
-      "publishedAt": "2026-10-24T09:12:00.000Z",
-      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "96fc9ffb1b3f",
-      "title": "【画像・写真5枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
-      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/4/",
-      "host": "jisin.jp",
-      "source": "女性自身",
-      "summary": "",
-      "publishedAt": "2026-10-24T08:48:19.000Z",
-      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ddb0df508dae",
-      "title": "【ちいかわぽけっと】公式グッズ第4弾が10/24発売！ お弁当やお店屋さん姿のマスコット・アクスタが登場",
-      "url": "https://www.asahi.com/and/w/article/16980066/31465260",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-24T08:35:57.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "game"
       ],
       "series": [],
       "isOfficial": false,
@@ -1077,44 +1019,6 @@
       "isNew": false
     },
     {
-      "id": "9ddc4d1d6d32",
-      "title": "【画像】『ちいかわ』東京駅に1000人の行列。人気芸人の“諦めの嘆き”に「わたしも撃沈」「惨敗した」と共感の声",
-      "url": "https://www.huffingtonpost.jp/entry/story_jp_6adc3f6ae4b027da9ae6c7ec",
-      "host": "huffingtonpost.jp",
-      "source": "ハフポスト",
-      "summary": "",
-      "publishedAt": "2026-10-24T06:13:00.000Z",
-      "image": "https://img.huffingtonpost.com/asset/69bcfb0a180000a5021c50e7.jpg?cache=YDMtjrWtkE&ops=1200_630",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d5e840c98f30",
-      "title": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」",
-      "url": "https://www.oricon.co.jp/news/2488562/photo/2/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-10-24T05:20:56.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488562/20261024_111001_p_o_18432483.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "97326ea4114e",
       "title": "『＜ちいかわ×ANA＞マスコット』各2100円",
       "url": "https://www.sankei.com/article/20261024-YXKRU7C7H5OO3FFHXBMJNPCGCI/photo/QN2Z2QUYGNNPPCNSBDK2UYHWLQ/",
@@ -1125,6 +1029,26 @@
       "image": "https://www.sankei.com/resizer/v2/QN2Z2QUYGNNPPCNSBDK2UYHWLQ.jpg?auth=921e6627a01c0825988ec21ad86c3b21e39abec53e6845d80c5fdc6668fc0f13&quality=50&smart=true&width=1200&height=675",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ddb0df508dae",
+      "title": "【ちいかわぽけっと】公式グッズ第4弾が10/24発売！ お弁当やお店屋さん姿のマスコット・アクスタが登場",
+      "url": "https://news.yahoo.co.jp/articles/23ce1ffb78170bdf93c1e0906284ba4ae9a12fd3",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-24T04:00:20.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-11800994-asahiand-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "game"
       ],
       "series": [],
       "isOfficial": false,
@@ -1234,6 +1158,25 @@
       "isNew": false
     },
     {
+      "id": "d5e840c98f30",
+      "title": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」",
+      "url": "https://www.oricon.co.jp/news/2488562/photo/2/?anc",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-24T02:42:14.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488562/20261024_111001_p_o_18432483.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "69f9b190ac11",
       "title": "韓国でも『映画ちいかわ 人魚の島のひみつ』が大人気、累計観客動員数が200万人を突破…『SLAM DUNK』を上回る速さ",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXZmUmd0bFRzNXdOWmJ5c0hjcjQ5ajhuUWJzWFZWWmpEY1QtUzg0dUQ1MjZidDVYVXQwbTRydHlYTVdnakxTa0dTN1A1NW9KTVZacDV5T2luMkhKYS1WTmkxMUo0MUZEckxZdDhSRmh4QnBTS2wwZ1JGZ2llTC10ZlhLQ29rSzdFTmdvVkdCNWpXSmxP0gGUAUFVX3lxTE1xdmZSZ3RsVHM1d05aYnlzSGNyNDlqOG5RYnNYVlZaakRjVC1TODR1RDUyNmJ0NVhVdDBtNHJ0eVhNV2dqTFNrR1M3UDU1b0pNVlpwNXlPaW4ySEphLVZOaTExSjQxRkRyTFl0OFJGaHhCcFNLbDBnUkZnaWVMLXRmWEtDb2tLN0VOZ29WR0I1aldKbE8?oc=5",
@@ -1294,6 +1237,25 @@
       "isNew": false
     },
     {
+      "id": "390782865d6e",
+      "title": "13歳長女、ちいかわのキャラ弁をリクエスト→ママが作ったのは…… まさかのキャラに「ええっ！すごーい！」「食べるのもったいない！」（ねとらぼ）",
+      "url": "https://news.yahoo.co.jp/articles/a47471957941f0b4aae527076ae5079e7f265bc1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-24T00:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-10173860-it_nlab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bdc893df1b0c",
       "title": "意外！？ 【ちいかわ】キャラ 人気ランキング！ 1400人が選んだ、3位：シーサー、2位：ハチワレ… 1位は「全てが、いとおしい」",
       "url": "https://lasisa.net/post/165670",
@@ -1326,25 +1288,6 @@
       "image": "https://media.image.infoseek.co.jp/isnews/photos/oshitimes/oshitimes_132494_0-enlarge.jpg",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c53701a993c",
-      "title": "10月24日(土)の「ちいかわ占い」",
-      "url": "https://mezamashi.media/articles/-/358760",
-      "host": "mezamashi.media",
-      "source": "めざましmedia",
-      "summary": "",
-      "publishedAt": "2026-10-23T22:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1551,13 +1494,33 @@
       "isNew": false
     },
     {
+      "id": "db3fab02772d",
+      "title": "ちいかわ×ANAコラボグッズ、23日発売で購入制限を26日以降も延長 ちいかわマーケットなど販売先と全商品・価格を整理",
+      "url": "https://mediadogs.jp/2026/10/23/chiikawa-ana-goods-purchase-limit/",
+      "host": "mediadogs.jp",
+      "source": "https://mediadogs.jp/",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:44:38.000Z",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/chiikawa-ana-goods-purchase-limit-eyecatch.webp",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "92dfd484d6c6",
       "title": "ちいかわ コインシリンダー 全5種の詳細公開 10月下旬発売!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-capsule-toy-parade-coin-cylinder-2026-add-info/",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-capsule-toy-parade-coin-cylinder-2026-add-info/?amp",
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-10-23T10:35:42.000Z",
+      "publishedAt": "2026-10-23T10:15:30.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-capsule-toy-parade-coin-cylinder-2026-add-info-eyecatch.jpg",
       "categories": [
         "other"
@@ -1684,6 +1647,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d2b0bf955ceb",
+      "title": "ちいかわパークのグッズが大阪で買える♪「ちいかわパークストア」がオープン｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/oshiraku_29346/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:41:14.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_29346_0-enlarge.jpg",
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ee504cf06287",
@@ -1999,6 +1982,26 @@
       "isNew": false
     },
     {
+      "id": "a2be5acc2817",
+      "title": "「ちいかわ」 コインシリンダーがカプセルトイにて10月下旬発売！漫画風デザイン全5種、ちいさなアクリルパーツ付き",
+      "url": "https://www.inside-games.jp/article/2026/10/23/189683.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-23T03:20:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1797683.jpg",
+      "categories": [
+        "goods",
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "70d82861b2ab",
       "title": "スマートフォン向けアプリちいかわぽけっと公式グッズ第4弾が10月24日に発売、全国5箇所で限定ストアも開催",
       "url": "https://news.nicovideo.jp/watch/nw19909472",
@@ -2079,27 +2082,6 @@
       "isNew": false
     },
     {
-      "id": "9293db4aef89",
-      "title": "中川翔子 2台のベビーカーで双子とお散歩ショット「お兄ちゃんハチワレに似てる」「また大きくなってる！」の声",
-      "url": "https://limo.media/articles/-/142550",
-      "host": "limo.media",
-      "source": "LIMO | くらしとお金の経済メディア",
-      "summary": "",
-      "publishedAt": "2026-10-23T00:58:00.000Z",
-      "image": "https://limo.ismcdn.jp/mwimgs/b/9/1200w/img_b9140167a30f9de9490545c2ef62f81825268.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "dd33ffb7556a",
       "title": "ちいかわ シーサーだらけくじ｜ちいかわのくじ 発売日・取扱コンビニ",
       "url": "https://charagoo.jp/kuji/item/ca956ea0b15d/",
@@ -2141,6 +2123,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "76867a634efa",
+      "title": "頭のリボンがとってもキュート！『ちいかわ』から、ふわふわフロッキーマスコットがガシャポンに登場！",
+      "url": "https://hobby.dengeki.com/news/3201307/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-10-22T23:00:00.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_rtvnB-3np8HCuHoB1q3koR241rR24wK7_lKboUbBzvtY8Pw1jw7ff7sBn8TlcdnS3.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8cfd6b304bfe",
@@ -2368,13 +2369,13 @@
     },
     {
       "id": "d9e996aca65d",
-      "title": "「ちいかわ×ANA」グッズの購入制限、初日3日間→「当面の間」に延長。品切れや混乱対策で「1種類2個まで」制限",
-      "url": "https://0115765.com/archives/210962",
-      "host": "0115765.com",
-      "source": "オタク総研",
+      "title": "「ちいかわ×ANA」グッズの購入制限、初日3日間→「当面の間」に延長。品切れや混乱対策で「1種類2個まで」制限（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/ea70e3a123854f92ee9c2216f9a94495f11bf78d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-22T09:20:10.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261012-i3av0qrq.jpg",
+      "publishedAt": "2026-10-22T09:22:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00182200-otakulab-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -2384,27 +2385,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "08fc5d794599",
-      "title": "『ちいかわ』「シーサー」だけ当たるハズレなしのオンラインくじが10月28日より販売開始。「お師匠」とおそろいの金の鎧を",
-      "url": "https://news.nicovideo.jp/watch/nw19906815?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-22T09:18:12.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [
-        "shisa"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dcc9d285c675",
@@ -2447,6 +2427,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5a2c578f770f",
+      "title": "【ちいかわ】「シーサーだらけくじ」 ぽってりボディー「超BIGぬいぐるみ」、「スイッスイッ」「くやシーサー」のぬいぐるみも",
+      "url": "https://news.livedoor.com/topics/detail/32630808/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:45:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/5/d/5d937_1589_8f9c0172_9e3c9e2f.jpg",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7929b0ae190f",
@@ -2631,6 +2633,27 @@
       "isNew": false
     },
     {
+      "id": "cf3b73df3ad8",
+      "title": "【画像】『ちいかわ』うさぎ、まさかのイメチェン！⇨衝撃の展開に「レアすぎる」「危険な世界」と爆笑",
+      "url": "https://www.huffingtonpost.jp/entry/story_jp_6ad98e45e4b0ba084e14ae34",
+      "host": "huffingtonpost.jp",
+      "source": "ハフポスト",
+      "summary": "",
+      "publishedAt": "2026-10-22T06:39:22.000Z",
+      "image": "https://img.huffingtonpost.com/asset/6913cb4015000038829c2e7e.jpg?cache=LdhfADGR9Y&ops=1200_630",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e33c5102d6a1",
       "title": "全長約50cmの超BIGサイズも！『ちいかわ』シーサーだらけのオンラインくじが新登場！全12種がラインナップ",
       "url": "https://mezamashi.media/articles/-/363472",
@@ -2672,25 +2695,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "a5a3fe9245bc",
-      "title": "【ちいかわ】限定デザインの図書カードが本日発売開始！ 専用の特性台紙＆封筒付き。なかよし読書など全2種類",
-      "url": "https://dengekionline.com/article/202610/91710",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-22T05:31:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91710/ogp_LRrY.jpg?x=1280",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d492d58cc287",
@@ -2775,12 +2779,12 @@
     {
       "id": "076d0bd27ef5",
       "title": "『ちいかわ』新たな特典の絵柄にネットざわつく「島二郎の髪のひみつが…」",
-      "url": "https://www.oricon.co.jp/news/2487972/photo/7/",
+      "url": "https://www.oricon.co.jp/news/2487972/full/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-22T03:25:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487972/20261005_150832_p_o_17824977.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2488000/2487972/20261021_232920_p_o_69586243.jpg",
       "categories": [
         "other"
       ],
@@ -2870,6 +2874,45 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1bbca747c314",
+      "title": "【画像】ちいかわたちが立体で飛び出す！ 仕掛け絵本『とびだす アニメちいかわ』刊行",
+      "url": "https://news.livedoor.com/article/image_detail/32626953/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-22T01:58:16.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/3/1/31d24_1830_537483ef_2212575b.jpg",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "affe3665e04f",
+      "title": "【鎌倉市】「ちいかわもぐもぐ本舗 鎌倉店」が2026年12月、小町通り近くに誕生！京都・川越・小樽に続く4号店",
+      "url": "https://shonanjin.com/news/chiikawa-mogumogu-honpo-kamakura-store-to-open-near-komachi-dori-in-december-2026/",
+      "host": "shonanjin.com",
+      "source": "湘南人",
+      "summary": "",
+      "publishedAt": "2026-10-22T01:56:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "df61cd526556",
@@ -2968,6 +3011,25 @@
       "isNew": false
     },
     {
+      "id": "2c33fe47534d",
+      "title": "ちいかわたちのお顔がほんのりライトアップ！お部屋に飾っても可愛い『ちいかわ』スティックライト型チャームが登場！",
+      "url": "https://hobby.dengeki.com/news/3200320/",
+      "host": "hobby.dengeki.com",
+      "source": "電撃ホビーウェブ",
+      "summary": "",
+      "publishedAt": "2026-10-21T23:00:00.000Z",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_oCl27ngeq9X7ZKNQGQYu5rC_lsHc9S1g_vtUtlJjlOVlfOFzmEmrjZO0afh5hIQCZ.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c72a15bf06ec",
       "title": "「ついに陸海空制覇」『ちいかわ×ANAコラボグッズ』10/23先行販売開始。羽田空港で期間限定ショップも",
       "url": "https://news.yahoo.co.jp/articles/8552f93cf14b0a92f70f4e33c8744a6900e55753",
@@ -3005,28 +3067,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "2abc9433825a",
-      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
-      "url": "https://www.sanyonews.jp/article/1951762?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞デジタル｜さんデジ",
-      "summary": "",
-      "publishedAt": "2026-10-21T17:50:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
