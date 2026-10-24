@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T22:30:17.395Z",
+  "updatedAt": "2026-10-24T23:00:17.939Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 111,
-  "todayCount": 6,
+  "total": 108,
+  "todayCount": 5,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 56
+      "count": 53
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 22
+      "count": 21
     },
     {
       "id": "event",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 20
     },
     {
       "name": "コラボカフェ",
@@ -101,15 +101,7 @@
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 4
-    },
-    {
       "name": "オリコンニュース",
-      "count": 4
-    },
-    {
-      "name": "Infoseek",
       "count": 4
     },
     {
@@ -118,6 +110,14 @@
     },
     {
       "name": "めざましmedia",
+      "count": 3
+    },
+    {
+      "name": "山陽新聞",
+      "count": 3
+    },
+    {
+      "name": "Infoseek",
       "count": 3
     },
     {
@@ -799,12 +799,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T21:56:34.490Z",
-    "previousCount": 110,
-    "newCount": 7
+    "previousAt": "2026-10-24T22:30:17.395Z",
+    "previousCount": 111,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T23:00:17.395Z",
+  "nextUpdateAt": "2026-10-24T23:30:17.939Z",
   "items": [
     {
       "id": "5bb3cd6190a1",
@@ -823,7 +823,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "656775b76e57",
@@ -864,7 +864,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dccaedd0fbef",
@@ -883,7 +883,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f2674c6457b7",
@@ -897,25 +897,6 @@
       "categories": [
         "goods",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dbb72baff71a",
-      "title": "『ちいかわ』グッズ再販開始でネットざわつく「受注生産にして欲しい〜」「6分で売り切れ」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-24T16:12:43.000Z",
-      "image": "",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1001,7 +982,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8a835dc5d202",
@@ -1503,12 +1484,12 @@
       "url": "https://www.inside-games.jp/article/2026/10/24/189726.html",
       "host": "inside-games.jp",
       "source": "インサイド",
-      "summary": "「ちいかわ」のスマホゲーム『ちいかわぽけっと』より、公式グッズ第4弾が2026年10月24日より発売！",
+      "summary": "",
       "publishedAt": "2026-10-23T15:10:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1793194.jpg",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1793194.jpg",
       "categories": [
-        "game",
-        "goods"
+        "goods",
+        "game"
       ],
       "series": [],
       "isOfficial": false,
@@ -1535,7 +1516,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "db3fab02772d",
@@ -1710,7 +1691,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee504cf06287",
@@ -2657,7 +2638,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e33c5102d6a1",
@@ -2968,45 +2949,6 @@
       "publishedAt": "2026-10-22T00:00:14.000Z",
       "image": "https://predge.jp/wp-content/uploads/2026/10/predge2610-ana-chiikawa01.jpg",
       "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "19fe430e5b7e",
-      "title": "中国の若者が《ちいかわ》に熱狂､日中関係が悪くても｢こぞってグッズを買う｣その背景にある\"若者の心を掴む理由\"",
-      "url": "https://news.infoseek.co.jp/article/toyokeizai_20261022_961607/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-21T23:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/toyokeizai/toyokeizai_20261022_961607_0-enlarge.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c72a15bf06ec",
-      "title": "「ついに陸海空制覇」『ちいかわ×ANAコラボグッズ』10/23先行販売開始。羽田空港で期間限定ショップも",
-      "url": "https://news.yahoo.co.jp/articles/8552f93cf14b0a92f70f4e33c8744a6900e55753",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-21T22:31:05.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-11800049-asahiand-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods",
         "collab"
       ],
       "series": [],
