@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T16:00:17.476Z",
+  "updatedAt": "2026-10-24T16:30:19.458Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 108,
+  "total": 112,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "kuji",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 21
+      "count": 22
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 13
+      "count": 15
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 25
+      "count": 26
     }
   ],
   "series": [
@@ -105,7 +105,19 @@
       "count": 4
     },
     {
+      "name": "にじめん",
+      "count": 4
+    },
+    {
+      "name": "女性自身",
+      "count": 3
+    },
+    {
       "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
+      "name": "Infoseek",
       "count": 3
     },
     {
@@ -113,16 +125,8 @@
       "count": 3
     },
     {
-      "name": "にじめん",
-      "count": 3
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 3
-    },
-    {
-      "name": "女性自身",
-      "count": 2
     },
     {
       "name": "ニコニコニュース",
@@ -154,10 +158,6 @@
     },
     {
       "name": "推し楽",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -241,6 +241,10 @@
       "count": 1
     },
     {
+      "name": "キャラクター情報サイト",
+      "count": 1
+    },
+    {
       "name": "Forbes JAPAN",
       "count": 1
     },
@@ -318,16 +322,16 @@
       "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35226/normal.jpeg?1792750114",
       "leadSource": "いこーよニュース",
       "publishedAt": "2026-10-23T10:10:18.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "sourceCount": 8,
+      "articleCount": 9,
       "categories": [
         "goods",
         "event"
       ],
       "keywords": [
         "パーク",
-        "パークストア",
-        "大阪"
+        "大阪",
+        "ストア"
       ],
       "articles": [
         {
@@ -342,6 +346,13 @@
           "url": "https://news.infoseek.co.jp/article/oshiraku_29346/",
           "source": "Infoseek",
           "publishedAt": "2026-10-23T09:41:14.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわパーク」の世界観を楽しめるストアが大阪・LUCUA SOUTHにオープン！",
+          "url": "https://charalab.com/144541/",
+          "source": "キャラクター情報サイト",
+          "publishedAt": "2026-10-23T09:01:46.000Z",
           "isPR": false
         },
         {
@@ -378,6 +389,70 @@
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T03:54:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "db3fab02772d",
+      "title": "ちいかわ×ANAコラボグッズ、23日発売で購入制限を26日以降も延長 ちいかわマーケットなど販売先と全商品・価格を整理",
+      "summary": "",
+      "url": "https://mediadogs.jp/2026/10/23/chiikawa-ana-goods-purchase-limit/",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/chiikawa-ana-goods-purchase-limit-eyecatch.webp",
+      "leadSource": "https://mediadogs.jp/",
+      "publishedAt": "2026-10-23T10:44:38.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "keywords": [
+        "ana",
+        "延長",
+        "コラボグッズ"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ×ANA」コラボレーショングッズ第1弾の購入個数制限期間が延長に！ 10月23日より先行販売中",
+          "url": "https://animeanime.jp/article/2026/10/23/104108.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-23T03:45:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ×ANA」コラボグッズ第一弾の購入個数制限が10月26日以降も延長！購入前の準備まとめ",
+          "url": "https://nijimen.kusuguru.co.jp/topics/642112",
+          "source": "にじめん",
+          "publishedAt": "2026-10-22T14:18:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ANA、「ちいかわ」コラボグッズ第1弾の販売制限を延長",
+          "url": "https://www.traicy.com/posts/20261022385580/",
+          "source": "TRAICY（トライシー）",
+          "publishedAt": "2026-10-22T08:05:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ANA、「ちいかわ」コラボグッズ購入制限を延長。26日以降も「1種類につき1人2点、Box商品は1点まで」",
+          "url": "https://travel.watch.impress.co.jp/docs/news/2150417.html",
+          "source": "トラベル Watch",
+          "publishedAt": "2026-10-22T07:20:14.000Z",
+          "isPR": false
+        },
+        {
+          "title": "全日空商事、「ちいかわ×ANA」コラボグッズ第一弾の購入個数制限を期間延長 - sky-budget スカイバジェット",
+          "url": "https://sky-budget.com/2026/10/22/chiikawa-ana-news/",
+          "source": "sky-budget スカイバジェット",
+          "publishedAt": "2026-10-22T07:11:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ×ANA』コラボレーショングッズ第一弾 ～購入個数制限の期間延長のお知らせ～",
+          "url": "https://prtimes.jp/main/html/rd/p/000000019.000035055.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-22T07:00:01.000Z",
+          "isPR": true
         }
       ]
     },
@@ -436,7 +511,7 @@
       "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」（オリコン）",
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/734a141f52fb7d379e502aa753dc3981c77d7204",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00000389-oric-000-23-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00000389-oric-000-24-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-24T15:10:02.000Z",
       "sourceCount": 4,
@@ -460,7 +535,7 @@
         },
         {
           "title": "画像・写真 | ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」 1枚目",
-          "url": "https://www.oricon.co.jp/news/2488564/photo/1/?anc",
+          "url": "https://www.oricon.co.jp/news/2488564/photo/1/",
           "source": "オリコンニュース",
           "publishedAt": "2026-10-24T03:09:00.000Z",
           "isPR": false
@@ -470,49 +545,6 @@
           "url": "https://dime.jp/genre/2164152/",
           "source": "@DIME アットダイム",
           "publishedAt": "2026-10-23T09:31:41.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "db3fab02772d",
-      "title": "ちいかわ×ANAコラボグッズ、23日発売で購入制限を26日以降も延長 ちいかわマーケットなど販売先と全商品・価格を整理",
-      "summary": "",
-      "url": "https://mediadogs.jp/2026/10/23/chiikawa-ana-goods-purchase-limit/",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/chiikawa-ana-goods-purchase-limit-eyecatch.webp",
-      "leadSource": "https://mediadogs.jp/",
-      "publishedAt": "2026-10-23T10:44:38.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "keywords": [
-        "ana",
-        "延長",
-        "コラボグッズ"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ×ANA」コラボレーショングッズ第1弾の購入個数制限期間が延長に！ 10月23日より先行販売中",
-          "url": "https://animeanime.jp/article/2026/10/23/104108.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-23T03:45:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANA、「ちいかわ」コラボグッズ第1弾の販売制限を延長",
-          "url": "https://www.traicy.com/posts/20261022385580/",
-          "source": "TRAICY（トライシー）",
-          "publishedAt": "2026-10-22T08:05:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ANA、「ちいかわ」コラボグッズ購入制限を延長。26日以降も「1種類につき1人2点、Box商品は1点まで」",
-          "url": "https://travel.watch.impress.co.jp/docs/news/2150417.html",
-          "source": "トラベル Watch",
-          "publishedAt": "2026-10-22T07:20:14.000Z",
           "isPR": false
         }
       ]
@@ -654,7 +686,7 @@
       "leadSource": "女性自身",
       "publishedAt": "2026-10-24T12:03:48.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -664,6 +696,13 @@
         "億円"
       ],
       "articles": [
+        {
+          "title": "【画像・写真3枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
+          "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/2/",
+          "source": "女性自身",
+          "publishedAt": "2026-10-24T09:12:00.000Z",
+          "isPR": false
+        },
         {
           "title": "【画像・写真5枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
           "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/4/",
@@ -800,12 +839,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T15:30:17.575Z",
-    "previousCount": 109,
-    "newCount": 2
+    "previousAt": "2026-10-24T16:00:17.476Z",
+    "previousCount": 108,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T16:30:17.476Z",
+  "nextUpdateAt": "2026-10-24T17:00:19.458Z",
   "items": [
     {
       "id": "12b24719c95b",
@@ -815,7 +854,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-24T15:10:02.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00000389-oric-000-23-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00000389-oric-000-24-view.jpg?exp=10800",
       "categories": [
         "goods",
         "collab"
@@ -945,6 +984,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9ff6526bcb96",
+      "title": "【画像・写真3枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
+      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/2/",
+      "host": "jisin.jp",
+      "source": "女性自身",
+      "summary": "",
+      "publishedAt": "2026-10-24T09:12:00.000Z",
+      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "96fc9ffb1b3f",
@@ -1164,7 +1222,7 @@
     {
       "id": "ae3d280b0b46",
       "title": "画像・写真 | ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」 1枚目",
-      "url": "https://www.oricon.co.jp/news/2488564/photo/1/?anc",
+      "url": "https://www.oricon.co.jp/news/2488564/photo/1/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -1283,6 +1341,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "748a874e99ee",
+      "title": "体験型施設ちいかわパークにて期間限定のクリスマス企画が開催へ｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/oshitimes_132494/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-23T22:01:20.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oshitimes/oshitimes_132494_0-enlarge.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1c53701a993c",
@@ -1444,12 +1521,12 @@
     {
       "id": "cbb665c3d842",
       "title": "『ちいかわ』更新（10/24）。ポシェットの鎧さんの新作は、押しても…入んない!?",
-      "url": "https://dengekionline.com/article/202610/91937",
+      "url": "https://dengekionline.com/article/images/202610/91937/910289",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-23T16:32:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_UiWB.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/91937/afcfcd3e90423e9d780e72a4086e98be1.jpg?x=1280",
       "categories": [
         "goods"
       ],
@@ -1518,7 +1595,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92dfd484d6c6",
@@ -1772,6 +1849,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d8781e837fcb",
+      "title": "「ちいかわパーク」の世界観を楽しめるストアが大阪・LUCUA SOUTHにオープン！",
+      "url": "https://charalab.com/144541/",
+      "host": "charalab.com",
+      "source": "キャラクター情報サイト",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:01:46.000Z",
+      "image": "https://charalab.com/images/2026/10/261023_chiikawa_-2.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7e36c11fa325",
@@ -2191,6 +2287,26 @@
       "isNew": false
     },
     {
+      "id": "21597b8a1a20",
+      "title": "「ちいかわ×ANA」コラボグッズ第一弾の購入個数制限が10月26日以降も延長！購入前の準備まとめ",
+      "url": "https://nijimen.kusuguru.co.jp/topics/642112",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:18:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/1759728a9de648ed954974844a24b007.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3521bac8af87",
       "title": "『ちいかわ』限定版図書カードNEXTが10月22日発売！本を手にした3人の2柄、顔型台紙・封筒付き",
       "url": "https://nijimen.kusuguru.co.jp/topics/642090",
@@ -2397,7 +2513,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7929b0ae190f",
@@ -2500,6 +2616,27 @@
       "isNew": false
     },
     {
+      "id": "6429692d8ed7",
+      "title": "ちいかわ シーサーだらけくじ 10月28日11時より販売開始!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-kuji-shisa-darake-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-kuji-shisa-darake-2026-kv-lineup.jpg",
+      "categories": [
+        "kuji"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0895e7f9f081",
       "title": "アニメ『ちいかわ』の仕掛け絵本が発売！ ちいかわ、ハチワレ、うさぎたちがページをめくるたびに飛び出す一冊に",
       "url": "https://eeo.today/media/2026/10/21/405311/",
@@ -2515,27 +2652,6 @@
       "series": [
         "hachiware",
         "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6429692d8ed7",
-      "title": "ちいかわ シーサーだらけくじ 10月28日11時より販売開始!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-kuji-shisa-darake-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-22T07:00:00.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-kuji-shisa-darake-2026-kv-lineup.jpg",
-      "categories": [
-        "kuji"
-      ],
-      "series": [
-        "shisa"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2790,7 +2906,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-22T02:29:20.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2150/252/0.jpg",
+      "image": "",
       "categories": [
         "goods",
         "kuji"
