@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-25T16:00:17.663Z",
+  "updatedAt": "2026-10-25T16:30:17.748Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 96,
-  "todayCount": 2,
+  "total": 98,
+  "todayCount": 3,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "kuji",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 22
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 22
     },
     {
       "name": "インサイド",
@@ -98,7 +98,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 4
+      "count": 5
     },
     {
       "name": "コラボカフェ",
@@ -249,7 +249,7 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
+      "name": "ENCOUNT",
       "count": 1
     },
     {
@@ -729,13 +729,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T15:30:22.356Z",
+    "previousAt": "2026-10-25T16:00:17.663Z",
     "previousCount": 96,
-    "newCount": 3
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T16:30:17.663Z",
+  "nextUpdateAt": "2026-10-25T17:00:17.748Z",
   "items": [
+    {
+      "id": "d5e840c98f30",
+      "title": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」",
+      "url": "https://www.oricon.co.jp/news/2488562/photo/2/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-25T16:03:17.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488562/20261024_111001_p_o_18432483.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "d4d806f12f15",
       "title": "「ちいかわ キャラパキ チョコレート（大袋）」本日発売（GAME Watch）",
@@ -753,7 +772,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ac406db502ab",
@@ -773,25 +792,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "70eca9f85736",
-      "title": "【画像・写真6枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
-      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/5/",
-      "host": "jisin.jp",
-      "source": "女性自身",
-      "summary": "",
-      "publishedAt": "2026-10-25T14:54:33.000Z",
-      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "53fce4181e54",
@@ -815,23 +815,23 @@
       "isNew": false
     },
     {
-      "id": "d5e840c98f30",
-      "title": "『ちいかわ』にハマったドランクドラゴン塚地、“推し”になりきり…ぬいぐるみとの2ショットに「そっくり」「実写版のキャストさんですね!」",
-      "url": "https://www.oricon.co.jp/news/2488562/photo/2/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "id": "96fc9ffb1b3f",
+      "title": "【画像・写真5枚目】興行収入181億円『ちいかわ』 『紅白歌合戦』出演に向けNHKが打った「布石」",
+      "url": "https://jisin.jp/entertainment/entertainment-news/2605402/image/4/",
+      "host": "jisin.jp",
+      "source": "女性自身",
       "summary": "",
-      "publishedAt": "2026-10-25T11:11:23.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488562/20261024_111001_p_o_18432483.jpg",
+      "publishedAt": "2026-10-25T12:32:39.000Z",
+      "image": "https://img.jisin.jp/uploads/2026/09/nhk_fb.jpg",
       "categories": [
-        "goods"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4f3ab4bc4d41",
@@ -951,27 +951,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "aa4712850a26",
-      "title": "『ちいかわ』FNS歌謡祭に登場 ハチワレが歌う映画OP初パフォーマンス！20時に特別映像公開",
-      "url": "https://www.sanyonews.jp/article/1947456?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-25T03:23:47.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/5/1/1/b5114f07d89c1626fb146827422f59e2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1240,6 +1219,44 @@
       "isNew": false
     },
     {
+      "id": "dccaedd0fbef",
+      "title": "77歳・糸井重里『ちいかわ』にハマる 大量のイラスト投稿でネットざわつく「特徴を全て掴んでる」",
+      "url": "https://www.sanyonews.jp/article/1975039?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-24T20:29:24.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/d/5/9/7d59a0f8f27bc3a3eedd480b5dfd4cbc_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "2ddb0b57c653",
+      "title": "映画『ちいかわ』興収181億円突破 『ONE PIECE FILM RED』超えるペース 新たな特典発表",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-24T20:16:34.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4afdaed9e50c",
       "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
       "url": "https://www.sanyonews.jp/article/1982996?rct",
@@ -1318,7 +1335,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c61843a76119",
@@ -1342,7 +1359,7 @@
     {
       "id": "a0ba69e88aab",
       "title": "「ちいかわ×ANA」早くもグッズ品切れで追加生産検討 「8時間待って…」悲鳴も「神対応」の声",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNak85WHdkSDFHWm5JVnVDbVNWcFhxRzhFWkRzUEJaRmhjNXQ0NUF1SnJ6TWpmQVg4Ylk4VzhfQ3ItX3huVVpqOVBnamJIcndKcUdjX1hQY283Vm5pc2FGTEgxT0o0MTVhLUNLdnhTR3dlRFg0dmJCZ1k0QmJsdExoTTFHMks4VTFrV0ZST1A4cnhCLW13M25laFMxM2YwNk5ZMFBNUHBwY0JNQlQ1Vjd30gGvAUFVX3lxTE1qTzlYd2RIMUdabklWdUNtU1ZwWHFHOEVaRHNQQlpGaGM1dDQ1QXVKcnpNamZBWDhiWThXOF9Dci1feG5VWmo5UGdqYkhyd0pxR2NfWFBjbzdWbmlzYUZMSDFPSjQxNWEtQ0t2eFNHd2VEWDR2YkJnWTRCYmx0TGhNMUcySzhVMWtXRlJPUDhyeEItbXczbmVoUzEzZjA2TlkwUE1QcHBjQk1CVDVWN3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWFYzSUVuY3hVQmhSQW9VcWoxUzl3RThzTU5ncGotbF8wczV3cHI5eUROdmpTRkZjRFZja1RzQnpydldyRVp5dllJaF9lUklRbmJXRmFDQU5oM19jRE9NcDZ0SDdIM2dkbl8zMnFvVWNoRHBMMFhqem0wcjg2VmxrWTN0SFh3a0dNdXBvSmdwRkh5ZElyc0p1dDAyc2pLbDNoUjBmb2JfUVJFd9IBrwFBVV95cUxNak85WHdkSDFHWm5JVnVDbVNWcFhxRzhFWkRzUEJaRmhjNXQ0NUF1SnJ6TWpmQVg4Ylk4VzhfQ3ItX3huVVpqOVBnamJIcndKcUdjX1hQY283Vm5pc2FGTEgxT0o0MTVhLUNLdnhTR3dlRFg0dmJCZ1k0QmJsdExoTTFHMks4VTFrV0ZST1A4cnhCLW13M25laFMxM2YwNk5ZMFBNUHBwY0JNQlQ1Vjd3?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
@@ -1584,7 +1601,7 @@
       "source": "wowKorea",
       "summary": "",
       "publishedAt": "2026-10-24T02:10:00.000Z",
-      "image": "",
+      "image": "https://www.wowkorea.jp/img/news/107/539763/456547_1280W.webp",
       "categories": [
         "anime"
       ],
@@ -1951,6 +1968,25 @@
       "isNew": false
     },
     {
+      "id": "8217fbad1d91",
+      "title": "女性韓国人YouTuber、『ちいかわ』グッズ探しに都内を奔走 満喫する姿に反響「楽しそう」（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/0e5ac026f40de3c4be79f446430454c00d34154b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:02:35.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010055-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "45721406f298",
       "title": "【入場特典リスト 10月最新版】「耳をすませば」「借りぐらしのアリエッティ」IMAX上映でポスター配布 「映画ちいかわ」待望の新特典",
       "url": "https://anime.eiga.com/news/column/tokuten_list/127709/",
@@ -2069,12 +2105,12 @@
     {
       "id": "4310242b3ee8",
       "title": "ちいかわジェットで「持って帰ってしまった」 TKO木本の報告に「可愛い」「羨ましい」とネット反応",
-      "url": "https://article.auone.jp/0b563853-a895-4463-ba72-55e9877ce830",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
+      "url": "https://encount.press/archives/1086649/",
+      "host": "encount.press",
+      "source": "ENCOUNT",
       "summary": "",
-      "publishedAt": "2026-10-23T09:22:24.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/23/https___news_jp_i_1486294173764681867_w1200.webp",
+      "publishedAt": "2026-10-23T09:26:11.000Z",
+      "image": "https://encount.press/wp-content/uploads/2026/01/04150220/adfd90151b14fb268e3d3e9091bc5565.jpg",
       "categories": [
         "other"
       ],
