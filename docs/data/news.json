@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-25T18:30:18.827Z",
+  "updatedAt": "2026-10-25T19:00:19.700Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 95,
+  "total": 94,
   "todayCount": 3,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 15
+      "count": 13
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 15
+      "count": 17
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 21
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "usagi",
@@ -209,15 +209,15 @@
       "count": 1
     },
     {
+      "name": "山陽新聞デジタル｜さんデジ",
+      "count": 1
+    },
+    {
       "name": "電撃オンライン",
       "count": 1
     },
     {
       "name": "Record China",
-      "count": 1
-    },
-    {
-      "name": "https://mediadogs.jp/",
       "count": 1
     },
     {
@@ -242,10 +242,6 @@
     },
     {
       "name": "週刊女性PRIME",
-      "count": 1
-    },
-    {
-      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -569,15 +565,15 @@
       ],
       "articles": [
         {
-          "title": "映画『ちいかわ』入場者特典「第7弾」がスタート！待望の内容にファン歓喜「ついに描き下ろしがきた」 | 概要 | アニメ | 最新コラム",
-          "url": "https://futaman.futabanet.jp/articles/-/132629",
+          "title": "(2ページ目) 映画『ちいかわ』入場者特典「第7弾」がスタート！待望の内容にファン歓喜「ついに描き下ろしがきた」",
+          "url": "https://futaman.futabanet.jp/articles/-/132629?page",
           "source": "ふねぽ",
           "publishedAt": "2026-10-23T21:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "(2ページ目) 映画『ちいかわ』入場者特典「第7弾」がスタート！待望の内容にファン歓喜「ついに描き下ろしがきた」",
-          "url": "https://futaman.futabanet.jp/articles/-/132629?utm_source",
+          "title": "映画『ちいかわ』入場者特典「第7弾」がスタート！待望の内容にファン歓喜「ついに描き下ろしがきた」 | 概要 | アニメ | 最新コラム",
+          "url": "https://futaman.futabanet.jp/articles/-/132629",
           "source": "ふねぽ",
           "publishedAt": "2026-10-23T21:00:00.000Z",
           "isPR": false
@@ -724,12 +720,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T18:00:17.972Z",
-    "previousCount": 92,
-    "newCount": 9
+    "previousAt": "2026-10-25T18:30:18.827Z",
+    "previousCount": 95,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T19:00:18.827Z",
+  "nextUpdateAt": "2026-10-25T19:30:19.700Z",
   "items": [
     {
       "id": "d5e840c98f30",
@@ -953,6 +949,27 @@
       "isNew": false
     },
     {
+      "id": "aa4712850a26",
+      "title": "『ちいかわ』FNS歌謡祭に登場 ハチワレが歌う映画OP初パフォーマンス！20時に特別映像公開",
+      "url": "https://www.sanyonews.jp/article/1947456?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-25T03:23:47.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/5/1/1/b5114f07d89c1626fb146827422f59e2_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "df1a189faf51",
       "title": "「ちいかわ シーサーだらけくじ」10月28日発売 原作シーン再現マスコットなど全12種（cinemacafe.net）",
       "url": "https://news.yahoo.co.jp/articles/14c8851f905391a177084717ca7e10a61994b1c8",
@@ -1092,7 +1109,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9697bc3431ec",
@@ -1209,7 +1226,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4afdaed9e50c",
@@ -1287,7 +1304,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a0ba69e88aab",
@@ -1307,26 +1324,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c50718f285a6",
-      "title": "マクドナルド、次回ハッピーセット「ちいかわ」5・15より クルー姿の“3Dフィギュア”ペンシルトッパー全8種",
-      "url": "https://www.sanyonews.jp/article/1917452",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-24T07:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/2/b/1/c2b106be8747172ebc2f03e286112619_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d14bed232831",
@@ -1686,6 +1683,26 @@
       "isNew": false
     },
     {
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.sanyonews.jp/article/1994052?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞デジタル｜さんデジ",
+      "summary": "",
+      "publishedAt": "2026-10-23T21:56:31.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3379dbb426c4",
       "title": "映画『ちいかわ』入場者特典「第7弾」スタート！ 待望の内容にファン歓喜「ついに描き下ろしがきた」（ふたまん＋）",
       "url": "https://news.yahoo.co.jp/articles/94bcf72b0289308592a510d09cb514332428865f",
@@ -1694,6 +1711,25 @@
       "summary": "",
       "publishedAt": "2026-10-23T21:30:35.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00132629-futaman-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "becebf3c7797",
+      "title": "(2ページ目) 映画『ちいかわ』入場者特典「第7弾」がスタート！待望の内容にファン歓喜「ついに描き下ろしがきた」",
+      "url": "https://futaman.futabanet.jp/articles/-/132629?page",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-10-23T21:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/5/5/1200wm/img_55564decff19e95e59404c8aee82c7da619228.jpg",
       "categories": [
         "anime"
       ],
@@ -1722,25 +1758,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "becebf3c7797",
-      "title": "(2ページ目) 映画『ちいかわ』入場者特典「第7弾」がスタート！待望の内容にファン歓喜「ついに描き下ろしがきた」",
-      "url": "https://futaman.futabanet.jp/articles/-/132629?utm_source",
-      "host": "futaman.futabanet.jp",
-      "source": "ふねぽ",
-      "summary": "",
-      "publishedAt": "2026-10-23T21:00:00.000Z",
-      "image": "https://futaman.ismcdn.jp/mwimgs/5/5/1200wm/img_55564decff19e95e59404c8aee82c7da619228.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fe81624b8107",
@@ -1842,33 +1859,13 @@
       "isNew": false
     },
     {
-      "id": "db3fab02772d",
-      "title": "ちいかわ×ANAコラボグッズ、23日発売で購入制限を26日以降も延長 ちいかわマーケットなど販売先と全商品・価格を整理",
-      "url": "https://mediadogs.jp/2026/10/23/chiikawa-ana-goods-purchase-limit/",
-      "host": "mediadogs.jp",
-      "source": "https://mediadogs.jp/",
-      "summary": "",
-      "publishedAt": "2026-10-23T10:44:38.000Z",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/10/chiikawa-ana-goods-purchase-limit-eyecatch.webp",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "92dfd484d6c6",
       "title": "ちいかわ コインシリンダー 全5種の詳細公開 10月下旬発売!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-capsule-toy-parade-coin-cylinder-2026-add-info/?amp",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-capsule-toy-parade-coin-cylinder-2026-add-info/",
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-10-23T10:15:30.000Z",
+      "publishedAt": "2026-10-23T10:35:42.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-capsule-toy-parade-coin-cylinder-2026-add-info-eyecatch.jpg",
       "categories": [
         "other"
@@ -2034,25 +2031,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4310242b3ee8",
-      "title": "ちいかわジェットで「持って帰ってしまった」 TKO木本の報告に「可愛い」「羨ましい」とネット反応",
-      "url": "https://article.auone.jp/0b563853-a895-4463-ba72-55e9877ce830",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-10-23T09:22:24.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/23/https___news_jp_i_1486294173764681867_w1200.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "642efa5a94ec",
@@ -2370,7 +2348,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70d82861b2ab",
@@ -2488,7 +2466,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0966c90a33d0",
@@ -2588,7 +2566,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a1ca6b50959",
