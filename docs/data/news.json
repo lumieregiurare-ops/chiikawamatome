@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T16:30:20.828Z",
+  "updatedAt": "2026-10-26T17:00:22.609Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 78,
+  "total": 79,
   "todayCount": 1,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 18
+      "count": 19
     },
     {
       "id": "book",
@@ -165,6 +165,10 @@
       "count": 1
     },
     {
+      "name": "Mantan Web",
+      "count": 1
+    },
+    {
       "name": "FNNプライムオンライン",
       "count": 1
     },
@@ -293,15 +297,15 @@
       ]
     },
     {
-      "id": "aa3772ba747f",
-      "title": "映画ちいかわ 人魚の島のひみつ＞興収184億円突破 1265万人動員の大ヒット（MANTANWEB）",
+      "id": "5483e182f312",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収184億円突破 1265万人動員の大ヒット",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/b99d3b20a221d724089ff77c748260266bc5e2b5",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000048-mantan-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-26T07:37:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
+      "url": "https://mantan-web.jp/article/20261026dog00m200077000a.html",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/26/20261026dog00m200077000a/001.jpg",
+      "leadSource": "Mantan Web",
+      "publishedAt": "2026-10-26T07:37:50.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
       "categories": [
         "anime"
       ],
@@ -311,6 +315,13 @@
         "億円突破"
       ],
       "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ＞興収184億円突破 1265万人動員の大ヒット（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/b99d3b20a221d724089ff77c748260266bc5e2b5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-26T07:37:00.000Z",
+          "isPR": false
+        },
         {
           "title": "映画『ちいかわ』興収184.9億円突破 『ONE PIECE FILM RED』超えるペース維持",
           "url": "https://www.oricon.co.jp/news/2488885/full/",
@@ -634,12 +645,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T16:00:19.331Z",
-    "previousCount": 80,
-    "newCount": 4
+    "previousAt": "2026-10-26T16:30:20.828Z",
+    "previousCount": 78,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T17:00:20.828Z",
+  "nextUpdateAt": "2026-10-26T17:30:22.609Z",
   "items": [
     {
       "id": "325cd9a2987a",
@@ -648,7 +659,7 @@
       "host": "lp.p.pia.jp",
       "source": "ぴあエンタメ情報",
       "summary": "",
-      "publishedAt": "2026-10-26T15:50:04.000Z",
+      "publishedAt": "2026-10-26T16:48:25.000Z",
       "image": "https://lp.p.pia.jp/shared/materials/24def3aa-7fde-4407-8734-7a7f83d79f15/origin.jpg",
       "categories": [
         "event"
@@ -679,7 +690,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c2d7221e9fb",
@@ -700,7 +711,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6347ff0ca1bf",
@@ -884,7 +895,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-26T09:15:42.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2151/269/0.jpg",
+      "image": "",
       "categories": [
         "goods",
         "collab"
@@ -978,6 +989,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5483e182f312",
+      "title": "映画ちいかわ 人魚の島のひみつ：興収184億円突破 1265万人動員の大ヒット",
+      "url": "https://mantan-web.jp/article/20261026dog00m200077000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-26T07:37:50.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/26/20261026dog00m200077000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "aa3772ba747f",
@@ -1470,7 +1500,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2b8b0c7d6cda",
@@ -2006,7 +2036,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-24T03:09:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488564/20261015_111410_p_o_21064414.jpg",
+      "image": "",
       "categories": [
         "goods",
         "collab"
@@ -2094,7 +2124,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "50798493d066",
