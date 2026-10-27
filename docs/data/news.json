@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-27T22:00:17.820Z",
+  "updatedAt": "2026-10-27T22:30:20.517Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 95,
-  "todayCount": 5,
+  "total": 100,
+  "todayCount": 10,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 42
+      "count": 47
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 7
+      "count": 10
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 6
+      "count": 10
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 20
+      "count": 17
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 1
+      "count": 0
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 23
+      "count": 22
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "momonga",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 4
+      "count": 5
     },
     {
       "id": "rakko",
@@ -79,7 +79,7 @@
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 8
+      "count": 11
     },
     {
       "id": "kuma",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 20
     },
     {
       "name": "インサイド",
-      "count": 15
+      "count": 16
     },
     {
       "name": "にじめん",
@@ -102,6 +102,10 @@
     },
     {
       "name": "ファッションプレス",
+      "count": 6
+    },
+    {
+      "name": "山陽新聞",
       "count": 5
     },
     {
@@ -113,19 +117,15 @@
       "count": 5
     },
     {
-      "name": "山陽新聞",
+      "name": "Excite エキサイト",
       "count": 4
-    },
-    {
-      "name": "Mantan Web",
-      "count": 3
     },
     {
       "name": "アニメ！アニメ！",
       "count": 3
     },
     {
-      "name": "映画.com",
+      "name": "クランクイン！",
       "count": 2
     },
     {
@@ -137,7 +137,11 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
+      "name": "Mantan Web",
+      "count": 2
+    },
+    {
+      "name": "GAME Watch",
       "count": 2
     },
     {
@@ -145,11 +149,19 @@
       "count": 1
     },
     {
+      "name": "推し楽",
+      "count": 1
+    },
+    {
       "name": "玩具人 TOY PEOPLE",
       "count": 1
     },
     {
-      "name": "推し楽",
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -158,10 +170,6 @@
     },
     {
       "name": "LASISA",
-      "count": 1
-    },
-    {
-      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -177,15 +185,15 @@
       "count": 1
     },
     {
+      "name": "めざましmedia",
+      "count": 1
+    },
+    {
       "name": "コンビニ チェッカー",
       "count": 1
     },
     {
       "name": "ナタリー",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     },
     {
@@ -201,15 +209,15 @@
       "count": 1
     },
     {
-      "name": "GAME Watch",
+      "name": "モデルプレス",
+      "count": 1
+    },
+    {
+      "name": "映画.com",
       "count": 1
     },
     {
       "name": "K-POP、韓国エンタメニュース、取材レポートならコレポ！",
-      "count": 1
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 1
     }
   ],
@@ -222,16 +230,16 @@
       "image": "https://www.inside-games.jp/imgs/rss/1799605.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-10-27T10:50:03.000Z",
-      "sourceCount": 9,
-      "articleCount": 14,
+      "sourceCount": 10,
+      "articleCount": 13,
       "categories": [
         "goods",
         "anime"
       ],
       "keywords": [
         "クリスマス",
-        "テディベア",
-        "仕様"
+        "仕様",
+        "テディベア"
       ],
       "articles": [
         {
@@ -249,6 +257,13 @@
           "isPR": false
         },
         {
+          "title": "テディベア姿のちいかわたちがクリスマス仕様におめかし 「Kiramekko（きらめっこ）」に新商品登場 (オリコン)",
+          "url": "https://news.yahoo.co.jp/articles/6cabfac9b96bfc143c683c4bd385782d21912928/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-27T08:01:07.000Z",
+          "isPR": false
+        },
+        {
           "title": "ちいかわ＆ハチワレ＆うさぎがクリスマスの装いに！ アクセサリーぬいぐるみ11月6日発売「Kiramekko」",
           "url": "https://www.cinemacafe.net/article/2026/10/27/113634.html",
           "source": "cinemacafe.net",
@@ -257,9 +272,9 @@
         },
         {
           "title": "ちいかわ、ハチワレ、うさぎがクリスマス仕様のテディベアになっちゃった！",
-          "url": "https://www.chiba-tv.com/plus/detail/amp/2026102164478",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-10-27T07:56:21.000Z",
+          "url": "http://www.excite.co.jp/news/article/kaiyou_n_1487722065038131543/",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-10-27T07:56:00.000Z",
           "isPR": false
         },
         {
@@ -282,13 +297,6 @@
           "source": "いこーよニュース",
           "publishedAt": "2026-10-27T06:31:45.000Z",
           "isPR": false
-        },
-        {
-          "title": "テディベア姿のちいかわたちがクリスマス仕様におめかし 「Kiramekko（きらめっこ）」に新商品登場（オリコン）",
-          "url": "https://news.yahoo.co.jp/articles/6cabfac9b96bfc143c683c4bd385782d21912928",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-27T06:30:47.000Z",
-          "isPR": false
         }
       ]
     },
@@ -299,9 +307,9 @@
       "url": "https://fan.books.rakuten.co.jp/articles/santezwwu20aikd49k251idd",
       "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_kiramekko_main_c637514159.jpg",
       "leadSource": "推し楽",
-      "publishedAt": "2026-10-27T11:37:07.000Z",
+      "publishedAt": "2026-10-27T17:37:07.000Z",
       "sourceCount": 5,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "goods",
         "other"
@@ -324,6 +332,13 @@
           "url": "https://www.fashion-press.net/news/gallery/152534/2578472",
           "source": "ファッションプレス",
           "publishedAt": "2026-10-27T06:12:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "写真5/8｜ちいかわ「もこもこテディベア姿」ハチワレ＆うさぎのマスコット、クリスマスカラーのリボン付き",
+          "url": "https://www.fashion-press.net/news/gallery/152534/2578469",
+          "source": "ファッションプレス",
+          "publishedAt": "2026-10-27T06:12:38.000Z",
           "isPR": false
         },
         {
@@ -352,6 +367,56 @@
           "url": "https://mantan-web.jp/article/20261027dog00m200027000a.html",
           "source": "Mantan Web",
           "publishedAt": "2026-10-27T04:47:50.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e032931361db",
+      "title": "「ちいかわパークストア」のグッズが関西で買える!! 特典もモリモリ♪ 大阪に11月グランドオープン",
+      "summary": "「ちいかわパークストア」が、2026年11月24日より大阪・LUCUA SOUTHにグランドオープン。東京・池袋の体験型施設「ちいかわパーク」で取り扱うグッズを販売するほか、オープンを記念したオリジナルノベルティもプレゼントされる。",
+      "url": "https://animeanime.jp/article/2026/10/26/104220.html",
+      "image": "https://animeanime.jp/imgs/rss/947890.png",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-27T10:23:00.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "keywords": [
+        "パークストア",
+        "パーク",
+        "lucua"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわパークストア」がLUCUA SOUTHに2026年11月24日オープン！",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDBXMzZSUE4zUjE4TWd5QzJvUWpmdTVSRFhFU0RwUGxEZklzYThJWllSN2Q1aGU0dHh2bkp6OUZDWDdWM0RpZW9iTklhcmRLSW56YVRCUmJyY3F4YWpHOFlZbkhJZmNzYldjV1I0a084ZVNjYW5KRmZFLThhSzV0QXoxUkTSAYQBQVVfeXFMTjAwVzM2UlBOM1IxOE1neUMyb1FqZnU1UkRYRVNEcFBsRGZJc2E4SVpZUjdkNWhlNHR4dm5KejlGQ1g3VjNEaWVvYk5JYXJkS0luemFUQlJicmNxeGFqRzhZWW5ISWZjc2JXY1dSNGtPOGVTY2FuSkZmRS04YUs1dEF6MVJE?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-27T10:23:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわパークストア」が大阪・LUCUA SOUTHに登場 11月24日グランドオープン (リアルサウンド)",
+          "url": "https://news.yahoo.co.jp/articles/800bd42c1ca2322afcd972c6934e0769283f572a/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-27T08:03:28.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわパークストア」が大阪・LUCUA SOUTHに11月24日オープン！スウェットやポップコーンバケツ、記念ノベルティも",
+          "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000644246/",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-10-26T09:42:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【大阪・LUCUA SOUTH】全国初「ちいかわパークストア」など28ブランドが開業！",
+          "url": "https://mdpr.jp/other/detail/4865944",
+          "source": "モデルプレス",
+          "publishedAt": "2026-10-26T08:30:00.000Z",
           "isPR": false
         }
       ]
@@ -432,8 +497,8 @@
           "isPR": false
         },
         {
-          "title": "画像・写真 | 映画『ちいかわ』興収184.9億円突破 『ONE PIECE FILM RED』超えるペース維持 6枚目",
-          "url": "https://www.oricon.co.jp/news/2488885/photo/6/",
+          "title": "画像・写真 | 映画『ちいかわ』興収184.9億円突破 『ONE PIECE FILM RED』超えるペース維持 2枚目",
+          "url": "https://www.oricon.co.jp/news/2488885/photo/2/",
           "source": "オリコンニュース",
           "publishedAt": "2026-10-26T07:02:00.000Z",
           "isPR": false
@@ -520,6 +585,34 @@
       ]
     },
     {
+      "id": "a6afe343c5b0",
+      "title": "「GU」×「ちいかわ」コラボ、オンライン先行予約決定に5.6万いいねの反響 SNS「買えないと思ってた」「争奪戦かな（笑）」",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/ea746755cf6b025ced2dcd1baced7a0aa582ca44/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnUf-_XNWt-ugMEJoZlFzoVWeT-qAOi_-jQuyfKe15uY1mYf7MVyeoAatMC2Zpbb3IiLbg6UCOWzA_0wXelwN6X71SENDgHaclYbMNOyzHaivtDDrSfK_MWEqrr84p3rHJw==",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-27T15:42:57.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "keywords": [
+        "コラボ",
+        "オンライン"
+      ],
+      "articles": [
+        {
+          "title": "GU「ちいかわ」コラボ、11月2日～オンライン先行予約実施決定！",
+          "url": "https://game.watch.impress.co.jp/docs/news/2151269.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-10-26T09:15:42.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "b6a12a678c62",
       "title": "自分でちょこんとおすわりできる！「ちいかわ」うさぎたち全4種、手のひらサイズぬいぐるみ第2弾がカプセルトイで再販",
       "summary": "カプセルトイ「ちいかわ おすわりぬいぐるみ2」が大好評につき再販決定！",
@@ -543,33 +636,6 @@
           "url": "https://nijimen.kusuguru.co.jp/topics/645271",
           "source": "にじめん",
           "publishedAt": "2026-10-27T14:57:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "b6a5b313f84b",
-      "title": "「ちいかわ成分は1日20分まで」映画ちいかわ 人魚の島のひみつ NICKNAMEさんの映画レビュー（感想・評価）",
-      "summary": "",
-      "url": "https://eiga.com/movie/105109/review/07145803/",
-      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
-      "leadSource": "映画.com",
-      "publishedAt": "2026-10-27T12:10:23.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "映画",
-        "人魚"
-      ],
-      "articles": [
-        {
-          "title": "【写真・画像】アニメ「映画ちいかわ 人魚の島のひみつ」のビジュアル（C）ナガノ ／ 2026「映画ちいかわ」製作委員会",
-          "url": "https://mantan-web.jp/article/20261026dog00m200077000a.html?photo",
-          "source": "Mantan Web",
-          "publishedAt": "2026-10-26T10:10:32.000Z",
           "isPR": false
         }
       ]
@@ -656,45 +722,60 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "0eb153b60d09",
-      "title": "ちいかわ、ハチワレ、うさぎ達がお弁当に!? 花屋さんや魚屋さんでお仕事も♪ 「ちいかわぽけっと」公式グッズ第4弾発売でPOP UP STORE開催【レポ】",
-      "summary": "『ちいかわ』初のスマホアプリ『ちいかわぽけっと（ちいぽけ）』が、公式グッズ第4弾の発売にあわせ「ちいかわぽけっと POP UP STORE」を開催中だ。東京会場の池袋 PARCO 本館6F「0% IKEBUKURO」には初日から多くのファンが訪れ、「お店屋さん」と「お弁当」をモチーフにした新作グッズを心待ちにする熱気…",
-      "url": "https://animeanime.jp/article/2026/10/27/104243.html",
-      "image": "https://animeanime.jp/imgs/rss/948112.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-27T03:15:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "game",
-        "goods"
-      ],
-      "keywords": [
-        "ちいかわぽけっと",
-        "pop",
-        "store"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわぽけっと』POP UP STORE東京会場が初日から盛況！ 公式グッズ第4弾は「お店屋さん」と「お弁当」",
-          "url": "https://www.appbank.net/2026/10/26/game/3144540.php",
-          "source": "AppBank",
-          "publishedAt": "2026-10-26T11:11:37.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T21:30:18.131Z",
+    "previousAt": "2026-10-27T22:00:17.820Z",
     "previousCount": 95,
-    "newCount": 5
+    "newCount": 10
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T22:30:17.820Z",
+  "nextUpdateAt": "2026-10-27T23:00:20.517Z",
   "items": [
+    {
+      "id": "e7580e5dc5cb",
+      "title": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％",
+      "url": "https://www.crank-in.net/trend/item/193038",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
+      "summary": "",
+      "publishedAt": "2026-10-27T22:00:00.000Z",
+      "image": "https://www.crank-in.net/img/db/269106222113098_1200.jpg",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "714add66a3f4",
+      "title": "（写真）ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％",
+      "url": "https://www.crank-in.net/trend/gallery/item/193038/9",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
+      "summary": "",
+      "publishedAt": "2026-10-27T22:00:00.000Z",
+      "image": "https://www.crank-in.net/img/db/269106222113098_1200.jpg",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "325cd9a2987a",
       "title": "ちいかわベーカリーの世界が楽しめる!「ちいかわベーカリー」専門ポップアップショップ登場♪",
@@ -712,7 +793,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9d03d059f681",
@@ -733,7 +814,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "d0a6e5329c0a",
+      "title": "ちいかわたちがふんわりテディベア姿に♡ クリスマスカラーのリボンでおめかしした新作ぬいぐるみ",
+      "url": "https://fan.books.rakuten.co.jp/articles/santezwwu20aikd49k251idd",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
+      "summary": "",
+      "publishedAt": "2026-10-27T17:37:07.000Z",
+      "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_kiramekko_main_c637514159.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "674bf2f0e6f1",
@@ -757,6 +857,26 @@
       "isNew": false
     },
     {
+      "id": "e74abff55cb3",
+      "title": "ちいかわ プリズンポテト サワークリームオニオン味｜ちいかわのコラボグッズ 発売日・価格",
+      "url": "https://charagoo.jp/collab/event/6de7b11c9700/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-27T15:47:42.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a6afe343c5b0",
       "title": "「GU」×「ちいかわ」コラボ、オンライン先行予約決定に5.6万いいねの反響 SNS「買えないと思ってた」「争奪戦かな（笑）」",
       "url": "https://news.yahoo.co.jp/articles/ea746755cf6b025ced2dcd1baced7a0aa582ca44/images/000",
@@ -775,6 +895,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.sanyonews.jp/article/1994052?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-27T15:36:44.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "75dc5bff39c5",
@@ -796,7 +936,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a1623b79dab",
@@ -815,25 +955,6 @@
         "momonga",
         "rakko"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b6a5b313f84b",
-      "title": "「ちいかわ成分は1日20分まで」映画ちいかわ 人魚の島のひみつ NICKNAMEさんの映画レビュー（感想・評価）",
-      "url": "https://eiga.com/movie/105109/review/07145803/",
-      "host": "eiga.com",
-      "source": "映画.com",
-      "summary": "",
-      "publishedAt": "2026-10-27T12:10:23.000Z",
-      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -877,25 +998,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d0a6e5329c0a",
-      "title": "ちいかわたちがふんわりテディベア姿に♡ クリスマスカラーのリボンでおめかしした新作ぬいぐるみ",
-      "url": "https://fan.books.rakuten.co.jp/articles/santezwwu20aikd49k251idd",
-      "host": "fan.books.rakuten.co.jp",
-      "source": "推し楽",
-      "summary": "",
-      "publishedAt": "2026-10-27T11:37:07.000Z",
-      "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_kiramekko_main_c637514159.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -962,6 +1064,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e7254b84fd9e",
+      "title": "「ちいかわパークストア」がLUCUA SOUTHに2026年11月24日オープン！",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDBXMzZSUE4zUjE4TWd5QzJvUWpmdTVSRFhFU0RwUGxEZklzYThJWllSN2Q1aGU0dHh2bkp6OUZDWDdWM0RpZW9iTklhcmRLSW56YVRCUmJyY3F4YWpHOFlZbkhJZmNzYldjV1I0a084ZVNjYW5KRmZFLThhSzV0QXoxUkTSAYQBQVVfeXFMTjAwVzM2UlBOM1IxOE1neUMyb1FqZnU1UkRYRVNEcFBsRGZJc2E4SVpZUjdkNWhlNHR4dm5KejlGQ1g3VjNEaWVvYk5JYXJkS0luemFUQlJicmNxeGFqRzhZWW5ISWZjc2JXY1dSNGtPOGVTY2FuSkZmRS04YUs1dEF6MVJE?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-27T10:23:00.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "497fc2ae7c3f",
@@ -1201,6 +1322,44 @@
       "isNew": false
     },
     {
+      "id": "fc358814c6f9",
+      "title": "「ちいかわパークストア」が大阪・LUCUA SOUTHに登場 11月24日グランドオープン (リアルサウンド)",
+      "url": "https://news.yahoo.co.jp/articles/800bd42c1ca2322afcd972c6934e0769283f572a/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:03:28.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTVDuL4thePh3HGwzcXilBB3dpzvW0oSqp3dBeZFAPPcQ9EWP0H5aXIXIHXYD0re27qi-NQ3-qrdV4G3vAd4iI5znTKPTkM2By83yM8q52cFCY0nCy43hFja2IYq1NcBLw==",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3f4d88c89715",
+      "title": "テディベア姿のちいかわたちがクリスマス仕様におめかし 「Kiramekko（きらめっこ）」に新商品登場 (オリコン)",
+      "url": "https://news.yahoo.co.jp/articles/6cabfac9b96bfc143c683c4bd385782d21912928/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:01:07.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnb1rcaIDanL5rxOSKyww6-FUZCz7JZ5ebT29KlT2AA6BVxbr3YvXPKgNvssch8vwjTpgiuvMQBANbI3ltZPqlxo9QpSGm9AaP-5tmxCB7qH2",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f64c473ee559",
       "title": "「ちいかわ」くりまんじゅう秋冬コレクション！「お酒の資格」「毛量くりまんじゅう」など全8種デザインが「Talking ODM」に追加",
       "url": "https://www.inside-games.jp/article/2026/10/27/189924.html",
@@ -1246,12 +1405,12 @@
     {
       "id": "6bc74beb8cb5",
       "title": "ちいかわ、ハチワレ、うさぎがクリスマス仕様のテディベアになっちゃった！",
-      "url": "https://www.chiba-tv.com/plus/detail/amp/2026102164478",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
+      "url": "http://www.excite.co.jp/news/article/kaiyou_n_1487722065038131543/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
-      "publishedAt": "2026-10-27T07:56:21.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1487722053736941283/origin_1.webp",
+      "publishedAt": "2026-10-27T07:56:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1388,25 +1547,6 @@
       "isNew": false
     },
     {
-      "id": "3f4d88c89715",
-      "title": "テディベア姿のちいかわたちがクリスマス仕様におめかし 「Kiramekko（きらめっこ）」に新商品登場（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/6cabfac9b96bfc143c683c4bd385782d21912928",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-27T06:30:47.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00000468-oric-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "37c47339520b",
       "title": "写真7/8｜ちいかわ「もこもこテディベア姿」ハチワレ＆うさぎのマスコット、クリスマスカラーのリボン付き",
       "url": "https://www.fashion-press.net/news/gallery/152534/2578472",
@@ -1427,6 +1567,28 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b1c5c17998dc",
+      "title": "写真5/8｜ちいかわ「もこもこテディベア姿」ハチワレ＆うさぎのマスコット、クリスマスカラーのリボン付き",
+      "url": "https://www.fashion-press.net/news/gallery/152534/2578469",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-10-27T06:12:38.000Z",
+      "image": "https://www.fashion-press.net/img/news/152534/Htk.jpg?1793077784",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "db76bc310959",
@@ -1569,13 +1731,13 @@
     },
     {
       "id": "6769a4f8b868",
-      "title": "【ちいかわ】クリスマス仕様のふんわりテディベア姿が可愛すぎる!キラキラおめめで特別感たっぷり 11月6日から発売!",
-      "url": "https://news.yahoo.co.jp/articles/a8997663ac68b3f32bffdef61e02ab1aa8c2e4e2",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "【ちいかわ】クリスマス仕様のふんわりテディベア姿が可愛すぎる！キラキラおめめで特別感たっぷり 11月6日から発売！",
+      "url": "https://mezamashi.media/articles/-/365086",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
-      "publishedAt": "2026-10-27T04:07:17.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00365086-fujitv-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-27T04:06:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/3/e/1200xm/img_3e094952cbc5d417fe7ef24c32bacc182814444.jpg",
       "categories": [
         "other"
       ],
@@ -1637,25 +1799,6 @@
       "image": "https://animeanime.jp/imgs/rss/948179.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ac7e9d17d0cd",
-      "title": "【ちいかわ】悶絶級にカワイイ♪クマ姿でクリスマスにおめかし！限定テディベア11月6日発売（LASISA）",
-      "url": "https://news.yahoo.co.jp/articles/eda3f7455c9193ef41e750a99bf1733b954d08f0",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-27T03:26:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-10166133-lasisa-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1791,26 +1934,6 @@
       "isNew": false
     },
     {
-      "id": "93aab1c2b94a",
-      "title": "映画ちいかわ 人魚の島のひみつ デスクトップフィギュア｜ちいかわのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/b28f576c37c3/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-26T23:44:30.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4e74abd925a9",
       "title": "「ちいかわ もっちるおすわりBIGぬいぐるみ①」新登場！首をかしげたおすわりポーズの全4種が10月下旬より順次展開",
       "url": "https://nijimen.kusuguru.co.jp/topics/644784",
@@ -1823,6 +1946,27 @@
         "goods"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "aa4712850a26",
+      "title": "『ちいかわ』FNS歌謡祭に登場 ハチワレが歌う映画OP初パフォーマンス！20時に特別映像公開",
+      "url": "https://www.sanyonews.jp/article/1947456?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-26T22:31:55.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/5/1/1/b5114f07d89c1626fb146827422f59e2_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1946,25 +2090,6 @@
       "isNew": false
     },
     {
-      "id": "c0f01cd32ece",
-      "title": "【写真・画像】アニメ「映画ちいかわ 人魚の島のひみつ」のビジュアル（C）ナガノ ／ 2026「映画ちいかわ」製作委員会",
-      "url": "https://mantan-web.jp/article/20261026dog00m200077000a.html?photo",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-10-26T10:10:32.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/26/20261026dog00m200077000a/001.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "9fdf4c4e2061",
       "title": "にじさんじ×くら寿司キャンペーン、ちいかわコラボでの不正行為を受け「景品管理・運用体制を強化」 - KAI-YOU",
       "url": "https://kai-you.net/article/96954",
@@ -2005,10 +2130,29 @@
       "isNew": false
     },
     {
+      "id": "a5dd0175eac5",
+      "title": "「ちいかわパークストア」が大阪・LUCUA SOUTHに11月24日オープン！スウェットやポップコーンバケツ、記念ノベルティも",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000644246/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-10-26T09:42:00.000Z",
+      "image": "",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9509317b2747",
       "title": "期間限定の「ちいかわ」2026ハロウィンデザインは、もうチェックした？「Talking ODM」にて展開",
-      "url": "https://www.inside-games.jp/article/2026/10/26/189864.html",
-      "host": "inside-games.jp",
+      "url": "https://s.inside-games.jp/article/2026/10/26/189864.html",
+      "host": "s.inside-games.jp",
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-26T09:30:02.000Z",
@@ -2025,13 +2169,13 @@
     },
     {
       "id": "140c17b77cad",
-      "title": "GU「ちいかわ」コラボ、11月2日～オンライン先行予約実施決定！（GAME Watch）",
-      "url": "https://news.yahoo.co.jp/articles/a60afe860848690ebb7a6e606495b2b57ae6ec1e",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "GU「ちいかわ」コラボ、11月2日～オンライン先行予約実施決定！",
+      "url": "https://game.watch.impress.co.jp/docs/news/2151269.html",
+      "host": "game.watch.impress.co.jp",
+      "source": "GAME Watch",
       "summary": "",
-      "publishedAt": "2026-10-26T09:15:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000018-impgmw-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-26T09:15:42.000Z",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2151/269/0.jpg",
       "categories": [
         "goods",
         "collab"
@@ -2051,7 +2195,7 @@
       "source": "ふくおかナビ",
       "summary": "",
       "publishedAt": "2026-10-26T08:31:20.000Z",
-      "image": "",
+      "image": "https://www.fukuoka-navi.jp/wp-content/uploads/2026/10/IpbcRBDBXs0blVpBWfkeDazFSMQkjAy3SJLhmHliHdJ_APz3JmP6i8Yt0n3k7fxSXEMUJm3idC0p8SjKM-Gnz3JQxc0fNGo-__eW7R4myckm83E8uKxPRVyogHKOEVEQZTY378Eb3veB94dleU-RTs262_LumArlVcbNFD-X2I3CgB0nUEKRStpRY363hVFt.jpg",
       "categories": [
         "event"
       ],
@@ -2127,6 +2271,25 @@
       "isNew": false
     },
     {
+      "id": "2308d29ec19d",
+      "title": "【大阪・LUCUA SOUTH】全国初「ちいかわパークストア」など28ブランドが開業！",
+      "url": "https://mdpr.jp/other/detail/4865944",
+      "host": "mdpr.jp",
+      "source": "モデルプレス",
+      "summary": "",
+      "publishedAt": "2026-10-26T08:30:00.000Z",
+      "image": "https://img-mdpr.freetls.fastly.net/article/4Fej/nm/4FejzqGjZF9VomR5RZACzzMFQPPDNTGYgEBWsYkk65M.jpg?width=700&disable=upscale&auto=webp&quality=80",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5483e182f312",
       "title": "映画ちいかわ 人魚の島のひみつ：興収184億円突破 1265万人動員の大ヒット",
       "url": "https://mantan-web.jp/article/20261026dog00m200077000a.html",
@@ -2185,13 +2348,13 @@
     },
     {
       "id": "8ef1988108e4",
-      "title": "画像・写真 | 映画『ちいかわ』興収184.9億円突破 『ONE PIECE FILM RED』超えるペース維持 6枚目",
-      "url": "https://www.oricon.co.jp/news/2488885/photo/6/",
+      "title": "画像・写真 | 映画『ちいかわ』興収184.9億円突破 『ONE PIECE FILM RED』超えるペース維持 2枚目",
+      "url": "https://www.oricon.co.jp/news/2488885/photo/2/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-26T07:02:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488885/20260928_135108_p_o_50797775.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488885/20261019_133212_p_o_15239275.jpg",
       "categories": [
         "anime"
       ],
@@ -2263,11 +2426,11 @@
     {
       "id": "7d3777998ecf",
       "title": "ナガノキャラクターズ くまが野球姿に スポーツな秋マスコット登場!",
-      "url": "https://collabo-cafe.com/events/collabo/nagano-prize-parade-sports-autumn-mascot-2026/?amp",
+      "url": "https://collabo-cafe.com/events/collabo/nagano-prize-parade-sports-autumn-mascot-2026/",
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-10-26T04:43:59.000Z",
+      "publishedAt": "2026-10-26T04:52:26.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/nagano-prize-parade-sports-autumn-mascot-2026-eyecatch.jpg",
       "categories": [
         "goods"
@@ -2297,6 +2460,29 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "be5b2560aa76",
+      "title": "首をかしげた姿が可愛い！「ちいかわ」シーサーやくりまんじゅうなど全4種、「もっちる」BIGぬいぐるみが10月下旬よりプライズ展開",
+      "url": "https://s.inside-games.jp/article/2026/10/26/189833.html",
+      "host": "s.inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-26T03:45:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1799009.jpg",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [
+        "kurimanju",
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "70e1631491aa",
@@ -2480,27 +2666,6 @@
       "isNew": false
     },
     {
-      "id": "aa4712850a26",
-      "title": "『ちいかわ』FNS歌謡祭に登場 ハチワレが歌う映画OP初パフォーマンス！20時に特別映像公開",
-      "url": "https://www.sanyonews.jp/article/1947456?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-25T03:23:47.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/5/1/1/b5114f07d89c1626fb146827422f59e2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "df1a189faf51",
       "title": "「ちいかわ シーサーだらけくじ」10月28日発売 原作シーン再現マスコットなど全12種",
       "url": "https://www.cinemacafe.net/article/2026/10/25/113570.html",
@@ -2578,28 +2743,6 @@
       ],
       "series": [
         "shisa"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "656775b76e57",
-      "title": "アニメ「ちいかわ」仕掛け絵本が発売中 ちいかわとハチワレが飛び出して「ヤーッ！」",
-      "url": "https://news.nicovideo.jp/watch/nw19915147",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-24T22:06:13.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "series": [
-        "hachiware"
       ],
       "isOfficial": false,
       "isPR": false,
