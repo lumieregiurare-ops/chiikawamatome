@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-30T16:30:20.207Z",
+  "updatedAt": "2026-10-30T17:00:21.834Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 121,
+  "total": 122,
   "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 41
+      "count": 40
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 32
+      "count": 31
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 16
+      "count": 15
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 15
+      "count": 17
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 37
+      "count": 40
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 19
     },
     {
       "id": "usagi",
@@ -94,7 +94,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 7
+      "count": 8
     },
     {
       "name": "アニメ！アニメ！",
@@ -105,11 +105,19 @@
       "count": 5
     },
     {
+      "name": "オリコンニュース",
+      "count": 5
+    },
+    {
       "name": "インサイド",
       "count": 5
     },
     {
-      "name": "ぴあエンタメ情報",
+      "name": "ｄメニューニュース",
+      "count": 4
+    },
+    {
+      "name": "にじめん",
       "count": 4
     },
     {
@@ -117,31 +125,15 @@
       "count": 4
     },
     {
-      "name": "Excite エキサイト",
-      "count": 4
+      "name": "ぴあエンタメ情報",
+      "count": 3
     },
     {
       "name": "PASH! PLUS",
       "count": 3
     },
     {
-      "name": "オリコンニュース",
-      "count": 3
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 3
-    },
-    {
-      "name": "にじめん",
-      "count": 3
-    },
-    {
       "name": "山陽新聞",
-      "count": 3
-    },
-    {
-      "name": "Togetter",
       "count": 3
     },
     {
@@ -162,6 +154,14 @@
     },
     {
       "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "Togetter",
+      "count": 2
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 2
     },
     {
@@ -221,7 +221,7 @@
       "count": 1
     },
     {
-      "name": "madridsalud.es",
+      "name": "台北経済新聞",
       "count": 1
     },
     {
@@ -273,10 +273,6 @@
       "count": 1
     },
     {
-      "name": "Dellows News",
-      "count": 1
-    },
-    {
       "name": "Infoseek",
       "count": 1
     },
@@ -290,6 +286,10 @@
     },
     {
       "name": "モデルプレス",
+      "count": 1
+    },
+    {
+      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -462,8 +462,8 @@
       "image": "https://realsound.jp/wp-content/uploads/2026/10/20261030-chiikawa-01.jpg",
       "leadSource": "リアルサウンド",
       "publishedAt": "2026-10-30T11:11:26.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "event",
         "goods"
@@ -493,6 +493,13 @@
           "url": "https://www.pashplus.jp/goods/500783/",
           "source": "PASH! PLUS",
           "publishedAt": "2026-10-29T11:50:45.000Z",
+          "isPR": false
+        },
+        {
+          "title": "台北・赤峰街に「ちいかわ」大判焼き店 限定グッズや台湾茶も",
+          "url": "https://taipei.keizai.biz/headline/738/",
+          "source": "台北経済新聞",
+          "publishedAt": "2026-10-29T09:48:37.000Z",
           "isPR": false
         },
         {
@@ -528,7 +535,7 @@
       "keywords": [
         "ベビーカステラ",
         "京都",
-        "オープン"
+        "錦市場"
       ],
       "articles": [
         {
@@ -539,60 +546,17 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわベビーカステラ」の2号店・京都錦店が11月18日に、オープン記念グッズも",
-          "url": "https://natalie.mu/comic/news/695572",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-30T06:41:00.000Z",
-          "isPR": false
-        },
-        {
           "title": "「ちいかわベビーカステラ」京都に11月オープン！“関西初上陸”に歓喜の一方「大丈夫？」の声も",
           "url": "https://www.lmaga.jp/news/2026/10/1115152/",
           "source": "Lmaga.jp",
-          "publishedAt": "2026-10-30T02:26:38.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "96f6afe1b6d2",
-      "title": "「ちいかわベビーカステラ」京都に2号店オープン！ シーサーやモモンガがふんわりもっちり…♪ 特典やグッズもいっぱい",
-      "summary": "",
-      "url": "https://animeanime.jp/article/2026/10/28/104295.html",
-      "image": "https://animeanime.jp/imgs/ogp_f/948683.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-28T10:30:03.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "keywords": [
-        "ベビーカステラ",
-        "京都",
-        "号店"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわベビーカステラ」2号店が京都・錦市場に11月18日オープン！かわいすぎる限定グッズ＆焼きたてスイーツが新登場 店舗限定ノベルティも",
-          "url": "https://mezamashi.media/articles/-/365696",
-          "source": "めざましmedia",
-          "publishedAt": "2026-10-28T03:37:00.000Z",
+          "publishedAt": "2026-10-30T02:56:56.000Z",
           "isPR": false
         },
         {
-          "title": "ちいかわベビーカステラ京都に初上陸！マスコット、カップホルダーなど限定グッズも続々",
-          "url": "https://mdpr.jp/gourmet/detail/4866851",
-          "source": "モデルプレス",
-          "publishedAt": "2026-10-28T03:19:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわベビーカステラ」2号店が京都錦市場に爆誕！ 限定グッズも新登場",
-          "url": "https://report.iko-yo.net/articles/35206",
-          "source": "いこーよニュース",
-          "publishedAt": "2026-10-28T03:18:40.000Z",
+          "title": "【京都・錦市場】「ちいかわベビーカステラ」2号店が京都に、初日からしばらくは抽選制の要事前予約",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zdWxxMTBGTGtRUmphalBGNG4xT2tBT1ktNHkxNXJFNEFTQ0pFVkZ3WVBJZ0MtdWMtUTBFeDVIYlhBQWh4UkJiLXZiZVdCU2lmX2RLc2RmeGZXOHZPVW1fZzdhRnhWNTJNaFVERjRNNUQzRzRSblBR0gF3QVVfeXFMTjN1bHExMEZMa1FSamFqUEY0bjFPa0FPWS00eTE1ckU0QVNDSkVWRndZUElnQy11Yy1RMEV4NUhiWEFBaHhSQmItdmJlV0JTaWZfZEtzZGZ4Zlc4dk9VbV9nN2FGeFY1Mk1oVURGNE01RDNHNFJuUFE?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-29T10:30:00.000Z",
           "isPR": false
         }
       ]
@@ -636,6 +600,92 @@
           "url": "https://natalie.mu/comic/news/695630",
           "source": "ナタリー",
           "publishedAt": "2026-10-28T05:24:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "2167a6174ca6",
+      "title": "「ちいかわベビーカステラ 京都錦店」11/18オープン！ マスコットセットなど新グッズも登場",
+      "summary": "",
+      "url": "https://fan.books.rakuten.co.jp/articles/htldvy4k9gx4947f8sjjf39e",
+      "image": "https://books.r10s.jp/fan/images/oshiraku-images/tiikawa_main_9090398d74.jpg",
+      "leadSource": "推し楽",
+      "publishedAt": "2026-10-28T06:23:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "keywords": [
+        "ベビーカステラ",
+        "京都",
+        "オープン"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわベビーカステラ」2号店が京都・錦市場に11月18日オープン！かわいすぎる限定グッズ＆焼きたてスイーツが新登場 店舗限定ノベルティも",
+          "url": "https://mezamashi.media/articles/-/365696",
+          "source": "めざましmedia",
+          "publishedAt": "2026-10-28T03:37:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわベビーカステラ京都に初上陸！マスコット、カップホルダーなど限定グッズも続々",
+          "url": "https://mdpr.jp/gourmet/detail/4866851",
+          "source": "モデルプレス",
+          "publishedAt": "2026-10-28T03:19:28.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわベビーカステラ」2号店が京都錦市場に爆誕！ 限定グッズも新登場",
+          "url": "https://report.iko-yo.net/articles/35206",
+          "source": "いこーよニュース",
+          "publishedAt": "2026-10-28T03:18:40.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "61806fd7d0da",
+      "title": "「ちいかわベビーカステラ 京都錦店」ロゴ [画像ギャラリー 2/10]",
+      "summary": "",
+      "url": "https://natalie.mu/comic/gallery/news/695572/3002695",
+      "image": "https://animeanime.jp/imgs/ogp_f/948683.jpg",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-10-30T07:28:54.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "goods"
+      ],
+      "keywords": [
+        "ベビーカステラ",
+        "京都",
+        "京都錦店"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわベビーカステラ」の2号店・京都錦店が11月18日に、オープン記念グッズも",
+          "url": "https://natalie.mu/comic/news/695572",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-30T06:41:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわベビーカステラ」京都に2号店オープン！ シーサーやモモンガがふんわりもっちり…♪ 特典やグッズもいっぱい",
+          "url": "https://animeanime.jp/article/2026/10/28/104295.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-28T10:30:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわベビーカステラ』京都錦店が11月18日オープン！ 新グッズや記念ステッカー配布を実施",
+          "url": "https://dengekionline.com/article/images/202610/92337/914702",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-28T09:49:00.000Z",
           "isPR": false
         }
       ]
@@ -741,8 +791,8 @@
       "articles": [
         {
           "title": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】",
-          "url": "http://www.excite.co.jp/news/article/Oricon_2489533/",
-          "source": "Excite エキサイト",
+          "url": "https://www.oricon.co.jp/news/2489533/full/",
+          "source": "オリコンニュース",
           "publishedAt": "2026-10-29T02:43:00.000Z",
           "isPR": false
         },
@@ -825,43 +875,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "f9c68e8896dc",
-      "title": "「初めて触れるちいかわ なるほどちょっぴりダークだ」映画ちいかわ 人魚の島のひみつ 赤垣さんの映画レビュー（感想・評価）",
-      "summary": "",
-      "url": "https://eiga.com/movie/105109/review/07154848/",
-      "image": "https://media.eiga.com/images/movie/105109/photo/48db1bb8de88d0b8.jpg",
-      "leadSource": "映画.com",
-      "publishedAt": "2026-10-30T13:09:53.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "レビュー",
-        "映画",
-        "人魚"
-      ],
-      "articles": [
-        {
-          "title": "【読者レビュー9.7点】映画『ちいかわ 人魚の島のひみつ』かわいいだけじゃない、罪と罰の重厚な物語にリピーター続出",
-          "url": "https://dengekionline.com/article/202610/92221",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-30T01:20:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-30T16:00:21.807Z",
-    "previousCount": 119,
-    "newCount": 13
+    "previousAt": "2026-10-30T16:30:20.207Z",
+    "previousCount": 121,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-30T17:00:20.207Z",
+  "nextUpdateAt": "2026-10-30T17:30:21.834Z",
   "items": [
     {
       "id": "f9c68e8896dc",
@@ -981,7 +1003,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b700d8c14c3",
@@ -1157,7 +1179,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80287dd8bcbf",
@@ -1218,6 +1240,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "61806fd7d0da",
+      "title": "「ちいかわベビーカステラ 京都錦店」ロゴ [画像ギャラリー 2/10]",
+      "url": "https://natalie.mu/comic/gallery/news/695572/3002695",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-30T07:28:54.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "88e01a55d09d",
@@ -1358,7 +1399,7 @@
     {
       "id": "1038e4c75403",
       "title": "「めちゃくちゃ可愛いやん」しまむらの「ちいかわ」ルームシューズに反響。全4柄で争奪戦必至",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWEM2QUd2cmlsNEIzOG9SVWhqdjBKZ2lQSF9KU0V0X05OeVRvV0NkZ2t5azJyaGlfX2RvTFJGcEpqR09UeFBpMWVOQnZrVXYxYmhnWFBfb3FLM3RKdXhsWEtDb01IVloxbTZ6Z2Z0MXVFZnFQX2JzOXJPUFFzX3BheGZOa9IBiAFBVV95cUxNQk9pOEw5T3VWUTdPUXdIRjNkY2ZXTDh6MVJhdEZ6Zjg3U3Zoc2JuRnItQ2J2bm84U2JaRzItTVVKS0MtamxSNFZLQWhMcXQwWUNWbmR4T1FQaXFtUThSZFdFY2hRU3BxRDBfTkR2N1cyX1BZSlE2Ym1XMmI3Nnljd1NEN0FGSUQ1?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQk9pOEw5T3VWUTdPUXdIRjNkY2ZXTDh6MVJhdEZ6Zjg3U3Zoc2JuRnItQ2J2bm84U2JaRzItTVVKS0MtamxSNFZLQWhMcXQwWUNWbmR4T1FQaXFtUThSZFdFY2hRU3BxRDBfTkR2N1cyX1BZSlE2Ym1XMmI3Nnljd1NEN0FGSUQ10gGIAUFVX3lxTE1CT2k4TDlPdVZRN09Rd0hGM2RjZldMOHoxUmF0RnpmODdTdmhzYm5Gci1DYnZubzhTYlpHMi1NVUpLQy1qbFI0VktBaExxdDBZQ1ZuZHhPUVBpcW1ROFJkV0VjaFFTcHFEMF9ORHY3VzJfUFlKUTZibVcyYjc2eWN3U0Q3QUZJRDU?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
@@ -1476,7 +1517,7 @@
       "host": "lmaga.jp",
       "source": "Lmaga.jp",
       "summary": "",
-      "publishedAt": "2026-10-30T02:26:38.000Z",
+      "publishedAt": "2026-10-30T02:56:56.000Z",
       "image": "https://www.lmaga.jp/wp-content/uploads/2026/10/chiikawababy_202610_2.jpg",
       "categories": [
         "event"
@@ -1631,7 +1672,7 @@
       "source": "トレンドお届けメディア Trepo",
       "summary": "",
       "publishedAt": "2026-10-30T01:00:00.000Z",
-      "image": "",
+      "image": "https://trepo.jp/wp-content/uploads/2026/10/94157db56601b3dfe2d334e007bba407.jpg",
       "categories": [
         "collab"
       ],
@@ -1640,7 +1681,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0deece7781a2",
@@ -1660,25 +1701,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d5096cf967ae",
-      "title": "ちいかわが「ドンペン」とコラボ ドン・キホーテ系列50店舗限定でアイテムを展開",
-      "url": "https://www.sanyonews.jp/article/1927121?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-29T23:56:59.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/c/7/1/5c71e8a335e85d076e1624238a74ea31_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5fdad8225e11",
@@ -1778,6 +1800,25 @@
       "isNew": false
     },
     {
+      "id": "ab58d1fe78d2",
+      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
+      "url": "https://www.sanyonews.jp/article/2010749?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-29T18:11:15.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "c728c8b646a6",
       "title": "インターネットを楽しむちいかわとハチワレがたまたま見つけた動画はなんとうさぎが投稿した動画だった…チャンネル名が「大胆な暮らし」でジワる",
       "url": "https://togetter.com/li/2764416",
@@ -1797,7 +1838,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9c32462b98e2",
@@ -1819,25 +1860,6 @@
       "isNew": false
     },
     {
-      "id": "ab58d1fe78d2",
-      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
-      "url": "https://www.sanyonews.jp/article/2010749?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-29T15:10:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "12b24719c95b",
       "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
       "url": "https://www.sanyonews.jp/article/2009976?kw",
@@ -1849,6 +1871,25 @@
       "categories": [
         "goods",
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fa4486fb5f3a",
+      "title": "『ちいかわ』レディース／KIDSコンビネゾンやサンリオキャラクターズとの靴下など、公式通販「ちいかわマーケット」で10月30日11時発売",
+      "url": "https://nijimen.kusuguru.co.jp/topics/646251",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
+      "summary": "",
+      "publishedAt": "2026-10-29T13:09:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/10/22f3747258854f2db1d392396fe5b642.jpg",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1919,6 +1960,25 @@
       "isNew": false
     },
     {
+      "id": "628e995a4aa4",
+      "title": "【京都・錦市場】「ちいかわベビーカステラ」2号店が京都に、初日からしばらくは抽選制の要事前予約",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zdWxxMTBGTGtRUmphalBGNG4xT2tBT1ktNHkxNXJFNEFTQ0pFVkZ3WVBJZ0MtdWMtUTBFeDVIYlhBQWh4UkJiLXZiZVdCU2lmX2RLc2RmeGZXOHZPVW1fZzdhRnhWNTJNaFVERjRNNUQzRzRSblBR0gF3QVVfeXFMTjN1bHExMEZMa1FSamFqUEY0bjFPa0FPWS00eTE1ckU0QVNDSkVWRndZUElnQy11Yy1RMEV4NUhiWEFBaHhSQmItdmJlV0JTaWZfZEtzZGZ4Zlc4dk9VbV9nN2FGeFY1Mk1oVURGNE01RDNHNFJuUFE?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T10:30:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "82fd239dcbc7",
       "title": "「ちいかわ」映画のワンシーンが巾着ポーチに！島二郎の「今日はもう終わったよ!!」など印象的な全6種がカプセルトイにて再販決定",
       "url": "https://www.inside-games.jp/article/2026/10/29/190051.html",
@@ -1956,6 +2016,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "868718fb195e",
+      "title": "台北・赤峰街に「ちいかわ」大判焼き店 限定グッズや台湾茶も",
+      "url": "https://taipei.keizai.biz/headline/738/",
+      "host": "taipei.keizai.biz",
+      "source": "台北経済新聞",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:48:37.000Z",
+      "image": "https://images.keizai.biz/taipei_keizai/headline/1793266255_photo.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b54a80bf299a",
@@ -2052,29 +2131,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "5f531f9a3758",
-      "title": "ハチワレまとめ売り エニマイくじ 一番くじ 入場者特典 エニマイくじに“ちいかわ”が参戦！ファン必見の新作コラボくじが登場",
-      "url": "https://madridsalud.es/?w",
-      "host": "madridsalud.es",
-      "source": "madridsalud.es",
-      "summary": "",
-      "publishedAt": "2026-10-29T06:08:00.000Z",
-      "image": "",
-      "categories": [
-        "kuji",
-        "goods"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0187642faf14",
@@ -2217,12 +2274,12 @@
     {
       "id": "0f5329b03e27",
       "title": "『ちいかわ』最新話にディッピンドッツ公式が反応「実写すぎる」「再現度高いですね」「仕事が早い」【ネタバレあり】",
-      "url": "http://www.excite.co.jp/news/article/Oricon_2489533/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://www.oricon.co.jp/news/2489533/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-29T02:43:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2490000/2489533/20260730_113424_p_o_79635335.jpg",
       "categories": [
         "other"
       ],
@@ -2235,13 +2292,13 @@
     },
     {
       "id": "4abd649c7d92",
-      "title": "ANA「ちいかわジェット」に搭乗→機内モニターを見たら…… 「これは草」“まさかの光景”に仰天（ねとらぼ）",
-      "url": "https://news.yahoo.co.jp/articles/75f0c598b0e5657cc8f70b3643226f79535d6a81",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "ANA「ちいかわジェット」に搭乗→機内モニターを見たら…… 「これは草」“まさかの光景”に仰天",
+      "url": "https://news.nicovideo.jp/watch/nw19932138?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-10-29T02:30:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-10174714-it_nlab-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-29T02:30:29.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2250,7 +2307,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "339e6d8f0d71",
@@ -2438,7 +2495,7 @@
     {
       "id": "20a227b06e4b",
       "title": "勇敢な姿を褒められたかったちいかわの涙に「胸が締め付けられる」アニメ『ちいかわ』第185話",
-      "url": "https://news.nicovideo.jp/watch/nw19929579",
+      "url": "https://news.nicovideo.jp/watch/nw19929579?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -2446,25 +2503,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9c6c67a5c0fc",
-      "title": "ちいかわの300円のガチャ、お金入れるとこ見たら“100円玉5枚 10円玉2枚”で『520円』になっててキショすぎる→筐体の金額設定のダイヤルって簡単に回っちゃうらしい",
-      "url": "https://togetter.com/li/2763923",
-      "host": "togetter.com",
-      "source": "Togetter",
-      "summary": "",
-      "publishedAt": "2026-10-28T10:32:43.000Z",
-      "image": "https://s.tgstc.com/ogp3/ca4d0537290feea62716ed5ca87675ee-1200x630.jpeg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2515,7 +2553,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "074ec26d677d",
@@ -2633,7 +2671,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f4f1e8222e6",
@@ -2697,25 +2735,6 @@
       "isNew": false
     },
     {
-      "id": "325cd9a2987a",
-      "title": "ちいかわベーカリーの世界が楽しめる!「ちいかわベーカリー」専門ポップアップショップ登場♪",
-      "url": "https://lp.p.pia.jp/article/news/515030/photo-gallery/index.html?id",
-      "host": "lp.p.pia.jp",
-      "source": "ぴあエンタメ情報",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "image": "https://lp.p.pia.jp/shared/materials/24def3aa-7fde-4407-8734-7a7f83d79f15/origin.jpg",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0e37aa4c9d05",
       "title": "セブンイレブンで「ちいかわキャラパキ charapaki my rich～あまおう苺～」が2026年11月9日頃に発売、キティちゃんの大きなイチゴリボンを着けたちいかわ / ハチワレ / うさぎがパッケージに登場",
       "url": "https://convenicheck.com/newitem/139548/",
@@ -2735,7 +2754,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4045da3a6a0a",
@@ -2812,25 +2831,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00000055-chuspo-000-3-view.jpg?exp=10800",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cb7268f114a2",
-      "title": "全日空商事、ちいかわジェット記念グッズ第一弾の個数制限を当面の間延長へ",
-      "url": "https://news.dellows.jp/851207/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-28T06:00:07.000Z",
-      "image": "",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2961,25 +2961,6 @@
       "isNew": false
     },
     {
-      "id": "bd3a2fd47344",
-      "title": "「ちいかわ」ボンドロ新作！“まじかるちいかわ”が可愛い♪ 浴室に貼れる学習ポスター&メモポン第4弾も",
-      "url": "https://news.nicovideo.jp/watch/nw19927783?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-28T04:42:06.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a83462851afb",
       "title": "ちいかわ おすわりぬいぐるみ② うさぎやラッコら全4種 再販決定!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-capsule-toy-parade-osuwari-nuigurumi2-resale-2026/?amp",
@@ -3042,6 +3023,25 @@
       "isNew": false
     },
     {
+      "id": "04233223e3a2",
+      "title": "画像・写真 | 77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」 15枚目",
+      "url": "https://www.oricon.co.jp/news/2489302/photo/15/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:51:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2490000/2489302/20260908_100913_p_o_10195101.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4d3ad4a44038",
       "title": "77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」",
       "url": "https://www.oricon.co.jp/news/2489302/full/",
@@ -3052,6 +3052,26 @@
       "image": "https://contents.oricon.co.jp/upimg/news/2490000/2489302/20260810_182116_p_o_53696697.jpg",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "bd3a2fd47344",
+      "title": "「ちいかわ」ボンドロ新作！“まじかるちいかわ”が可愛い♪ 浴室に貼れる学習ポスター＆メモポン第4弾も（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/a6878c225435f8a40a5f868437c0fec798370677",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:48:18.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00000008-anmanmv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -3117,6 +3137,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "10afcdbd6f62",
+      "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
+      "url": "https://www.sanyonews.jp/article/1946478?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-28T02:44:38.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/b/b/a/4bbacb960f912b48493818b354656b91_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a6afe343c5b0",
@@ -3198,12 +3237,12 @@
     {
       "id": "e7580e5dc5cb",
       "title": "ちいかわ「シーサーだらけくじ」きょう発売！ A賞の巨大ぬいぐるみは当選確率1％",
-      "url": "http://www.excite.co.jp/news/article/CrankinTrend_E193038/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://www.crank-in.net/trend/item/193038",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
       "summary": "",
       "publishedAt": "2026-10-27T22:00:00.000Z",
-      "image": "",
+      "image": "https://www.crank-in.net/img/db/269106222113098_1200.jpg",
       "categories": [
         "goods",
         "kuji"
