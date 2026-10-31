@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-31T13:30:17.680Z",
+  "updatedAt": "2026-10-31T14:00:18.820Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 107,
+  "total": 111,
   "todayCount": 38,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 34
+      "count": 35
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 22
+      "count": 24
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "anime",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 39
+      "count": 40
     }
   ],
   "series": [
@@ -90,7 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 27
+    },
+    {
+      "name": "ナタリー",
+      "count": 6
     },
     {
       "name": "山陽新聞",
@@ -110,10 +114,10 @@
     },
     {
       "name": "Excite エキサイト",
-      "count": 5
+      "count": 4
     },
     {
-      "name": "ナタリー",
+      "name": "オリコンニュース",
       "count": 4
     },
     {
@@ -122,10 +126,6 @@
     },
     {
       "name": "PASH! PLUS",
-      "count": 3
-    },
-    {
-      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -139,10 +139,6 @@
     {
       "name": "ｄメニューニュース",
       "count": 3
-    },
-    {
-      "name": "クランクイン！",
-      "count": 2
     },
     {
       "name": "マイナビニュース",
@@ -205,6 +201,10 @@
       "count": 1
     },
     {
+      "name": "週刊女性PRIME",
+      "count": 1
+    },
+    {
       "name": "BRINDISIOGGI.IT",
       "count": 1
     },
@@ -249,6 +249,10 @@
       "count": 1
     },
     {
+      "name": "Fashionsnap.com",
+      "count": 1
+    },
+    {
       "name": "Koubo",
       "count": 1
     },
@@ -267,7 +271,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-31T08:45:57.000Z",
       "sourceCount": 9,
-      "articleCount": 11,
+      "articleCount": 12,
       "categories": [
         "goods",
         "event"
@@ -307,6 +311,13 @@
           "isPR": false
         },
         {
+          "title": "「ちいかわクリスマスマーケット サンタさんなマスコット」全8種 [画像ギャラリー 21/60]",
+          "url": "https://natalie.mu/comic/gallery/news/696064/3005323",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-31T03:03:58.000Z",
+          "isPR": false
+        },
+        {
           "title": "ちいかわクリスマスマーケット先着チケット販売開始！ サンタさんなマスコットなど限定グッズ公開",
           "url": "https://fan.books.rakuten.co.jp/articles/yxxf84stb28s6mnkh08fec2l",
           "source": "推し楽",
@@ -324,13 +335,6 @@
           "title": "「ちいかわクリスマスマーケット」限定オリジナルグッズ公開 ちいかわたちがサンタさんに扮したマスコットやスノードームも",
           "url": "https://news.yahoo.co.jp/articles/4cf862b19cf31ec2cf905a8254a658b8e21c13c3",
           "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-31T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "“ちいかわクリスマスマーケット”限定オリジナルグッズ公開。サンタカラーのちいかわたちから最高のクリスマスプレゼント",
-          "url": "https://dengekionline.com/article/202610/92673",
-          "source": "電撃オンライン",
           "publishedAt": "2026-10-31T03:00:00.000Z",
           "isPR": false
         }
@@ -540,17 +544,17 @@
       ],
       "articles": [
         {
-          "title": "（写真）京都に「ちいかわベビーカステラ」2号店が誕生へ！ 11．18発売の新グッズも公開",
-          "url": "https://www.crank-in.net/trend/gallery/trip/193577",
-          "source": "クランクイン！",
-          "publishedAt": "2026-10-31T08:10:00.000Z",
-          "isPR": false
-        },
-        {
           "title": "ちいかわベビーカステラ 京都・錦市場に11月18日オープン!",
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-shop-tieup-baby-castella-kyoto-nishiki-2026/",
           "source": "コラボカフェ",
           "publishedAt": "2026-10-30T10:46:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわベビーカステラ」の2号店・京都錦店が11月18日に、オープン記念グッズも",
+          "url": "https://natalie.mu/comic/news/695572",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-30T06:41:00.000Z",
           "isPR": false
         }
       ]
@@ -577,8 +581,8 @@
       "articles": [
         {
           "title": "minum×ちいかわ第2弾が決定 ヘアバンド付きのシャンプー＆トリートメントセット登場",
-          "url": "http://www.excite.co.jp/news/article/Oricon_2489994/",
-          "source": "Excite エキサイト",
+          "url": "https://www.oricon.co.jp/news/2489994/full/",
+          "source": "オリコンニュース",
           "publishedAt": "2026-10-30T08:31:00.000Z",
           "isPR": false
         },
@@ -592,13 +596,13 @@
       ]
     },
     {
-      "id": "7da1a7fd4d74",
-      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真",
+      "id": "bafc9e55f5e0",
+      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！",
       "summary": "",
-      "url": "https://lp.p.pia.jp/article/news/515913/photo-gallery/index.html?id",
-      "image": "https://lp.p.pia.jp/shared/materials/b59aff14-c328-4102-83cf-f57ced9b1c5d/origin.jpg",
+      "url": "https://lp.p.pia.jp/article/news/515030/photo-gallery/index.html?id",
+      "image": "https://lp.p.pia.jp/shared/materials/24def3aa-7fde-4407-8734-7a7f83d79f15/origin.jpg",
       "leadSource": "ぴあエンタメ情報",
-      "publishedAt": "2026-10-30T10:49:47.000Z",
+      "publishedAt": "2026-10-30T22:57:54.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
@@ -612,10 +616,10 @@
       ],
       "articles": [
         {
-          "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！",
-          "url": "https://lp.p.pia.jp/article/news/515913/index.html",
+          "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！ の画像・写真",
+          "url": "https://lp.p.pia.jp/article/news/515913/photo-gallery/index.html?id",
           "source": "ぴあエンタメ情報",
-          "publishedAt": "2026-10-30T10:20:00.000Z",
+          "publishedAt": "2026-10-30T10:49:47.000Z",
           "isPR": false
         },
         {
@@ -768,12 +772,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-31T13:00:28.013Z",
-    "previousCount": 116,
+    "previousAt": "2026-10-31T13:30:17.680Z",
+    "previousCount": 107,
     "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-31T14:00:17.680Z",
+  "nextUpdateAt": "2026-10-31T14:30:18.820Z",
   "items": [
     {
       "id": "762c055774ba",
@@ -792,7 +796,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0ebd5035c71",
@@ -930,25 +934,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "7fa85e2319c0",
-      "title": "（写真）京都に「ちいかわベビーカステラ」2号店が誕生へ！ 11．18発売の新グッズも公開",
-      "url": "https://www.crank-in.net/trend/gallery/trip/193577",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-10-31T08:10:00.000Z",
-      "image": "https://www.crank-in.net/img/db/265108311163354_1200.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "02bd94616515",
@@ -1126,6 +1111,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ebccf3febf46",
+      "title": "「ちいかわクリスマスマーケット サンタさんなマスコット」全8種 [画像ギャラリー 21/60]",
+      "url": "https://natalie.mu/comic/gallery/news/696064/3005323",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-31T03:03:58.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1314c6b392de",
@@ -1420,6 +1424,26 @@
       "isNew": false
     },
     {
+      "id": "bafc9e55f5e0",
+      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！",
+      "url": "https://lp.p.pia.jp/article/news/515030/photo-gallery/index.html?id",
+      "host": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
+      "summary": "",
+      "publishedAt": "2026-10-30T22:57:54.000Z",
+      "image": "https://lp.p.pia.jp/shared/materials/24def3aa-7fde-4407-8734-7a7f83d79f15/origin.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "5d665fc4a4ba",
       "title": "「ちいかわ プリズンポテト 濃厚サワクリ味」11月2日発売！囚人服姿のちいかわたちを描いた全4柄パッケージ",
       "url": "https://nijimen.kusuguru.co.jp/topics/646869",
@@ -1497,25 +1521,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e9e6377470ee",
-      "title": "モンテールとちいかわが今年もコラボ 『むちゃうまプリン』イメージのスイーツ2品登場",
-      "url": "https://www.sanyonews.jp/article/1978165?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-30T18:13:46.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/e/a/3/dea39139ac1218c99889cc626f8f9573_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "c5a7d7a02ce1",
@@ -1607,26 +1612,6 @@
       "image": "https://www.fashion-press.net/img/news/149233/top.jpg?1785305162",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bafc9e55f5e0",
-      "title": "ちいかわジェット就航記念「ちいかわ×ANA」激かわコラボグッズが出たよ！",
-      "url": "https://lp.p.pia.jp/article/news/515913/index.html",
-      "host": "lp.p.pia.jp",
-      "source": "ぴあエンタメ情報",
-      "summary": "",
-      "publishedAt": "2026-10-30T10:20:00.000Z",
-      "image": "https://lp.p.pia.jp/shared/materials/b59aff14-c328-4102-83cf-f57ced9b1c5d/origin.jpg",
-      "categories": [
-        "goods",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1739,12 +1724,12 @@
     {
       "id": "28257f48d523",
       "title": "minum×ちいかわ第2弾が決定 ヘアバンド付きのシャンプー＆トリートメントセット登場",
-      "url": "http://www.excite.co.jp/news/article/Oricon_2489994/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://www.oricon.co.jp/news/2489994/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-30T08:31:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2490000/2489994/20261030_172501_p_o_39838335.jpg",
       "categories": [
         "other"
       ],
@@ -1877,6 +1862,26 @@
       "isNew": false
     },
     {
+      "id": "4d3305e6e5a9",
+      "title": "「ちいかわベビーカステラ」の2号店・京都錦店が11月18日に、オープン記念グッズも",
+      "url": "https://natalie.mu/comic/news/695572",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-30T06:41:00.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c7e9fad212a6",
       "title": "「ちいかわ」オリジナルヘアバンド付き！パッケージまで可愛いシャンプー＆トリートメントセットが11月上旬より順次発売",
       "url": "https://www.inside-games.jp/article/2026/10/30/190091.html",
@@ -1931,7 +1936,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22edde93aa08",
@@ -1989,6 +1994,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "57c6e81adff7",
+      "title": "『くら寿司』×『にじさんじ』コラボ開始も、色濃く残る『ちいかわ』騒動「全て本部で保管中」広報が明かした“寿司皿100万枚”の行方",
+      "url": "https://www.jprime.jp/articles/-/44414?page",
+      "host": "jprime.jp",
+      "source": "週刊女性PRIME",
+      "summary": "",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "image": "https://jprime.ismcdn.jp/mwimgs/5/2/-/img_5277af64b7b8d418273f0c11f6463055577339.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4c999136960e",
@@ -2145,6 +2169,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d5096cf967ae",
+      "title": "ちいかわが「ドンペン」とコラボ ドン・キホーテ系列50店舗限定でアイテムを展開",
+      "url": "https://www.sanyonews.jp/article/1927121?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-29T23:56:59.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/c/7/1/5c71e8a335e85d076e1624238a74ea31_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6ee8568dab25",
@@ -2363,6 +2406,26 @@
       "isNew": false
     },
     {
+      "id": "8f4de1708de0",
+      "title": "くら寿司が「にじさんじ」コラボ、開催前に「景品管理強化」表明 不正転売起きた“ちいかわ”騒動の再発防止図る（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/9a743f505bc3f48817728157a4b1a8335d0db98c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T11:20:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00202000-otakulab-000-3825-view.jpg?exp=10800",
+      "categories": [
+        "kuji",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "82fd239dcbc7",
       "title": "「ちいかわ」映画のワンシーンが巾着ポーチに！島二郎の「今日はもう終わったよ!!」など印象的な全6種がカプセルトイにて再販決定",
       "url": "https://news.infoseek.co.jp/article/inside_190051/",
@@ -2384,13 +2447,13 @@
     },
     {
       "id": "18e0c30f4b50",
-      "title": "沖縄に『ちいかわ』×「東京ばな奈」が初上陸！ むちゃうまスイーツやトートバッグを展開",
-      "url": "https://www.crank-in.net/trend/events/193372/1",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
+      "title": "沖縄に『ちいかわ』×「東京ばな奈」が初上陸！ むちゃうまスイーツやトートバッグを展開（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/4d1e923c137cf8d20bfc7c08d5df687895391aa5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-29T10:00:00.000Z",
-      "image": "https://www.crank-in.net/img/db/263108289152078_1200.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00193372-crankinn-000-1-view.jpg?exp=10800",
       "categories": [
         "collab"
       ],
@@ -2537,7 +2600,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d20044037b0a",
@@ -2556,7 +2619,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "63ff86e8fa1c",
@@ -2760,6 +2823,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dec0ff5d23b6",
+      "title": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険",
+      "url": "https://www.fashionsnap.com/article/chiikawa-dai-iwasaki/",
+      "host": "fashionsnap.com",
+      "source": "Fashionsnap.com",
+      "summary": "",
+      "publishedAt": "2026-10-28T23:30:00.000Z",
+      "image": "https://fashionsnap-assets.com/asset/format=auto,width=1280,height=670,gravity=auto,fit=pad/article/images/2026/10/90433a84-8644-4145-a3f2-8f33ec68bbcc.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "65ef78124d88",
