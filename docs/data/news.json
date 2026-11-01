@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-01T19:00:18.109Z",
+  "updatedAt": "2026-11-01T19:30:18.437Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 103,
-  "todayCount": 1,
+  "total": 104,
+  "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 36
+      "count": 35
     },
     {
       "id": "kuji",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 9
+      "count": 8
     },
     {
       "id": "anime",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 33
+      "count": 36
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 16
+      "count": 15
     },
     {
       "id": "usagi",
@@ -93,11 +93,11 @@
       "count": 22
     },
     {
-      "name": "電撃オンライン",
-      "count": 6
+      "name": "山陽新聞",
+      "count": 7
     },
     {
-      "name": "山陽新聞",
+      "name": "電撃オンライン",
       "count": 6
     },
     {
@@ -109,10 +109,6 @@
       "count": 4
     },
     {
-      "name": "ナタリー",
-      "count": 4
-    },
-    {
       "name": "PASH! PLUS",
       "count": 3
     },
@@ -121,7 +117,7 @@
       "count": 3
     },
     {
-      "name": "ぴあエンタメ情報",
+      "name": "ナタリー",
       "count": 3
     },
     {
@@ -161,6 +157,10 @@
       "count": 2
     },
     {
+      "name": "ぴあエンタメ情報",
+      "count": 2
+    },
+    {
       "name": "Excite エキサイト",
       "count": 2
     },
@@ -182,6 +182,10 @@
     },
     {
       "name": "https://kabu-ir.com/",
+      "count": 1
+    },
+    {
+      "name": "産経ニュース",
       "count": 1
     },
     {
@@ -218,6 +222,10 @@
     },
     {
       "name": "KAI-YOU",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -356,16 +364,16 @@
       "image": "https://www.inside-games.jp/imgs/rss/1801331.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-10-31T23:45:02.000Z",
-      "sourceCount": 9,
-      "articleCount": 9,
+      "sourceCount": 8,
+      "articleCount": 8,
       "categories": [
         "collab",
         "other"
       ],
       "keywords": [
         "minum",
-        "コラボ",
-        "ヘアバンド"
+        "ヘアバンド",
+        "コラボ"
       ],
       "articles": [
         {
@@ -411,13 +419,6 @@
           "isPR": false
         },
         {
-          "title": "minum、ちいかわコラボレーション第2弾が決定！「turlin by minum+」から限定デザインのヘアケアアイテムが登場",
-          "url": "https://prtimes.jp/main/html/rd/p/000000210.000034263.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-30T01:00:34.000Z",
-          "isPR": true
-        },
-        {
           "title": "ｙｕｔｏｒｉ[5892]：minum、ちいかわコラボレーション第2弾が決定！「turlin by minum+」から限定デザインのヘアケアアイテムが登場 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
           "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261029560322/",
           "source": "日本経済新聞",
@@ -461,13 +462,6 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわ GPSBOX ハチワレだらけフィギュア（全6種）」 [画像ギャラリー 6/12]",
-          "url": "https://natalie.mu/comic/gallery/news/696198/3006309",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-01T03:15:54.000Z",
-          "isPR": false
-        },
-        {
           "title": "「ちいかわ」自動販売機が愛知・KITTE名古屋に登場、ぬい＆フィギュアが購入できる",
           "url": "https://natalie.mu/comic/news/696198",
           "source": "ナタリー",
@@ -479,6 +473,13 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000081.000168561.html",
           "source": "PR TIMES",
           "publishedAt": "2026-11-01T02:38:16.000Z",
+          "isPR": true
+        },
+        {
+          "title": "「ちいかわクリスマスマーケット」限定オリジナルグッズ公開！ | 株式会社AbemaTVのプレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000004179.000064643.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-31T03:00:00.000Z",
           "isPR": true
         },
         {
@@ -791,13 +792,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-01T18:30:18.069Z",
-    "previousCount": 4,
-    "newCount": 99
+    "previousAt": "2026-11-01T19:00:18.109Z",
+    "previousCount": 103,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-01T19:30:18.109Z",
+  "nextUpdateAt": "2026-11-01T20:00:18.437Z",
   "items": [
+    {
+      "id": "2b5d895e1042",
+      "title": "映画『ちいかわ』公開10日間で興収44億円突破",
+      "url": "https://www.sanyonews.jp/article/1966424?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-01T17:26:34.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/a/7/7/fa77031f718883a37cd021c56e1f7936_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ceed0f015016",
       "title": "「何がきっかけで人生の歯車が狂うかわからない」mentor ハチワレあんこさんの映画レビュー（感想・評価）",
@@ -817,7 +837,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8925ef4c0eb1",
@@ -836,7 +856,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "485bf324bc49",
@@ -855,7 +875,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70e985560b4d",
@@ -874,7 +894,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c505d2ea6b33",
@@ -893,7 +913,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b646d1d86a82",
@@ -912,7 +932,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9c71aed5ed79",
@@ -931,7 +951,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "076188d7ba7e",
@@ -950,7 +970,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c6396a844d21",
@@ -969,7 +989,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "baa380c17ad5",
@@ -988,7 +1008,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "769a4e408132",
@@ -1009,7 +1029,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ffc5caf2f893",
@@ -1028,7 +1048,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "95b06fc3cdb3",
@@ -1047,7 +1067,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "32f3728603e3",
@@ -1057,7 +1077,7 @@
       "source": "ウォーカープラス",
       "summary": "",
       "publishedAt": "2026-11-01T07:55:22.000Z",
-      "image": "",
+      "image": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/60/l2/620660.jpg",
       "categories": [
         "other"
       ],
@@ -1066,7 +1086,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b72ddd4e8c4e",
@@ -1085,7 +1105,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c1124bb22d1",
@@ -1104,7 +1124,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfd1c248173f",
@@ -1123,7 +1143,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aece8a655ce1",
@@ -1142,7 +1162,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2c14f0476b36",
@@ -1161,7 +1181,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3895cde803f3",
@@ -1180,7 +1200,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8d92bfc4482e",
@@ -1205,49 +1225,6 @@
       "isNew": false
     },
     {
-      "id": "2abc9433825a",
-      "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
-      "url": "https://www.sanyonews.jp/article/1951762?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-01T03:23:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "eea12273e625",
-      "title": "「ちいかわ GPSBOX ハチワレだらけフィギュア（全6種）」 [画像ギャラリー 6/12]",
-      "url": "https://natalie.mu/comic/gallery/news/696198/3006309",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-01T03:15:54.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "54446ee3fb10",
       "title": "「ちいかわ」自動販売機が愛知・KITTE名古屋に登場、ぬい＆フィギュアが購入できる",
       "url": "https://natalie.mu/comic/news/696198",
@@ -1264,7 +1241,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc43fec29328",
@@ -1283,7 +1260,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ad50cea1b66e",
@@ -1302,7 +1279,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "45a7704f4d17",
@@ -1319,6 +1296,25 @@
       "series": [],
       "isOfficial": false,
       "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c0423e3eddb7",
+      "title": "名古屋駅直結・ＫＩＴＴＥ名古屋に「ちいかわ」デザインの自動販売機登場！",
+      "url": "https://www.sankei.com/pressrelease/prtimes/W36GQ3P2BJJGHIIJDHBTNSNQXE/",
+      "host": "sankei.com",
+      "source": "産経ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-01T02:38:16.000Z",
+      "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FFTAEGFDZGVNMZP6WHJHXPGMGAE?auth=4e8b37f3ff0a638e4efe79c86f8bfbbacc7aec941d7c9ca229a0d6e920f78df7&quality=50&smart=true&width=1200&height=675",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
@@ -1340,7 +1336,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4b65dd363e90",
@@ -1360,7 +1356,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c7e9fad212a6",
@@ -1399,7 +1395,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e74abff55cb3",
@@ -1419,7 +1415,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "244128de8497",
@@ -1438,7 +1434,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e25cfdb423f",
@@ -1457,7 +1453,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1f93e4086dd8",
@@ -1476,7 +1472,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c910cfc6ac3d",
@@ -1495,7 +1491,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9e8e2802e2b",
@@ -1515,7 +1511,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f8370840b12d",
@@ -1534,7 +1530,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "477a20f45d2d",
@@ -1555,7 +1551,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "762c055774ba",
@@ -1574,7 +1570,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf5644ee713e",
@@ -1595,7 +1591,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bf1f2e98ffd5",
@@ -1614,7 +1610,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "17551b46e1db",
@@ -1635,7 +1631,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "093c643a779f",
@@ -1656,7 +1652,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "969f0ac2b55e",
@@ -1677,7 +1673,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2f835894198d",
@@ -1696,7 +1692,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "02bd94616515",
@@ -1715,29 +1711,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "764df5135ce5",
-      "title": "【ちいかわ】全員もらえる!抽選で当たる!「ハチワレたちの激かわ限定グッズ」がもらえるフェア開催中",
-      "url": "https://lp.p.pia.jp/article/news/515030/photo-gallery/index.html?id",
-      "host": "lp.p.pia.jp",
-      "source": "ぴあエンタメ情報",
-      "summary": "",
-      "publishedAt": "2026-10-31T07:00:00.000Z",
-      "image": "https://lp.p.pia.jp/shared/materials/24def3aa-7fde-4407-8734-7a7f83d79f15/origin.jpg",
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "325cd9a2987a",
@@ -1756,7 +1730,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "56bd9fcc3a42",
@@ -1775,7 +1749,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "29c7c8ee73d7",
@@ -1816,7 +1790,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8dba1303279d",
@@ -1837,7 +1811,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "638de21e304f",
@@ -1856,7 +1830,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1e906874d5d6",
@@ -1875,7 +1849,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eb797af0de23",
@@ -1895,7 +1869,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a5ceb419f167",
@@ -1914,7 +1888,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "325c3497a246",
@@ -1933,7 +1907,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1314c6b392de",
@@ -1972,7 +1946,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee905d7eaec5",
@@ -1991,7 +1965,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7dce3729d31f",
@@ -2008,6 +1982,25 @@
       "series": [],
       "isOfficial": false,
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "223d5b2fb03b",
+      "title": "「ちいかわクリスマスマーケット」限定オリジナルグッズ公開！ | 株式会社AbemaTVのプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000004179.000064643.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4179/64643-4179-5d12e4bf6e7f8818f4d52fbd89bb33b9-1648x928.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
@@ -2029,7 +2022,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "799cf69ab46d",
@@ -2048,7 +2041,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b54a80bf299a",
@@ -2068,7 +2061,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c79ff51dbdf2",
@@ -2087,7 +2080,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "14268c1f680e",
@@ -2109,7 +2102,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7656bdc17a58",
@@ -2128,7 +2121,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d665fc4a4ba",
@@ -2147,7 +2140,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0961737510af",
@@ -2162,6 +2155,49 @@
         "goods"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ba2f81fb606d",
+      "title": "今週お世話になったお宿で #ちいかわ #ハチワレ がお出迎え!?電子レンジの上にひょっこりと乗っかっていました。",
+      "url": "https://t.co/154ZBsMDZ1",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-30T21:14:54.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8606441a3170",
+      "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
+      "url": "https://www.sanyonews.jp/article/1957105?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-30T21:08:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/d/81ed3cd58d746b5d67d29a2e730a46a7_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2187,7 +2223,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0be2ec32c4f0",
@@ -2206,7 +2242,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b700d8c14c3",
@@ -2225,7 +2261,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bafc9e55f5e0",
@@ -2245,7 +2281,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9bf0f1265554",
@@ -2266,7 +2302,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c3684b5581c",
@@ -2285,7 +2321,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "28257f48d523",
@@ -2304,7 +2340,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "33ed3c48a73e",
@@ -2325,7 +2361,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66dc869fcc56",
@@ -2344,7 +2380,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80287dd8bcbf",
@@ -2366,7 +2402,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "859d5688b79b",
@@ -2388,7 +2424,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c4361243c56",
@@ -2407,7 +2443,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "59472d9969bf",
@@ -2427,7 +2463,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dec0ff5d23b6",
@@ -2446,7 +2482,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ca58cedc5521",
@@ -2466,7 +2502,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc5e1851fde8",
@@ -2487,7 +2523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4786d2831e32",
@@ -2506,7 +2542,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "560dc499a748",
@@ -2525,7 +2561,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "88e01a55d09d",
@@ -2544,7 +2580,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dafc3df064f6",
@@ -2563,7 +2599,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d086ac8f18fa",
@@ -2582,7 +2618,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b91763b117be",
@@ -2601,7 +2637,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "502a43d03ccb",
@@ -2620,7 +2656,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7519d10eae9f",
@@ -2639,7 +2675,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "779ef2808d97",
@@ -2660,26 +2696,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "cba08d9cf51a",
-      "title": "minum、ちいかわコラボレーション第2弾が決定！「turlin by minum+」から限定デザインのヘアケアアイテムが登場",
-      "url": "https://prtimes.jp/main/html/rd/p/000000210.000034263.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-30T01:00:34.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/34263/210/34263-210-ac5dfa0cd7e7df554ba1cef1c6b8f8d1-3900x2670.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0deece7781a2",
@@ -2698,7 +2715,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6ee8568dab25",
@@ -2718,7 +2735,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "014ac0ca19ac",
@@ -2737,7 +2754,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "71f11ceb0168",
@@ -2757,7 +2774,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70e1631491aa",
@@ -2776,7 +2793,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "726550cda74a",
@@ -2798,7 +2815,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9ef2a2b250ba",
@@ -2817,7 +2834,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
