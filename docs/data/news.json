@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-02T23:00:18.486Z",
+  "updatedAt": "2026-11-02T23:30:17.098Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 110,
+  "total": 111,
   "todayCount": 6,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "kuji",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 31
+      "count": 32
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 6
+      "count": 7
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 30
     }
   ],
   "series": [
@@ -94,11 +94,11 @@
     },
     {
       "name": "インサイド",
-      "count": 9
+      "count": 8
     },
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 7
     },
     {
       "name": "電撃オンライン",
@@ -114,6 +114,10 @@
     },
     {
       "name": "ナタリー",
+      "count": 4
+    },
+    {
+      "name": "キャラグー",
       "count": 3
     },
     {
@@ -129,7 +133,7 @@
       "count": 2
     },
     {
-      "name": "にじめん",
+      "name": "Excite エキサイト",
       "count": 2
     },
     {
@@ -141,8 +145,12 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
+      "name": "にじめん",
       "count": 2
+    },
+    {
+      "name": "TVer",
+      "count": 1
     },
     {
       "name": "e-HAKODATE",
@@ -237,19 +245,11 @@
       "count": 1
     },
     {
-      "name": "https://kagoshima-news.jp/",
-      "count": 1
-    },
-    {
       "name": "https://kabu-ir.com/",
       "count": 1
     },
     {
       "name": "朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     },
     {
@@ -297,12 +297,12 @@
       "url": "https://www.inside-games.jp/article/2026/11/02/190277.html",
       "image": "https://www.inside-games.jp/imgs/rss/1802712.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-02T17:47:04.000Z",
-      "sourceCount": 12,
-      "articleCount": 15,
+      "publishedAt": "2026-11-02T13:16:29.000Z",
+      "sourceCount": 11,
+      "articleCount": 14,
       "categories": [
         "collab",
-        "event"
+        "goods"
       ],
       "keywords": [
         "ベーカリー",
@@ -311,24 +311,10 @@
       ],
       "articles": [
         {
-          "title": "「ちいかわベーカリー」クリスマス限定パンが今年も登場！サンタ姿のちいかわ・ハチワレ・うさぎが勢ぞろい (cinemacafe.net)",
-          "url": "https://news.yahoo.co.jp/articles/8613725e421cb953c235c28fe62d0932ac894706/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-02T17:47:04.000Z",
-          "isPR": false
-        },
-        {
           "title": "ちいかわベーカリーの26年クリスマス、“サンタ帽”のちいかわパン＆いちご入りティラミス風ハチワレ",
           "url": "https://www.chiba-tv.com/plus/detail/2026112186475",
           "source": "千葉テレビ放送株式会社",
           "publishedAt": "2026-11-02T13:16:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "今年は「ハチワレ」になりきって走り抜く 11月8日開催、いびがわマラソン2026出場者紹介",
-          "url": "https://www.chunichi.co.jp/article/1334049",
-          "source": "中日新聞Web",
-          "publishedAt": "2026-11-02T12:20:00.000Z",
           "isPR": false
         },
         {
@@ -343,6 +329,13 @@
           "url": "https://animageplus.jp/articles/detail/68135",
           "source": "アニメージュプラス",
           "publishedAt": "2026-11-02T09:00:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわベーカリー」クリスマス限定パンが今年も登場！サンタ姿のちいかわ・ハチワレ・うさぎが勢ぞろい（cinemacafe.net）",
+          "url": "https://news.yahoo.co.jp/articles/8613725e421cb953c235c28fe62d0932ac894706",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T08:30:03.000Z",
           "isPR": false
         },
         {
@@ -365,19 +358,26 @@
           "source": "Dtimes",
           "publishedAt": "2026-11-02T06:22:20.000Z",
           "isPR": false
+        },
+        {
+          "title": "【ちいかわ】サンタ帽の「ちいかわ・ハチワレ・うさぎ」パン発売！東京限定“ティラミス風”豪華パンも（LASISA）",
+          "url": "https://news.yahoo.co.jp/articles/90df6b307e4e1e6d09734e4165e401ab254fa26d",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T05:30:00.000Z",
+          "isPR": false
         }
       ]
     },
     {
-      "id": "638de21e304f",
-      "title": "「ちいかわクリスマスマーケット」限定オリジナルグッズ公開！",
+      "id": "1e906874d5d6",
+      "title": "「ちいかわクリスマスマーケット」グッズ公開 スノードームやトレーディングアクリルミニチャームなど（cinemacafe.net）",
       "summary": "",
-      "url": "https://www.cyberagent.co.jp/news/detail/id",
-      "image": "https://www.cyberagent.co.jp/files/user/img/common/fb_img_ca.png",
-      "leadSource": "株式会社サイバーエージェント",
-      "publishedAt": "2026-10-31T06:10:22.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
+      "url": "https://news.yahoo.co.jp/articles/5aae9bb684e95dc8043f45be2a76cd68f2411511",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00000004-cine-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-31T03:30:03.000Z",
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "goods"
       ],
@@ -387,13 +387,6 @@
         "マスコット"
       ],
       "articles": [
-        {
-          "title": "「ちいかわクリスマスマーケット」グッズ公開 スノードームやトレーディングアクリルミニチャームなど（cinemacafe.net）",
-          "url": "https://news.yahoo.co.jp/articles/5aae9bb684e95dc8043f45be2a76cd68f2411511",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-31T03:30:03.000Z",
-          "isPR": false
-        },
         {
           "title": "「ちいかわ」クリスマスマーケットの限定グッズ公開！サンタ姿のマスコットやスノードームが登場♪",
           "url": "https://animeanime.jp/article/2026/10/31/104366.html",
@@ -508,10 +501,10 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわ」自動販売機が愛知・KITTE名古屋に登場、ぬい＆フィギュアが購入できる（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/4bd841eccb8d2a09b8cf9534978082bc3de0b617",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-01T03:13:10.000Z",
+          "title": "「ちいかわ」自動販売機が愛知・KITTE名古屋に登場、ぬい＆フィギュアが購入できる",
+          "url": "https://natalie.mu/comic/news/696198",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-01T03:12:00.000Z",
           "isPR": false
         }
       ]
@@ -632,6 +625,42 @@
       ]
     },
     {
+      "id": "d7d99f4306d7",
+      "title": "ちいかわクリスマスマーケット｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "summary": "",
+      "url": "https://charagoo.jp/collab/event/2fd46726488c/",
+      "image": "https://www.cyberagent.co.jp/files/user/img/common/fb_img_ca.png",
+      "leadSource": "キャラグー",
+      "publishedAt": "2026-11-01T16:18:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "keywords": [
+        "クリスマスマーケット",
+        "コラボ",
+        "イベント"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわPOP UP STORE 福岡三越｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+          "url": "https://charagoo.jp/collab/event/537324be5619/",
+          "source": "キャラグー",
+          "publishedAt": "2026-10-31T23:08:31.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわクリスマスマーケット」限定オリジナルグッズ公開！",
+          "url": "https://www.cyberagent.co.jp/news/detail/id",
+          "source": "株式会社サイバーエージェント",
+          "publishedAt": "2026-10-31T06:10:22.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "09c883f8fe41",
       "title": "「Kiramekko（きらめっこ）」から『ちいかわ』たちがクリスマスの装いをした新商品が登場！ 2026年11月6日から販売開始へ",
       "summary": "",
@@ -740,43 +769,35 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "076188d7ba7e",
-      "title": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売 : ニュース",
-      "summary": "",
-      "url": "https://anime.eiga.com/news/127737/",
-      "image": "https://media.eiga.com/images/anime/news/127737/photo/3d900beaa4abe91f/640.jpg",
-      "leadSource": "アニメハック",
-      "publishedAt": "2026-11-01T10:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "クリスマス",
-        "テディベア"
-      ],
-      "articles": [
-        {
-          "title": "ハロウィン終わればクリスマス、早くも「ちいかわ」限定マスコットが登場！“テディベア”姿がキュートで身につけたい新作",
-          "url": "https://0115765.com/archives/212246",
-          "source": "オタク総研",
-          "publishedAt": "2026-10-31T13:04:51.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T22:30:21.640Z",
-    "previousCount": 109,
-    "newCount": 5
+    "previousAt": "2026-11-02T23:00:18.486Z",
+    "previousCount": 110,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T23:30:18.486Z",
+  "nextUpdateAt": "2026-11-03T00:00:17.098Z",
   "items": [
+    {
+      "id": "517f9f32397a",
+      "title": "ちいかわ 2023年放送 第57話 草むしり検定／古本｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/episodes/ephyad75mp",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-02T23:17:56.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "1f6382891d5a",
       "title": "全日空「ちいかわジェット」函館にお目見え - e-HAKODATE",
@@ -794,7 +815,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "55789d6d0aad",
@@ -828,28 +849,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9b7e39412a8c",
-      "title": "「ちいかわベーカリー」クリスマス限定パンが今年も登場！サンタ姿のちいかわ・ハチワレ・うさぎが勢ぞろい (cinemacafe.net)",
-      "url": "https://news.yahoo.co.jp/articles/8613725e421cb953c235c28fe62d0932ac894706/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-02T17:47:04.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26jj03EYjVgi4MBGNs7A7nax554WBVN8YQgNV7cNBksmhkSzuiMGb71bnK2sBC1ICmQVNBY50fSnPVfLEszQeePg1003PJpKYUmZm6U0ROL6W",
-      "categories": [
-        "collab"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1019,25 +1018,6 @@
       "isNew": false
     },
     {
-      "id": "2c14f0476b36",
-      "title": "“ちいかわ好き芸人”ニッポンの社長・ケツ、ぬいぐるみずらりの“ちいかわハロウィーン”披露「完璧だ」「凄いで～す」",
-      "url": "https://www.sanyonews.jp/article/2014209?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-02T10:29:23.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/d/a/d/4dadb08b0125c97f2b553ee0d2b24e53_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "bf88445c5e92",
       "title": "ちいかわベーカリー クリスマス限定パン 11月13日より登場!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-cafe-chiikawa-bakery-xmas-2026/",
@@ -1150,6 +1130,28 @@
       ],
       "series": [
         "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9b7e39412a8c",
+      "title": "「ちいかわベーカリー」クリスマス限定パンが今年も登場！サンタ姿のちいかわ・ハチワレ・うさぎが勢ぞろい（cinemacafe.net）",
+      "url": "https://news.yahoo.co.jp/articles/8613725e421cb953c235c28fe62d0932ac894706",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-02T08:30:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000008-cine-000-1-view.jpg?exp=10800",
+      "categories": [
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1599,12 +1601,12 @@
     {
       "id": "4f4c6ad483ec",
       "title": "「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも",
-      "url": "https://www.oricon.co.jp/news/2490316/photo/3/",
+      "url": "https://www.oricon.co.jp/news/2490316/photo/1/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-11-02T04:18:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490316/20261102_131646_p_o_45553218.jpg",
+      "publishedAt": "2026-11-02T04:23:01.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490316/20261102_131645_p_o_48708751.jpg",
       "categories": [
         "collab"
       ],
@@ -1637,12 +1639,12 @@
     {
       "id": "19fbef1786bf",
       "title": "『ちいかわ』高さ約60cmの「超BIGクッション」が11月上旬より順次展開！表裏で絵柄が違う両面デザイン全2種",
-      "url": "https://nijimen.kusuguru.co.jp/topics/647921",
-      "host": "nijimen.kusuguru.co.jp",
-      "source": "にじめん",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000647921/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-02T03:32:00.000Z",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/b2effe5cb1c242c79684acb604aa3441.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1746,17 +1748,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "87e80cf46287",
       "title": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」が11月16日発売―当たったらラッキーなレア3種も",
-      "url": "https://www.inside-games.jp/article/2026/11/02/190223.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://news.yahoo.co.jp/articles/e2bbd99886f78f627b70e59ba86a2ac75e9ab6a4",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-02T02:00:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1750932.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000009-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "book"
       ],
@@ -1903,7 +1905,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9b6008dc28e2",
@@ -1962,6 +1964,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d7d99f4306d7",
+      "title": "ちいかわクリスマスマーケット｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "url": "https://charagoo.jp/collab/event/2fd46726488c/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-01T16:18:10.000Z",
+      "image": "",
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c505d2ea6b33",
@@ -2047,7 +2069,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-01T08:04:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490203/20261101_164246_p_o_85604150.jpg",
       "categories": [
         "goods"
       ],
@@ -2056,7 +2078,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ffc5caf2f893",
@@ -2099,12 +2121,12 @@
     {
       "id": "aece8a655ce1",
       "title": "『ちいかわ』毛量デザインのニットやボアブルゾン、「Fluffy Time」ファー小物が11月6日発売！ニットの店頭販売は11月11日から",
-      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000647458/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://nijimen.kusuguru.co.jp/topics/647458",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
       "summary": "",
       "publishedAt": "2026-11-01T04:45:00.000Z",
-      "image": "",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/5ce787e1bebd4691bd5bd7202285fcf0.jpg",
       "categories": [
         "other"
       ],
@@ -2112,25 +2134,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ba548918947d",
-      "title": "ANAちいかわジェット 鹿児島にも飛来 - https://kagoshima-news.jp/",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNb2tEV1pKNmM2ZktDcXAtYnl2UGpvUnd2R21PeG5OcFNpdDJBbk91NENkbTF2cDhWNFRHU2pZOEU5TjlzakRPUlU5d2RuV184Si1TejJMdUVDVkNES1FpN0g3ZDRiRnAzWHkwSG9udEdvTFl0c1YtQVFtaUFPN2ZqcU1mMWJYZUpmNTl3TVlsRDBLRUlxdzVBOWxvLUdJRW5LdFVWSUc1OTQ4WWxJZk5ScnJDU1VCOUkxWHhUSlY5eTZXazJCODQyQzltalVwWVppN2Q2RE5aY0Y2VURNM3ZMT25xLXBMWXA1emJCTTZ2TTJtcUJnZWxJVnRCWHJVZ3NxSml2SjluMEE4czdxRmQ0UDhsdw?oc=5",
-      "host": "kagoshima-news.jp",
-      "source": "https://kagoshima-news.jp/",
-      "summary": "",
-      "publishedAt": "2026-11-01T04:02:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2151,7 +2154,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "485bf324bc49",
@@ -2218,13 +2221,13 @@
     },
     {
       "id": "54446ee3fb10",
-      "title": "「ちいかわ」自動販売機が愛知・KITTE名古屋に登場、ぬい＆フィギュアが購入できる（コミックナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/4bd841eccb8d2a09b8cf9534978082bc3de0b617",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ちいかわ」自動販売機が愛知・KITTE名古屋に登場、ぬい＆フィギュアが購入できる",
+      "url": "https://natalie.mu/comic/news/696198",
+      "host": "natalie.mu",
+      "source": "ナタリー",
       "summary": "",
-      "publishedAt": "2026-11-01T03:13:10.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261101-00000024-nataliec-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-01T03:12:00.000Z",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2312,6 +2315,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e74abff55cb3",
+      "title": "ちいかわ プリズンポテト サワークリームオニオン味｜ちいかわのコラボグッズ 発売日・価格",
+      "url": "https://charagoo.jp/collab/event/6de7b11c9700/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:08:31.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6e25cfdb423f",
