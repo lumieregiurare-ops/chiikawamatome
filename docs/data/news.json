@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-04T18:01:14.544Z",
+  "updatedAt": "2026-11-04T18:30:18.126Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 117,
+  "total": 119,
   "todayCount": 3,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "kuji",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 9
+      "count": 8
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 17
     },
     {
       "id": "book",
@@ -90,10 +90,14 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 23
+      "count": 24
     },
     {
       "name": "インサイド",
+      "count": 7
+    },
+    {
+      "name": "山陽新聞",
       "count": 7
     },
     {
@@ -101,12 +105,12 @@
       "count": 6
     },
     {
-      "name": "山陽新聞",
-      "count": 6
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 5
+    },
+    {
+      "name": "にじめん",
+      "count": 4
     },
     {
       "name": "ファッションプレス",
@@ -125,7 +129,7 @@
       "count": 3
     },
     {
-      "name": "にじめん",
+      "name": "Infoseek",
       "count": 3
     },
     {
@@ -145,10 +149,6 @@
       "count": 2
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 2
-    },
-    {
       "name": "PR TIMES",
       "count": 2
     },
@@ -157,15 +157,7 @@
       "count": 2
     },
     {
-      "name": "ライブドアニュース",
-      "count": 2
-    },
-    {
       "name": "wowKorea",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -193,6 +185,10 @@
       "count": 1
     },
     {
+      "name": "ABEMA TIMES",
+      "count": 1
+    },
+    {
       "name": "千葉テレビ放送",
       "count": 1
     },
@@ -214,6 +210,10 @@
     },
     {
       "name": "Web-Komachi",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -536,8 +536,8 @@
       "articles": [
         {
           "title": "スノードーム、サンタさんなマスコットなど「ちいかわクリスマスマーケット」限定グッズ＆フードの詳細発表",
-          "url": "https://times.abema.tv/articles/-/10286120",
-          "source": "ABEMA TIMES",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10286120/",
+          "source": "Infoseek",
           "publishedAt": "2026-11-04T11:00:00.000Z",
           "isPR": false
         },
@@ -547,6 +547,42 @@
           "source": "千葉テレビ放送",
           "publishedAt": "2026-11-04T09:04:25.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d0194af5c1dd",
+      "title": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱",
+      "summary": "",
+      "url": "https://www.pashplus.jp/goods/501637/",
+      "image": "https://www.pashplus.jp/wp-content/uploads/6f0f18be2a4139d44518f0cc8bb38581.jpg",
+      "leadSource": "PASH! PLUS",
+      "publishedAt": "2026-11-04T13:38:34.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "keywords": [
+        "メトロ",
+        "ゲーム",
+        "ポストカード"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売",
+          "url": "https://nijimen.kusuguru.co.jp/topics/649172",
+          "source": "にじめん",
+          "publishedAt": "2026-11-04T12:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ、さがしてます。」がおうちでも遊べる！『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000192.000148619.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-04T08:00:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -692,6 +728,42 @@
       ]
     },
     {
+      "id": "c5994949cb92",
+      "title": "【ちいかわ】囚人服姿のうさぎをゲット！コンビニでパケ買いした罪深い味のスナックを実食レポ！（jsc） - エキスパート",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/expert/articles/d7e3440d10e2fd9788dd3f1c83d85109876517cf",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/jsc/02758124/title-1793699291899.jpeg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-03T11:05:23.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "罪深",
+        "囚人",
+        "うさぎ"
+      ],
+      "articles": [
+        {
+          "title": "ファミマ、囚人服姿のハチワレやうさぎたちの「ちいかわ プリズンポテト」発売！“罪深～い”濃厚サワークリーム味",
+          "url": "https://gourmet.watch.impress.co.jp/docs/news/2153128.html",
+          "source": "グルメ Watch",
+          "publishedAt": "2026-11-02T06:31:53.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ」囚人デザインで“罪深～いお味”のプリズンポテトが11月2日発売（映画.com）",
+          "url": "https://news.yahoo.co.jp/articles/ce516cdec2aea522b9e241108be4d288c776ccaa",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T05:30:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "746da1473d43",
       "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12",
       "summary": "",
@@ -719,71 +791,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "d0194af5c1dd",
-      "title": "【ちいかわ】『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！ 限定ポストカードやイベント開催時にクリア景品として配布されていた「ぷくぷくシール」を同梱",
-      "summary": "",
-      "url": "https://www.pashplus.jp/goods/501637/",
-      "image": "https://www.pashplus.jp/wp-content/uploads/6f0f18be2a4139d44518f0cc8bb38581.jpg",
-      "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-11-04T13:38:34.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "keywords": [
-        "メトロ",
-        "ゲーム",
-        "映画"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ、さがしてます。」がおうちでも遊べる！『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000192.000148619.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-04T08:00:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "1e0edcec04e4",
-      "title": "「ちいかわ」サンタさんと楽しむ様子がインパクト抜群！クリスマス柄のスウェットが11月16日よりトーキングにて発売",
-      "summary": "「ちいかわ HAPPY HOLIDAYS」アイテムが11月6日12時より販売開始！",
-      "url": "https://www.inside-games.jp/article/2026/11/04/190357.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1803207.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-11-04T08:15:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "collab"
-      ],
-      "keywords": [
-        "クリスマス"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわベーカリー クリスマス限定パン 11月13日より登場!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-cafe-chiikawa-bakery-xmas-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-02T10:10:12.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T17:30:15.786Z",
+    "previousAt": "2026-11-04T18:01:14.544Z",
     "previousCount": 117,
-    "newCount": 2
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T18:31:14.544Z",
+  "nextUpdateAt": "2026-11-04T19:00:18.126Z",
   "items": [
     {
       "id": "d5591488c493",
@@ -882,6 +898,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1d189d640f8a",
+      "title": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売",
+      "url": "https://nijimen.kusuguru.co.jp/topics/649172",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:00:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/b4936f8f11644ab6991fd328e12a9ac5.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b578ba26df2c",
@@ -1009,12 +1044,12 @@
     {
       "id": "ec42ddc3d695",
       "title": "スノードーム、サンタさんなマスコットなど「ちいかわクリスマスマーケット」限定グッズ＆フードの詳細発表",
-      "url": "https://times.abema.tv/articles/-/10286120",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10286120/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-11-04T11:00:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/4/3/1200w/img_4351a3246dbd7f0b3abf2cf0f9a1966d3338550.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10286120_0-enlarge.jpg",
       "categories": [
         "goods"
       ],
@@ -1424,7 +1459,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a6b8a950cb34",
@@ -1453,7 +1488,7 @@
       "source": "にじめん",
       "summary": "",
       "publishedAt": "2026-11-04T02:51:00.000Z",
-      "image": "",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/6a686bef23d24146b4ee02928e3e4d72.jpg",
       "categories": [
         "goods",
         "kuji"
@@ -1621,16 +1656,17 @@
       "isNew": false
     },
     {
-      "id": "9989b36e94fc",
-      "title": "【画像】バナナプリンケーキとエコバッグセットが沖縄初登場！東京ばな奈ワールド「ちいかわ」×「東京ばな奈」沖縄県初上陸ポップアップ 1/14",
-      "url": "https://news.livedoor.com/article/image_detail/32726394/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "id": "12b24719c95b",
+      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
+      "url": "https://www.sanyonews.jp/article/2009976",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-04T00:08:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/f/c/fc5b3_1604_487d5c39_427db283.jpg",
+      "publishedAt": "2026-11-04T00:10:56.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/9/b/7/39b750a3605e1c4c9468b13c4dffbe75_1.jpg",
       "categories": [
-        "event"
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1852,6 +1888,25 @@
       "isNew": false
     },
     {
+      "id": "ab58d1fe78d2",
+      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
+      "url": "https://www.sanyonews.jp/article/2010749?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-03T16:03:04.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "caf4feec80b4",
       "title": "チョ・イヒョン＆キム・ジェウォンら出演の映画「最終面接」…日本の人気ミステリー韓国版が「ちいかわ」を抑えて前売り予約率1位！",
       "url": "https://www.wowkorea.jp/news/read/541460.html",
@@ -2033,25 +2088,6 @@
       "isNew": false
     },
     {
-      "id": "076188d7ba7e",
-      "title": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売",
-      "url": "https://news.infoseek.co.jp/amp/article/eigacom_20261103005/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/eigacom/eigacom_20261103005_0.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9dcd7af73316",
       "title": "ちいかわ・ハチワレ・うさぎが大判焼きに！台湾・台北に「ちいかわ大判焼き」専門店がオープン！",
       "url": "https://wakamono-research.co.jp/media/chiikawa-taiyaki-taipei/",
@@ -2067,6 +2103,25 @@
         "hachiware",
         "usagi"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "076188d7ba7e",
+      "title": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売",
+      "url": "https://news.infoseek.co.jp/amp/article/eigacom_20261103005/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-03T01:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/eigacom/eigacom_20261103005_0.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2695,6 +2750,25 @@
       "isNew": false
     },
     {
+      "id": "99a7a88882e7",
+      "title": "「ちいかわ」囚人デザインで“罪深～いお味”のプリズンポテトが11月2日発売（映画.com）",
+      "url": "https://news.yahoo.co.jp/articles/ce516cdec2aea522b9e241108be4d288c776ccaa",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-02T05:30:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000013-eiga-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ddb558209fbd",
       "title": "【ちいかわ】サンタ帽の「ちいかわ・ハチワレ・うさぎ」パン発売！東京限定“ティラミス風”豪華パンも（LASISA）",
       "url": "https://news.yahoo.co.jp/articles/90df6b307e4e1e6d09734e4165e401ab254fa26d",
@@ -2891,7 +2965,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5fdad8225e11",
@@ -2928,26 +3002,6 @@
         "usagi",
         "kurimanju"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "12b24719c95b",
-      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」：山陽新聞デジタル｜さんデジ",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-01T23:55:37.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2994,25 +3048,6 @@
       "isNew": false
     },
     {
-      "id": "740c1d2fe78c",
-      "title": "【2026年11月】ちいかわの一番くじ最新一覧｜発売予定とコンビニ取扱店舗",
-      "url": "https://charagoo.jp/chiikawa-lottery/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-11-01T23:25:26.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8454a6533dbc",
       "title": "ちいかわ シーサーだらけくじの発売日・賞品",
       "url": "https://charagoo.jp/kuji/item/ca956ea0b15d/",
@@ -3027,6 +3062,25 @@
       "series": [
         "shisa"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "740c1d2fe78c",
+      "title": "【2026年11月】ちいかわの一番くじ最新一覧｜発売予定とコンビニ取扱店舗",
+      "url": "https://charagoo.jp/chiikawa-lottery/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-01T23:25:26.000Z",
+      "image": "",
+      "categories": [
+        "kuji"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
