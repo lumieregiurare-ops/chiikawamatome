@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:00:20.538Z",
+  "updatedAt": "2026-11-05T21:30:20.414Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 111,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 17
     },
     {
       "id": "book",
@@ -84,7 +84,7 @@
     {
       "id": "kuma",
       "label": "自分ツッコミくま",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
@@ -98,7 +98,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 6
+      "count": 7
     },
     {
       "name": "コラボカフェ",
@@ -129,10 +129,6 @@
       "count": 3
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
       "name": "いこーよニュース",
       "count": 2
     },
@@ -157,6 +153,10 @@
       "count": 2
     },
     {
+      "name": "ABEMA TIMES",
+      "count": 2
+    },
+    {
       "name": "ファッションプレス",
       "count": 2
     },
@@ -171,6 +171,14 @@
     {
       "name": "au Webポータル",
       "count": 2
+    },
+    {
+      "name": "Infoseek",
+      "count": 2
+    },
+    {
+      "name": "ふねぽ",
+      "count": 1
     },
     {
       "name": "マイナビニュース",
@@ -225,10 +233,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "リアルサウンド",
       "count": 1
     },
@@ -257,19 +261,11 @@
       "count": 1
     },
     {
-      "name": "天神サイト",
-      "count": 1
-    },
-    {
       "name": "日経クロストレンド",
       "count": 1
     },
     {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -291,7 +287,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-05T11:00:00.000Z",
       "sourceCount": 11,
-      "articleCount": 13,
+      "articleCount": 14,
       "categories": [
         "other",
         "anime"
@@ -605,21 +601,21 @@
       "keywords": [
         "キラピチ",
         "スケジュール",
-        "付録"
+        "月号"
       ],
       "articles": [
-        {
-          "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12",
-          "url": "https://news.nicovideo.jp/watch/nw19956272?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-04T16:15:38.000Z",
-          "isPR": false
-        },
         {
           "title": "ちいかわの2027年スケジュール帳が付録！Gakken『キラピチ12月号』",
           "url": "https://dtimes.jp/post-1450783/",
           "source": "Dtimes",
           "publishedAt": "2026-11-04T11:48:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』予約開始",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000009556_000002535/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-04T04:00:00.000Z",
           "isPR": false
         }
       ]
@@ -731,6 +727,41 @@
       ]
     },
     {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/f/2/f/0f2f849694dfdfef5d42c6e36d01c665_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-05T01:47:58.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ネット",
+        "糸井重里",
+        "反響"
+      ],
+      "articles": [
+        {
+          "title": "77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」",
+          "url": "https://www.sanyonews.jp/article/2011940?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-04T01:48:27.000Z",
+          "isPR": false
+        },
+        {
+          "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」",
+          "url": "https://www.oricon.co.jp/news/2490512/photo/29/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-11-03T05:05:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "c21b49d22bd0",
       "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
       "summary": "",
@@ -757,43 +788,35 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "3e29a6e31796",
-      "title": "ちいかわ謎解きがおうちで遊べる！限定ぷくぷくシール付きキットが11/9から全国発売",
-      "summary": "",
-      "url": "https://report.iko-yo.net/articles/35434",
-      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35612/normal.png?1793870180",
-      "leadSource": "いこーよニュース",
-      "publishedAt": "2026-11-05T11:55:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "シール",
-        "キット"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ、さがしてます。」におうちで遊べる版が登場！11月9日プレイ開始、限定ポストカード＆ぷくぷくシール付きキットを販売",
-          "url": "https://nijimen.kusuguru.co.jp/topics/649172",
-          "source": "にじめん",
-          "publishedAt": "2026-11-04T12:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T20:30:17.544Z",
-    "previousCount": 112,
-    "newCount": 1
+    "previousAt": "2026-11-05T21:00:20.538Z",
+    "previousCount": 111,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T21:30:20.538Z",
+  "nextUpdateAt": "2026-11-05T22:00:20.414Z",
   "items": [
+    {
+      "id": "978282dc54e8",
+      "title": "アニメ『ちいかわ』視聴時に「最低限押さえておきたい基礎知識」 知れば知るほど「意外と生々しい設定」も…!?",
+      "url": "https://futaman.futabanet.jp/articles/-/132719",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-11-05T21:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/b/c/1200wm/img_bc935005bda94da047d9fcb8626bf4d3641938.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ecf1cac61b24",
       "title": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数",
@@ -1266,25 +1289,6 @@
       "isNew": false
     },
     {
-      "id": "bb20f968855c",
-      "title": "【流行語ノミネート30】「なんとかなれーッ」ちいかわWノミネート 不条理にひとしずくの…（日刊スポーツ）",
-      "url": "https://news.yahoo.co.jp/articles/b749896234b92c5eaefe0d0fa55b53925dc64808",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:01:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-41050378-nksports-000-4-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "745857ba1408",
       "title": "【流行語】ノミネート30語一覧 「キオクシア」「ちいかわ」「好きすぎて滅！」も",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKYnJfTzdNZG9Xc2RGUlBUM1NoNFpjeGZsTHAzMEMzaXVGamRlM2w0YjVROFpqcWxFVjhtc0pNNXJ4dGR2YmNXeldYd1p5NUEzTWNMSzlYOTY4VGRJbngteHA1b1RwS3FWR2dqdGZMX1lUWkVoVUxCVtIBgAFBVV95cUxOcEY2aUJrenBpRXhreWxTUTlpbDUtNFBhWTBFMXhuclF6NW5RNVgtd0VHdGFaQ2djRWpQTE5tNzVHTE9mT2RUSmV0ZVRmeTJ2bVJTdTZMNl9sYWxKTXlTUEdIZDM5MkI0eUt4WU1DbUNpQ1lDZ01QWkt1VFJ0MWc5Yw?oc=5",
@@ -1614,6 +1618,27 @@
       "isNew": false
     },
     {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:47:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kuma"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5fdad8225e11",
       "title": "「ちいかわ」はかわいい顔した現代社会？ 大人が夢中になる理由を死生学者が紐解く（FASHIONSNAP）",
       "url": "https://news.yahoo.co.jp/articles/e3fe48585e54387ce97389d36345be83ebf954ed",
@@ -1788,26 +1813,6 @@
       "isNew": false
     },
     {
-      "id": "746da1473d43",
-      "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12",
-      "url": "https://news.nicovideo.jp/watch/nw19956272?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-04T16:15:38.000Z",
-      "image": "",
-      "categories": [
-        "book",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1c2ac94a1d87",
       "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
       "url": "https://www.sanyonews.jp/article/1959759?kw",
@@ -1933,13 +1938,13 @@
     },
     {
       "id": "a19f66e987a9",
-      "title": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声",
-      "url": "https://times.abema.tv/articles/-/10284684?page",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "title": "ギチギチ討伐後のほのぼのとした帰り道を描く、アニメ『ちいかわ』186話の演出に視聴者から絶賛の声（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/54440e2b2d598c09d2038639ce47cc0a3d1fc95a?source",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-04T11:21:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/7/7/1200w/img_771e50bee2142314898c3ce99ba4f86f490636.jpg",
+      "publishedAt": "2026-11-04T11:21:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10284684-abemad-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -2309,6 +2314,26 @@
         "usagi",
         "momonga"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "746da1473d43",
+      "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』予約開始",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000009556_000002535/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-04T04:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "goods",
+        "book"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2776,25 +2801,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1ef5ded6b5a7",
-      "title": "ちいかわたちが福岡三越にやってくる！限定グッズ＆新商品が大集合♪",
-      "url": "https://tenjinsite.jp/topics/topics/74508",
-      "host": "tenjinsite.jp",
-      "source": "天神サイト",
-      "summary": "",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
-      "image": "https://tenjinsite.jp/upload/topic_photo/900x506_img_tid74508_0.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "118bc1a39072",
