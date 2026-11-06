@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T09:00:20.372Z",
+  "updatedAt": "2026-11-06T09:30:20.914Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 108,
-  "todayCount": 26,
+  "total": 111,
+  "todayCount": 29,
   "categories": [
     {
       "id": "goods",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 25
+      "count": 24
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 19
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 28
+      "count": 30
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 23
     },
     {
       "name": "山陽新聞",
@@ -98,7 +98,7 @@
     },
     {
       "name": "インサイド",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Dtimes",
@@ -113,10 +113,6 @@
       "count": 4
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 4
-    },
-    {
       "name": "au Webポータル",
       "count": 3
     },
@@ -125,23 +121,23 @@
       "count": 3
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "アニメ！アニメ！",
       "count": 3
     },
     {
-      "name": "千葉テレビ放送",
-      "count": 2
+      "name": "ABEMA TIMES",
+      "count": 3
     },
     {
       "name": "PASH! PLUS",
       "count": 2
     },
     {
-      "name": "ふねぽ",
+      "name": "TVer",
       "count": 2
     },
     {
-      "name": "ライブドアニュース",
+      "name": "ふねぽ",
       "count": 2
     },
     {
@@ -173,6 +169,18 @@
       "count": 1
     },
     {
+      "name": "イベスル",
+      "count": 1
+    },
+    {
+      "name": "千葉テレビ放送",
+      "count": 1
+    },
+    {
+      "name": "女性自身",
+      "count": 1
+    },
+    {
       "name": "Nippon.com",
       "count": 1
     },
@@ -182,10 +190,6 @@
     },
     {
       "name": "講談社コクリコ",
-      "count": 1
-    },
-    {
-      "name": "TVer",
       "count": 1
     },
     {
@@ -201,6 +205,10 @@
       "count": 1
     },
     {
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
       "name": "福井新聞社",
       "count": 1
     },
@@ -210,6 +218,10 @@
     },
     {
       "name": "AdverTimes.（アドタイ） by 宣伝会議",
+      "count": 1
+    },
+    {
+      "name": "Togetter",
       "count": 1
     },
     {
@@ -273,12 +285,12 @@
       "url": "https://www.inside-games.jp/article/2026/11/05/190424.html",
       "image": "https://www.inside-games.jp/imgs/rss/1799605.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-05T23:00:57.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "publishedAt": "2026-11-06T07:27:49.000Z",
+      "sourceCount": 9,
+      "articleCount": 9,
       "categories": [
-        "goods",
-        "collab"
+        "event",
+        "goods"
       ],
       "keywords": [
         "クリスマス",
@@ -286,6 +298,13 @@
         "ベーカリー"
       ],
       "articles": [
+        {
+          "title": "ちいかわと過ごすクリスマス「ちいかわクリスマスマーケット」開催へ",
+          "url": "https://evesul.jp/chiikawa-christmas-market/",
+          "source": "イベスル",
+          "publishedAt": "2026-11-06T07:27:49.000Z",
+          "isPR": false
+        },
         {
           "title": "テディベア姿のちいかわたちがクリスマス仕様におめかししたぬいぐるみが登場！",
           "url": "https://charalab.com/145118/",
@@ -322,17 +341,17 @@
           "isPR": false
         },
         {
+          "title": "スノードーム、サンタさんなマスコットなど「ちいかわクリスマスマーケット」限定グッズ＆フードの詳細発表",
+          "url": "https://times.abema.tv/articles/-/10286120",
+          "source": "ABEMA TIMES",
+          "publishedAt": "2026-11-04T11:00:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "ちいかわたちがサンタになっちゃった！“クリスマス”なパン＆グッズが「ちいかわベーカリー」に登場",
           "url": "https://animeanime.jp/article/2026/11/04/104483.html",
           "source": "アニメ！アニメ！",
           "publishedAt": "2026-11-04T09:30:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ハチワレ、うさぎも赤い頭巾でクリスマス仕様に！Kiramekko「ちいかわ Kiramekko Teddy Bear Christmas」",
-          "url": "https://dtimes.jp/post-1434536/",
-          "source": "Dtimes",
-          "publishedAt": "2026-11-03T23:18:03.000Z",
           "isPR": false
         }
       ]
@@ -416,16 +435,16 @@
       "image": "https://hobby.dengeki.com/ss/hobby/2026/11/twi_main_KJYbQDAMNm2fZy27WTV7UbG2ZG62W8wU_moBUt87Q-pxVm-mWcCRjncsQUUglh2w3.jpg",
       "leadSource": "電撃ホビーウェブ",
       "publishedAt": "2026-11-04T11:03:55.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "goods",
-        "other"
+        "anime"
       ],
       "keywords": [
         "リップ",
-        "マスコット",
-        "ハチワレ"
+        "ハチワレ",
+        "うさぎ"
       ],
       "articles": [
         {
@@ -436,17 +455,10 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわ」うさぎやモモンガが“ちょこん”と乗ってキュート♪ 立体マスコットつきリップエッセンス登場",
-          "url": "https://animeanime.jp/article/2026/11/04/104481.html",
-          "source": "アニメ！アニメ！",
+          "title": "「ちいかわ」うさぎやモモンガが“ちょこん”と乗ってキュート♪ 立体マスコットつきリップエッセンス登場（アニメ！アニメ！）",
+          "url": "https://news.yahoo.co.jp/articles/064c7ea3ef95973931be7de303ecaff322a09060",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-04T09:00:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわたちの立体マスコット付きコスメ「Lovisiaちいかわ マスコットリップエッセンス」が登場バッグチャームとしても楽しめる",
-          "url": "https://news.livedoor.com/article/detail/32729102/",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-04T04:45:47.000Z",
           "isPR": false
         },
         {
@@ -480,8 +492,8 @@
       "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1491329855157798480/origin_1.jpg",
       "leadSource": "千葉テレビ放送",
       "publishedAt": "2026-11-06T05:37:21.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "other"
       ],
@@ -492,7 +504,7 @@
       ],
       "articles": [
         {
-          "title": "《「身の程知らず」と罵られ…》人気ローカルアナ ちいかわと記念撮影でアンチから“言いがかり”…自ら取材で身の潔白を証明",
+          "title": "“言いがかり“被害を告白》人気ローカルアナ ちいかわと記念撮影で「身の程知らず」と罵られ…アンチ撃退した“毅然対応“に称賛の声（女性自身",
           "url": "https://news.yahoo.co.jp/articles/470871747591d2b9a6f82eb80ee7a292027c8c8f",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-06T05:15:33.000Z",
@@ -504,40 +516,12 @@
           "source": "au Webポータル",
           "publishedAt": "2026-11-06T05:15:33.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "23d3b9c2d29e",
-      "title": "『映画ちいかわ』を国際政治学から読み解く：なぜ争いは始まり、なぜ終わらないのか",
-      "summary": "",
-      "url": "https://www.nippon.com/ja/articles/-/56353",
-      "image": "https://nippon.ismcdn.jp/mwimgs/0/d/1200wm/img_0da8448cdc1558cfe0831f7b7be039a1580612.jpg",
-      "leadSource": "Nippon.com",
-      "publishedAt": "2026-11-06T02:11:54.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "映画",
-        "コラボ"
-      ],
-      "articles": [
-        {
-          "title": "【きょうから】『映画ちいかわ』とCoCo壱番屋のコラボ詳細発表 限定メニュー＆シール・フィギュアプレゼントも",
-          "url": "https://www.sanyonews.jp/article/1955869?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-04T19:10:12.000Z",
-          "isPR": false
         },
         {
-          "title": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」",
-          "url": "https://news.yahoo.co.jp/articles/3c541cf67c55f35531dd6f1fb549c0567dc27d4c",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-04T02:55:00.000Z",
+          "title": "《「身の程知らず」と罵られ…》人気ローカルアナ ちいかわと記念撮影でアンチから“言いがかり”…自ら取材で身の潔白を証明",
+          "url": "https://jisin.jp/entertainment/entertainment-news/2608120/?rf",
+          "source": "女性自身",
+          "publishedAt": "2026-11-06T05:15:00.000Z",
           "isPR": false
         }
       ]
@@ -574,42 +558,6 @@
           "url": "https://dtimes.jp/post-1437310/",
           "source": "Dtimes",
           "publishedAt": "2026-11-04T00:18:25.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "daa8b17882f3",
-      "title": "《ちいかわもぐもぐ本舗》3周年記念グッズが11/13登場。舞妓さん姿のちいかわ、ハチワレ、うさぎに話題沸騰！",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202611/93132",
-      "image": "https://cimg.kgl-systems.io/camion/files/93132/ogp_unbk.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-11-05T04:29:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "本舗"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」たちが舞妓さんや芸妓さんに扮する！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日発売、同日9時30分よりオンライン販売も（インサイド）",
-          "url": "https://news.yahoo.co.jp/articles/f7c914e79eb7fff407ada1337301a2b985412e25",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-05T03:45:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "サンタになったちいかわ＆ハチワレ＆うさぎパン ちいかわベーカリーのクリスマス商品",
-          "url": "https://www.chiba-tv.com/plus/detail/2026112188284",
-          "source": "千葉テレビ放送",
-          "publishedAt": "2026-11-03T09:04:35.000Z",
           "isPR": false
         }
       ]
@@ -686,28 +634,56 @@
       ]
     },
     {
-      "id": "325c3497a246",
-      "title": "ちいかわクリスマスマーケット、限定オリジナルグッズ公開 スノードームやトレーナーなどホリデーアイテムずらり",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/2013845",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/0/a/1/80a10165a48888a8427e4deac3591770_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-05T20:49:26.000Z",
+      "id": "b1d33c12a69d",
+      "title": "カプセルトイ「ちいかわ」映画ワンシーンの巾着ポーチが11月上旬順次発売！！ちいかわ＆ハチワレの「なんとか…なれーッ!!!」など全6種",
+      "summary": "「映画ちいかわ 人魚の島のひみつ 巾着ポーチ」が再販！",
+      "url": "https://www.inside-games.jp/article/2026/11/06/190467.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1759332.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-06T09:20:02.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "goods"
+        "goods",
+        "anime"
       ],
       "keywords": [
-        "クリスマスマーケット",
-        "スノードーム"
+        "映画"
       ],
       "articles": [
         {
-          "title": "スノードーム、サンタさんなマスコットなど「ちいかわクリスマスマーケット」限定グッズ＆フードの詳細発表",
-          "url": "https://times.abema.tv/articles/-/10286120",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-11-04T11:00:00.000Z",
+          "title": "『映画ちいかわ』を国際政治学から読み解く：なぜ争いは始まり、なぜ終わらないのか",
+          "url": "https://www.nippon.com/ja/articles/-/56353",
+          "source": "Nippon.com",
+          "publishedAt": "2026-11-06T02:11:54.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "aae89a573dbb",
+      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん（WEBザテレビジョン）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/ae256f159a50b253218997023b783af628ef9bd3",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-01455098-the_tv-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-06T05:44:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "book",
+        "other"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "最新話"
+      ],
+      "articles": [
+        {
+          "title": "「ねぇ……！！誰なの？怖いよおッ！！」ちいかわ最新話でいつものちいかわたちの集まりにハチワレっぽいなにかがしれっと登場…その正体を知るヒトが名前を呼ぶ流れも",
+          "url": "https://togetter.com/li/2767137",
+          "source": "Togetter",
+          "publishedAt": "2026-11-05T06:47:47.000Z",
           "isPR": false
         }
       ]
@@ -742,6 +718,32 @@
       ]
     },
     {
+      "id": "ab58d1fe78d2",
+      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/2010749?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-05T16:21:59.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "collab"
+      ],
+      "keywords": [
+        "コラボ"
+      ],
+      "articles": [
+        {
+          "title": "「なんでもちいかわにすれば売れると思いやがって！」 ファンも抗えない“まさかのコラボ商品”に「……で、どこで売ってるの？」",
+          "url": "https://news.yahoo.co.jp/articles/3c541cf67c55f35531dd6f1fb549c0567dc27d4c",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-04T02:55:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "c21b49d22bd0",
       "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
       "summary": "",
@@ -771,13 +773,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T08:30:17.307Z",
-    "previousCount": 109,
-    "newCount": 1
+    "previousAt": "2026-11-06T09:00:20.372Z",
+    "previousCount": 108,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T09:30:20.372Z",
+  "nextUpdateAt": "2026-11-06T10:00:20.914Z",
   "items": [
+    {
+      "id": "b1d33c12a69d",
+      "title": "カプセルトイ「ちいかわ」映画ワンシーンの巾着ポーチが11月上旬順次発売！！ちいかわ＆ハチワレの「なんとか…なれーッ!!!」など全6種",
+      "url": "https://www.inside-games.jp/article/2026/11/06/190467.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「映画ちいかわ 人魚の島のひみつ 巾着ポーチ」が再販！",
+      "publishedAt": "2026-11-06T09:20:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1759332.jpg",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d51733d38de3",
       "title": "フジメディアHD、第2四半期のアニメ事業収入は54%増の24.5億円と最高水準…「ちいかわ」「パペットスンスン」貢献、過去作品の二次利用が堅調",
@@ -789,6 +813,25 @@
       "image": "https://i3.gamebiz.jp/media/e27f907a-0fb3-49e8-8a08-de719b7e93d5.jpg",
       "categories": [
         "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9e6902891a7c",
+      "title": "ちいかわと過ごすクリスマス「ちいかわクリスマスマーケット」開催へ",
+      "url": "https://evesul.jp/chiikawa-christmas-market/",
+      "host": "evesul.jp",
+      "source": "イベスル",
+      "summary": "",
+      "publishedAt": "2026-11-06T07:27:49.000Z",
+      "image": "https://evesul.jp/wp-content/uploads/2026/11/web用_main.webp",
+      "categories": [
+        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -857,8 +900,8 @@
       "isNew": false
     },
     {
-      "id": "5cabdf31cd24",
-      "title": "《「身の程知らず」と罵られ…》人気ローカルアナ ちいかわと記念撮影でアンチから“言いがかり”…自ら取材で身の潔白を証明",
+      "id": "01e63def4e1d",
+      "title": "“言いがかり“被害を告白》人気ローカルアナ ちいかわと記念撮影で「身の程知らず」と罵られ…アンチ撃退した“毅然対応“に称賛の声（女性自身",
       "url": "https://news.yahoo.co.jp/articles/470871747591d2b9a6f82eb80ee7a292027c8c8f",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
@@ -873,7 +916,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "16dff1a5766a",
@@ -884,6 +927,25 @@
       "summary": "",
       "publishedAt": "2026-11-06T05:15:33.000Z",
       "image": "https://portal.auone.jp/media/thumbnails/2026/11/06/https___jisin_jp__p_2608120_w1200.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5cabdf31cd24",
+      "title": "《「身の程知らず」と罵られ…》人気ローカルアナ ちいかわと記念撮影でアンチから“言いがかり”…自ら取材で身の潔白を証明",
+      "url": "https://jisin.jp/entertainment/entertainment-news/2608120/?rf",
+      "host": "jisin.jp",
+      "source": "女性自身",
+      "summary": "",
+      "publishedAt": "2026-11-06T05:15:00.000Z",
+      "image": "https://img.jisin.jp/uploads/2026/11/fujikawa_takao_fb.jpg",
       "categories": [
         "other"
       ],
@@ -1011,6 +1073,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8177aa1ae87a",
+      "title": "ちいかわ 2023年放送 第58話 勉強中／お昼ごはん｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/episodes/epugv40ioi",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-05T23:18:17.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a702be7927ab",
@@ -1216,27 +1297,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4afdaed9e50c",
-      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T18:55:59.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kuma"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1581,6 +1641,27 @@
       "isNew": false
     },
     {
+      "id": "c94790c762f2",
+      "title": "「ねぇ……！！誰なの？怖いよおッ！！」ちいかわ最新話でいつものちいかわたちの集まりにハチワレっぽいなにかがしれっと登場…その正体を知るヒトが名前を呼ぶ流れも",
+      "url": "https://togetter.com/li/2767137",
+      "host": "togetter.com",
+      "source": "Togetter",
+      "summary": "",
+      "publishedAt": "2026-11-05T06:47:47.000Z",
+      "image": "https://s.tgstc.com/ogp3/f8e21f89b171b0e1ce93f804e633a11c-1200x630.jpeg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "475c9a1e547c",
       "title": "興収184億円の次は英語圏へ 『ちいかわ』はYouTubeと玩具で入口をつくる | ニュース | IT×エンタメの最前線を届ける",
       "url": "https://mediamixi.jp/news/18035/",
@@ -1846,6 +1927,27 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:47:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kuma"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2276,15 +2378,16 @@
     },
     {
       "id": "18c5b76a0984",
-      "title": "「ちいかわ」うさぎやモモンガが“ちょこん”と乗ってキュート♪ 立体マスコットつきリップエッセンス登場",
-      "url": "https://animeanime.jp/article/2026/11/04/104481.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "title": "「ちいかわ」うさぎやモモンガが“ちょこん”と乗ってキュート♪ 立体マスコットつきリップエッセンス登場（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/064c7ea3ef95973931be7de303ecaff322a09060",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-04T09:00:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/951096.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000013-anmanmv-000-1-view.jpg?exp=10800",
       "categories": [
-        "goods"
+        "goods",
+        "anime"
       ],
       "series": [
         "usagi",
@@ -2402,25 +2505,6 @@
       "image": "",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "550eb506938c",
-      "title": "ちいかわたちの立体マスコット付きコスメ「Lovisiaちいかわ マスコットリップエッセンス」が登場バッグチャームとしても楽しめる",
-      "url": "https://news.livedoor.com/article/detail/32729102/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-04T04:45:47.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/7/5/75b7d_1838_0f3518d418e5b1f799f3bf77fddf54bc.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2879,28 +2963,6 @@
       "image": "",
       "categories": [
         "event"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1596f9149919",
-      "title": "サンタになったちいかわ＆ハチワレ＆うさぎパン ちいかわベーカリーのクリスマス商品",
-      "url": "https://www.chiba-tv.com/plus/detail/2026112188284",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
-      "summary": "",
-      "publishedAt": "2026-11-03T09:04:35.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1490275938884699577/origin_1.jpg",
-      "categories": [
-        "collab"
       ],
       "series": [
         "hachiware",
