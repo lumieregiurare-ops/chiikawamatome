@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-06T14:30:17.784Z",
+  "updatedAt": "2026-11-06T15:00:22.080Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 118,
-  "todayCount": 38,
+  "total": 119,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 45
+      "count": 44
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "collab",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 21
+      "count": 23
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "other",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 29
+      "count": 30
     },
     {
       "name": "山陽新聞",
@@ -109,7 +109,7 @@
       "count": 5
     },
     {
-      "name": "インサイド",
+      "name": "キャラクター情報サイト",
       "count": 4
     },
     {
@@ -117,7 +117,7 @@
       "count": 4
     },
     {
-      "name": "キャラクター情報サイト",
+      "name": "インサイド",
       "count": 3
     },
     {
@@ -127,6 +127,10 @@
     {
       "name": "Excite エキサイト",
       "count": 3
+    },
+    {
+      "name": "アニメハック",
+      "count": 2
     },
     {
       "name": "PASH! PLUS",
@@ -174,10 +178,6 @@
     },
     {
       "name": "LEE",
-      "count": 1
-    },
-    {
-      "name": "TBS NEWS DIG",
       "count": 1
     },
     {
@@ -250,10 +250,6 @@
     },
     {
       "name": "電撃ホビーウェブ",
-      "count": 1
-    },
-    {
-      "name": "アニメハック",
       "count": 1
     },
     {
@@ -754,12 +750,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T14:00:21.473Z",
+    "previousAt": "2026-11-06T14:30:17.784Z",
     "previousCount": 118,
-    "newCount": 0
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T15:00:17.784Z",
+  "nextUpdateAt": "2026-11-06T15:30:22.080Z",
   "items": [
     {
       "id": "72d9798548d9",
@@ -919,14 +915,33 @@
       "isNew": false
     },
     {
-      "id": "7ccb35a993f3",
-      "title": "高市総理の“台湾有事”答弁から1年 冷え込む日中関係…進出企業2割減・日本人公演ゼロの一方で「ちいかわ」大人気 関係改善の動きは？",
-      "url": "https://newsdig.tbs.co.jp/articles/-/3068730",
-      "host": "newsdig.tbs.co.jp",
-      "source": "TBS NEWS DIG",
+      "id": "b172e7026fa7",
+      "title": "【入場特典リスト 11月最新版】本日公開「GROTESQQQUE グロテスク」に注目 映画「ちいかわ」新特典は？",
+      "url": "https://anime.eiga.com/news/column/tokuten_list/127814/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
       "summary": "",
-      "publishedAt": "2026-11-06T10:05:41.000Z",
-      "image": "https://newsdig.ismcdn.jp/mwimgs/7/0/1200w/img_709e8ae3464a4086284d802329ec5860480569.jpg",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127814/photo/e8b88ed0ab1abec2/640.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7ccb35a993f3",
+      "title": "高市総理の“台湾有事”答弁から1年 冷え込む日中関係…進出企業2割減・日本人公演ゼロの一方で「ちいかわ」大人気 関係改善の動きは？（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.yahoo.co.jp/articles/9c8408ac99fea48d9492e10ca857073b2f94aab6",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T09:58:55.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-07335864-jnn-000-2-thumb.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -2031,6 +2046,26 @@
       "isNew": false
     },
     {
+      "id": "c2c05ea45962",
+      "title": "「映画ちいかわ」東京メトロ脱出ゲームに「おうちで遊べる版」が登場！",
+      "url": "https://charalab.com/145096/",
+      "host": "charalab.com",
+      "source": "キャラクター情報サイト",
+      "summary": "",
+      "publishedAt": "2026-11-05T03:02:21.000Z",
+      "image": "https://charalab.com/images/2026/11/261104_chiikawad_2.jpg",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4f4c6ad483ec",
       "title": "「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも",
       "url": "https://www.oricon.co.jp/news/2490316/photo/8/",
@@ -2821,26 +2856,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000003-anmanmv-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "81669d560786",
-      "title": "「ちいかわ」たちのおかおが可愛い！ラバーマスコット付きボールペン全8種が11月中旬よりプライズ展開",
-      "url": "https://www.inside-games.jp/article/2026/11/04/190328.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-11-04T02:15:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1803083.jpg",
-      "categories": [
-        "goods",
-        "kuji"
       ],
       "series": [],
       "isOfficial": false,
