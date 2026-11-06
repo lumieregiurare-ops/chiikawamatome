@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T11:00:18.602Z",
+  "updatedAt": "2026-11-06T11:30:23.588Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 115,
-  "todayCount": 35,
+  "total": 117,
+  "todayCount": 34,
   "categories": [
     {
       "id": "goods",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 31
     }
   ],
   "series": [
@@ -94,19 +94,19 @@
     },
     {
       "name": "山陽新聞",
-      "count": 10
+      "count": 9
     },
     {
       "name": "コラボカフェ",
       "count": 6
     },
     {
-      "name": "インサイド",
+      "name": "電撃オンライン",
       "count": 5
     },
     {
-      "name": "電撃オンライン",
-      "count": 4
+      "name": "インサイド",
+      "count": 5
     },
     {
       "name": "Dtimes",
@@ -137,11 +137,19 @@
       "count": 2
     },
     {
+      "name": "福井新聞社",
+      "count": 2
+    },
+    {
       "name": "KAI-YOU",
       "count": 2
     },
     {
       "name": "Excite エキサイト",
+      "count": 2
+    },
+    {
+      "name": "朝日新聞",
       "count": 2
     },
     {
@@ -213,10 +221,6 @@
       "count": 1
     },
     {
-      "name": "福井新聞社",
-      "count": 1
-    },
-    {
       "name": "週刊女性PRIME",
       "count": 1
     },
@@ -226,10 +230,6 @@
     },
     {
       "name": "MEDIAMIXI",
-      "count": 1
-    },
-    {
-      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -298,16 +298,16 @@
       "image": "https://mediadogs.jp/wp-content/uploads/2026/11/nantokanare-ryukogo-nominate-eyecatch.webp",
       "leadSource": "https://mediadogs.jp/",
       "publishedAt": "2026-11-06T02:04:09.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
+      "sourceCount": 7,
+      "articleCount": 8,
       "categories": [
         "other",
         "collab"
       ],
       "keywords": [
         "流行語大賞",
-        "ノミネート",
-        "新語"
+        "新語",
+        "ノミネート"
       ],
       "articles": [
         {
@@ -343,6 +343,13 @@
           "url": "https://www.advertimes.com/20261105/article563228/",
           "source": "AdverTimes.（アドタイ） by 宣伝会議",
           "publishedAt": "2026-11-05T07:59:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "新語・流行語大賞、今年の候補30語発表「ちいかわ」「りくりゅう」",
+          "url": "https://www.asahi.com/articles/ASVC50TN7VC5UCVL00NM.html",
+          "source": "朝日新聞",
+          "publishedAt": "2026-11-05T05:00:00.000Z",
           "isPR": false
         },
         {
@@ -754,12 +761,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T10:30:22.083Z",
-    "previousCount": 114,
-    "newCount": 6
+    "previousAt": "2026-11-06T11:00:18.602Z",
+    "previousCount": 115,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T11:30:18.602Z",
+  "nextUpdateAt": "2026-11-06T12:00:23.588Z",
   "items": [
     {
       "id": "b9ce7b5d0453",
@@ -773,25 +780,6 @@
       "categories": [
         "goods",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "a2e151a4949d",
-      "title": "【ちいかわ×ANA】ちいかわジェット就航！空港で買えるコラボステッカーをゲットしてきました",
-      "url": "https://lee.hpplus.jp/100nintai/3787508/",
-      "host": "lee.hpplus.jp",
-      "source": "LEE",
-      "summary": "",
-      "publishedAt": "2026-11-06T10:17:20.000Z",
-      "image": "",
-      "categories": [
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -817,7 +805,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "a2e151a4949d",
+      "title": "【ちいかわ×ANA】ちいかわジェット就航！空港で買えるコラボステッカーをゲットしてきました",
+      "url": "https://lee.hpplus.jp/100nintai/3787508/",
+      "host": "lee.hpplus.jp",
+      "source": "LEE",
+      "summary": "",
+      "publishedAt": "2026-11-06T10:16:29.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "b8c170e2746d",
@@ -857,7 +864,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ceb8848de154",
@@ -876,7 +883,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "41364552add9",
@@ -959,6 +966,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0e0289ce883e",
+      "title": "推しキャラは何位？『スラムダンク』人気ランキングや『ちいかわ』最新話など【今週の注目記事7選】",
+      "url": "https://dengekionline.com/article/202611/92577",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/92577/ogp_MuYo.png?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9e6902891a7c",
@@ -1365,27 +1391,6 @@
       "isNew": false
     },
     {
-      "id": "4afdaed9e50c",
-      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T18:55:59.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kuma"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c94790c762f2",
       "title": "「ねぇ……！！誰なの？怖いよおッ！！」ちいかわ最新話でいつものちいかわたちの集まりにハチワレっぽいなにかがしれっと登場…その正体を知るヒトが名前を呼ぶ流れも",
       "url": "https://togetter.com/li/2767137",
@@ -1407,33 +1412,14 @@
       "isNew": false
     },
     {
-      "id": "ab58d1fe78d2",
-      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
-      "url": "https://www.sanyonews.jp/article/2010749?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T16:21:59.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ecf1cac61b24",
       "title": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数",
       "url": "https://www.inside-games.jp/article/2026/11/06/190426.html",
       "host": "inside-games.jp",
       "source": "インサイド",
-      "summary": "「ちいかわ」新商品が11月6日11時より公式通販「ちいかわマーケット」にて発売！",
+      "summary": "",
       "publishedAt": "2026-11-05T15:20:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1799611.jpg",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1799611.webp",
       "categories": [
         "goods"
       ],
@@ -1799,6 +1785,25 @@
       "isNew": false
     },
     {
+      "id": "677d2278353a",
+      "title": "新語・流行語大賞、今年の候補30語発表「ちいかわ」「りくりゅう」",
+      "url": "https://www.asahi.com/articles/ASVC50TN7VC5UCVL00NM.html",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T05:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d4b20970477b",
       "title": "「ちいかわ(現象)」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
       "url": "https://www.oricon.co.jp/news/2490896/full/",
@@ -1887,6 +1892,25 @@
       "summary": "",
       "publishedAt": "2026-11-05T04:23:00.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/05/20261105dog00m200038000a/001.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ab58d1fe78d2",
+      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2731478?ph",
+      "host": "fukuishimbun.co.jp",
+      "source": "福井新聞社",
+      "summary": "",
+      "publishedAt": "2026-11-05T04:07:52.000Z",
+      "image": "https://fki.ismcdn.jp/mwimgs/f/c/-/img_fcbbf0ba064dc543ebb9d4578eb9b77467659.jpg",
       "categories": [
         "collab"
       ],
@@ -2006,6 +2030,27 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:47:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kuma"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2370,7 +2415,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1e6e892edbd2",
@@ -2428,7 +2473,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18c5b76a0984",
@@ -2700,7 +2745,7 @@
       "host": "article.auone.jp",
       "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-11-04T02:46:29.000Z",
+      "publishedAt": "2026-11-04T02:46:00.000Z",
       "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/04/https___news_jp_i_1490543190083502863_w768.webp",
       "categories": [
         "goods",
