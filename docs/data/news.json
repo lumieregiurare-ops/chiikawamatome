@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T12:00:17.926Z",
+  "updatedAt": "2026-11-06T12:30:19.117Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 116,
-  "todayCount": 34,
+  "total": 118,
+  "todayCount": 35,
   "categories": [
     {
       "id": "goods",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 6
+      "count": 5
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 21
+      "count": 22
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 18
+      "count": 17
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "momonga",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 27
     },
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 8
     },
     {
       "name": "コラボカフェ",
@@ -121,6 +121,14 @@
       "count": 3
     },
     {
+      "name": "福井新聞社",
+      "count": 3
+    },
+    {
+      "name": "Excite エキサイト",
+      "count": 3
+    },
+    {
       "name": "PASH! PLUS",
       "count": 2
     },
@@ -137,23 +145,11 @@
       "count": 2
     },
     {
-      "name": "福井新聞社",
-      "count": 2
-    },
-    {
       "name": "KAI-YOU",
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
-      "count": 2
-    },
-    {
       "name": "朝日新聞",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -171,6 +167,10 @@
     {
       "name": "ファッションプレス",
       "count": 2
+    },
+    {
+      "name": "@DIME アットダイム",
+      "count": 1
     },
     {
       "name": "ニコニコニュース",
@@ -241,6 +241,10 @@
       "count": 1
     },
     {
+      "name": "オリコンニュース",
+      "count": 1
+    },
+    {
       "name": "静岡ライフ",
       "count": 1
     },
@@ -279,10 +283,6 @@
     {
       "name": "玩具人 TOY PEOPLE",
       "count": 1
-    },
-    {
-      "name": "Web-Komachi",
-      "count": 1
     }
   ],
   "topics": [
@@ -294,7 +294,7 @@
       "image": "https://mediadogs.jp/wp-content/uploads/2026/11/nantokanare-ryukogo-nominate-eyecatch.webp",
       "leadSource": "https://mediadogs.jp/",
       "publishedAt": "2026-11-06T02:04:09.000Z",
-      "sourceCount": 7,
+      "sourceCount": 6,
       "articleCount": 8,
       "categories": [
         "other",
@@ -342,16 +342,16 @@
           "isPR": false
         },
         {
-          "title": "新語・流行語大賞、今年の候補30語発表「ちいかわ」「りくりゅう」",
-          "url": "https://www.asahi.com/articles/ASVC50TN7VC5UCVL00NM.html",
-          "source": "朝日新聞",
-          "publishedAt": "2026-11-05T05:00:00.000Z",
+          "title": "「ちいかわ（現象）」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
+          "url": "http://www.excite.co.jp/news/article/Oricon_2490896/",
+          "source": "Excite エキサイト",
+          "publishedAt": "2026-11-05T06:07:10.000Z",
           "isPR": false
         },
         {
-          "title": "「ちいかわ(現象)」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
-          "url": "https://www.oricon.co.jp/news/2490896/full/",
-          "source": "オリコンニュース",
+          "title": "新語・流行語大賞、今年の候補30語発表「ちいかわ」「りくりゅう」",
+          "url": "https://www.asahi.com/articles/ASVC50TN7VC5UCVL00NM.html",
+          "source": "朝日新聞",
           "publishedAt": "2026-11-05T05:00:00.000Z",
           "isPR": false
         }
@@ -415,49 +415,6 @@
       ]
     },
     {
-      "id": "b1d33c12a69d",
-      "title": "カプセルトイ「ちいかわ」映画ワンシーンの巾着ポーチが11月上旬順次発売！！ちいかわ＆ハチワレの「なんとか…なれーッ!!!」など全6種",
-      "summary": "「映画ちいかわ 人魚の島のひみつ 巾着ポーチ」が再販！",
-      "url": "https://www.inside-games.jp/article/2026/11/06/190467.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1759332.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-11-06T10:18:13.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "映画",
-        "big",
-        "ポーチ"
-      ],
-      "articles": [
-        {
-          "title": "『映画ちいかわ 人魚の島のひみつ』巾着ポーチが11月上旬より再登場！500mlペットボトルも入るBIGサイズのカプセルトイ全6種",
-          "url": "https://news.nicovideo.jp/watch/nw19964802?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-06T10:18:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ 超BIGマイヤーブランケット プライズ 11月下旬より再登場!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-super-big-mayer-blanket-prize-resale-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-06T10:16:56.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ』を国際政治学から読み解く：なぜ争いは始まり、なぜ終わらないのか",
-          "url": "https://www.nippon.com/ja/articles/-/56353",
-          "source": "Nippon.com",
-          "publishedAt": "2026-11-04T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "7e496541ee4f",
       "title": "写真3/15｜「ちいかわ」マスコット付きリップ美容液、ハチワレ・うさぎ・モモンガが“顔を出す”バッグチャームにも",
       "summary": "",
@@ -488,7 +445,7 @@
           "title": "ちいかわ＆ハチワレ＆うさぎ＆モモンガがちょこん♪ 立体マスコット付きリップエッセンス登場",
           "url": "https://article.auone.jp/63a72b7b-aa50-4bcc-bbf8-0bf82336de0e",
           "source": "au Webポータル",
-          "publishedAt": "2026-11-04T04:29:00.000Z",
+          "publishedAt": "2026-11-04T04:29:26.000Z",
           "isPR": false
         },
         {
@@ -496,6 +453,42 @@
           "url": "https://www.fashion-press.net/news/152846",
           "source": "ファッションプレス",
           "publishedAt": "2026-11-04T03:05:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b1d33c12a69d",
+      "title": "カプセルトイ「ちいかわ」映画ワンシーンの巾着ポーチが11月上旬順次発売！！ちいかわ＆ハチワレの「なんとか…なれーッ!!!」など全6種",
+      "summary": "「映画ちいかわ 人魚の島のひみつ 巾着ポーチ」が再販！",
+      "url": "https://www.inside-games.jp/article/2026/11/06/190467.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1759332.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-06T10:18:13.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "big",
+        "ポーチ",
+        "カプセルトイ"
+      ],
+      "articles": [
+        {
+          "title": "『映画ちいかわ 人魚の島のひみつ』巾着ポーチが11月上旬より再登場！500mlペットボトルも入るBIGサイズのカプセルトイ全6種",
+          "url": "https://news.nicovideo.jp/watch/nw19964802?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-06T10:18:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ 超BIGマイヤーブランケット プライズ 11月下旬より再登場!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-super-big-mayer-blanket-prize-resale-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-06T10:16:56.000Z",
           "isPR": false
         }
       ]
@@ -644,6 +637,32 @@
       ]
     },
     {
+      "id": "860a9a37768a",
+      "title": "【ヒャダインの温故知新アナリティクス】「ちいかわ」の映画、2026年の流行語に入るでしょうねえ",
+      "summary": "",
+      "url": "https://dime.jp/genre/2168896/",
+      "image": "https://dime.jp/wp-content/uploads/2026/11/NGK-jpp092093046-770x433.jpg",
+      "leadSource": "@DIME アットダイム",
+      "publishedAt": "2026-11-06T12:01:29.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "映画"
+      ],
+      "articles": [
+        {
+          "title": "『映画ちいかわ』を国際政治学から読み解く：なぜ争いは始まり、なぜ終わらないのか",
+          "url": "https://www.nippon.com/ja/articles/-/56353",
+          "source": "Nippon.com",
+          "publishedAt": "2026-11-04T21:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "aae89a573dbb",
       "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん（WEBザテレビジョン）",
       "summary": "",
@@ -725,45 +744,54 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "12b24719c95b",
-      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/2009976",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/9/b/7/39b750a3605e1c4c9468b13c4dffbe75_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-05T19:56:58.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "keywords": [
-        "ana",
-        "コラボグッズ",
-        "アナウンス"
-      ],
-      "articles": [
-        {
-          "title": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス（トラベル Watch）",
-          "url": "https://news.yahoo.co.jp/articles/524c73a13df3bfb8b2da629067282a9534a31ba7",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-04T12:55:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T11:30:23.588Z",
-    "previousCount": 117,
-    "newCount": 1
+    "previousAt": "2026-11-06T12:00:17.926Z",
+    "previousCount": 116,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T12:30:17.926Z",
+  "nextUpdateAt": "2026-11-06T13:00:19.117Z",
   "items": [
+    {
+      "id": "64598ceda5f4",
+      "title": "フジHD、「ちいかわ効果」で回復基調 構造改革へコンテンツ強化 持続的ヒット生めるか（産経新聞）",
+      "url": "https://news.yahoo.co.jp/articles/8ab9336c3a5a9785775325255c68c9a9dab0e08a",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T12:05:35.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000205-san-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "860a9a37768a",
+      "title": "【ヒャダインの温故知新アナリティクス】「ちいかわ」の映画、2026年の流行語に入るでしょうねえ",
+      "url": "https://dime.jp/genre/2168896/",
+      "host": "dime.jp",
+      "source": "@DIME アットダイム",
+      "summary": "",
+      "publishedAt": "2026-11-06T12:01:29.000Z",
+      "image": "https://dime.jp/wp-content/uploads/2026/11/NGK-jpp092093046-770x433.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b9ce7b5d0453",
       "title": "『映画ちいかわ 人魚の島のひみつ』巾着ポーチが11月上旬より再登場！500mlペットボトルも入るBIGサイズのカプセルトイ全6種",
@@ -1100,13 +1128,13 @@
     },
     {
       "id": "369d74fe7054",
-      "title": "【一覧】ANA×ちいかわグッズ、既に多数の空港店舗で完売…想定超える需要で再販売と追加生産を検討（オタク総研）",
-      "url": "https://news.yahoo.co.jp/articles/893660712515b78fcd9f64540b716f6d2dbccce3?page",
+      "title": "【一覧】ANA×ちいかわグッズ、既に多数の空港店舗で完売…想定超える需要で再販売と追加生産を検討 (オタク総研)",
+      "url": "https://news.yahoo.co.jp/articles/893660712515b78fcd9f64540b716f6d2dbccce3/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-06T03:02:00.000Z",
-      "image": "",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26ktlGEwxMkm_W93vUQHJCSC3DfEZo7R-CVD7e6wPbNFv2x2sNLFWYmq_P0IiLO_FLkXJZV2XNU-7xOJvRpOfkXefVV5ZUYSZM8JcmaQ3ml1N",
       "categories": [
         "goods"
       ],
@@ -1367,26 +1395,6 @@
       "isNew": false
     },
     {
-      "id": "12b24719c95b",
-      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
-      "url": "https://www.sanyonews.jp/article/2009976",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T19:56:58.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/9/b/7/39b750a3605e1c4c9468b13c4dffbe75_1.jpg",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c94790c762f2",
       "title": "「ねぇ……！！誰なの？怖いよおッ！！」ちいかわ最新話でいつものちいかわたちの集まりにハチワレっぽいなにかがしれっと登場…その正体を知るヒトが名前を呼ぶ流れも",
       "url": "https://togetter.com/li/2767137",
@@ -1451,25 +1459,6 @@
       "isNew": false
     },
     {
-      "id": "d5591488c493",
-      "title": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！",
-      "url": "https://dengekionline.com/article/202611/93086",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-05T14:19:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93086/ogp_ZnwG.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "99e501cf5866",
       "title": "『ちいかわ』更新（11/5）。ハチワレが“すごいの”見つけて大喜び！ でも、その背後に…!?",
       "url": "https://dengekionline.com/article/202611/93218",
@@ -1501,6 +1490,26 @@
       "image": "https://www.inside-games.jp/imgs/ogp_f/1799605.jpg",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "12b24719c95b",
+      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2730264?ph",
+      "host": "fukuishimbun.co.jp",
+      "source": "福井新聞社",
+      "summary": "",
+      "publishedAt": "2026-11-05T11:31:49.000Z",
+      "image": "https://fki.ismcdn.jp/mwimgs/9/5/-/img_954d79efdd27de067dcc98f5ac9f100e90515.jpg",
+      "categories": [
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1742,6 +1751,26 @@
       "isNew": false
     },
     {
+      "id": "d4b20970477b",
+      "title": "「ちいかわ（現象）」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
+      "url": "http://www.excite.co.jp/news/article/Oricon_2490896/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-11-05T06:07:10.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "475c9a1e547c",
       "title": "興収184億円の次は英語圏へ 『ちいかわ』はYouTubeと玩具で入口をつくる | ニュース | IT×エンタメの最前線を届ける",
       "url": "https://mediamixi.jp/news/18035/",
@@ -1791,26 +1820,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d4b20970477b",
-      "title": "「ちいかわ(現象)」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
-      "url": "https://www.oricon.co.jp/news/2490896/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490896/20260810_182116_p_o_53696697.jpg",
-      "categories": [
-        "anime",
-        "book"
       ],
       "series": [],
       "isOfficial": false,
@@ -2190,6 +2199,25 @@
       "isNew": false
     },
     {
+      "id": "d5591488c493",
+      "title": "『ちいかわ』更新（11/4）。話に夢中になると、勝手に手が…ちいかわ、ナイスフォロー！",
+      "url": "https://dengekionline.com/article/202611/93086",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-04T16:22:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93086/ogp_ZnwG.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1c2ac94a1d87",
       "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
       "url": "https://www.sanyonews.jp/article/1959759?kw",
@@ -2549,7 +2577,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a667658c522",
@@ -2596,7 +2624,7 @@
       "host": "article.auone.jp",
       "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-11-04T04:29:00.000Z",
+      "publishedAt": "2026-11-04T04:29:26.000Z",
       "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/04/https___news_jp_i_1490572107535942360_w800.webp",
       "categories": [
         "goods"
@@ -2792,6 +2820,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b90229727d5b",
+      "title": "【ちいかわ】可愛いケーキに見えるクッキー缶。ちいかわのクリスマスアイテムを開封レポします！（jsc） - エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/a6272f87d317716e5c6e4994cdc220f4cd8c30d0",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T02:00:47.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/jsc/02758460/title-1793752109801.jpeg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "de8ce04e3b79",
@@ -3024,28 +3071,6 @@
       ],
       "series": [
         "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b67904ef04c3",
-      "title": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 - Web-Komachi",
-      "url": "https://www.web-komachi.com/?p",
-      "host": "web-komachi.com",
-      "source": "Web-Komachi",
-      "summary": "",
-      "publishedAt": "2026-11-03T12:21:28.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
       ],
       "isOfficial": false,
       "isPR": false,
