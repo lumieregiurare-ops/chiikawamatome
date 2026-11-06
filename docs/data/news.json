@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-06T08:00:20.127Z",
+  "updatedAt": "2026-11-06T08:30:17.307Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 111,
+  "total": 109,
   "todayCount": 24,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 44
+      "count": 43
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 26
+      "count": 25
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 17
+      "count": 16
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "other",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 23
     },
     {
       "name": "山陽新聞",
@@ -141,10 +141,6 @@
       "count": 2
     },
     {
-      "name": "いこーよニュース",
-      "count": 2
-    },
-    {
       "name": "KAI-YOU",
       "count": 2
     },
@@ -171,10 +167,6 @@
     {
       "name": "ファッションプレス",
       "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 1
     },
     {
       "name": "Nippon.com",
@@ -253,15 +245,15 @@
       "count": 1
     },
     {
-      "name": "cinemacafe.net",
-      "count": 1
-    },
-    {
       "name": "online.bci.co.jp",
       "count": 1
     },
     {
       "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "いこーよニュース",
       "count": 1
     },
     {
@@ -768,12 +760,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T07:30:17.573Z",
+    "previousAt": "2026-11-06T08:00:20.127Z",
     "previousCount": 111,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T08:30:20.127Z",
+  "nextUpdateAt": "2026-11-06T09:00:17.307Z",
   "items": [
     {
       "id": "5a328a4a1bb3",
@@ -796,13 +788,13 @@
     },
     {
       "id": "aae89a573dbb",
-      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん",
-      "url": "https://news.nicovideo.jp/watch/nw19963586?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん（WEBザテレビジョン）",
+      "url": "https://news.yahoo.co.jp/articles/ae256f159a50b253218997023b783af628ef9bd3",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-06T05:57:33.000Z",
-      "image": "",
+      "publishedAt": "2026-11-06T05:44:19.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-01455098-the_tv-000-1-view.jpg?exp=10800",
       "categories": [
         "book"
       ],
@@ -870,7 +862,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5be840921eb0",
@@ -1299,25 +1291,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3e29a6e31796",
-      "title": "ちいかわ謎解きがおうちで遊べる！限定ぷくぷくシール付きキットが11/9から全国発売",
-      "url": "https://report.iko-yo.net/articles/35434",
-      "host": "report.iko-yo.net",
-      "source": "いこーよニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T11:55:04.000Z",
-      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35612/normal.png?1793870180",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2195,12 +2168,11 @@
       "url": "https://animeanime.jp/article/2026/11/04/104487.html",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
-      "summary": "『ちいかわ』の新商品として、「長袖Tシャツ」のほか「スウェットシャツ」、「スウェットパンツ」、「ぬくぬくソックス」が登場。2026年11月6日より、ちいかわらんど、ちいかわマーケット、トーキングほかにて順次発売される。",
+      "summary": "",
       "publishedAt": "2026-11-04T10:30:03.000Z",
-      "image": "https://animeanime.jp/imgs/rss/951097.jpg",
+      "image": "https://animeanime.jp/imgs/ogp_f/951097.jpg",
       "categories": [
-        "goods",
-        "collab"
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2388,26 +2360,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "85213fbddfaa",
-      "title": "「ちいかわ、さがしてます。」がおうちでも遊べる！『映画ちいかわ』東京メトロ脱出ゲームに「おうちで遊べる版」が登場！",
-      "url": "https://www.cinemacafe.net/release/prtimes-news/20261104/107191.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
-      "summary": "",
-      "publishedAt": "2026-11-04T08:00:00.000Z",
-      "image": "https://www.cinemacafe.net/release/imgs/list/165425.png",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2a667658c522",
