@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T00:30:20.350Z",
+  "updatedAt": "2026-11-06T01:00:16.949Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "kuji",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 7
+      "count": 6
     },
     {
       "id": "anime",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 31
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 19
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 16
+      "count": 15
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "山陽新聞",
@@ -145,6 +145,10 @@
       "count": 2
     },
     {
+      "name": "KAI-YOU",
+      "count": 2
+    },
+    {
       "name": "日本食糧新聞・電子版",
       "count": 2
     },
@@ -173,6 +177,10 @@
       "count": 2
     },
     {
+      "name": "マイナビニュース",
+      "count": 1
+    },
+    {
       "name": "TVer",
       "count": 1
     },
@@ -189,19 +197,11 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース",
-      "count": 1
-    },
-    {
       "name": "文春オンライン",
       "count": 1
     },
     {
       "name": "週刊女性PRIME",
-      "count": 1
-    },
-    {
-      "name": "KAI-YOU",
       "count": 1
     },
     {
@@ -275,14 +275,6 @@
     {
       "name": "PASH! PLUS",
       "count": 1
-    },
-    {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
-      "name": "株式会社ワカモノリサーチ",
-      "count": 1
     }
   ],
   "topics": [
@@ -295,7 +287,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-05T11:00:00.000Z",
       "sourceCount": 9,
-      "articleCount": 11,
+      "articleCount": 13,
       "categories": [
         "other",
         "anime"
@@ -303,7 +295,7 @@
       "keywords": [
         "流行語大賞",
         "ノミネート",
-        "発表"
+        "新語"
       ],
       "articles": [
         {
@@ -335,6 +327,13 @@
           "isPR": false
         },
         {
+          "title": "(2/2) 2026年「新語・流行語大賞」発表 ちいかわ、ドパガキなどノミネート語を解説 - KAI-YOU",
+          "url": "https://kai-you.net/article/97070/page/2",
+          "source": "KAI-YOU",
+          "publishedAt": "2026-11-05T08:10:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "ついに「現象」と化したちいかわ 流行語大賞に「ちいかわ（現象）」が候補入り 「ギルティ」「ボンドロ」も選出",
           "url": "https://www.advertimes.com/20261105/article563228/",
           "source": "AdverTimes.（アドタイ） by 宣伝会議",
@@ -342,24 +341,17 @@
           "isPR": false
         },
         {
+          "title": "「酷暑日」や「ナフサ」「ちいかわ」「好きすぎて滅！」も 新語・流行語大賞2026ノミネート（テレビ朝日系（ANN））",
+          "url": "https://news.yahoo.co.jp/articles/6678c5326d59a4b839251a075a1c8c485efeef82",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-05T05:15:32.000Z",
+          "isPR": false
+        },
+        {
           "title": "2026年新語・流行語大賞ノミネート30語発表 「AI暴走」「ちいかわ（現象）」「りくりゅう」など選出（ABEMA TIMES）",
           "url": "https://news.yahoo.co.jp/articles/7d0a65c0e43e99b6eeebe76e753066f4a3e650b4",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-05T05:00:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "新語・流行語大賞、今年の候補30語発表「ちいかわ」「りくりゅう」",
-          "url": "https://www.asahi.com/articles/ASVC50TN7VC5UCVL00NM.html",
-          "source": "朝日新聞",
-          "publishedAt": "2026-11-05T05:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「好きすぎて滅！」「ちいかわ」「りくりゅう」「ボンドロ」 2026年「新語・流行語大賞」ノミネート語30発表",
-          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900203507.html",
-          "source": "テレ朝NEWS",
-          "publishedAt": "2026-11-05T05:00:00.000Z",
           "isPR": false
         }
       ]
@@ -393,9 +385,9 @@
         },
         {
           "title": "ちいかわの仲間たちがクリスマス仕様のテディベア姿でおめかしした特別なアクセサリーぬいぐるみが発売へ",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Bc3RmRmNNY0JJRUhlMGJJMGpsQW5RMEdXT1dzN3poTVVXNVJPQzF4cDNqQ2FZeEh1WDByMzNXbHMyRUdwdVotSU10MTliVzIzbWhlSWZWWEgzMXlsYi1wUzVGRDl3TUlMZ1E0Z3F1WEZKYzA2cXRFRVlqcHjSAYIBQVVfeXFMT3E0U1VXclFLN0FEbEJ2NEs3RWJfYVJsQ05MMk4xU25JdVVMeUlUb19JU0pyZkQtTk5pMW9YaFRyTWRtanA3cDZLVTRaODhZa1NpSFljOUhKbTRySmFnMl9kRHFQUmVYdHZFQU1WUS1idWdGb055amkyR1pnZzZMX3VKdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTRTVVdyUUs3QURsQnY0SzdFYl9hUmxDTkwyTjFTbkl1VUx5SVRvX0lTSnJmRC1OTmkxb1hoVHJNZG1qcDdwNktVNFo4OFlrU2lIWWM5SEptNHJKYWcyX2REcVBSZVh0dkVBTVZRLWJ1Z0ZvTnlqaTJHWmdnNkxfdUp30gGCAUFVX3lxTE9xNFNVV3JRSzdBRGxCdjRLN0ViX2FSbENOTDJOMVNuSXVVTHlJVG9fSVNKcmZELU5OaTFvWGhUck1kbWpwN3A2S1U0Wjg4WWtTaUhZYzlISm00ckphZzJfZERxUFJlWHR2RUFNVlEtYnVnRm9OeWppMkdaZ2c2TF91Snc?oc=5",
           "source": "ｄメニューニュース",
-          "publishedAt": "2026-11-05T22:09:26.000Z",
+          "publishedAt": "2026-11-05T22:01:00.000Z",
           "isPR": false
         },
         {
@@ -572,41 +564,6 @@
       ]
     },
     {
-      "id": "b67904ef04c3",
-      "title": "11/6(金)～11/23(月･祝)『ちいかわPOP UP STORE』オープン！11/22(日)ちいかわ＆ハチワレ＆うさぎ写真撮影会も！「イオンモール須坂」のイベント＠長野県須坂市 - Web-Komachi",
-      "summary": "",
-      "url": "https://www.web-komachi.com/?p",
-      "image": "https://collabo-cafe.com/wp-content/uploads/89d17c1612764016620eecef2a5cc3c5.jpg",
-      "leadSource": "Web-Komachi",
-      "publishedAt": "2026-11-03T12:21:28.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "event"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "pop"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ POP UP in イオンモール神戸北 11月11日より開催!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-nov-popup-aeonmall-kobekita-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-03T06:05:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ・ハチワレ・うさぎが大判焼きに！台湾・台北に「ちいかわ大判焼き」専門店がオープン！",
-          "url": "https://wakamono-research.co.jp/media/chiikawa-taiyaki-taipei/",
-          "source": "株式会社ワカモノリサーチ",
-          "publishedAt": "2026-11-03T01:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "44ce784fa94a",
       "title": "「めっちゃめんこいどす～」『ちいかわもぐもぐ本舗』3周年、和装＆舞妓姿のグッズにファン歓喜「凝ってて最高に可愛い」",
       "summary": "",
@@ -638,6 +595,41 @@
           "url": "https://news.yahoo.co.jp/articles/18abc66b846ba52754beb1e1696adc6057452d2e",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-04T23:10:12.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/f/2/f/0f2f849694dfdfef5d42c6e36d01c665_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-05T01:47:58.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ネット",
+        "糸井重里",
+        "反響"
+      ],
+      "articles": [
+        {
+          "title": "77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」",
+          "url": "https://www.sanyonews.jp/article/2011940?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-04T01:48:27.000Z",
+          "isPR": false
+        },
+        {
+          "title": "77歳・糸井重里、『ちいかわ』の描き方にネットざわつく 1ヶ月で見つけた“独自の工夫”に反響「研究が…凄い!」",
+          "url": "https://www.oricon.co.jp/news/2490512/photo/29/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-11-03T05:05:00.000Z",
           "isPR": false
         }
       ]
@@ -789,13 +781,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T00:00:17.154Z",
-    "previousCount": 112,
-    "newCount": 2
+    "previousAt": "2026-11-06T00:30:20.350Z",
+    "previousCount": 113,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T01:00:20.350Z",
+  "nextUpdateAt": "2026-11-06T01:30:16.949Z",
   "items": [
+    {
+      "id": "facdbcd781df",
+      "title": "「身の程知らず」「こんなのを雇ってるの?」と批判されたアナウンサー、ちいかわ撮影ルールを施設に直接取材「侮辱的な投稿を行ったことは看過できません」",
+      "url": "https://news.mynavi.jp/article/20261105-5263775/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:46:42.000Z",
+      "image": "https://news.mynavi.jp/article/20261105-5263775/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "a702be7927ab",
       "title": "ちいかわ 第57話～第63話 「草むしり検定」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
@@ -837,11 +848,11 @@
     {
       "id": "0a93b56a1a05",
       "title": "ちいかわの仲間たちがクリスマス仕様のテディベア姿でおめかしした特別なアクセサリーぬいぐるみが発売へ",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Bc3RmRmNNY0JJRUhlMGJJMGpsQW5RMEdXT1dzN3poTVVXNVJPQzF4cDNqQ2FZeEh1WDByMzNXbHMyRUdwdVotSU10MTliVzIzbWhlSWZWWEgzMXlsYi1wUzVGRDl3TUlMZ1E0Z3F1WEZKYzA2cXRFRVlqcHjSAYIBQVVfeXFMT3E0U1VXclFLN0FEbEJ2NEs3RWJfYVJsQ05MMk4xU25JdVVMeUlUb19JU0pyZkQtTk5pMW9YaFRyTWRtanA3cDZLVTRaODhZa1NpSFljOUhKbTRySmFnMl9kRHFQUmVYdHZFQU1WUS1idWdGb055amkyR1pnZzZMX3VKdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTRTVVdyUUs3QURsQnY0SzdFYl9hUmxDTkwyTjFTbkl1VUx5SVRvX0lTSnJmRC1OTmkxb1hoVHJNZG1qcDdwNktVNFo4OFlrU2lIWWM5SEptNHJKYWcyX2REcVBSZVh0dkVBTVZRLWJ1Z0ZvTnlqaTJHWmdnNkxfdUp30gGCAUFVX3lxTE9xNFNVV3JRSzdBRGxCdjRLN0ViX2FSbENOTDJOMVNuSXVVTHlJVG9fSVNKcmZELU5OaTFvWGhUck1kbWpwN3A2S1U0Wjg4WWtTaUhZYzlISm00ckphZzJfZERxUFJlWHR2RUFNVlEtYnVnRm9OeWppMkdaZ2c2TF91Snc?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-11-05T22:09:26.000Z",
+      "publishedAt": "2026-11-05T22:01:00.000Z",
       "image": "",
       "categories": [
         "goods"
@@ -870,7 +881,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a33530c53580",
@@ -949,27 +960,6 @@
       "isNew": false
     },
     {
-      "id": "4afdaed9e50c",
-      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T18:55:59.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kuma"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ab58d1fe78d2",
       "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
       "url": "https://www.sanyonews.jp/article/2010749?kw",
@@ -1003,25 +993,6 @@
       "series": [
         "kurimanju"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bf08be64bbf6",
-      "title": "「身の程知らず」「こんなのを雇ってるの?」と批判されたラジオ大阪・藤川アナ、ちいかわ撮影ルールを施設に直接取材「侮辱的な投稿を行ったことは看過できません」",
-      "url": "https://news.mynavi.jp/article/20261105-5263775/",
-      "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T14:23:56.000Z",
-      "image": "https://news.mynavi.jp/article/20261105-5263775/ogp_images/ogp.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1101,7 +1072,7 @@
       "source": "いこーよニュース",
       "summary": "",
       "publishedAt": "2026-11-05T11:55:04.000Z",
-      "image": "",
+      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35612/normal.png?1793870180",
       "categories": [
         "goods"
       ],
@@ -1346,6 +1317,25 @@
       "isNew": false
     },
     {
+      "id": "6ccc9fb5d804",
+      "title": "(2/2) 2026年「新語・流行語大賞」発表 ちいかわ、ドパガキなどノミネート語を解説 - KAI-YOU",
+      "url": "https://kai-you.net/article/97070/page/2",
+      "host": "kai-you.net",
+      "source": "KAI-YOU",
+      "summary": "",
+      "publishedAt": "2026-11-05T08:10:00.000Z",
+      "image": "https://img.kai-you.net/storage/2026/10/1e5b8b78-e9a6-4620-b9ad-2b0127ee14ec/jpg/chiikawa_new.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7fadbed28a51",
       "title": "ちいかわ（現象）、なんとかなれーッ、声の権利、ホビ垢も選出！「新語・流行語大賞」26年ノミネート語発表",
       "url": "https://animeanime.jp/article/2026/11/05/104499.html",
@@ -1439,6 +1429,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "febde37ab0bb",
+      "title": "「酷暑日」や「ナフサ」「ちいかわ」「好きすぎて滅！」も 新語・流行語大賞2026ノミネート（テレビ朝日系（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/6678c5326d59a4b839251a075a1c8c485efeef82",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-05T05:15:32.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00010018-annd-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7a2ce131fcf3",
@@ -1681,7 +1690,7 @@
       "source": "wowKorea",
       "summary": "",
       "publishedAt": "2026-11-05T03:21:02.000Z",
-      "image": "",
+      "image": "https://www.wowkorea.jp/img/news/108/540321/457334_1280W.webp",
       "categories": [
         "other"
       ],
@@ -1725,6 +1734,27 @@
         "collab"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:47:58.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kuma"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2384,7 +2414,7 @@
       "source": "いこーよニュース",
       "summary": "",
       "publishedAt": "2026-11-04T03:38:21.000Z",
-      "image": "",
+      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35547/normal.jpg?1793763088",
       "categories": [
         "other"
       ],
@@ -2970,7 +3000,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cba22ef2ca29",
@@ -2986,47 +3016,6 @@
       ],
       "series": [
         "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "076188d7ba7e",
-      "title": "ちいかわたちがクリスマス仕様のテディベアになっちゃった アクセサリーぬいぐるみ11月6日発売",
-      "url": "https://news.infoseek.co.jp/amp/article/eigacom_20261103005/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/eigacom/eigacom_20261103005_0.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9dcd7af73316",
-      "title": "ちいかわ・ハチワレ・うさぎが大判焼きに！台湾・台北に「ちいかわ大判焼き」専門店がオープン！",
-      "url": "https://wakamono-research.co.jp/media/chiikawa-taiyaki-taipei/",
-      "host": "wakamono-research.co.jp",
-      "source": "株式会社ワカモノリサーチ",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:00:00.000Z",
-      "image": "https://wakamono-research.co.jp/media/wp-content/uploads/2026/10/chiikawa-taiyaki-taipei-1.png",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
       ],
       "isOfficial": false,
       "isPR": false,
