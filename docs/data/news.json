@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:30:16.685Z",
+  "updatedAt": "2026-11-06T07:00:17.476Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 109,
-  "todayCount": 19,
+  "todayCount": 20,
   "categories": [
     {
       "id": "goods",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "山陽新聞",
@@ -173,7 +173,7 @@
       "count": 2
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -222,10 +222,6 @@
     },
     {
       "name": "AdverTimes.（アドタイ） by 宣伝会議",
-      "count": 1
-    },
-    {
-      "name": "日本経済新聞",
       "count": 1
     },
     {
@@ -790,22 +786,41 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T06:00:16.811Z",
-    "previousCount": 112,
-    "newCount": 0
+    "previousAt": "2026-11-06T06:30:16.685Z",
+    "previousCount": 109,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T07:00:16.685Z",
+  "nextUpdateAt": "2026-11-06T07:30:17.476Z",
   "items": [
     {
-      "id": "aae89a573dbb",
-      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん (関連動画)",
-      "url": "https://thetv.jp/news/detail/1455098/embed/video/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "id": "5a328a4a1bb3",
+      "title": "【ヤフコメで話題】「ちいかわが洋画大作を上回る人気」「日本市場の独自性に注目」 - 洋画不振と国産キャラクターの台頭",
+      "url": "https://news.yahoo.co.jp/articles/7619cafb3af0b9f976a6d9e9b9c091c25789fe72",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-06T05:44:19.000Z",
-      "image": "https://thetv.jp/i/nw/1455098/19082909.jpg?w=1284",
+      "publishedAt": "2026-11-06T06:34:22.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "aae89a573dbb",
+      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん",
+      "url": "https://news.nicovideo.jp/watch/nw19963586?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T05:57:33.000Z",
+      "image": "",
       "categories": [
         "book"
       ],
@@ -1532,25 +1547,6 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-prize-parade-christmas-tree2-2026-eyecatch.jpg",
       "categories": [
         "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b3ef18655e2d",
-      "title": "新語・流行語大賞候補に「ちいかわ」「りくりゅう」「フィジカルAI」",
-      "url": "https://www.nikkei.com/article/DGXZQOUD054670V01C26A1000000/",
-      "host": "nikkei.com",
-      "source": "日本経済新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:46:21.000Z",
-      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3834217005112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.78&fp-y=0.74&h=630&w=1200&s=3b3444bd14b9a60ab8c93fb6242ac315",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
