@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-07T01:00:16.666Z",
+  "updatedAt": "2026-11-07T01:30:15.724Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 116,
-  "todayCount": 8,
+  "total": 115,
+  "todayCount": 9,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "kuji",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 36
+      "count": 34
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "momonga",
@@ -90,7 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 25
+    },
+    {
+      "name": "インサイド",
+      "count": 6
     },
     {
       "name": "コラボカフェ",
@@ -102,15 +106,11 @@
     },
     {
       "name": "山陽新聞",
-      "count": 6
-    },
-    {
-      "name": "インサイド",
       "count": 5
     },
     {
       "name": "Excite エキサイト",
-      "count": 5
+      "count": 4
     },
     {
       "name": "ナタリー",
@@ -246,6 +246,10 @@
     },
     {
       "name": "静岡ライフ",
+      "count": 1
+    },
+    {
+      "name": "アニメージュプラス",
       "count": 1
     },
     {
@@ -611,6 +615,34 @@
       ]
     },
     {
+      "id": "2a9f5db3b553",
+      "title": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種",
+      "summary": "トーキングより、即完売となった「ちいかわ Fluffy time」の追加生産が発表！2026年11月13日18時より販売されます。",
+      "url": "https://www.inside-games.jp/article/2026/11/07/190502.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1803822.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-07T01:30:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "うさぎ",
+        "ファサ",
+        "シリーズ"
+      ],
+      "articles": [
+        {
+          "title": "うさぎの髪がファサ…「ちいかわ」ふわふわな“毛量シリーズ”グッズが11月6日発売！アパレルやファーマフラー、バッグなど全13種（インサイド）",
+          "url": "https://news.yahoo.co.jp/articles/d29d622db36d46c8c258e06c8dd2394be403bcd9",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-05T10:15:03.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "a85ba696af3a",
       "title": "映画ちいかわ 人気プライズ6アイテム 12月頃より順次再登場!",
       "summary": "",
@@ -719,45 +751,37 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "12b24719c95b",
-      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
-      "summary": "",
-      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2730264?ph",
-      "image": "https://fki.ismcdn.jp/mwimgs/9/5/-/img_954d79efdd27de067dcc98f5ac9f100e90515.jpg",
-      "leadSource": "福井新聞社",
-      "publishedAt": "2026-11-05T11:31:49.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "keywords": [
-        "ana",
-        "コラボグッズ",
-        "アナウンス"
-      ],
-      "articles": [
-        {
-          "title": "ANA「ちいかわ」コラボグッズ、21店舗で完売。「再販売、追加生産を検討中」とアナウンス（トラベル Watch）",
-          "url": "https://news.yahoo.co.jp/articles/524c73a13df3bfb8b2da629067282a9534a31ba7",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-04T12:55:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T00:30:17.005Z",
-    "previousCount": 117,
-    "newCount": 0
+    "previousAt": "2026-11-07T01:00:16.666Z",
+    "previousCount": 116,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T01:30:16.666Z",
+  "nextUpdateAt": "2026-11-07T02:00:15.724Z",
   "items": [
+    {
+      "id": "2a9f5db3b553",
+      "title": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種",
+      "url": "https://www.inside-games.jp/article/2026/11/07/190502.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "トーキングより、即完売となった「ちいかわ Fluffy time」の追加生産が発表！2026年11月13日18時より販売されます。",
+      "publishedAt": "2026-11-07T01:30:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1803822.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "9ec586472e05",
       "title": "11月7日(土)の「ちいかわ占い」",
@@ -2269,11 +2293,11 @@
     {
       "id": "69f2d5763acb",
       "title": "【キラピチ】12月号の別冊付録は『ちいかわ』スケジュール帳＆シャカシャカシール！",
-      "url": "http://www.excite.co.jp/news/article/AnimagePlus_anime_68155/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://animageplus.jp/articles/detail/68155",
+      "host": "animageplus.jp",
+      "source": "アニメージュプラス",
       "summary": "",
-      "publishedAt": "2026-11-04T22:30:00.000Z",
+      "publishedAt": "2026-11-04T22:31:37.000Z",
       "image": "",
       "categories": [
         "goods",
@@ -2675,25 +2699,6 @@
       "isNew": false
     },
     {
-      "id": "0ee18d6ea943",
-      "title": "「ちいかわ」シークレットはめくると別のカードが！「カードダス」パジャマパーティーズなど全30種、金色箔押し・ホログラム仕様も",
-      "url": "https://news.yahoo.co.jp/articles/0430172aefb4c588919d8b78bc3c426769f0e1cd",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-04T08:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-00000035-isd-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "573f91d8a18d",
       "title": "【2026】コンビニクリスマスケーキ徹底比較！セブン「ちいかわ・スンスン・たまごっち」、ローソン小さめサイズ倍増、ファミマ「ピエール マルコリーニ」話題作や早割情報まとめ（ウォーカープラス）",
       "url": "https://news.yahoo.co.jp/articles/a0cf6d8467782043cdeae661ae7d829b351e380c",
@@ -3021,25 +3026,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/9/4/4/7/944793119dcf358d8ee21c2c327dbe24_1.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d3ad4a44038",
-      "title": "77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」",
-      "url": "https://www.sanyonews.jp/article/2011940?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-04T01:48:27.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/f/2/f/0f2f849694dfdfef5d42c6e36d01c665_1.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
