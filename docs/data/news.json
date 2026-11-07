@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:30:17.074Z",
+  "updatedAt": "2026-11-07T21:00:18.476Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 19
+      "count": 20
     },
     {
       "name": "電撃オンライン",
@@ -286,10 +286,6 @@
     },
     {
       "name": "静岡ライフ",
-      "count": 1
-    },
-    {
-      "name": "Nippon.com",
       "count": 1
     }
   ],
@@ -721,12 +717,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T20:00:15.643Z",
-    "previousCount": 102,
-    "newCount": 4
+    "previousAt": "2026-11-07T20:30:17.074Z",
+    "previousCount": 104,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T21:00:17.074Z",
+  "nextUpdateAt": "2026-11-07T21:30:18.476Z",
   "items": [
     {
       "id": "c55561d6170e",
@@ -1271,7 +1267,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ab58d1fe78d2",
@@ -1843,7 +1839,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "de8ce04e3b79",
@@ -2059,7 +2055,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ecf1cac61b24",
@@ -2270,6 +2266,25 @@
       "categories": [
         "goods",
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "23d3b9c2d29e",
+      "title": "『映画ちいかわ』を国際政治学から読み解く：なぜ争いは始まり、なぜ終わらないのか（nippon.com）",
+      "url": "https://news.yahoo.co.jp/articles/08ad38c32e553cfe4ddf97842cd436a7dc8d2c64",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-05T08:26:52.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00015002-nipponcom-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2586,7 +2601,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f4c6ad483ec",
@@ -2757,25 +2772,6 @@
       "categories": [
         "goods",
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "23d3b9c2d29e",
-      "title": "『映画ちいかわ』を国際政治学から読み解く：なぜ争いは始まり、なぜ終わらないのか",
-      "url": "https://www.nippon.com/ja/articles/-/56353",
-      "host": "nippon.com",
-      "source": "Nippon.com",
-      "summary": "",
-      "publishedAt": "2026-11-04T21:00:00.000Z",
-      "image": "https://nippon.ismcdn.jp/mwimgs/0/d/1200wm/img_0da8448cdc1558cfe0831f7b7be039a1580612.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
