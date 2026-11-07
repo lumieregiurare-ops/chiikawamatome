@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T16:30:17.097Z",
+  "updatedAt": "2026-11-07T17:00:17.798Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 101,
+  "total": 100,
   "todayCount": 3,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 19
+      "count": 18
     },
     {
       "id": "event",
@@ -101,10 +101,6 @@
       "count": 5
     },
     {
-      "name": "朝日新聞",
-      "count": 4
-    },
-    {
       "name": "山陽新聞",
       "count": 4
     },
@@ -126,6 +122,10 @@
     },
     {
       "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
+      "name": "朝日新聞",
       "count": 3
     },
     {
@@ -713,12 +713,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T16:00:21.758Z",
-    "previousCount": 102,
-    "newCount": 1
+    "previousAt": "2026-11-07T16:30:17.097Z",
+    "previousCount": 101,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T17:00:17.097Z",
+  "nextUpdateAt": "2026-11-07T17:30:17.798Z",
   "items": [
     {
       "id": "c55561d6170e",
@@ -1265,6 +1265,25 @@
       "isNew": false
     },
     {
+      "id": "ab58d1fe78d2",
+      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
+      "url": "https://www.sanyonews.jp/article/2010749?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T20:00:28.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "a85ba696af3a",
       "title": "映画ちいかわ 人気プライズ6アイテム 12月頃より順次再登場!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-prize-resale-2026-pre-info/",
@@ -1283,25 +1302,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f50734ba6c19",
-      "title": "【至福のロールケーキ】「果匠とびくま」から、シャインマスカット・ナガノパープルを贅沢に使用した限定スイーツが登場！",
-      "url": "https://www.asahi.com/and/pressrelease/16871775",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-06T17:42:35.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d7d99f4306d7",
@@ -1954,25 +1954,6 @@
       "isNew": false
     },
     {
-      "id": "ab58d1fe78d2",
-      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
-      "url": "https://www.sanyonews.jp/article/2010749?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T16:21:59.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ecf1cac61b24",
       "title": "「ちいかわ」クリスマスアイテムを中心にさまざまな新商品が発売！くりまんじゅうたちの「ラーメン豚」店員さんなマスコットなど多数",
       "url": "https://news.yahoo.co.jp/articles/59f56ba4df7aeca90167a4cb38c0e01f45e0a3a2",
@@ -2488,7 +2469,7 @@
       "source": "ジモシル宮崎市",
       "summary": "",
       "publishedAt": "2026-11-05T03:00:42.000Z",
-      "image": "",
+      "image": "https://myzkc.jp/wp-content/uploads/2026/11/imgi_2_750_387_02-chiikawa-ana.jpg",
       "categories": [
         "goods"
       ],
