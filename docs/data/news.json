@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:30:18.006Z",
+  "updatedAt": "2026-11-07T15:00:17.561Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 101,
-  "todayCount": 31,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 35
+      "count": 36
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "event",
@@ -105,10 +105,6 @@
       "count": 5
     },
     {
-      "name": "朝日新聞",
-      "count": 4
-    },
-    {
       "name": "au Webポータル",
       "count": 3
     },
@@ -122,6 +118,10 @@
     },
     {
       "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
+      "name": "朝日新聞",
       "count": 3
     },
     {
@@ -189,10 +189,6 @@
       "count": 1
     },
     {
-      "name": "AGARA 紀伊民報",
-      "count": 1
-    },
-    {
       "name": "매일경제",
       "count": 1
     },
@@ -217,6 +213,10 @@
       "count": 1
     },
     {
+      "name": "AGARA 紀伊民報",
+      "count": 1
+    },
+    {
       "name": "LEE",
       "count": 1
     },
@@ -234,6 +234,10 @@
     },
     {
       "name": "gamebiz【ゲームビズ】",
+      "count": 1
+    },
+    {
+      "name": "Dtimes",
       "count": 1
     },
     {
@@ -750,12 +754,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T14:00:17.295Z",
-    "previousCount": 99,
-    "newCount": 3
+    "previousAt": "2026-11-07T14:30:18.006Z",
+    "previousCount": 101,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T15:00:18.006Z",
+  "nextUpdateAt": "2026-11-07T15:30:17.561Z",
   "items": [
     {
       "id": "2660471428c7",
@@ -774,7 +778,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9fbc4a1a7ed1",
@@ -1122,25 +1126,6 @@
       "isNew": false
     },
     {
-      "id": "325c3497a246",
-      "title": "ちいかわクリスマスマーケット、限定オリジナルグッズ公開 スノードームやトレーナーなどホリデーアイテムずらり",
-      "url": "https://www.agara.co.jp/article/706608",
-      "host": "agara.co.jp",
-      "source": "AGARA 紀伊民報",
-      "summary": "",
-      "publishedAt": "2026-11-07T02:35:57.000Z",
-      "image": "https://www.agara.co.jp/image/article/size1/f/8/1/1/f811f72712208f8a46e772b0d3fb481c_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a6e311a446e8",
       "title": "映画「最終面接」、ボックスオフィスで1位奪還…「ちいかわ」や「コナン」ら日本アニメ作品も上位を記録",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUdHNzZzTVlXZUtrWl9iZHRYMEVLcW1nWVdYdFRxLU5CcDJWREMzZGNoVU5nQU5yNHBYNTM4NUlZSEhlek9rNVJwRFZsUUwzMC0wV0o1R0R6QTZSbzN4N2ZCWWUtUEVmTlJyU1lSOFRMczZmUHI0WEUxX2VTLXJZbGw1ZjNqM2NWajJ0S2VIRdIBlAFBVV95cUxPeXoyem5ha2lLZmNUNkEzbllONkNsbGxIVHB5MGpKNFdZRGxyNFVNUzM3MjVDbFZLUWVRdGh3V1cxeW8xWk0yT29FTzZIUWFyT2dfWmRqc2ZtVE1sLWJ2Nm04U3psbmVnTThOX2FUMTA1X3pBX28tY2RIVVo4dnFBSlhKdXBrNFdOa09PQTF5U0IxNFhZ?oc=5",
@@ -1259,25 +1244,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f50734ba6c19",
-      "title": "【至福のロールケーキ】「果匠とびくま」から、シャインマスカット・ナガノパープルを贅沢に使用した限定スイーツが登場！",
-      "url": "https://www.asahi.com/and/pressrelease/16871775",
-      "host": "asahi.com",
-      "source": "朝日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-06T17:42:35.000Z",
-      "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d7d99f4306d7",
@@ -1418,7 +1384,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e57f26fcb601",
@@ -1431,6 +1397,25 @@
       "image": "https://www.sankei.com/resizer/v2/J7GZWOL3R5IK7E6ACQEL6GLDNI.jpg?auth=d8842594aa5e789cfc21523508694c9d83784c8d5a8d52fdd46d40b742564c97&quality=50&focal=2202%2C1710&width=1200&height=675",
       "categories": [
         "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "325c3497a246",
+      "title": "ちいかわクリスマスマーケット、限定オリジナルグッズ公開 スノードームやトレーナーなどホリデーアイテムずらり",
+      "url": "https://www.agara.co.jp/article/706608",
+      "host": "agara.co.jp",
+      "source": "AGARA 紀伊民報",
+      "summary": "",
+      "publishedAt": "2026-11-06T11:44:00.000Z",
+      "image": "https://www.agara.co.jp/image/article/size1/f/8/1/1/f811f72712208f8a46e772b0d3fb481c_1.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1693,6 +1678,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5be840921eb0",
+      "title": "きらめく瞳のぬいぐるみやフィギュアを駅直結で！ＫＩＴＴＥ名古屋「ちいかわ」デザインの自動販売機",
+      "url": "https://dtimes.jp/post-1452567/",
+      "host": "dtimes.jp",
+      "source": "Dtimes",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:53:52.000Z",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-587fc21784701ae1cadf109915fa4bbe-20261105-285ab0.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "369d74fe7054",
