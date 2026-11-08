@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T20:00:14.717Z",
+  "updatedAt": "2026-11-08T20:30:16.857Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 91,
+  "total": 92,
   "todayCount": 2,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "event",
@@ -42,7 +42,7 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "other",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 15
     },
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ｄメニューニュース",
@@ -210,10 +210,6 @@
     },
     {
       "name": "au Webポータル",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド",
       "count": 1
     },
     {
@@ -628,12 +624,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T19:30:16.065Z",
-    "previousCount": 93,
-    "newCount": 0
+    "previousAt": "2026-11-08T20:00:14.717Z",
+    "previousCount": 91,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T20:30:14.717Z",
+  "nextUpdateAt": "2026-11-08T21:00:16.857Z",
   "items": [
     {
       "id": "d4b20970477b",
@@ -1309,6 +1305,27 @@
       "isNew": false
     },
     {
+      "id": "37364758b3bf",
+      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は (リアルサウンド)",
+      "url": "https://news.yahoo.co.jp/articles/d7615401aaeed569e83245bd3c9e547003c74809/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T06:40:58.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26pQaCT96Y0Akc5mwhC5m9gJddnxPBkY0JhfArhKFAjyFkEk1scDX6_PZpUHsW0n7cuNlks5XJXdeDcZezzFrKbhSuVWO_ppAaPtZ8rUomoszqxsdPfrJgK0BH3vYk8JVrQ==",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6bed1bc498b1",
       "title": "『ちいかわ×ANA』コラボレーショングッズ第一弾 ～購入個数制限の期間延長のお知らせ～",
       "url": "https://373news.com/lifestyle/info/pr_times/detail/000000019.000035055.html",
@@ -1429,27 +1446,6 @@
       "isNew": false
     },
     {
-      "id": "37364758b3bf",
-      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は",
-      "url": "https://realsound.jp/book/2026/11/post-2577442.html",
-      "host": "realsound.jp",
-      "source": "リアルサウンド",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:14:23.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-chiikawakiiro-00002.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1de9a444ab4a",
       "title": "『ちいかわ』最新話 パピコの最後に黄色いハチワレ出現 (2026年11月7日掲載)",
       "url": "https://news.livedoor.com/topics/detail/32755937/",
@@ -1538,7 +1534,7 @@
       "source": "매일경제",
       "summary": "",
       "publishedAt": "2026-11-07T00:30:00.000Z",
-      "image": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.e8e58d24f7db4c75ad9644cd1cb679a9_R.png",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -1966,6 +1962,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "60a21394f89e",
+      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
+      "url": "https://www.sanyonews.jp/article/1965008",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
+      "categories": [
+        "collab",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dec0ff5d23b6",
