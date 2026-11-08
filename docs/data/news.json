@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T03:30:17.722Z",
+  "updatedAt": "2026-11-08T04:00:16.954Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 102,
-  "todayCount": 14,
+  "total": 103,
+  "todayCount": 16,
   "categories": [
     {
       "id": "goods",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "event",
@@ -47,24 +47,24 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 33
+      "count": 34
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 22
+      "count": 23
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kurimanju",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 17
     },
     {
       "name": "インサイド",
@@ -102,7 +102,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 5
+      "count": 6
     },
     {
       "name": "コラボカフェ",
@@ -134,10 +134,6 @@
     },
     {
       "name": "にじめん",
-      "count": 2
-    },
-    {
-      "name": "中日新聞Web",
       "count": 2
     },
     {
@@ -178,6 +174,10 @@
     },
     {
       "name": "映画.com",
+      "count": 1
+    },
+    {
+      "name": "めざましmedia",
       "count": 1
     },
     {
@@ -249,10 +249,6 @@
       "count": 1
     },
     {
-      "name": "Dtimes",
-      "count": 1
-    },
-    {
       "name": "ファッションプレス",
       "count": 1
     },
@@ -282,6 +278,10 @@
     },
     {
       "name": "MEDIAMIXI",
+      "count": 1
+    },
+    {
+      "name": "中日新聞Web",
       "count": 1
     }
   ],
@@ -696,12 +696,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T03:00:18.285Z",
-    "previousCount": 104,
-    "newCount": 2
+    "previousAt": "2026-11-08T03:30:17.722Z",
+    "previousCount": 102,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T04:00:17.722Z",
+  "nextUpdateAt": "2026-11-08T04:30:16.954Z",
   "items": [
     {
       "id": "80b63fc53012",
@@ -722,7 +722,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "21bea1108123",
@@ -743,7 +743,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3be35502b69d",
@@ -923,6 +923,25 @@
       "isNew": false
     },
     {
+      "id": "9f748e8c6568",
+      "title": "週刊ちいかわ恋占い 2026年11月8日（日）～11月14日（土）",
+      "url": "https://mezamashi.media/articles/-/364090",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
+      "summary": "",
+      "publishedAt": "2026-11-07T22:00:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/a/b/1200xm/img_ab1c0017bb3e05476dfae42b7f6a45c8531142.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cfca7dca339a",
       "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
       "url": "https://toyokeizai.net/articles/photo/957290?pn",
@@ -933,6 +952,25 @@
       "image": "",
       "categories": [
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "77b021a19276",
+      "title": "「かっこいい」ディーン・フジオカ、「ちいかわ」のエンディングテーマを英語バージョンで披露「完璧じゃないとこ、愛しい…」",
+      "url": "https://news.yahoo.co.jp/articles/dab28aa4b05c9e197107de81719026858f972400",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T20:45:52.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000007-chuspo-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1008,32 +1046,13 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261108122118",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261108130030",
       "categories": [
         "other"
       ],
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "77b021a19276",
-      "title": "「かっこいい」ディーン・フジオカ、「ちいかわ」のエンディングテーマを英語バージョンで披露「完璧じゃないとこ、愛しい…」",
-      "url": "https://www.chunichi.co.jp/article/1336331",
-      "host": "chunichi.co.jp",
-      "source": "中日新聞Web",
-      "summary": "",
-      "publishedAt": "2026-11-07T12:26:26.000Z",
-      "image": "https://static.chunichi.co.jp/image/article/size1/3/c/d/f/3cdf0b6c011a6024f19a364d3fc018f1_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1843,23 +1862,28 @@
       "isNew": false
     },
     {
-      "id": "0dc5ab78e9c3",
-      "title": "くら寿司「ちいかわ」キャンペーン中止の“お詫び”割引、一部で適用されず…謝罪 返金対応について発表【対象・方法など】",
-      "url": "https://www.sanyonews.jp/article/1986333",
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/1/2/3/b1232e5dddf7eb745a789e9fc9230c96_1.jpg",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
       "categories": [
+        "goods",
         "collab"
       ],
-      "series": [],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "0e0289ce883e",
@@ -1931,25 +1955,6 @@
       "image": "https://portal.auone.jp/media/thumbnails/2026/11/06/https___jisin_jp__p_2608120_w1200.webp",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5be840921eb0",
-      "title": "きらめく瞳のぬいぐるみやフィギュアを駅直結で！ＫＩＴＴＥ名古屋「ちいかわ」デザインの自動販売機",
-      "url": "https://dtimes.jp/post-1452567/",
-      "host": "dtimes.jp",
-      "source": "Dtimes",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:53:52.000Z",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-587fc21784701ae1cadf109915fa4bbe-20261105-285ab0.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2489,6 +2494,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e9e6377470ee",
+      "title": "モンテールとちいかわが今年もコラボ 『むちゃうまプリン』イメージのスイーツ2品登場",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7fadbed28a51",
