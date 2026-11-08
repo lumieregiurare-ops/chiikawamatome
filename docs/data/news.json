@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08T05:00:15.669Z",
+  "updatedAt": "2026-11-08T05:30:16.265Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 101,
+  "total": 98,
   "todayCount": 16,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kuji",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 20
+      "count": 18
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 18
+      "count": 17
     },
     {
       "id": "book",
@@ -47,24 +47,24 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 34
+      "count": 32
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 22
+      "count": 23
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kurimanju",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 16
     },
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 7
     },
     {
       "name": "インサイド",
@@ -117,11 +117,11 @@
       "count": 3
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "ふねぽ",
       "count": 3
     },
     {
-      "name": "ふねぽ",
+      "name": "ｄメニューニュース",
       "count": 3
     },
     {
@@ -181,19 +181,11 @@
       "count": 1
     },
     {
-      "name": "めざましmedia",
-      "count": 1
-    },
-    {
       "name": "東洋経済オンライン",
       "count": 1
     },
     {
       "name": "西スポWEB OTTO!",
-      "count": 1
-    },
-    {
-      "name": "中日新聞Web",
       "count": 1
     },
     {
@@ -283,10 +275,6 @@
     {
       "name": "AdverTimes.（アドタイ） by 宣伝会議",
       "count": 1
-    },
-    {
-      "name": "MEDIAMIXI",
-      "count": 1
     }
   ],
   "topics": [
@@ -345,7 +333,7 @@
       "title": "ちいかわ》キャラクター人気ランキング！ 3位「シーサー」…2位＆1位は？（オトナンサー",
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/e7dddf357cc8e5ff5066975d6d36fe01998233f2",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00407275-otonans-000-1-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00407275-otonans-000-3-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-08T03:15:00.000Z",
       "sourceCount": 3,
@@ -701,13 +689,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T04:30:16.394Z",
-    "previousCount": 98,
-    "newCount": 6
+    "previousAt": "2026-11-08T05:00:15.669Z",
+    "previousCount": 101,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T05:30:15.669Z",
+  "nextUpdateAt": "2026-11-08T06:00:16.265Z",
   "items": [
+    {
+      "id": "67d9db8d27b3",
+      "title": "しまむらパークで「ちいかわ」グッズが11月9日12時よりオンライン販売！仕事・勉強のワンシーンを彩るペンポーチ全6種",
+      "url": "https://www.inside-games.jp/article/2026/11/08/190552.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "シャンブルより、「ちいかわ」のグッズがしまむらパーク（オンラインストア）にて2026年11月9日12時より販売！",
+      "publishedAt": "2026-11-08T05:30:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1804650.jpg",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "80b63fc53012",
       "title": "ちいかわ》キャラクター人気ランキング！ 3位「シーサー」…2位＆1位は？（オトナンサー",
@@ -716,7 +724,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-08T03:15:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00407275-otonans-000-1-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00407275-otonans-000-3-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -928,45 +936,6 @@
       "isNew": false
     },
     {
-      "id": "2900581ad3b8",
-      "title": "ちいかわレストランの討伐フェアをテーマにしたドリンクスタンドとグッズショップが期間限定で開催へ",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95Vm45M0NoS2pkRzU3VjRwM2ZIM3JWUVJKM1lKYVBwclNVTVB2Rm1ienhFUng5YWMzTjhYOUlTT0lneUVYYmVHdThrVzJERWtFTEg5SEpSa3dRRDhBbFpUN1dRZWNNOHNYNkJwU2Q3UFEzZUZBdGJlUFhxdXPSAYIBQVVfeXFMTlNFWHVETEMzZVhwaERpb1dBd3Rabmc0UWpDUHBLby1zQzhjdDF4WmZWVXNNX1pBb2lVS3RGcGhtNGVOdGJDdkpBYnZLbzFJVG9BYzZVNTdNbkJ3TjJzNWppOWhPVDJvYkxyekVROG5wczZHYmp6ODA2V2daSEZnUHdjdw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T22:06:32.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9f748e8c6568",
-      "title": "週刊ちいかわ恋占い 2026年11月8日（日）～11月14日（土）",
-      "url": "https://mezamashi.media/articles/-/364090",
-      "host": "mezamashi.media",
-      "source": "めざましmedia",
-      "summary": "",
-      "publishedAt": "2026-11-07T22:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/a/b/1200xm/img_ab1c0017bb3e05476dfae42b7f6a45c8531142.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "cfca7dca339a",
       "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
       "url": "https://toyokeizai.net/articles/photo/957290?pn",
@@ -977,6 +946,25 @@
       "image": "",
       "categories": [
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "77b021a19276",
+      "title": "「かっこいい」ディーン・フジオカ、「ちいかわ」のエンディングテーマを英語バージョンで披露「完璧じゃないとこ、愛しい…」",
+      "url": "https://news.yahoo.co.jp/articles/dab28aa4b05c9e197107de81719026858f972400",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T20:45:52.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000007-chuspo-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1052,32 +1040,13 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261108140027",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261108143029",
       "categories": [
         "other"
       ],
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "77b021a19276",
-      "title": "「かっこいい」ディーン・フジオカ、「ちいかわ」のエンディングテーマを英語バージョンで披露「完璧じゃないとこ、愛しい…」",
-      "url": "https://www.chunichi.co.jp/article/1336331",
-      "host": "chunichi.co.jp",
-      "source": "中日新聞Web",
-      "summary": "",
-      "publishedAt": "2026-11-07T12:26:26.000Z",
-      "image": "https://static.chunichi.co.jp/image/article/size1/3/c/d/f/3cdf0b6c011a6024f19a364d3fc018f1_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1412,12 +1381,12 @@
     {
       "id": "2a9f5db3b553",
       "title": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種",
-      "url": "https://www.inside-games.jp/article/2026/11/07/190502.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "トーキングより、即完売となった「ちいかわ Fluffy time」の追加生産が発表！2026年11月13日18時より販売されます。",
+      "url": "https://news.yahoo.co.jp/articles/d427d49b0d66911f6ddbab5bd018be3f5c446aaa",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-11-07T01:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1803822.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00000017-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1588,7 +1557,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "23185e109dff",
@@ -1888,38 +1857,43 @@
       "isNew": false
     },
     {
-      "id": "60a21394f89e",
-      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
-      "url": "https://www.sanyonews.jp/article/1965008",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "2900581ad3b8",
+      "title": "ちいかわレストランの討伐フェアをテーマにしたドリンクスタンドとグッズショップが期間限定で開催へ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95Vm45M0NoS2pkRzU3VjRwM2ZIM3JWUVJKM1lKYVBwclNVTVB2Rm1ienhFUng5YWMzTjhYOUlTT0lneUVYYmVHdThrVzJERWtFTEg5SEpSa3dRRDhBbFpUN1dRZWNNOHNYNkJwU2Q3UFEzZUZBdGJlUFhxdXPSAYIBQVVfeXFMTlNFWHVETEMzZVhwaERpb1dBd3Rabmc0UWpDUHBLby1zQzhjdDF4WmZWVXNNX1pBb2lVS3RGcGhtNGVOdGJDdkpBYnZLbzFJVG9BYzZVNTdNbkJ3TjJzNWppOWhPVDJvYkxyekVROG5wczZHYmp6ODA2V2daSEZnUHdjdw?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
+      "image": "",
       "categories": [
-        "collab",
-        "game"
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "0dc5ab78e9c3",
-      "title": "くら寿司「ちいかわ」キャンペーン中止の“お詫び”割引、一部で適用されず…謝罪 返金対応について発表【対象・方法など】",
-      "url": "https://www.sanyonews.jp/article/1986333",
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/1/2/3/b1232e5dddf7eb745a789e9fc9230c96_1.jpg",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
       "categories": [
+        "goods",
         "collab"
       ],
-      "series": [],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1937,6 +1911,26 @@
       "image": "https://cimg.kgl-systems.io/camion/files/92577/ogp_MuYo.png?x=1280",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60a21394f89e",
+      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
+      "url": "https://www.sanyonews.jp/article/1965008",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
+      "categories": [
+        "collab",
+        "game"
       ],
       "series": [],
       "isOfficial": false,
@@ -2202,26 +2196,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b6877120039d",
-      "title": "みなとみらいの大観覧車が“ちいかわ”のライトアップに…『映画ちいかわ』×横浜市コラボで「コスモクロック21」特別演出の実施を発表",
-      "url": "https://www.sanyonews.jp/article/1956753?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:37:02.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/c/3/0/bc3026cb8e77ef8442b23aa5de72f647_1.jpg",
-      "categories": [
-        "collab",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fe99942c9051",
@@ -2576,8 +2550,8 @@
       "isNew": false
     },
     {
-      "id": "5a02f8a57c36",
-      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
+      "id": "e9e6377470ee",
+      "title": "モンテールとちいかわが今年もコラボ 『むちゃうまプリン』イメージのスイーツ2品登場",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
@@ -2664,45 +2638,6 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-prize-parade-christmas-tree2-2026-eyecatch.jpg",
       "categories": [
         "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "475c9a1e547c",
-      "title": "興収184億円の次は英語圏へ 『ちいかわ』はYouTubeと玩具で入口をつくる | ニュース | IT×エンタメの最前線を届ける",
-      "url": "https://mediamixi.jp/news/18035/",
-      "host": "mediamixi.jp",
-      "source": "MEDIAMIXI",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:21:00.000Z",
-      "image": "https://mediamixi.jp/app/uploads/2026/11/1105_001.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "75ca79a9f6de",
-      "title": "【流行語ノミネート30】「ちいかわ（現象）」癒やしキャラで大人も魅了 コラボグッズも（日刊スポーツ）",
-      "url": "https://news.yahoo.co.jp/articles/63c92d13762643eab5932eee17dec2cd20938953",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:01:04.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-41050342-nksports-000-4-view.jpg?exp=10800",
-      "categories": [
-        "goods",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
