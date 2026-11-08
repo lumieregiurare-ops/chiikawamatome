@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:00:16.661Z",
+  "updatedAt": "2026-11-08T12:30:15.114Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 95,
-  "todayCount": 25,
+  "todayCount": 26,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 30
+      "count": 29
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "event",
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "momonga",
@@ -129,10 +129,6 @@
       "count": 2
     },
     {
-      "name": "au Webポータル",
-      "count": 2
-    },
-    {
       "name": "日経クロストレンド",
       "count": 2
     },
@@ -165,6 +161,10 @@
       "count": 2
     },
     {
+      "name": "TBS NEWS DIG",
+      "count": 1
+    },
+    {
       "name": "オトナンサー",
       "count": 1
     },
@@ -189,6 +189,10 @@
       "count": 1
     },
     {
+      "name": "au Webポータル",
+      "count": 1
+    },
+    {
       "name": "PrettyOnline",
       "count": 1
     },
@@ -206,6 +210,10 @@
     },
     {
       "name": "南日本新聞",
+      "count": 1
+    },
+    {
+      "name": "GourmetBiz",
       "count": 1
     },
     {
@@ -270,10 +278,6 @@
     },
     {
       "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
-      "name": "Excite エキサイト",
       "count": 1
     }
   ],
@@ -521,6 +525,34 @@
       ]
     },
     {
+      "id": "ebf23a42a3f4",
+      "title": "「ちいかわ×くら寿司」突如コラボ中止 転売など“トラブル懸念”あってもなぜコラボ？企業の思惑とは【Nスタ解説】",
+      "summary": "",
+      "url": "https://newsdig.tbs.co.jp/articles/gallery/2927564",
+      "image": "https://newsdig.ismcdn.jp/mwimgs/3/f/1200w/img_3f1fde6a52432ccea8098ed7e35b9164489497.jpg",
+      "leadSource": "TBS NEWS DIG",
+      "publishedAt": "2026-11-08T03:04:52.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "collab"
+      ],
+      "keywords": [
+        "コラボ",
+        "寿司",
+        "企業"
+      ],
+      "articles": [
+        {
+          "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
+          "url": "https://toyokeizai.net/articles/photo/957290?pn",
+          "source": "東洋経済オンライン",
+          "publishedAt": "2026-11-07T21:15:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "21bea1108123",
       "title": "《ちいかわ》キャラクター人気ランキング！ 3位「シーサー」…2位＆1位は？",
       "summary": "",
@@ -632,42 +664,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "ac63ca0a7f83",
-      "title": "【もっちもち】ちいかわが「もっちる」シリーズのBIGぬいになってプライズに登場 -「嘘でしょ可愛すぎんだが」「でかすぎる」と話題",
-      "summary": "",
-      "url": "https://news.mynavi.jp/article/20261108-5216930/",
-      "image": "https://news.mynavi.jp/article/20261108-5216930/ogp_images/ogp.jpg",
-      "leadSource": "マイナビニュース",
-      "publishedAt": "2026-11-07T15:03:24.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "kuji"
-      ],
-      "keywords": [
-        "big",
-        "プライズ"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ 超BIGマイヤーブランケット プライズ 11月下旬より再登場!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-super-big-mayer-blanket-prize-resale-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-06T10:54:10.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T11:30:16.551Z",
-    "previousCount": 96,
-    "newCount": 0
+    "previousAt": "2026-11-08T12:00:16.661Z",
+    "previousCount": 95,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T12:30:16.661Z",
+  "nextUpdateAt": "2026-11-08T13:00:15.114Z",
   "items": [
     {
       "id": "f75a61b42375",
@@ -829,6 +834,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ebf23a42a3f4",
+      "title": "「ちいかわ×くら寿司」突如コラボ中止 転売など“トラブル懸念”あってもなぜコラボ？企業の思惑とは【Nスタ解説】",
+      "url": "https://newsdig.tbs.co.jp/articles/gallery/2927564",
+      "host": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
+      "summary": "",
+      "publishedAt": "2026-11-08T03:04:52.000Z",
+      "image": "https://newsdig.ismcdn.jp/mwimgs/3/f/1200w/img_3f1fde6a52432ccea8098ed7e35b9164489497.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "21bea1108123",
@@ -1388,25 +1412,6 @@
       "isNew": false
     },
     {
-      "id": "4c3bacee2ce4",
-      "title": "ちいかわ新作、発売初日から完売続出！！！「買えなかった」「売り切れてた」ファン熱狂",
-      "url": "https://article.auone.jp/c5dd2d60-91db-41de-9fc1-a3c5af6be602",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-11-07T05:57:35.000Z",
-      "image": "https://portal.auone.jp/media/thumbnails/2026/11/07/https___news_jp_i_1491678447536259316_w1200.webp",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b646d1d86a82",
       "title": "大特集『ちいかわ』 “愛され軌跡”を全解剖",
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01435/",
@@ -1417,6 +1422,25 @@
       "image": "https://xtrend.nikkei.com/atcl/contents/18/01435/nxr_m.jpg",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4c3bacee2ce4",
+      "title": "ちいかわ新作、発売初日から完売続出！！！「買えなかった」「売り切れてた」ファン熱狂",
+      "url": "https://www.gourmetbiz.net/262317/",
+      "host": "gourmetbiz.net",
+      "source": "GourmetBiz",
+      "summary": "",
+      "publishedAt": "2026-11-07T05:12:18.000Z",
+      "image": "https://www.gourmetbiz.net/wp-content/uploads/2026/11/gourmet_20261107_02_01.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2010,23 +2034,19 @@
       "isNew": false
     },
     {
-      "id": "f45dbed4d556",
-      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
-      "url": "https://www.sanyonews.jp/article/1885622",
+      "id": "60a21394f89e",
+      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
+      "url": "https://www.sanyonews.jp/article/1965008",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
       "categories": [
-        "goods",
-        "collab"
+        "collab",
+        "game"
       ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2091,19 +2111,23 @@
       "isNew": false
     },
     {
-      "id": "60a21394f89e",
-      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
-      "url": "https://www.sanyonews.jp/article/1965008",
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
       "categories": [
-        "collab",
-        "game"
+        "goods",
+        "collab"
       ],
-      "series": [],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2538,27 +2562,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e8db6339e575",
-      "title": "うさぎの髪がファサ…「ちいかわ」ふわふわな“毛量シリーズ”グッズが11月6日発売！アパレルやファーマフラー、バッグなど全13種",
-      "url": "http://www.excite.co.jp/news/article/Inside_190420/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-05T12:07:13.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
