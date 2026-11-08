@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T18:00:18.555Z",
+  "updatedAt": "2026-11-08T18:30:16.472Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 93,
-  "todayCount": 0,
+  "total": 94,
+  "todayCount": 1,
   "categories": [
     {
       "id": "goods",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 19
+      "count": 20
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -94,7 +94,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ｄメニューニュース",
@@ -640,13 +640,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T17:30:18.001Z",
-    "previousCount": 94,
+    "previousAt": "2026-11-08T18:00:18.555Z",
+    "previousCount": 93,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T18:30:18.555Z",
+  "nextUpdateAt": "2026-11-08T19:00:16.472Z",
   "items": [
+    {
+      "id": "d4b20970477b",
+      "title": "「ちいかわ（現象）」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
+      "url": "https://www.sanyonews.jp/article/2016149?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T17:13:01.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/0/a/f/b0af4bae32648164930e52ff0d5ac803_1.jpg",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "0686788488ca",
       "title": "注目のキャラクターグッズ5選！サンリオキャラクターズやちいかわグッズをピックアップ！【2026年秋版】 - Kids Well-being",
@@ -882,7 +902,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "21bea1108123",
@@ -1187,7 +1207,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261109030031",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261109033031",
       "categories": [
         "other"
       ],
