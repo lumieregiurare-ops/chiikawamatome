@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T19:00:16.550Z",
+  "updatedAt": "2026-11-08T19:30:16.065Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 90,
-  "todayCount": 1,
+  "total": 93,
+  "todayCount": 3,
   "categories": [
     {
       "id": "goods",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 18
+      "count": 21
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 10
     },
     {
       "name": "ｄメニューニュース",
@@ -154,6 +154,10 @@
     },
     {
       "name": "朝日新聞",
+      "count": 2
+    },
+    {
+      "name": "アニメハック",
       "count": 2
     },
     {
@@ -234,10 +238,6 @@
     },
     {
       "name": "ぴあエンタメ情報",
-      "count": 1
-    },
-    {
-      "name": "アニメハック",
       "count": 1
     },
     {
@@ -628,13 +628,52 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T18:30:16.472Z",
-    "previousCount": 94,
-    "newCount": 0
+    "previousAt": "2026-11-08T19:00:16.550Z",
+    "previousCount": 90,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T19:30:16.550Z",
+  "nextUpdateAt": "2026-11-08T20:00:16.065Z",
   "items": [
+    {
+      "id": "a4b3c306fc9d",
+      "title": "本編放送前に“カニちゃん”も登場…アニメ『ちいかわ』主要キャラ総出演の新PV公開に反響続々「キターーー!!!」「しゃべったあああああ」「朝から泣いてる」",
+      "url": "https://www.sanyonews.jp/article/1914693?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T17:20:50.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/8/e/1/58e156d75dc5103b04550db23ae525b3_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d4b20970477b",
+      "title": "「ちいかわ（現象）」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
+      "url": "https://www.sanyonews.jp/article/2016149?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T17:13:01.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/0/a/f/b0af4bae32648164930e52ff0d5ac803_1.jpg",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "9fbc4a1a7ed1",
       "title": "「ギャップが凄すぎる」世界一野球がうまい〝ちいかわ〟武拓人さんプレーに「おもろい」「野球部の動きだなぁ」",
@@ -989,25 +1028,23 @@
       "isNew": false
     },
     {
-      "id": "ec42d4fa3a66",
-      "title": "「FNS歌謡祭」で「映画ちいかわ」メドレー披露 「今日の日はさようなら」「うさぎラップ」「島のうた」の3曲 (映画.com)",
-      "url": "https://news.yahoo.co.jp/articles/53df9b4b9429b21a1fdac70e926a8377ffb951c2/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "b0aae929c521",
+      "title": "『映画ちいかわ』新たな特典発表 第7弾はナガノ氏描き下ろしクリアカード（全4種）",
+      "url": "https://www.sanyonews.jp/article/2007003?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-07T23:00:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lmBy5bsGjgypAN5lpJ2DDuV03Q-tlD9j4BEg94DHJaCgGIbRyD9qiNVDH8VfM-Qgd4iY0MjeitrdKYfsF8V3nEtmF_u0RKWkeMMFnTuCQSd",
+      "publishedAt": "2026-11-07T23:19:58.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/7/9/1/2791e43d7b896c514f9d197ae6c89def_1.jpg",
       "categories": [
         "anime"
       ],
-      "series": [
-        "usagi"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "1fbb3be62a12",
@@ -2160,6 +2197,27 @@
         "anime"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ec42d4fa3a66",
+      "title": "「FNS歌謡祭」で「映画ちいかわ」メドレー披露 「今日の日はさようなら」「うさぎラップ」「島のうた」の3曲",
+      "url": "https://anime.eiga.com/news/127805/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127805/photo/0fad2e9d7abc7805/640.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [
+        "usagi"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
