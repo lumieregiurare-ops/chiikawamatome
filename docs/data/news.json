@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T21:00:17.372Z",
+  "updatedAt": "2026-11-08T21:30:18.957Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 88,
-  "todayCount": 2,
+  "total": 91,
+  "todayCount": 5,
   "categories": [
     {
       "id": "goods",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 18
+      "count": 20
     },
     {
       "id": "event",
@@ -42,24 +42,24 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 26
+      "count": 28
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "山陽新聞",
@@ -165,11 +165,23 @@
       "count": 2
     },
     {
+      "name": "au Webポータル",
+      "count": 1
+    },
+    {
+      "name": "沖縄タイムス社",
+      "count": 1
+    },
+    {
       "name": "Kids Well-being",
       "count": 1
     },
     {
       "name": "ピンズバNEWS",
+      "count": 1
+    },
+    {
+      "name": "TBS NEWS DIG",
       "count": 1
     },
     {
@@ -202,6 +214,10 @@
     },
     {
       "name": "GourmetBiz",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド",
       "count": 1
     },
     {
@@ -355,6 +371,34 @@
       ]
     },
     {
+      "id": "6f6bde7d5efc",
+      "title": "“ちいかわ”が金塊に 中国で流行の「痛金」推し活投資の背景とリスク",
+      "summary": "",
+      "url": "https://article.auone.jp/aafdf7f6-f5db-4637-a43c-b4e8b1d50fe5",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/08/https___news_jp_i_1492270759960871177_w640.webp",
+      "leadSource": "au Webポータル",
+      "publishedAt": "2026-11-08T21:11:13.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "リスク",
+        "金塊",
+        "中国"
+      ],
+      "articles": [
+        {
+          "title": "“ちいかわ”が金塊に 中国で流行「痛金」とは 推し活×投資の背景とリスク｜ニュース",
+          "url": "https://pinzuba.news/articles/-/18637?page",
+          "source": "ピンズバNEWS",
+          "publishedAt": "2026-11-08T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "a9ede94e15a2",
       "title": "作中一番の良心!? 『ちいかわ』の健気すぎる愛されキャラ「シーサーが秘めた魅力」（ふたまん＋）",
       "summary": "",
@@ -407,6 +451,34 @@
           "url": "https://www.bengo4.com/c_18/n_21154/",
           "source": "弁護士ドットコム",
           "publishedAt": "2026-11-08T01:02:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ebf23a42a3f4",
+      "title": "「ちいかわ×くら寿司」突如コラボ中止 転売など“トラブル懸念”あってもなぜコラボ？企業の思惑とは【Nスタ解説】",
+      "summary": "",
+      "url": "https://newsdig.tbs.co.jp/articles/gallery/2927564",
+      "image": "https://newsdig.ismcdn.jp/mwimgs/3/f/1200w/img_3f1fde6a52432ccea8098ed7e35b9164489497.jpg",
+      "leadSource": "TBS NEWS DIG",
+      "publishedAt": "2026-11-08T03:04:52.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "collab"
+      ],
+      "keywords": [
+        "コラボ",
+        "寿司",
+        "企業"
+      ],
+      "articles": [
+        {
+          "title": "画像 | また｢ちいかわ｣が人を狂わせた？ マックに続き､くら寿司もコラボで問題…それでも企業がIPコラボをやめられないワケ",
+          "url": "https://toyokeizai.net/articles/photo/957290?pn",
+          "source": "東洋経済オンライン",
+          "publishedAt": "2026-11-07T21:15:00.000Z",
           "isPR": false
         }
       ]
@@ -550,44 +622,54 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "4db7b57b5a7b",
-      "title": "テディベア姿のちいかわたちがクリスマス仕様におめかししたぬいぐるみが登場！",
-      "summary": "",
-      "url": "https://charalab.com/145118/",
-      "image": "https://charalab.com/images/2026/11/261027_chiikawa_-2.jpg",
-      "leadSource": "キャラクター情報サイト",
-      "publishedAt": "2026-11-05T23:00:57.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "テディベア",
-        "クリスマス",
-        "仕様"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわの仲間たちがクリスマス仕様のテディベア姿でおめかしした特別なアクセサリーぬいぐるみが発売へ",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Bc3RmRmNNY0JJRUhlMGJJMGpsQW5RMEdXT1dzN3poTVVXNVJPQzF4cDNqQ2FZeEh1WDByMzNXbHMyRUdwdVotSU10MTliVzIzbWhlSWZWWEgzMXlsYi1wUzVGRDl3TUlMZ1E0Z3F1WEZKYzA2cXRFRVlqcHjSAYIBQVVfeXFMT3E0U1VXclFLN0FEbEJ2NEs3RWJfYVJsQ05MMk4xU25JdVVMeUlUb19JU0pyZkQtTk5pMW9YaFRyTWRtanA3cDZLVTRaODhZa1NpSFljOUhKbTRySmFnMl9kRHFQUmVYdHZFQU1WUS1idWdGb055amkyR1pnZzZMX3VKdw?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-11-05T22:01:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T20:30:16.857Z",
-    "previousCount": 92,
-    "newCount": 1
+    "previousAt": "2026-11-08T21:00:17.372Z",
+    "previousCount": 88,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T21:30:17.372Z",
+  "nextUpdateAt": "2026-11-08T22:00:18.957Z",
   "items": [
+    {
+      "id": "6f6bde7d5efc",
+      "title": "“ちいかわ”が金塊に 中国で流行の「痛金」推し活投資の背景とリスク",
+      "url": "https://article.auone.jp/aafdf7f6-f5db-4637-a43c-b4e8b1d50fe5",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-08T21:11:13.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/08/https___news_jp_i_1492270759960871177_w640.webp",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d039aa8cc4c8",
+      "title": "「ちいかわ」コラボも大反響 「スッパイマン」のあのキャラは女子高生が考案 沖縄発100年ブランドへの挑戦【Web限定Vol.3】",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1958495",
+      "host": "okinawatimes.co.jp",
+      "source": "沖縄タイムス社",
+      "summary": "",
+      "publishedAt": "2026-11-08T21:00:00.000Z",
+      "image": "https://oki.ismcdn.jp/mwimgs/8/c/1200wm/img_8cd264512e3acb39a6e79b69cda500e92018314.png",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d4b20970477b",
       "title": "「ちいかわ（現象）」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
@@ -607,6 +689,29 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c2ac94a1d87",
+      "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
+      "url": "https://www.sanyonews.jp/article/1959759?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T16:45:51.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/0/a/0/30a0e8e3ef0037db53bb73b57f4e6b1c_1.jpg",
+      "categories": [
+        "collab",
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9fbc4a1a7ed1",
@@ -827,6 +932,25 @@
       "isNew": false
     },
     {
+      "id": "ebf23a42a3f4",
+      "title": "「ちいかわ×くら寿司」突如コラボ中止 転売など“トラブル懸念”あってもなぜコラボ？企業の思惑とは【Nスタ解説】",
+      "url": "https://newsdig.tbs.co.jp/articles/gallery/2927564",
+      "host": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
+      "summary": "",
+      "publishedAt": "2026-11-08T03:04:52.000Z",
+      "image": "https://newsdig.ismcdn.jp/mwimgs/3/f/1200w/img_3f1fde6a52432ccea8098ed7e35b9164489497.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "21bea1108123",
       "title": "《ちいかわ》キャラクター人気ランキング！ 3位「シーサー」…2位＆1位は？",
       "url": "https://otonanswer.jp/post/407275/",
@@ -896,25 +1020,6 @@
       "image": "https://www.inside-games.jp/imgs/rss/1803708.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b0aae929c521",
-      "title": "『映画ちいかわ』新たな特典発表 第7弾はナガノ氏描き下ろしクリアカード（全4種）",
-      "url": "https://www.sanyonews.jp/article/2007003?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-07T23:19:58.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/7/9/1/2791e43d7b896c514f9d197ae6c89def_1.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1205,27 +1310,6 @@
       "isNew": false
     },
     {
-      "id": "37364758b3bf",
-      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は (リアルサウンド)",
-      "url": "https://news.yahoo.co.jp/articles/d7615401aaeed569e83245bd3c9e547003c74809/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T06:40:58.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26pQaCT96Y0Akc5mwhC5m9gJddnxPBkY0JhfArhKFAjyFkEk1scDX6_PZpUHsW0n7cuNlks5XJXdeDcZezzFrKbhSuVWO_ppAaPtZ8rUomoszqxsdPfrJgK0BH3vYk8JVrQ==",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6bed1bc498b1",
       "title": "『ちいかわ×ANA』コラボレーショングッズ第一弾 ～購入個数制限の期間延長のお知らせ～",
       "url": "https://373news.com/lifestyle/info/pr_times/detail/000000019.000035055.html",
@@ -1346,6 +1430,27 @@
       "isNew": false
     },
     {
+      "id": "37364758b3bf",
+      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は",
+      "url": "https://realsound.jp/book/2026/11/post-2577442.html",
+      "host": "realsound.jp",
+      "source": "リアルサウンド",
+      "summary": "",
+      "publishedAt": "2026-11-07T03:14:23.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-chiikawakiiro-00002.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1de9a444ab4a",
       "title": "『ちいかわ』最新話 パピコの最後に黄色いハチワレ出現 (2026年11月7日掲載)",
       "url": "https://news.livedoor.com/topics/detail/32755937/",
@@ -1444,6 +1549,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bcea3fccd93d",
+      "title": "『ちいかわ』島二郎、まさかの髪型にネット衝撃 新たな絵柄公開「長髪だったの！？」",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-07T00:17:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ab58d1fe78d2",
@@ -1864,26 +1988,6 @@
       "isNew": false
     },
     {
-      "id": "60a21394f89e",
-      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
-      "url": "https://www.sanyonews.jp/article/1965008",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
-      "categories": [
-        "collab",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dec0ff5d23b6",
       "title": "「ちいかわ」はなぜ大人を魅了する？ かわいい世界に潜むのは労働、格差、死の危険",
       "url": "https://www.fashionsnap.com/article/chiikawa-dai-iwasaki/",
@@ -1919,7 +2023,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f45dbed4d556",
