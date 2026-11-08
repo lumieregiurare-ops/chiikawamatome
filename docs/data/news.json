@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T22:30:15.400Z",
+  "updatedAt": "2026-11-08T23:00:18.698Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 7
+      "count": 6
     },
     {
       "id": "anime",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 28
+      "count": 29
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 19
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 15
     },
     {
       "name": "山陽新聞",
@@ -185,6 +185,10 @@
       "count": 1
     },
     {
+      "name": "Infoseek",
+      "count": 1
+    },
+    {
       "name": "弁護士ドットコム",
       "count": 1
     },
@@ -213,11 +217,7 @@
       "count": 1
     },
     {
-      "name": "GourmetBiz",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド",
+      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -258,10 +258,6 @@
     },
     {
       "name": "イベスル",
-      "count": 1
-    },
-    {
-      "name": "号外NET 長野",
       "count": 1
     }
   ],
@@ -573,12 +569,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T22:00:17.969Z",
+    "previousAt": "2026-11-08T22:30:15.400Z",
     "previousCount": 90,
-    "newCount": 7
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T23:00:15.400Z",
+  "nextUpdateAt": "2026-11-08T23:30:18.698Z",
   "items": [
     {
       "id": "64e45b858c51",
@@ -597,7 +593,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5a72c7e77ee",
@@ -616,7 +612,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d4b20970477b",
@@ -712,7 +708,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a4b3c306fc9d",
@@ -731,7 +727,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9fbc4a1a7ed1",
@@ -973,6 +969,25 @@
       "isNew": false
     },
     {
+      "id": "3be35502b69d",
+      "title": "「ちいかわ」、韓国で272万人突破…ボックスオフィス・前売り率ともに1位",
+      "url": "https://news.infoseek.co.jp/article/wowkorea_541894/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-08T02:20:50.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/wowkorea/wowkorea_541894_0-enlarge.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "368512fc163e",
       "title": "「ちいかわ」転売、「ボンドロ」開店アタック、声の権利…「流行語」の裏側で起きた法律ニュース",
       "url": "https://www.bengo4.com/c_18/n_21154/",
@@ -1046,7 +1061,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ec42d4fa3a66",
@@ -1313,6 +1328,27 @@
       "isNew": false
     },
     {
+      "id": "37364758b3bf",
+      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は (リアルサウンド)",
+      "url": "https://news.yahoo.co.jp/articles/d7615401aaeed569e83245bd3c9e547003c74809/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T06:40:58.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26pQaCT96Y0Akc5mwhC5m9gJddnxPBkY0JhfArhKFAjyFkEk1scDX6_PZpUHsW0n7cuNlks5XJXdeDcZezzFrKbhSuVWO_ppAaPtZ8rUomoszqxsdPfrJgK0BH3vYk8JVrQ==",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6bed1bc498b1",
       "title": "『ちいかわ×ANA』コラボレーショングッズ第一弾 ～購入個数制限の期間延長のお知らせ～",
       "url": "https://373news.com/lifestyle/info/pr_times/detail/000000019.000035055.html",
@@ -1353,6 +1389,25 @@
       "isNew": false
     },
     {
+      "id": "4c3bacee2ce4",
+      "title": "ちいかわ新作、発売初日から完売続出！！！「買えなかった」「売り切れてた」ファン熱狂",
+      "url": "https://article.auone.jp/c5dd2d60-91db-41de-9fc1-a3c5af6be602",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-07T05:57:35.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/07/https___news_jp_i_1491678447536259316_w1200.webp",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b646d1d86a82",
       "title": "大特集『ちいかわ』 “愛され軌跡”を全解剖",
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01435/",
@@ -1363,25 +1418,6 @@
       "image": "https://xtrend.nikkei.com/atcl/contents/18/01435/nxr_m.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4c3bacee2ce4",
-      "title": "ちいかわ新作、発売初日から完売続出！！！「買えなかった」「売り切れてた」ファン熱狂",
-      "url": "https://www.gourmetbiz.net/262317/",
-      "host": "gourmetbiz.net",
-      "source": "GourmetBiz",
-      "summary": "",
-      "publishedAt": "2026-11-07T05:12:18.000Z",
-      "image": "https://www.gourmetbiz.net/wp-content/uploads/2026/11/gourmet_20261107_02_01.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1439,27 +1475,6 @@
       "summary": "",
       "publishedAt": "2026-11-07T03:14:45.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/d/a/da63b_1830_98ff62c6_862072aa.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "37364758b3bf",
-      "title": "『ちいかわ』いつもの3人組に新メンバー加入！？ 最新話で突然現れたハチワレそっくりなキャラの正体は",
-      "url": "https://realsound.jp/book/2026/11/post-2577442.html",
-      "host": "realsound.jp",
-      "source": "リアルサウンド",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:14:23.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261106-chiikawakiiro-00002.jpg",
       "categories": [
         "other"
       ],
@@ -2006,7 +2021,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dec0ff5d23b6",
@@ -2047,7 +2062,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f45dbed4d556",
@@ -2338,28 +2353,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "368e48181946",
-      "title": "【須坂市】イオンモール須坂で11月6日（金）～23日（月・祝）「ちいかわPOP UP STORE」開催！11月22日（日）には「ちいかわ&ハチワレ＆うさぎ写真撮影会」も！",
-      "url": "https://nagano.goguynet.jp/2026/11/06/chiikawapopup-aeonsuzaka2/",
-      "host": "nagano.goguynet.jp",
-      "source": "号外NET 長野",
-      "summary": "",
-      "publishedAt": "2026-11-05T22:32:19.000Z",
-      "image": "https://nagano.goguynet.jp/wp-content/uploads/sites/267/2026/11/PXL_20261103_010100983.jpg",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
