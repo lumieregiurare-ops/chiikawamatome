@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T17:00:18.463Z",
+  "updatedAt": "2026-11-09T17:30:20.880Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 32
+      "count": 31
     },
     {
       "id": "kuji",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "anime",
@@ -109,6 +109,10 @@
       "count": 5
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 4
+    },
+    {
       "name": "オリコンニュース",
       "count": 4
     },
@@ -122,10 +126,6 @@
     },
     {
       "name": "ナタリー",
-      "count": 3
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 3
     },
     {
@@ -170,14 +170,6 @@
     },
     {
       "name": "ABEMA TIMES",
-      "count": 1
-    },
-    {
-      "name": "Record China",
-      "count": 1
-    },
-    {
-      "name": "いこーよニュース",
       "count": 1
     },
     {
@@ -258,6 +250,10 @@
     },
     {
       "name": "西スポWEB OTTO!",
+      "count": 1
+    },
+    {
+      "name": "PrettyOnline",
       "count": 1
     },
     {
@@ -372,8 +368,8 @@
       "image": "https://animeanime.jp/imgs/rss/953609.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-09T11:43:00.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "other",
         "goods"
@@ -403,13 +399,6 @@
           "url": "https://nijimen.kusuguru.co.jp/topics/652183",
           "source": "にじめん",
           "publishedAt": "2026-11-09T08:55:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわの年賀はがき」11月13日発売 3枚セット880円、おまけシール付きでデコれる",
-          "url": "https://report.iko-yo.net/articles/35527",
-          "source": "いこーよニュース",
-          "publishedAt": "2026-11-09T08:01:32.000Z",
           "isPR": false
         },
         {
@@ -789,12 +778,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T16:30:24.923Z",
-    "previousCount": 111,
-    "newCount": 2
+    "previousAt": "2026-11-09T17:00:18.463Z",
+    "previousCount": 113,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T17:30:18.463Z",
+  "nextUpdateAt": "2026-11-09T18:00:20.880Z",
   "items": [
     {
       "id": "576ca3fa2878",
@@ -814,7 +803,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d61ee3cdf075",
@@ -941,19 +930,19 @@
     {
       "id": "3c1f4c4e72ec",
       "title": "韓国「ちいかわ」ブームで星形貯金箱の売り上げ400％増＝韓国ネット「影響力すごい」",
-      "url": "https://www.recordchina.co.jp/b997544-s39-c30-d0202.html",
-      "host": "recordchina.co.jp",
-      "source": "Record China",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzFObnJtUWVTVFdkU29haEpicDZpVWJ6QmdRTE84OHhLMXBQUV9tVXNaUGg3WjhZRzJfc3poQXNnOFdzUW1KY1RlekgzZFJNQnJrTGlvUk5MZ2ItWkswdDZ5b2xVODdNUmx4MDZjTTAyekpjSDVmdXBlRUpqYUN3YnVUVnpIZjlHTHfSAY8BQVVfeXFMTmdSaVEteElHSHd4bFpVRkJFU1pLMUtEeFhMX21fV3podHhLRFhrby02ajBwMEN4QjBWc0d2dWgzcU0xdm5OMWRHcTFpdVkwUm9KdG1IVnhiRG1lZVdaWGJKbS00bTNmZUxuWWV5dHoya1l2Mkgwd2RGbUZ5aENPRTM5dkhzUFdRYTBuUEk2bkk?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T11:00:01.000Z",
-      "image": "https://assets.recordchina.co.jp/newRc/m1200/20261109/d11fd5a9d27874f784718fae2af1663f.jpg",
+      "publishedAt": "2026-11-09T11:00:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1134,25 +1123,6 @@
       "isNew": false
     },
     {
-      "id": "9de932a9656d",
-      "title": "「ちいかわの年賀はがき」11月13日発売 3枚セット880円、おまけシール付きでデコれる",
-      "url": "https://report.iko-yo.net/articles/35527",
-      "host": "report.iko-yo.net",
-      "source": "いこーよニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:01:32.000Z",
-      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/35690/normal.jpg?1794211220",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "287566e02cd7",
       "title": "『映画ちいかわ』11月14日より配布の“作中再現アイテム”に「欲しい」の声続々",
       "url": "https://magmix.jp/post/384650",
@@ -1286,7 +1256,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83602f157079",
@@ -2645,7 +2615,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110013041",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110020746",
       "categories": [
         "other"
       ],
@@ -2657,6 +2627,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "eb09d562ae02",
+      "title": "大阪・梅田に「ちいかわパークストア」誕生！11月24日オープン",
+      "url": "https://www.pretty-online.jp/news/10095/",
+      "host": "pretty-online.jp",
+      "source": "PrettyOnline",
+      "summary": "",
+      "publishedAt": "2026-11-07T11:00:18.000Z",
+      "image": "https://img.pretty-online.jp/wp-content/uploads/2026/10/31230005/news_chiikawastore_osaka_eye.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1521e98f1e5e",
