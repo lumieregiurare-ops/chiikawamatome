@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:30:17.152Z",
+  "updatedAt": "2026-11-09T05:00:18.399Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 23
+      "count": 24
     },
     {
       "id": "kuji",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 11
+      "count": 10
     },
     {
       "id": "anime",
@@ -42,24 +42,24 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 34
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 17
+      "count": 18
     },
     {
       "name": "山陽新聞",
@@ -109,11 +109,11 @@
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
-      "count": 4
+      "name": "にじめん",
+      "count": 3
     },
     {
-      "name": "にじめん",
+      "name": "ｄメニューニュース",
       "count": 3
     },
     {
@@ -126,6 +126,10 @@
     },
     {
       "name": "マイナビニュース",
+      "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -170,6 +174,10 @@
     },
     {
       "name": "ねとらぼ",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     },
     {
@@ -238,18 +246,6 @@
     },
     {
       "name": "朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
-      "name": "tenki.jp",
       "count": 1
     },
     {
@@ -691,12 +687,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T04:00:16.445Z",
-    "previousCount": 96,
-    "newCount": 6
+    "previousAt": "2026-11-09T04:30:17.152Z",
+    "previousCount": 99,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T05:00:17.152Z",
+  "nextUpdateAt": "2026-11-09T05:30:18.399Z",
   "items": [
     {
       "id": "d3cab2ee8d6c",
@@ -715,7 +711,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "47e848cc3acb",
@@ -735,7 +731,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0d6c1f888836",
@@ -773,7 +769,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "98bc445583a6",
@@ -1084,21 +1080,22 @@
       "isNew": false
     },
     {
-      "id": "64e45b858c51",
-      "title": "台湾の台北エリアにちいかわ大判焼きの常設店舗が2026年11月21日にオープン",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTnhrNENick9MamdBU29HREpCdWp3UzBmdXRnUEExclMydnZxRjZDNFpZSkxtaGlpcmN2aWZpWFJDdWRkZXY3TUZsMUJjdHRZaHlYUGRWbHI0UFZuTVQwM3FhOGIwN2xBTV9rSF9OQXF1UGV1Vjl6X0J0REFTN0R6VkgzZV9CcE1oQ0FCcFRhRdIBggFBVV95cUxNYmcxYkVxdXZGd01tMV96NlNwMHFNRERTOE80RXFrblRpS0FMU3pYSGo5WDFDdndpYTEyOWxJUGMtS3RyYVh4ZVE0MzAzY2xNcTVQY0MwSDR2U2o0SmkxbXhTbHhldklWWjFqb1RLRGl4azY5M2hwNjU2U0hzTVJWRDdB?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "id": "d7d99f4306d7",
+      "title": "ちいかわクリスマスマーケット｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "url": "https://charagoo.jp/collab/event/2fd46726488c/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
       "summary": "",
-      "publishedAt": "2026-11-08T22:06:12.000Z",
+      "publishedAt": "2026-11-08T23:08:33.000Z",
       "image": "",
       "categories": [
-        "event"
+        "event",
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1199,26 +1196,23 @@
       "isNew": false
     },
     {
-      "id": "8606441a3170",
-      "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
-      "url": "https://www.sanyonews.jp/article/1957105?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "994c98d8b409",
+      "title": "ちいかわ、mofusandのかわいすぎるペットグッズに悶絶！顔型ドームハウスなど4アイテムが登場",
+      "url": "https://www.walkerplus.com/article/1184479/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
       "summary": "",
-      "publishedAt": "2026-11-08T18:24:10.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/d/81ed3cd58d746b5d67d29a2e730a46a7_1.jpg",
+      "publishedAt": "2026-11-08T19:15:16.000Z",
+      "image": "https://news.walkerplus.com/article/1184479/12753891_615.jpg",
       "categories": [
-        "other"
+        "goods"
       ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "a4b3c306fc9d",
@@ -1237,7 +1231,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c2ac94a1d87",
@@ -1260,7 +1254,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9fbc4a1a7ed1",
@@ -1638,6 +1632,25 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "77b021a19276",
+      "title": "「かっこいい」ディーン・フジオカ、「ちいかわ」のエンディングテーマを英語バージョンで披露「完璧じゃないとこ、愛しい…」",
+      "url": "https://news.yahoo.co.jp/articles/dab28aa4b05c9e197107de81719026858f972400",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T20:45:52.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000007-chuspo-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b2f952f68f8a",
@@ -2122,26 +2135,6 @@
       "isNew": false
     },
     {
-      "id": "d7d99f4306d7",
-      "title": "ちいかわクリスマスマーケット｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
-      "url": "https://charagoo.jp/collab/event/2fd46726488c/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:26:20.000Z",
-      "image": "",
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "99e501cf5866",
       "title": "『ちいかわ』更新（11/5）。ハチワレが“すごいの”見つけて大喜び！ でも、その背後に…!?",
       "url": "https://dengekionline.com/article/202611/93218",
@@ -2217,25 +2210,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "15d1b6b28cc2",
-      "title": "ちいかわベーカリー OSAKAの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/6/30/200/187382/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-11-06T13:48:58.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/308597/normal.jpg?1781655998&w=640&h=640&t=r",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2479,6 +2453,26 @@
       "isNew": false
     },
     {
+      "id": "60a21394f89e",
+      "title": "【あすから順次】『ちいかわぽけっと』が青森ねぶた・仙台七夕・阿波おどりとコラボ 浴衣姿のちいかわたちが夏を彩る【スケジュールあり】",
+      "url": "https://www.sanyonews.jp/article/1965008",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/8/0/3/b803f252d154aee9e61a91f4e04bbbfc_1.jpg",
+      "categories": [
+        "collab",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5a02f8a57c36",
       "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
@@ -2495,7 +2489,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f45dbed4d556",
@@ -2624,7 +2618,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-06T06:06:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00541677-fashions-000-7-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00541677-fashions-000-8-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
