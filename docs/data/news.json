@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T16:00:19.635Z",
+  "updatedAt": "2026-11-09T16:30:24.923Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 110,
+  "total": 111,
   "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kuji",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "usagi",
@@ -105,8 +105,8 @@
       "count": 6
     },
     {
-      "name": "電撃オンライン",
-      "count": 4
+      "name": "山陽新聞",
+      "count": 5
     },
     {
       "name": "オリコンニュース",
@@ -117,8 +117,8 @@
       "count": 4
     },
     {
-      "name": "山陽新聞",
-      "count": 4
+      "name": "電撃オンライン",
+      "count": 3
     },
     {
       "name": "ナタリー",
@@ -193,6 +193,10 @@
       "count": 1
     },
     {
+      "name": "時事ドットコム",
+      "count": 1
+    },
+    {
       "name": "徳島新聞デジタル",
       "count": 1
     },
@@ -230,6 +234,10 @@
     },
     {
       "name": "沖縄タイムス社",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -274,10 +282,6 @@
     },
     {
       "name": "朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 1
     }
   ],
@@ -752,7 +756,7 @@
       "id": "1fbb3be62a12",
       "title": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」に感動",
       "summary": "",
-      "url": "https://s.inside-games.jp/article/2026/11/08/190528.html",
+      "url": "https://www.inside-games.jp/article/2026/11/08/190528.html",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1800080.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-11-07T22:10:03.000Z",
@@ -778,12 +782,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T15:30:21.454Z",
-    "previousCount": 112,
-    "newCount": 2
+    "previousAt": "2026-11-09T16:00:19.635Z",
+    "previousCount": 110,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T16:30:19.635Z",
+  "nextUpdateAt": "2026-11-09T17:00:24.923Z",
   "items": [
     {
       "id": "d61ee3cdf075",
@@ -1493,6 +1497,25 @@
       "isNew": false
     },
     {
+      "id": "dc19ad7399db",
+      "title": "風呂でちいかわと学べるポスター ＫＡＤＯＫＡＷＡ：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k",
+      "host": "jiji.com",
+      "source": "時事ドットコム",
+      "summary": "",
+      "publishedAt": "2026-11-09T05:59:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "006d336e8456",
       "title": "ちいかわクリスマスマーケット、来場者に公式アプリのダウンロード呼びかけ フード購入や「鎧さんマーケット」参加に必須",
       "url": "https://www.topics.or.jp/articles/-/1522610",
@@ -1538,7 +1561,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-09T05:51:17.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/389330_1.jpg",
       "categories": [
         "collab"
       ],
@@ -2057,7 +2080,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-08T23:54:51.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/657779_1.jpg",
       "categories": [
         "event"
       ],
@@ -2183,6 +2206,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "994c98d8b409",
+      "title": "ちいかわ、mofusandのかわいすぎるペットグッズに悶絶！顔型ドームハウスなど4アイテムが登場",
+      "url": "https://www.walkerplus.com/article/1184479/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-08T19:15:16.000Z",
+      "image": "https://news.walkerplus.com/article/1184479/12753891_615.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a4b3c306fc9d",
@@ -2364,7 +2406,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "67d9db8d27b3",
@@ -2469,8 +2511,8 @@
     {
       "id": "1fbb3be62a12",
       "title": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」に感動",
-      "url": "https://s.inside-games.jp/article/2026/11/08/190528.html",
-      "host": "s.inside-games.jp",
+      "url": "https://www.inside-games.jp/article/2026/11/08/190528.html",
+      "host": "inside-games.jp",
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-07T22:10:03.000Z",
@@ -2557,7 +2599,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110010041",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110013041",
       "categories": [
         "other"
       ],
@@ -2722,7 +2764,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-11-07T04:19:11.000Z",
-      "image": "",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/eyecatch-178.webp",
       "categories": [
         "other"
       ],
@@ -2733,7 +2775,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9a0f83514b75",
@@ -2878,6 +2920,25 @@
       "isNew": false
     },
     {
+      "id": "ab58d1fe78d2",
+      "title": "56歳・なだぎ武、ちいかわ×ANAコラボの“戦利品”を公開「すばらしい行動力」「凄いよ…あんた…」",
+      "url": "https://www.sanyonews.jp/article/2010749?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T20:00:28.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/2/9/0/f2907f6bc0f19af15e7fb8956c477af1_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a85ba696af3a",
       "title": "映画ちいかわ 人気プライズ6アイテム 12月頃より順次再登場!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-prize-resale-2026-pre-info/",
@@ -2906,46 +2967,6 @@
       "summary": "",
       "publishedAt": "2026-11-06T17:42:35.000Z",
       "image": "",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "99e501cf5866",
-      "title": "『ちいかわ』更新（11/5）。ハチワレが“すごいの”見つけて大喜び！ でも、その背後に…!?",
-      "url": "https://dengekionline.com/article/202611/93218",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:24:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93218/ogp_veXV.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "23185e109dff",
-      "title": "「ちいかわ」と東京スカイツリーがコラボ！地上450メートルの天望回廊でちいかわたちがお出迎え",
-      "url": "https://www.walkerplus.com/article/1163610/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-06T16:13:09.000Z",
-      "image": "https://news.walkerplus.com/article/1163610/12307535_615.jpg",
       "categories": [
         "collab"
       ],
