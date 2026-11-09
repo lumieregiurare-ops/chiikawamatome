@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-09T20:30:22.198Z",
+  "updatedAt": "2026-11-09T21:00:20.955Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 113,
+  "total": 114,
   "todayCount": 3,
   "categories": [
     {
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 28
+      "count": 29
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "momonga",
@@ -90,19 +90,19 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 20
     },
     {
       "name": "インサイド",
-      "count": 9
+      "count": 10
+    },
+    {
+      "name": "山陽新聞",
+      "count": 6
     },
     {
       "name": "にじめん",
       "count": 6
-    },
-    {
-      "name": "山陽新聞",
-      "count": 5
     },
     {
       "name": "コラボカフェ",
@@ -836,12 +836,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T20:00:21.537Z",
-    "previousCount": 111,
-    "newCount": 2
+    "previousAt": "2026-11-09T20:30:22.198Z",
+    "previousCount": 113,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T21:00:22.198Z",
+  "nextUpdateAt": "2026-11-09T21:30:20.955Z",
   "items": [
     {
       "id": "576ca3fa2878",
@@ -1217,7 +1217,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "287566e02cd7",
@@ -1353,7 +1353,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83602f157079",
@@ -2340,6 +2340,28 @@
       "isNew": false
     },
     {
+      "id": "8606441a3170",
+      "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
+      "url": "https://www.sanyonews.jp/article/1957105?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T18:24:10.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/d/81ed3cd58d746b5d67d29a2e730a46a7_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a4b3c306fc9d",
       "title": "本編放送前に“カニちゃん”も登場…アニメ『ちいかわ』主要キャラ総出演の新PV公開に反響続々「キターーー!!!」「しゃべったあああああ」「朝から泣いてる」",
       "url": "https://www.sanyonews.jp/article/1914693?kw",
@@ -2524,12 +2546,12 @@
     {
       "id": "67d9db8d27b3",
       "title": "しまむらパークで「ちいかわ」グッズが11月9日12時よりオンライン販売！仕事・勉強のワンシーンを彩るペンポーチ全6種",
-      "url": "https://news.yahoo.co.jp/articles/03be1183e5ff10e3b0cacb4827276449914bf12b",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://www.inside-games.jp/article/2026/11/08/190552.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-08T05:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000027-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1804650.jpg",
       "categories": [
         "goods"
       ],
@@ -2733,7 +2755,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110053037",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110060040",
       "categories": [
         "other"
       ],
