@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T14:30:17.153Z",
+  "updatedAt": "2026-11-09T15:00:18.511Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 115,
-  "todayCount": 77,
+  "total": 114,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 31
+      "count": 30
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 42
+      "count": 43
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 28
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 22
+      "count": 23
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 24
+      "count": 23
     },
     {
       "name": "インサイド",
@@ -106,6 +106,10 @@
     },
     {
       "name": "山陽新聞",
+      "count": 6
+    },
+    {
+      "name": "電撃オンライン",
       "count": 5
     },
     {
@@ -113,16 +117,8 @@
       "count": 4
     },
     {
-      "name": "電撃オンライン",
-      "count": 4
-    },
-    {
       "name": "ライブドアニュース",
       "count": 4
-    },
-    {
-      "name": "ナタリー",
-      "count": 3
     },
     {
       "name": "ｄメニューニュース",
@@ -133,11 +129,11 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
+      "name": "アニメ！アニメ！",
       "count": 2
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "ナタリー",
       "count": 2
     },
     {
@@ -157,8 +153,12 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
-      "count": 2
+      "name": "クランクイン！",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 1
     },
     {
       "name": "SmartNews",
@@ -166,6 +166,10 @@
     },
     {
       "name": "ABEMA TIMES",
+      "count": 1
+    },
+    {
+      "name": "Record China",
       "count": 1
     },
     {
@@ -202,10 +206,6 @@
     },
     {
       "name": "シネマトゥデイ",
-      "count": 1
-    },
-    {
-      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -275,6 +275,10 @@
     {
       "name": "朝日新聞",
       "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 1
     }
   ],
   "topics": [
@@ -285,9 +289,9 @@
       "url": "https://animeanime.jp/article/2026/11/09/104614.html",
       "image": "https://animeanime.jp/imgs/rss/953578.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-09T07:26:00.000Z",
-      "sourceCount": 17,
-      "articleCount": 25,
+      "publishedAt": "2026-11-09T14:33:37.000Z",
+      "sourceCount": 19,
+      "articleCount": 27,
       "categories": [
         "anime",
         "goods"
@@ -298,6 +302,20 @@
         "エアー"
       ],
       "articles": [
+        {
+          "title": "『映画ちいかわ』年内の入場者特典一挙解禁！ 「エアーびんよよ」や「ごきげんセイレーン♪」リバイバル配布も",
+          "url": "https://www.crank-in.net/gallery/news/193986/2",
+          "source": "クランクイン！",
+          "publishedAt": "2026-11-09T14:33:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ』11月14日より配布の“作中再現アイテム”に「欲しい」の声続々",
+          "url": "https://magmix.jp/post/384650",
+          "source": "マグミクス",
+          "publishedAt": "2026-11-09T08:00:00.000Z",
+          "isPR": false
+        },
         {
           "title": "「映画ちいかわ 人魚の島のひみつ」、年内の入場者特典一挙公開。島の武器を再現した「エアーびんよよ」などが登場",
           "url": "https://news.yahoo.co.jp/articles/240895c1408a9670b005e6e7783ed8bb5606fc30",
@@ -313,6 +331,13 @@
           "isPR": false
         },
         {
+          "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第8～12弾が発表！バルーンの“びんよよ”や電池型ミニライト、第9～11弾はチャームミニフィギュアなどをリバイバル配布",
+          "url": "https://nijimen.kusuguru.co.jp/topics/652152",
+          "source": "にじめん",
+          "publishedAt": "2026-11-09T06:47:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "『映画ちいかわ』入場者特典を一挙解禁、武器がもらえる！ 「エアーびんよよ」から禁断の「単三電池ライト」まで年内8～12弾を発表",
           "url": "https://www.chunichi.co.jp/article/1336868",
           "source": "中日新聞Web",
@@ -320,38 +345,17 @@
           "isPR": false
         },
         {
-          "title": "『映画ちいかわ』年内の入場者特典第8弾～第12弾を一挙解禁 SNS歓喜「は？びんよよ？」「需要を分かりすぎている」",
-          "url": "https://news.yahoo.co.jp/articles/eab7308de031ed9e2ca8a837e86096358e6e58d4/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-09T06:33:43.000Z",
+          "title": "【実際の投稿】『映画ちいかわ』入場者特典の第8弾から第12弾を一挙解禁",
+          "url": "https://www.chunichi.co.jp/article/1336870",
+          "source": "中日新聞Web",
+          "publishedAt": "2026-11-09T06:37:31.000Z",
           "isPR": false
         },
         {
-          "title": "「映画ちいかわ」年内配布の入場者特典8弾～12弾が一挙公開！「エアーびんよよ」や「ヒミツにしようなんて許さライト」が新登場",
-          "url": "https://www.inside-games.jp/article/2026/11/09/190601.html",
-          "source": "インサイド",
-          "publishedAt": "2026-11-09T06:25:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「映画ちいかわ」年内配布の入場者特典8弾〜12弾が一挙公開！「エアーびんよよ」や「ヒミツにしようなんて許さライト」が新登場",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLThmUmtSQXVMaE4yRzEzZzVHZExxUHlDeGM3Sk1UWWkxTWNxLUtVbkJUbW5rb0RiZGR2aWc5OFpxeHVmRnRNbTYwcUhfbF81NXluVDFfdVVPTFMwSTJudzVXWC01SjMyb1JQVVktMkx2a2NYLW4zX0c5MHlqTW9leHB30gGHAUFVX3lxTFBPRlVVMEFGQ1ZTZkQ0Rk1YTnpqVXctWnhDc2J6VHNYSHlRcHFDbU13WnpWZVBTaEVGbEI2UHc4ZWE2V3BuVjYybnVYR081SE1iMzlpM20tUjFlVkVRdFRBdmRCcEIyd29RMGZCbnlfSWE1dG91X2FLem91QlF0Z1l5M0dVNHBaaw?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-11-09T06:25:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ 人魚の島のひみつ』第12弾入プレは“単三電池”型「ミニライト」 12月19日より（cinemacafe.net）",
-          "url": "https://news.yahoo.co.jp/articles/569844830a98e84b072794e29dfade2f19d40c64",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-09T06:00:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ』年内の入場者特典を一挙発表 第8弾はエアーびんよよ、リバイバル配布も（リアルサウンド）",
-          "url": "https://news.yahoo.co.jp/articles/7643da9c876d5392465d90d9ffdb9374f8597c85",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-09T05:53:39.000Z",
+          "title": "映画ちいかわ 入場者特典第8弾〜第12弾 11月14日より順次配布!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-attendants-benefits-vol8-12/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-09T06:36:47.000Z",
           "isPR": false
         }
       ]
@@ -428,6 +432,98 @@
       ]
     },
     {
+      "id": "aae89a573dbb",
+      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん (関連動画)",
+      "summary": "",
+      "url": "https://thetv.jp/news/detail/1455098/embed/video/",
+      "image": "https://thetv.jp/i/nw/1455098/19082909.jpg?w=1284",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-11-07T15:34:31.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "book",
+        "other"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "黄色",
+        "最新話"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ最新話、黄色いハチワレに続き赤・水色・緑も登場 パピコ回で色違いが4人に、似ていると話題の「招福！ハチワレ」との違い",
+          "url": "https://mediadogs.jp/2026/11/07/chiikawa-yellow-hachiware-papico/",
+          "source": "https://mediadogs.jp/",
+          "publishedAt": "2026-11-07T04:19:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』最新話 パピコの最後に黄色いハチワレ出現 (2026年11月7日掲載)",
+          "url": "https://news.livedoor.com/topics/detail/32755937/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-07T03:14:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】『ちいかわ』最新話 パピコの最後に黄色いハチワレ出現",
+          "url": "https://news.livedoor.com/article/image_detail/32755937/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-07T03:14:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』更新（11/6）。喜怒哀楽説？ 黄色いハチワレの正体…どころじゃない!? 次々と現れてパピコ足りない！",
+          "url": "https://dengekionline.com/article/202611/93334",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-06T15:02:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c2b16d6050ab",
+      "title": "『ちいかわ』更新（11/9）。魔法のパピコだったってコト!? 悩んだハチワレの決断は…",
+      "summary": "",
+      "url": "https://dengekionline.com/article/202611/93446",
+      "image": "https://cimg.kgl-systems.io/camion/files/93446/ogp_cYep.jpg?x=1280",
+      "leadSource": "電撃オンライン",
+      "publishedAt": "2026-11-09T14:02:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "パピコ",
+        "更新"
+      ],
+      "articles": [
+        {
+          "title": "「これって全部…自分ッ!?」パピコを割るたびハチワレが増殖!? 「ちいかわ」まさかの展開にファン動揺",
+          "url": "https://news.mynavi.jp/article/20261109-5286670/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-09T02:21:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』ハチワレ増殖回…増殖していることよりパピコの心配をするハチワレ、食べ始めてる哀ワレ、食べ終わったうさぎなどカオス (2ページ目)",
+          "url": "https://togetter.com/li/2768019?page",
+          "source": "Togetter",
+          "publishedAt": "2026-11-08T04:34:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』更新（11/7）。ハチワレンジャー爆誕!? それでもパピコ優先のハチワレに、頭を抱えるちいかわ",
+          "url": "https://dengekionline.com/article/202611/93389",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-07T15:44:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "6c463b36de76",
       "title": "「映画ちいかわ」ワンシーンをデスク上でも楽しめる！スマホを支える島二郎など「デスクトップフィギュア」全4種がカプセルトイにて再販",
       "summary": "カプセルトイ「映画ちいかわ 人魚の島のひみつ デスクトップフィギュア」が大好評につき再販決定！",
@@ -435,8 +531,8 @@
       "image": "https://www.inside-games.jp/imgs/rss/1784886.jpg",
       "leadSource": "インサイド",
       "publishedAt": "2026-11-09T10:15:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "goods",
         "anime"
@@ -459,56 +555,6 @@
           "url": "https://news.yahoo.co.jp/articles/abca23e9a010472ece1aad891fe4032eeca8083c",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-09T08:20:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【実際の投稿】『映画ちいかわ』入場者特典の第8弾から第12弾を一挙解禁",
-          "url": "https://www.chunichi.co.jp/article/1336870",
-          "source": "中日新聞Web",
-          "publishedAt": "2026-11-09T06:37:31.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "aae89a573dbb",
-      "title": "「誰!?誰なのっ!?」マンガ「ちいかわ」最新話、突如として現れた謎の“黄色いハチワレ”に読者もあぜん (関連動画)",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1455098/embed/video/",
-      "image": "https://thetv.jp/i/nw/1455098/19082909.jpg?w=1284",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-11-07T15:34:31.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "book",
-        "other"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "最新話",
-        "黄色"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ最新話、黄色いハチワレに続き赤・水色・緑も登場 パピコ回で色違いが4人に、似ていると話題の「招福！ハチワレ」との違い",
-          "url": "https://mediadogs.jp/2026/11/07/chiikawa-yellow-hachiware-papico/",
-          "source": "https://mediadogs.jp/",
-          "publishedAt": "2026-11-07T04:19:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』最新話 パピコの最後に黄色いハチワレ出現 (2026年11月7日掲載)",
-          "url": "https://news.livedoor.com/topics/detail/32755937/",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-07T03:14:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【画像】『ちいかわ』最新話 パピコの最後に黄色いハチワレ出現",
-          "url": "https://news.livedoor.com/article/image_detail/32755937/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-07T03:14:23.000Z",
           "isPR": false
         }
       ]
@@ -585,28 +631,30 @@
       ]
     },
     {
-      "id": "e274434606cb",
-      "title": "「鈍器を配るなwwww」『映画ちいかわ』入場者特典第8弾〜12弾の怒涛の解禁に反響「コナンの映画ですら配らないぞ」",
+      "id": "9538f0f6df85",
+      "title": "「映画ちいかわ」コラボ脱出ゲームに「おうちで遊べる版」登場 ちいかわ、ハチワレ、うさぎを探す冒険が楽しめる",
       "summary": "",
-      "url": "https://times.abema.tv/articles/-/10287570",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/7/1/1200w/img_7103bfc7486a0c2fd80d9bffc573a7e04410796.jpg",
-      "leadSource": "ABEMA TIMES",
-      "publishedAt": "2026-11-09T11:09:00.000Z",
+      "url": "https://news.nicovideo.jp/watch/nw19972482?news_ref",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/0/a/0/30a0e8e3ef0037db53bb73b57f4e6b1c_1.jpg",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-11-09T12:00:29.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
+        "collab",
         "anime"
       ],
       "keywords": [
-        "映画",
-        "入場者特典第"
+        "ハチワレ",
+        "うさぎ",
+        "コラボ"
       ],
       "articles": [
         {
-          "title": "映画ちいかわ 入場者特典第8弾〜第12弾 11月14日より順次配布!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-movie-attendants-benefits-vol8-12/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-09T06:36:47.000Z",
+          "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
+          "url": "https://www.sanyonews.jp/article/1959759?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-08T16:45:51.000Z",
           "isPR": false
         }
       ]
@@ -634,34 +682,6 @@
           "url": "https://news.dellows.jp/657779/?from",
           "source": "Dellows News",
           "publishedAt": "2026-11-08T23:54:51.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "287566e02cd7",
-      "title": "『映画ちいかわ』11月14日より配布の“作中再現アイテム”に「欲しい」の声続々",
-      "summary": "",
-      "url": "https://magmix.jp/post/384650",
-      "image": "https://magmix.jp/wp-content/uploads/2027/07/260731_chikawasimajiro_00.jpg",
-      "leadSource": "マグミクス",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "映画",
-        "配布"
-      ],
-      "articles": [
-        {
-          "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第8～12弾が発表！バルーンの“びんよよ”や電池型ミニライト、第9～11弾はチャームミニフィギュアなどをリバイバル配布",
-          "url": "https://nijimen.kusuguru.co.jp/topics/652152",
-          "source": "にじめん",
-          "publishedAt": "2026-11-09T06:47:00.000Z",
           "isPR": false
         }
       ]
@@ -722,42 +742,82 @@
       ]
     },
     {
-      "id": "92533e854ff3",
-      "title": "「これって全部…自分ッ!?」パピコを割るたびハチワレが増殖!? 「ちいかわ」まさかの展開にファン動揺",
+      "id": "1fbb3be62a12",
+      "title": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」に感動",
       "summary": "",
-      "url": "https://news.mynavi.jp/article/20261109-5286670/",
-      "image": "https://news.mynavi.jp/article/20261109-5286670/ogp_images/ogp.jpg",
-      "leadSource": "マイナビニュース",
-      "publishedAt": "2026-11-09T02:21:19.000Z",
+      "url": "https://s.inside-games.jp/article/2026/11/08/190528.html",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1800080.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-07T22:10:03.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other"
+        "goods",
+        "anime"
       ],
       "keywords": [
         "ハチワレ",
-        "パピコ",
-        "増殖"
+        "感動"
       ],
       "articles": [
         {
-          "title": "『ちいかわ』ハチワレ増殖回…増殖していることよりパピコの心配をするハチワレ、食べ始めてる哀ワレ、食べ終わったうさぎなどカオス (2ページ目)",
-          "url": "https://togetter.com/li/2768019?page",
-          "source": "Togetter",
-          "publishedAt": "2026-11-08T04:34:15.000Z",
+          "title": "【ちいかわ】お互いを想う友情が尊い…！ アニメ『ちいかわ』第58話「勉強中/お昼ごはん」はちいかわとハチワレの頑張る理由に感動",
+          "url": "https://www.pashplus.jp/anime/501827/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-11-07T08:40:08.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T14:00:19.706Z",
-    "previousCount": 116,
+    "previousAt": "2026-11-09T14:30:17.153Z",
+    "previousCount": 115,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T15:00:17.153Z",
+  "nextUpdateAt": "2026-11-09T15:30:18.511Z",
   "items": [
+    {
+      "id": "d61ee3cdf075",
+      "title": "『映画ちいかわ』年内の入場者特典一挙解禁！ 「エアーびんよよ」や「ごきげんセイレーン♪」リバイバル配布も",
+      "url": "https://www.crank-in.net/gallery/news/193986/2",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
+      "summary": "",
+      "publishedAt": "2026-11-09T14:33:37.000Z",
+      "image": "https://www.crank-in.net/img/db/269111099130491_1200.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c2b16d6050ab",
+      "title": "『ちいかわ』更新（11/9）。魔法のパピコだったってコト!? 悩んだハチワレの決断は…",
+      "url": "https://dengekionline.com/article/202611/93446",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-09T14:02:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93446/ogp_cYep.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ac218b7c1081",
       "title": "「ちいかわ」くりまんじゅうの「だし割りセット」が大人気！特別デザインの日本酒や専用カップで、“だし割り”を手軽に体験",
@@ -843,12 +903,12 @@
     {
       "id": "3c1f4c4e72ec",
       "title": "韓国「ちいかわ」ブームで星形貯金箱の売り上げ400％増＝韓国ネット「影響力すごい」",
-      "url": "https://news.nicovideo.jp/watch/nw19972246?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://www.recordchina.co.jp/b997544-s39-c30-d0202.html",
+      "host": "recordchina.co.jp",
+      "source": "Record China",
       "summary": "",
-      "publishedAt": "2026-11-09T11:00:29.000Z",
-      "image": "",
+      "publishedAt": "2026-11-09T11:00:01.000Z",
+      "image": "https://assets.recordchina.co.jp/newRc/m1200/20261109/d11fd5a9d27874f784718fae2af1663f.jpg",
       "categories": [
         "other"
       ],
@@ -1594,7 +1654,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "02f0c413a76d",
@@ -1730,25 +1790,6 @@
       "isNew": false
     },
     {
-      "id": "d61ee3cdf075",
-      "title": "『映画ちいかわ』年内の入場者特典一挙解禁！ 「エアーびんよよ」や「ごきげんセイレーン♪」リバイバル配布も",
-      "url": "https://www.crank-in.net/news/193986",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://www.crank-in.net/img/db/269111099130491_1200.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5b9f68b31f56",
       "title": "＜映画ちいかわ 人魚の島のひみつ＞興収187.9億円突破 1286万人動員 年内配布の第8～12弾入場者特典を一挙発表",
       "url": "https://news.yahoo.co.jp/articles/4bd4d4cc072b026c93b58f3ca9d0c6b2be035df1",
@@ -1776,25 +1817,6 @@
       "summary": "",
       "publishedAt": "2026-11-09T05:00:00.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/3/1/3102f_760_2491631_20261109_125738_size640wh_14088122.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5fdad8225e11",
-      "title": "「ちいかわ」はかわいい顔した現代社会？ 大人が夢中になる理由を死生学者が紐解く（FASHIONSNAP）",
-      "url": "https://news.yahoo.co.jp/articles/e3fe48585e54387ce97389d36345be83ebf954ed",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T04:36:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00541677-fashions-000-8-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -2194,25 +2216,6 @@
       "isNew": false
     },
     {
-      "id": "994c98d8b409",
-      "title": "ちいかわ、mofusandのかわいすぎるペットグッズに悶絶！顔型ドームハウスなど4アイテムが登場",
-      "url": "https://www.walkerplus.com/article/1184479/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-08T19:15:16.000Z",
-      "image": "https://news.walkerplus.com/article/1184479/12753891_615.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "8606441a3170",
       "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
       "url": "https://www.sanyonews.jp/article/1957105?rct",
@@ -2252,6 +2255,29 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c2ac94a1d87",
+      "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
+      "url": "https://www.sanyonews.jp/article/1959759?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T16:45:51.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/0/a/0/30a0e8e3ef0037db53bb73b57f4e6b1c_1.jpg",
+      "categories": [
+        "collab",
+        "anime"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0686788488ca",
@@ -2564,7 +2590,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261109230040",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110000039",
       "categories": [
         "other"
       ],
@@ -2828,7 +2854,7 @@
     {
       "id": "3d64cc4b0c73",
       "title": "映画で『ちいかわ』にハマった横山ルリカ、母と京都旅で“ちい活”満喫 プライベートショット公開「ハマってますね～」",
-      "url": "https://www.oricon.co.jp/news/2491242/photo/1/",
+      "url": "https://www.oricon.co.jp/news/2491242/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -2976,27 +3002,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a3472e788d74",
-      "title": "「ちいかわ Kiramekko Teddy Bear Christmas ハチワレ」 [画像ギャラリー 6/7]",
-      "url": "https://natalie.mu/comic/gallery/news/695401/3001427",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-06T15:16:48.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
