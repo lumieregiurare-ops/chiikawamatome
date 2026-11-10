@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-10T01:00:20.193Z",
+  "updatedAt": "2026-11-10T01:30:19.600Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 116,
-  "todayCount": 10,
+  "total": 119,
+  "todayCount": 12,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 33
+      "count": 35
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "collab",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 8
+      "count": 10
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 41
+      "count": 42
     },
     {
       "id": "book",
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "momonga",
@@ -90,15 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 21
     },
     {
       "name": "インサイド",
-      "count": 10
+      "count": 11
     },
     {
       "name": "山陽新聞",
-      "count": 6
+      "count": 7
     },
     {
       "name": "にじめん",
@@ -111,6 +111,10 @@
     {
       "name": "ライブドアニュース",
       "count": 4
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 3
     },
     {
       "name": "キャラグー",
@@ -146,10 +150,6 @@
     },
     {
       "name": "東洋経済オンライン",
-      "count": 2
-    },
-    {
-      "name": "アニメ！アニメ！",
       "count": 2
     },
     {
@@ -270,6 +270,10 @@
     },
     {
       "name": "西スポWEB OTTO!",
+      "count": 1
+    },
+    {
+      "name": "PrettyOnline",
       "count": 1
     },
     {
@@ -832,13 +836,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T00:30:20.277Z",
-    "previousCount": 117,
-    "newCount": 3
+    "previousAt": "2026-11-10T01:00:20.193Z",
+    "previousCount": 116,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T01:30:20.193Z",
+  "nextUpdateAt": "2026-11-10T02:00:19.600Z",
   "items": [
+    {
+      "id": "9607feb7e4e4",
+      "title": "羊毛のようにふわふわ！「ちいかわ」フラットなデザインが魅力の「しーぷわ」マスコットが11月中旬順次プライズ展開",
+      "url": "https://www.inside-games.jp/article/2026/11/10/190642.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「ちいかわ しーぷわフラットマスコット」が11月中旬よりプライズ展開！",
+      "publishedAt": "2026-11-10T01:30:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1805208.jpg",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f61d501de11a",
+      "title": "「ちいかわ」新入学グッズが登場！トートバッグやナップサックなど全4アイテム♪ ハワイ限定マスコットキーホルダーも",
+      "url": "https://animeanime.jp/article/2026/11/10/104646.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "『ちいかわ』より、新入学シーズンに向けたグッズが登場。また、ハワイ限定の「CHIIKAWA MASCOT KEYRING」は一部のABCストアで販売を開始した。",
+      "publishedAt": "2026-11-10T01:30:03.000Z",
+      "image": "https://animeanime.jp/imgs/rss/953687.jpg",
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b5563899d88e",
       "title": "ちいかわ 2023年放送 第78話 カメラ買っちゃった｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
@@ -1464,7 +1508,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83602f157079",
@@ -1785,7 +1829,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-09T05:51:17.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/389330_1.jpg",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -1851,7 +1895,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80224212f9ed",
@@ -2162,6 +2206,26 @@
       "isNew": false
     },
     {
+      "id": "3d689769d880",
+      "title": "『映画ちいかわ 人魚の島のひみつ』公開記念グッズが7・10より順次発売 セイレーン、島二郎、ヒトハ＆フタバらのマスコットも登場",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGtZQzVpRjVIVzJMdXJsZnZqMGhwQ3hUT2R4U2hPdldxLUJsQUlKZEQ0ZHU3R1A1WjFpTFF1M0RkTk9NWUN3MFJrNEhIeC1iamljT1VGcHJEaVI2Nmh1Tk1zNUdqOTkzcks0U0QzaVRpY0hBS0VBQmpIbHlRN0tGemVoQzdRcWw0aUlfRnVzMzFKUWM1RWdMVGp4Vk1CVUowX3FucTROM2Fyek1lQ2FtcktkRjBrZDUyckMxakRGREhRSHQ3MFN0bzh3Z2JVbThMbzAwOVNlaHFtXzdkYUM3cHFydTFZWmpkbWZwZUpPZFN0U3VkYnFseXRhOW9rNHM?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:36:52.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "af6ac34496a0",
       "title": "【ちいかわ】セブン-イレブン新商品！おかお巾着①開封レポ！全４種類のふわふわポーチ。ちいかわ出るか？",
       "url": "https://news.yahoo.co.jp/expert/articles/b789020f282dda584e7edece987aa78294043d75",
@@ -2304,7 +2368,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-08T23:54:51.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/657779_1.jpg",
+      "image": "",
       "categories": [
         "event"
       ],
@@ -2590,7 +2654,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "070866e544aa",
@@ -2824,7 +2888,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110094502",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110103040",
       "categories": [
         "other"
       ],
@@ -2836,6 +2900,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "eb09d562ae02",
+      "title": "大阪・梅田に「ちいかわパークストア」誕生！11月24日オープン",
+      "url": "https://www.pretty-online.jp/news/10095/",
+      "host": "pretty-online.jp",
+      "source": "PrettyOnline",
+      "summary": "",
+      "publishedAt": "2026-11-07T11:00:18.000Z",
+      "image": "https://img.pretty-online.jp/wp-content/uploads/2026/10/31230005/news_chiikawastore_osaka_eye.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1521e98f1e5e",
@@ -3098,27 +3181,6 @@
         "anime"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2a9f5db3b553",
-      "title": "うさぎの髪がファサ…「ちいかわ」即完売の“毛量シリーズ”グッズが追加生産！3人のボアブルゾン、ファーマフラーなど10種",
-      "url": "https://news.yahoo.co.jp/articles/d427d49b0d66911f6ddbab5bd018be3f5c446aaa",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T01:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00000017-isd-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
