@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-10T05:00:18.876Z",
+  "updatedAt": "2026-11-10T05:30:19.316Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 109,
-  "todayCount": 21,
+  "total": 110,
+  "todayCount": 22,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "event",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 19
     },
     {
       "name": "インサイド",
@@ -102,7 +102,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 8
     },
     {
       "name": "コラボカフェ",
@@ -125,6 +125,10 @@
       "count": 3
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
       "name": "ウォーカープラス",
       "count": 3
     },
@@ -142,10 +146,6 @@
     },
     {
       "name": "ナタリー",
-      "count": 2
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 2
     },
     {
@@ -189,11 +189,11 @@
       "count": 1
     },
     {
-      "name": "Record China",
+      "name": "eeo",
       "count": 1
     },
     {
-      "name": "eeo",
+      "name": "推し楽",
       "count": 1
     },
     {
@@ -257,7 +257,7 @@
       "count": 1
     },
     {
-      "name": "GourmetBiz",
+      "name": "au Webポータル",
       "count": 1
     }
   ],
@@ -269,24 +269,38 @@
       "url": "https://animeanime.jp/article/2026/11/09/104614.html",
       "image": "https://animeanime.jp/imgs/rss/953578.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-09T06:47:00.000Z",
-      "sourceCount": 14,
-      "articleCount": 17,
+      "publishedAt": "2026-11-09T07:14:00.000Z",
+      "sourceCount": 16,
+      "articleCount": 21,
       "categories": [
-        "goods",
-        "anime"
+        "anime",
+        "goods"
       ],
       "keywords": [
         "映画",
         "特典",
-        "ライト"
+        "エアー"
       ],
       "articles": [
+        {
+          "title": "「映画ちいかわ」年内の入場者特典が一挙公開！「エアーびんよよ」やリバイバル配布も",
+          "url": "https://fan.books.rakuten.co.jp/articles/akq54ht09li7sy4i83tinm7e",
+          "source": "推し楽",
+          "publishedAt": "2026-11-09T07:14:00.000Z",
+          "isPR": false
+        },
         {
           "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第8～12弾が発表！バルーンの“びんよよ”や電池型ミニライト、第9～11弾はチャームミニフィギュアなどをリバイバル配布",
           "url": "https://nijimen.kusuguru.co.jp/topics/652152",
           "source": "にじめん",
           "publishedAt": "2026-11-09T06:47:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ』年内の入場者特典第8弾～第12弾を一挙解禁 SNS歓喜「は？びんよよ？」「需要を分かりすぎている」",
+          "url": "https://news.yahoo.co.jp/articles/eab7308de031ed9e2ca8a837e86096358e6e58d4",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T06:33:43.000Z",
           "isPR": false
         },
         {
@@ -322,20 +336,6 @@
           "url": "https://dengekionline.com/article/202611/93486",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-09T05:24:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画『ちいかわ』第8弾～第12弾特典を一挙発表「エアーびんよよ」や「許さライト」過去特典も再登場（シネマトゥデイ）",
-          "url": "https://news.yahoo.co.jp/articles/77c8dd8947f30872d5fe46908da41e474fdc6ce1",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-09T05:00:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "エアーびんよよ、“単三電池”…『映画ちいかわ』入場者特典第8弾～第12弾まで一挙解禁！リバイバル配布のスケジュールも決定",
-          "url": "https://mezamashi.media/articles/-/371079",
-          "source": "めざましmedia",
-          "publishedAt": "2026-11-09T05:00:00.000Z",
           "isPR": false
         }
       ]
@@ -552,42 +552,6 @@
       ]
     },
     {
-      "id": "427b10d3616f",
-      "title": "『映画ちいかわ』年内の入場者特典第8弾～第12弾を一挙解禁 SNS歓喜「は？びんよよ？」「需要を分かりすぎている」",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/eab7308de031ed9e2ca8a837e86096358e6e58d4",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-01095674-encount-000-3-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T06:33:43.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "keywords": [
-        "映画",
-        "歓喜",
-        "ゲーム"
-      ],
-      "articles": [
-        {
-          "title": "『映画ちいかわ』謎解きゲームに待望の「おうち版」登場 「行けなかったからありがたい」と歓喜の声（ふたまん＋）",
-          "url": "https://news.yahoo.co.jp/articles/05c5e32e61399a16e716ea8b37ca77790a7af2f9",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-07T08:00:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ』の謎解きゲームに待望の「おうち版」登場 ファンから「行きたくても行けなかったからありがたい」と歓喜の声",
-          "url": "https://futaman.futabanet.jp/articles/-/132750?page",
-          "source": "ふねぽ",
-          "publishedAt": "2026-11-07T07:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "a9ede94e15a2",
       "title": "作中一番の良心!? 『ちいかわ』の健気すぎる愛されキャラ「シーサーが秘めた魅力」（ふたまん＋）",
       "summary": "",
@@ -761,15 +725,42 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "579f44c2b821",
+      "title": "ちいかわ キャラパキ あまおう苺 全20種のチョコ 11月9日発売!",
+      "summary": "",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-goods-bandai-charapaki-amaou-ichigo-2026/",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-goods-bandai-charapaki-amaou-ichigo-2026-eyecatch.jpg",
+      "leadSource": "コラボカフェ",
+      "publishedAt": "2026-11-09T08:40:34.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "キャラパキ",
+        "チョコ"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ 」キャラパキあまおう苺が発売！チョコの型はおかおデザインなど全20種、個包装まで可愛い1パック5枚入り",
+          "url": "https://www.inside-games.jp/article/2026/11/09/190582.html",
+          "source": "インサイド",
+          "publishedAt": "2026-11-09T01:35:02.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T04:30:18.675Z",
-    "previousCount": 111,
-    "newCount": 0
+    "previousAt": "2026-11-10T05:00:18.876Z",
+    "previousCount": 109,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T05:30:18.876Z",
+  "nextUpdateAt": "2026-11-10T06:00:19.316Z",
   "items": [
     {
       "id": "2cc08dd3cbb1",
@@ -833,6 +824,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5f4aff2b9a74",
+      "title": "くら寿司、「ちいかわ」コラボグッズの不適切な取り扱いめぐり謝罪 事実関係を調査「法的措置も含め厳格に対応」",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T03:49:31.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9c761e541900",
@@ -1291,19 +1302,19 @@
     {
       "id": "3c1f4c4e72ec",
       "title": "韓国「ちいかわ」ブームで星形貯金箱の売り上げ400％増＝韓国ネット「影響力すごい」",
-      "url": "https://www.recordchina.co.jp/b997544-s39-c30-d0202.html",
-      "host": "recordchina.co.jp",
-      "source": "Record China",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUzFObnJtUWVTVFdkU29haEpicDZpVWJ6QmdRTE84OHhLMXBQUV9tVXNaUGg3WjhZRzJfc3poQXNnOFdzUW1KY1RlekgzZFJNQnJrTGlvUk5MZ2ItWkswdDZ5b2xVODdNUmx4MDZjTTAyekpjSDVmdXBlRUpqYUN3YnVUVnpIZjlHTHfSAY8BQVVfeXFMTmdSaVEteElHSHd4bFpVRkJFU1pLMUtEeFhMX21fV3podHhLRFhrby02ajBwMEN4QjBWc0d2dWgzcU0xdm5OMWRHcTFpdVkwUm9KdG1IVnhiRG1lZVdaWGJKbS00bTNmZUxuWWV5dHoya1l2Mkgwd2RGbUZ5aENPRTM5dkhzUFdRYTBuUEk2bkk?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T11:00:01.000Z",
-      "image": "https://assets.recordchina.co.jp/newRc/m1200/20261109/d11fd5a9d27874f784718fae2af1663f.jpg",
+      "publishedAt": "2026-11-09T11:00:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1506,14 +1517,14 @@
       "isNew": false
     },
     {
-      "id": "8c240e0bf9c1",
-      "title": "「映画ちいかわ 人魚の島のひみつ」、年内の入場者特典一挙公開。島の武器を再現した「エアーびんよよ」などが登場",
-      "url": "https://news.yahoo.co.jp/articles/240895c1408a9670b005e6e7783ed8bb5606fc30",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "761dba8920b7",
+      "title": "「映画ちいかわ」年内の入場者特典が一挙公開！「エアーびんよよ」やリバイバル配布も",
+      "url": "https://fan.books.rakuten.co.jp/articles/akq54ht09li7sy4i83tinm7e",
+      "host": "fan.books.rakuten.co.jp",
+      "source": "推し楽",
       "summary": "",
-      "publishedAt": "2026-11-09T07:26:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000017-impgmw-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-09T07:14:00.000Z",
+      "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_tokuten_main_b9f84774b0.jpg",
       "categories": [
         "anime"
       ],
@@ -1522,7 +1533,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "32f3728603e3",
@@ -1930,25 +1941,6 @@
       "isNew": false
     },
     {
-      "id": "d61ee3cdf075",
-      "title": "『映画ちいかわ』年内の入場者特典一挙解禁！ 「エアーびんよよ」や「ごきげんセイレーン♪」リバイバル配布も",
-      "url": "https://www.crank-in.net/news/193986/1",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://www.crank-in.net/img/db/269111099130491_1200.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "44318ed60ab0",
       "title": "『ちいかわ』年内配布の新たな特典発表 「エアーびんよよ」「ヒミツにしようなんて許さライト」",
       "url": "https://www.topics.or.jp/articles/-/1522593",
@@ -1959,6 +1951,25 @@
       "image": "https://tokushima.ismcdn.jp/mwimgs/5/a/1200wm/img_5af13c5a87be178d165916e5a32f9f3597173.jpg",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d61ee3cdf075",
+      "title": "『映画ちいかわ』年内の入場者特典一挙解禁！ 「エアーびんよよ」や「ごきげんセイレーン♪」リバイバル配布も",
+      "url": "https://www.crank-in.net/news/193986/1",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
+      "summary": "",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "image": "https://www.crank-in.net/img/db/269111099130491_1200.jpg",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2908,12 +2919,12 @@
     {
       "id": "4c3bacee2ce4",
       "title": "ちいかわ新作、発売初日から完売続出！！！「買えなかった」「売り切れてた」ファン熱狂",
-      "url": "https://www.gourmetbiz.net/262317/",
-      "host": "gourmetbiz.net",
-      "source": "GourmetBiz",
+      "url": "https://article.auone.jp/c5dd2d60-91db-41de-9fc1-a3c5af6be602",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-11-07T05:12:18.000Z",
-      "image": "https://www.gourmetbiz.net/wp-content/uploads/2026/11/gourmet_20261107_02_01.jpg",
+      "publishedAt": "2026-11-07T05:57:35.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/07/https___news_jp_i_1491678447536259316_w1200.webp",
       "categories": [
         "goods"
       ],
