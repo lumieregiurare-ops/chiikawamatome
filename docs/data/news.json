@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-10T14:30:33.937Z",
+  "updatedAt": "2026-11-10T15:00:21.254Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 114,
-  "todayCount": 46,
+  "total": 117,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 39
+      "count": 40
     },
     {
       "id": "kuji",
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 28
+      "count": 29
     }
   ],
   "series": [
@@ -109,6 +109,10 @@
       "count": 6
     },
     {
+      "name": "ファッションプレス",
+      "count": 3
+    },
+    {
       "name": "ナタリー",
       "count": 3
     },
@@ -129,11 +133,11 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
-      "name": "ファッションプレス",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -182,10 +186,6 @@
     },
     {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -246,6 +246,10 @@
     },
     {
       "name": "クラウドファンディング - READYFOR",
+      "count": 1
+    },
+    {
+      "name": "聯合ニュース",
       "count": 1
     },
     {
@@ -505,6 +509,63 @@
       ]
     },
     {
+      "id": "bcef246de42f",
+      "title": "写真9/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+      "summary": "",
+      "url": "https://www.fashion-press.net/news/gallery/153156/2589900",
+      "image": "https://www.fashion-press.net/img/news/153156/UIk.jpg?1794303340",
+      "leadSource": "ファッションプレス",
+      "publishedAt": "2026-11-10T14:03:50.000Z",
+      "sourceCount": 5,
+      "articleCount": 6,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "ナガノキャラクターズ",
+        "kiramekko",
+        "カラフル"
+      ],
+      "articles": [
+        {
+          "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！（アニメージュプラス）",
+          "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-10T12:45:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！ (2026年11月10日掲載)",
+          "url": "https://news.livedoor.com/topics/detail/32784437/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-10T12:45:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+          "url": "https://www.fashion-press.net/news/153156",
+          "source": "ファッションプレス",
+          "publishedAt": "2026-11-10T10:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ナガノキャラクターズ」表情豊かなくまのKiramekko登場、大阪にナガノマーケットも",
+          "url": "https://natalie.mu/comic/news/697433",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-10T10:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ」作者・ナガノが描く「ナガノキャラクターズ」からカラフルな “くま” の「Kiramekko」が登場！「ナガノキャラクターズ Kiramekko Kuma Color Collection」 | 株式会社グレイ・パーカー・サービ…",
+          "url": "https://prtimes.jp/main/html/rd/p/000000082.000168561.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-10T09:00:02.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "3da361cf2fbd",
       "title": "カプセルトイ「ちいかわ」ふりふりヘッドフィギュアが再販決定！島衣装のうさぎたち、セイレーンや島二郎など計8種",
       "summary": "「映画ちいかわ 人魚の島のひみつ ふりふりヘッドフィギュア1・2」が大好評につき再販決定！",
@@ -551,49 +612,6 @@
           "source": "インサイド",
           "publishedAt": "2026-11-09T09:40:02.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "2a4abc10e21a",
-      "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！（アニメージュプラス）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00068203-animage-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-10T12:45:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "ナガノキャラクターズ",
-        "kiramekko",
-        "カラフル"
-      ],
-      "articles": [
-        {
-          "title": "ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
-          "url": "https://www.fashion-press.net/news/153156",
-          "source": "ファッションプレス",
-          "publishedAt": "2026-11-10T10:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ナガノキャラクターズ」表情豊かなくまのKiramekko登場、大阪にナガノマーケットも",
-          "url": "https://natalie.mu/comic/news/697433",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-10T10:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」作者・ナガノが描く「ナガノキャラクターズ」からカラフルな “くま” の「Kiramekko」が登場！「ナガノキャラクターズ Kiramekko Kuma Color Collection」 | 株式会社グレイ・パーカー・サービ…",
-          "url": "https://prtimes.jp/main/html/rd/p/000000082.000168561.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-10T09:00:02.000Z",
-          "isPR": true
         }
       ]
     },
@@ -829,13 +847,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T14:00:19.670Z",
+    "previousAt": "2026-11-10T14:30:33.937Z",
     "previousCount": 114,
-    "newCount": 2
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T15:00:33.937Z",
+  "nextUpdateAt": "2026-11-10T15:30:21.254Z",
   "items": [
+    {
+      "id": "bcef246de42f",
+      "title": "写真9/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+      "url": "https://www.fashion-press.net/news/gallery/153156/2589900",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:03:50.000Z",
+      "image": "https://www.fashion-press.net/img/news/153156/UIk.jpg?1794303340",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "2a4abc10e21a",
       "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！（アニメージュプラス）",
@@ -854,6 +891,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3ee76b8c59d1",
+      "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！ (2026年11月10日掲載)",
+      "url": "https://news.livedoor.com/topics/detail/32784437/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T12:45:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/7/d/7d807_1699_e9cea409_6ddd9cb6.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6d50c29ca911",
@@ -1047,7 +1103,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ed54b7a1124b",
@@ -2042,6 +2098,25 @@
       "isNew": false
     },
     {
+      "id": "1c1dc6891b6b",
+      "title": "「ちいかわ」 マルチカラーパウダーが11月第3週ガシャポン展開！容器は漫画1コマ風デザイン全6種、コンパクトで持ち運びに便利",
+      "url": "https://www.inside-games.jp/article/2026/11/09/190604.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-11-09T07:00:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1804798.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7189ad4b7bef",
       "title": "2027年「ちいかわ 年賀はがき」ちいかわ・ハチワレ・うさぎが瓢箪に、賑やかな落書き入りシール付き",
       "url": "https://mdpr.jp/news/detail/4873619",
@@ -2194,7 +2269,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ec462b997258",
@@ -2604,12 +2679,12 @@
     {
       "id": "83b98b7a83a1",
       "title": "「映画ちいかわ」が5週連続週末興行1位 日本アニメの人気続く＝韓国",
-      "url": "https://news.yahoo.co.jp/articles/1a25b6a4917485536dac5a1453ade33783c47b59",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://jp.yna.co.kr/view/AJP20261109000700882",
+      "host": "jp.yna.co.kr",
+      "source": "聯合ニュース",
       "summary": "",
       "publishedAt": "2026-11-09T01:32:11.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00541940-yonh-000-2-view.jpg?exp=10800",
+      "image": "https://img9.yna.co.kr/etc/inner/JP/2026/11/09/AJP20261109000700882_01_i_P4.jpg",
       "categories": [
         "anime"
       ],
@@ -2622,13 +2697,13 @@
     },
     {
       "id": "81368a3f390a",
-      "title": "「ちいかわクリスマスマーケット」限定グッズをチェック！サンタ衣装のマスコットやスノードームなど80種超え、一部はオンライン販売も",
-      "url": "https://www.inside-games.jp/article/2026/11/09/190572.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "「ちいかわクリスマスマーケット」限定グッズをチェック！サンタ衣装のマスコットやスノードームなど80種超え、一部はオンライン販売も（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/fedec50712f2abb15ac33b23f6a230bbed494487",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-09T00:10:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1794434.webp",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000008-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
