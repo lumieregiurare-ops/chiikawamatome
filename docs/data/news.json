@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T01:30:19.600Z",
+  "updatedAt": "2026-11-10T02:00:20.168Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 119,
+  "total": 118,
   "todayCount": 12,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 42
+      "count": 41
     },
     {
       "id": "book",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 22
     },
     {
       "name": "インサイド",
-      "count": 11
+      "count": 10
     },
     {
       "name": "山陽新聞",
@@ -107,6 +107,10 @@
     {
       "name": "コラボカフェ",
       "count": 5
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 4
     },
     {
       "name": "ライブドアニュース",
@@ -122,10 +126,6 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 3
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 3
     },
     {
@@ -213,10 +213,6 @@
       "count": 1
     },
     {
-      "name": "１０９シネマズ",
-      "count": 1
-    },
-    {
       "name": "めざましmedia",
       "count": 1
     },
@@ -250,10 +246,6 @@
     },
     {
       "name": "Kids Well-being",
-      "count": 1
-    },
-    {
-      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -511,16 +503,16 @@
       "image": "https://magmix.jp/wp-content/uploads/2027/07/260731_chikawasimajiro_00.jpg",
       "leadSource": "マグミクス",
       "publishedAt": "2026-11-09T08:00:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "anime",
         "goods"
       ],
       "keywords": [
         "映画",
-        "入場者特典第",
-        "配布"
+        "配布",
+        "入場者特典第"
       ],
       "articles": [
         {
@@ -535,13 +527,6 @@
           "url": "https://news.mynavi.jp/article/20261109-5287691/",
           "source": "マイナビニュース",
           "publishedAt": "2026-11-09T05:46:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第８弾！エアーびんよよ",
-          "url": "https://109cinemas.net/news/10164.html",
-          "source": "１０９シネマズ",
-          "publishedAt": "2026-11-09T05:32:43.000Z",
           "isPR": false
         },
         {
@@ -836,12 +821,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T01:00:20.193Z",
-    "previousCount": 116,
-    "newCount": 4
+    "previousAt": "2026-11-10T01:30:19.600Z",
+    "previousCount": 119,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T02:00:19.600Z",
+  "nextUpdateAt": "2026-11-10T02:30:20.168Z",
   "items": [
     {
       "id": "9607feb7e4e4",
@@ -861,7 +846,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f61d501de11a",
@@ -881,7 +866,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b5563899d88e",
@@ -1441,7 +1426,7 @@
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T07:42:22.000Z",
+      "publishedAt": "2026-11-09T07:35:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491672/20261109_160055_p_o_62003787.jpg",
       "categories": [
         "anime"
@@ -1829,7 +1814,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-09T05:51:17.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/389330_1.jpg",
       "categories": [
         "collab"
       ],
@@ -1870,25 +1855,6 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-prize-furyu-noodle-stopper-goukaku-ramen-2026-add-info-detail-eyecatch.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1df79e284946",
-      "title": "『映画ちいかわ 人魚の島のひみつ』入場者特典第８弾！エアーびんよよ",
-      "url": "https://109cinemas.net/news/10164.html",
-      "host": "109cinemas.net",
-      "source": "１０９シネマズ",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:32:43.000Z",
-      "image": "https://109cinemas.net/media/W1siZiIsIjIwMjYvMTEvMDkvMTRfMjJfMzFfNDgxX184Xy5qcGciXSxbInAiLCJ0aHVtYiIsIjc2MHgiXV0/%E5%85%A5%E5%A0%B4%E8%80%85%E7%89%B9%E5%85%B8%E7%AC%AC8%E5%BC%BE%E7%94%BB%E5%83%8F.jpg",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2223,7 +2189,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "af6ac34496a0",
@@ -2368,7 +2334,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-08T23:54:51.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/657779_1.jpg",
       "categories": [
         "event"
       ],
@@ -2578,19 +2544,19 @@
     {
       "id": "f75a61b42375",
       "title": "ちいかわたちが唇を潤す♡Lovisiaのマスコットリップエッセンス全4種が新発売",
-      "url": "https://www.chiba-tv.com/plus/detail/2026112203670",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90TGRBMVdjdWF1eHdlQmM3VXA2bmgzRm5ncTltNWQ2MUo3OVl3RVFGZWlOUXJZVnhxbGt1aWZnd0V3WGVKWXQtSHVBMXg2MUgyN29sS29HNjdyb0JQOWRBYkllN1dOVGZsLUNmamtqYUM1NFVIc3pXcFUtN2fSAXxBVV95cUxPdExkQTFXY3VhdXh3ZUJjN1VwNm5oM0ZuZ3E5bTVkNjFKNzlZd0VRRmVpTlFyWVZ4cWxrdWlmZ3dFd1hlSll0LUh1QTF4NjFIMjdvbEtvRzY3cm9CUDlkQWJJZTdXTlRmbC1DZmpramFDNTRVSHN6V3BVLTdn?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-11-08T09:37:27.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1492095890054153898/origin_1.jpg",
+      "publishedAt": "2026-11-08T09:30:00.000Z",
+      "image": "",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2888,7 +2854,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110103040",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110110042",
       "categories": [
         "other"
       ],
@@ -2918,17 +2884,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1521e98f1e5e",
-      "title": "「チョコサプ ちいかわ2」がキュート！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種",
-      "url": "https://www.inside-games.jp/article/2026/11/07/190518.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "「チョコサプ ちいかわ2」がキュート！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など台座＆吹き出し付きの全14種（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/433f086fe5a8279bc2c2329761e1663262742dda",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-07T10:30:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1768990.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-00000033-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
