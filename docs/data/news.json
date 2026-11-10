@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:00:19.001Z",
+  "updatedAt": "2026-11-10T00:30:20.277Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 41
+      "count": 42
     },
     {
       "id": "book",
@@ -54,12 +54,12 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 20
+      "count": 21
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "momonga",
@@ -90,15 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 23
     },
     {
       "name": "インサイド",
-      "count": 10
+      "count": 9
     },
     {
       "name": "山陽新聞",
-      "count": 6
+      "count": 8
     },
     {
       "name": "にじめん",
@@ -110,10 +110,6 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 4
-    },
-    {
-      "name": "オリコンニュース",
       "count": 4
     },
     {
@@ -130,6 +126,10 @@
     },
     {
       "name": "ナタリー",
+      "count": 3
+    },
+    {
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -153,7 +153,7 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
+      "name": "徳島新聞デジタル",
       "count": 2
     },
     {
@@ -217,10 +217,6 @@
       "count": 1
     },
     {
-      "name": "徳島新聞デジタル",
-      "count": 1
-    },
-    {
       "name": "シネマトゥデイ",
       "count": 1
     },
@@ -242,6 +238,10 @@
     },
     {
       "name": "沖縄タイムス社",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -275,10 +275,6 @@
     {
       "name": "https://kabu-ir.com/",
       "count": 1
-    },
-    {
-      "name": "매일경제",
-      "count": 1
     }
   ],
   "topics": [
@@ -290,16 +286,16 @@
       "image": "https://animeanime.jp/imgs/rss/953578.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-09T07:26:00.000Z",
-      "sourceCount": 11,
-      "articleCount": 15,
+      "sourceCount": 13,
+      "articleCount": 17,
       "categories": [
         "anime",
         "goods"
       ],
       "keywords": [
-        "エアー",
         "映画",
-        "特典"
+        "特典",
+        "エアー"
       ],
       "articles": [
         {
@@ -660,40 +656,6 @@
       ]
     },
     {
-      "id": "b7f5967d408a",
-      "title": "ちいかわクリスマスマーケット in 豊砂 限定オリジナルグッズ公開!",
-      "summary": "",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-christmas-market-limited-goods-makuhari-2026/",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-xmas-market-limited-goods-eyecatch1.jpg",
-      "leadSource": "コラボカフェ",
-      "publishedAt": "2026-11-09T09:20:39.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "goods",
-        "other"
-      ],
-      "keywords": [
-        "クリスマスマーケット"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわクリスマスマーケット(千葉県)の情報",
-          "url": "https://www.walkerplus.com/event/ar0312e620660/",
-          "source": "ウォーカープラス",
-          "publishedAt": "2026-11-09T07:07:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわクリスマスマーケットが2026年11月24日より開催へ",
-          "url": "https://news.dellows.jp/657779/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-11-08T23:54:51.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "427b10d3616f",
       "title": "『映画ちいかわ』年内の入場者特典第8弾～第12弾を一挙解禁 SNS歓喜「は？びんよよ？」「需要を分かりすぎている」",
       "summary": "",
@@ -818,15 +780,42 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "b7f5967d408a",
+      "title": "ちいかわクリスマスマーケット in 豊砂 限定オリジナルグッズ公開!",
+      "summary": "",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-christmas-market-limited-goods-makuhari-2026/",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-xmas-market-limited-goods-eyecatch1.jpg",
+      "leadSource": "コラボカフェ",
+      "publishedAt": "2026-11-09T09:20:39.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "keywords": [
+        "クリスマスマーケット"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわクリスマスマーケットが2026年11月24日より開催へ",
+          "url": "https://news.dellows.jp/657779/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-11-08T23:54:51.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T23:30:18.786Z",
-    "previousCount": 120,
-    "newCount": 0
+    "previousAt": "2026-11-10T00:00:19.001Z",
+    "previousCount": 117,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T00:30:19.001Z",
+  "nextUpdateAt": "2026-11-10T01:00:20.277Z",
   "items": [
     {
       "id": "b5563899d88e",
@@ -1456,25 +1445,6 @@
       "isNew": false
     },
     {
-      "id": "32f3728603e3",
-      "title": "ちいかわクリスマスマーケット(千葉県)の情報",
-      "url": "https://www.walkerplus.com/event/ar0312e620660/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-09T07:07:54.000Z",
-      "image": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/60/l2/620660.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "83602f157079",
       "title": "「VIVANT対策ってコト…？」映画ちいかわ、新入場特典を“異例の5回分発表”「やっっば」「めっちゃ豪華www」（ねとらぼ）",
       "url": "https://news.yahoo.co.jp/articles/9f49846004c2b55994268e1e18dc538770aa34da",
@@ -1938,25 +1908,6 @@
       "isNew": false
     },
     {
-      "id": "58feba319176",
-      "title": "映画『ちいかわ』興収187.9億円突破 年内配布の新たな特典発表で大台200億円目指す",
-      "url": "https://www.oricon.co.jp/news/2491637/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491637/20261013_125752_p_o_38466130.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "44318ed60ab0",
       "title": "『ちいかわ』年内配布の新たな特典発表 「エアーびんよよ」「ヒミツにしようなんて許さライト」（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/449ce5a550d1834717ece3b8440543c058da6abe",
@@ -1984,6 +1935,25 @@
       "summary": "",
       "publishedAt": "2026-11-09T05:00:00.000Z",
       "image": "https://www.crank-in.net/img/db/269111099130491_1200.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "58feba319176",
+      "title": "映画『ちいかわ』興収187.9億円突破 年内配布の新たな特典発表で大台200億円目指す",
+      "url": "https://www.topics.or.jp/articles/-/1522596",
+      "host": "topics.or.jp",
+      "source": "徳島新聞デジタル",
+      "summary": "",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "image": "https://tokushima.ismcdn.jp/mwimgs/8/0/1200wm/img_8010e315e0afd1c0adbc934311ad20cd69811.jpg",
       "categories": [
         "anime"
       ],
@@ -2149,6 +2119,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3d689769d880",
+      "title": "『映画ちいかわ 人魚の島のひみつ』公開記念グッズが7・10より順次発売 セイレーン、島二郎、ヒトハ＆フタバらのマスコットも登場",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGtZQzVpRjVIVzJMdXJsZnZqMGhwQ3hUT2R4U2hPdldxLUJsQUlKZEQ0ZHU3R1A1WjFpTFF1M0RkTk9NWUN3MFJrNEhIeC1iamljT1VGcHJEaVI2Nmh1Tk1zNUdqOTkzcks0U0QzaVRpY0hBS0VBQmpIbHlRN0tGemVoQzdRcWw0aUlfRnVzMzFKUWM1RWdMVGp4Vk1CVUowX3FucTROM2Fyek1lQ2FtcktkRjBrZDUyckMxakRGREhRSHQ3MFN0bzh3Z2JVbThMbzAwOVNlaHFtXzdkYUM3cHFydTFZWmpkbWZwZUpPZFN0U3VkYnFseXRhOW9rNHM?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:36:52.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "af6ac34496a0",
@@ -2440,6 +2430,28 @@
       "isNew": false
     },
     {
+      "id": "8606441a3170",
+      "title": "「ちいかわとのんびり船旅」船の装飾が一部公開 船員姿のちいかわ、コック姿のハチワレなど「かわいすぎる…！」「さつま、きりしまは、うさぎだな!?」",
+      "url": "https://www.sanyonews.jp/article/1957105?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T18:24:10.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/1/e/d/81ed3cd58d746b5d67d29a2e730a46a7_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a4b3c306fc9d",
       "title": "本編放送前に“カニちゃん”も登場…アニメ『ちいかわ』主要キャラ総出演の新PV公開に反響続々「キターーー!!!」「しゃべったあああああ」「朝から泣いてる」",
       "url": "https://www.sanyonews.jp/article/1914693?kw",
@@ -2624,12 +2636,12 @@
     {
       "id": "67d9db8d27b3",
       "title": "しまむらパークで「ちいかわ」グッズが11月9日12時よりオンライン販売！仕事・勉強のワンシーンを彩るペンポーチ全6種",
-      "url": "https://www.inside-games.jp/article/2026/11/08/190552.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://news.yahoo.co.jp/articles/03be1183e5ff10e3b0cacb4827276449914bf12b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-08T05:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1804650.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00000027-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -2812,7 +2824,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110083039",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110093042",
       "categories": [
         "other"
       ],
@@ -3107,25 +3119,6 @@
       "series": [
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "753513d20ba0",
-      "title": "高級ブランドでもないのに…キーホルダーが44万ウォン、「ちいかわ」に財布を開く理由【ステック】",
-      "url": "https://www.mk.co.kr/jp/culture/12198579",
-      "host": "mk.co.kr",
-      "source": "매일경제",
-      "summary": "",
-      "publishedAt": "2026-11-07T00:30:00.000Z",
-      "image": "https://pimg.mk.co.kr/news/cms/202611/05/news-p.v1.20261105.e8e58d24f7db4c75ad9644cd1cb679a9_R.png",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
