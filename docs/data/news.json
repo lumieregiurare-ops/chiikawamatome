@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T12:00:17.782Z",
+  "updatedAt": "2026-11-10T12:30:19.910Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 114,
-  "todayCount": 45,
+  "total": 115,
+  "todayCount": 46,
   "categories": [
     {
       "id": "goods",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 40
+      "count": 41
     },
     {
       "id": "book",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 20
+      "count": 21
     },
     {
       "name": "インサイド",
@@ -113,6 +113,10 @@
       "count": 4
     },
     {
+      "name": "ニコニコニュース",
+      "count": 3
+    },
+    {
       "name": "ナタリー",
       "count": 3
     },
@@ -125,23 +129,11 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 2
-    },
-    {
       "name": "ファッションプレス",
       "count": 2
     },
     {
       "name": "オリコンニュース",
-      "count": 2
-    },
-    {
-      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -173,7 +165,15 @@
       "count": 2
     },
     {
+      "name": "クランクイン！",
+      "count": 1
+    },
+    {
       "name": "Howl.Link",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -182,6 +182,10 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -198,10 +202,6 @@
     },
     {
       "name": "ダイヤモンド・オンライン",
-      "count": 1
-    },
-    {
-      "name": "オタク総研",
       "count": 1
     },
     {
@@ -229,11 +229,11 @@
       "count": 1
     },
     {
-      "name": "映画.com",
+      "name": "めざましmedia",
       "count": 1
     },
     {
-      "name": "めざましmedia",
+      "name": "映画.com",
       "count": 1
     },
     {
@@ -262,6 +262,10 @@
     },
     {
       "name": "TBS NEWS DIG",
+      "count": 1
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -507,19 +511,26 @@
       "url": "https://www.inside-games.jp/article/2026/11/10/190692.html",
       "image": "https://www.inside-games.jp/imgs/rss/1796071.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-10T11:52:00.000Z",
+      "publishedAt": "2026-11-10T11:54:34.000Z",
       "sourceCount": 3,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
-        "goods",
-        "anime"
+        "anime",
+        "goods"
       ],
       "keywords": [
         "再販",
         "映画",
-        "再販決定"
+        "人魚"
       ],
       "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ",
+          "url": "https://news.nicovideo.jp/watch/nw19976449?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-10T11:54:34.000Z",
+          "isPR": false
+        },
         {
           "title": "映画ちいかわ 人魚の島のひみつ ふりふりヘッドフィギュア①②が再販決定！花飾り＆島衣装のちいかわたちやセイレーン・島二郎など全8種",
           "url": "https://nijimen.kusuguru.co.jp/topics/653345",
@@ -738,7 +749,7 @@
       "title": "「ナガノマーケット UMEDA」が11月24日LUCUA",
       "summary": "",
       "url": "https://news.nicovideo.jp/watch/nw19976391?news_ref",
-      "image": "https://prcdn.freetls.fastly.net/release_image/74811/146/74811-146-cb67d2a31c52f7174a24bd9387ce24db-1240x1240.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "leadSource": "ニコニコニュース",
       "publishedAt": "2026-11-10T11:30:36.000Z",
       "sourceCount": 2,
@@ -754,10 +765,10 @@
       "articles": [
         {
           "title": "「ナガノマーケット UMEDA」大阪・LUCUA SOUTHに2026年11月24日（火）GRAND OPEN！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000146.000074811.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-10T09:41:14.000Z",
-          "isPR": true
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000146_000074811/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-10T09:30:30.000Z",
+          "isPR": false
         }
       ]
     },
@@ -818,13 +829,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T11:30:19.132Z",
-    "previousCount": 111,
-    "newCount": 5
+    "previousAt": "2026-11-10T12:00:17.782Z",
+    "previousCount": 114,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T12:30:17.782Z",
+  "nextUpdateAt": "2026-11-10T13:00:19.910Z",
   "items": [
+    {
+      "id": "118bc1a39072",
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "url": "https://news.nicovideo.jp/watch/nw19976449?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T11:54:34.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "30e541d156b3",
       "title": "映画ちいかわ 人魚の島のひみつ ふりふりヘッドフィギュア①②が再販決定！花飾り＆島衣装のちいかわたちやセイレーン・島二郎など全8種",
@@ -843,7 +873,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9922bbf0adeb",
@@ -862,24 +892,24 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d7917a1d9dc0",
       "title": "ミルクボーイ・内海、大好きな「ちいかわ」の流行語大賞受賞を祈るも心配要素…「男の人で知らんっていう人は多い」",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzhxam5lbzdHZXd1U2pLN0NUeDhDeEpVZGhrVnkwSmlTZFVpMDJPLVM1Y0hJZDZ0VnY5anM5UG1TbU04eFZId0REOGtILUQtTEQ5SURNdWJHQmJua081eE9zOERvSkd4WXp6YndTYkRTb05FZWtMMk9xazBRdTRwMGdoemdFV1FJd3F3V0RR0gGTAUFVX3lxTFBDSE01SlZIQTQxaGNqc2dRaDRuSllEay1RSHhwbzRxOXFycVF3Y2p5OVBSeGNvYm9xRHRtMUV2eDdobkhLVlllOEhKc0wtTUFyblZDVGVDcHliLUpyd0Zwc21pTFRVRFlMNkt5T2pTVlVfdlpSci0wX0VZN1J0T0d0aVRMQUFYQndjMkN1c0ZJOHZyWQ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.yahoo.co.jp/articles/61ed6709803c67ff9a305dffa1faa29110f3ad70",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T11:21:00.000Z",
-      "image": "",
+      "publishedAt": "2026-11-10T11:21:23.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-11101247-sph-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -964,13 +994,13 @@
     },
     {
       "id": "ed54b7a1124b",
-      "title": "『ちいかわ』ナガノ作“くま”のきらめっこ発売決定！ どこかシュールで絶妙な表情（クランクイン！）",
-      "url": "https://news.yahoo.co.jp/articles/0ca308a2504036a356835cf151538b79f0c977fe",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "『ちいかわ』ナガノ作“くま”のきらめっこ発売決定！ どこかシュールで絶妙な表情",
+      "url": "https://www.crank-in.net/trend/item/194089",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
       "summary": "",
       "publishedAt": "2026-11-10T10:25:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00194089-crankinn-000-1-view.jpg?exp=10800",
+      "image": "https://www.crank-in.net/img/db/269116105189273_1200.jpg",
       "categories": [
         "other"
       ],
@@ -1038,23 +1068,23 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9453c4bf24a0",
       "title": "「ナガノマーケット UMEDA」大阪・LUCUA SOUTHに2026年11月24日（火）GRAND OPEN！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000146.000074811.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社Juice] 株式会社Juice（本社：東京都渋谷区、代表取締役：神戸輝男、以下「Juice」）は、ルクア大阪の新館「LUCUA SOUTH（ルクア サウス）」11階に、「ナガノマーケット UMEDA」を2026年11月24日（火）にグランドオープ...",
-      "publishedAt": "2026-11-10T09:41:14.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/74811/146/74811-146-cb67d2a31c52f7174a24bd9387ce24db-1240x1240.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000146_000074811/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-10T09:30:30.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1139,7 +1169,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ed2532b0cbc9",
@@ -1353,7 +1383,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d53733094e6b",
@@ -1516,13 +1546,13 @@
     },
     {
       "id": "71e075376185",
-      "title": "映画『ちいかわ』年内残り入場特典を一挙公開、さらに興収伸びそうな「びんよよ」ほか渾身のラインナップ判明",
-      "url": "https://0115765.com/archives/213331",
-      "host": "0115765.com",
-      "source": "オタク総研",
+      "title": "映画『ちいかわ』年内残り入場特典を一挙公開、さらに興収伸びそうな「びんよよ」ほか渾身のラインナップ判明 (オタク総研)",
+      "url": "https://news.yahoo.co.jp/articles/c08ac09e5620df07ef29912dfa8bb371b172ab7b/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T02:45:19.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/04/0428-40qtkcox.jpeg",
+      "publishedAt": "2026-11-10T02:46:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26uT1-71x1VHHYgaWjanL5VTq_i2l1meO9Wfa5Qo4TuXXBeSzT3TQ2l7sQ6lK9297HXVQx0MCMKxbswTiGikW1EAxXCoZ0ZmjijjqeDyttwXMzWDkZphFZjjcrA9IOiOiSg==",
       "categories": [
         "anime"
       ],
@@ -2282,14 +2312,14 @@
       "isNew": false
     },
     {
-      "id": "02f0c413a76d",
-      "title": "「映画ちいかわ」入場特典第8～12弾が一挙発表！新特典「エアーびんよよ」「ヒミツにしようなんて許さライト」お披露目",
-      "url": "https://eiga.com/news/20261109/22/",
-      "host": "eiga.com",
-      "source": "映画.com",
+      "id": "8eb5f272c6c0",
+      "title": "エアーびんよよ、“単三電池”…『映画ちいかわ』入場者特典第8弾～第12弾まで一挙解禁！リバイバル配布のスケジュールも決定",
+      "url": "https://mezamashi.media/articles/-/371079",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
       "summary": "",
       "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/130442/4daafe28a9d2a264.jpg",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/2/8/1200xm/img_28576794c6ee18e400c9cfc2424209b62878723.jpg",
       "categories": [
         "anime"
       ],
@@ -2301,14 +2331,14 @@
       "isNew": false
     },
     {
-      "id": "8eb5f272c6c0",
-      "title": "エアーびんよよ、“単三電池”…『映画ちいかわ』入場者特典第8弾～第12弾まで一挙解禁！リバイバル配布のスケジュールも決定",
-      "url": "https://mezamashi.media/articles/-/371079",
-      "host": "mezamashi.media",
-      "source": "めざましmedia",
+      "id": "02f0c413a76d",
+      "title": "「映画ちいかわ」入場特典第8～12弾が一挙発表！新特典「エアーびんよよ」「ヒミツにしようなんて許さライト」お披露目",
+      "url": "https://eiga.com/news/20261109/22/",
+      "host": "eiga.com",
+      "source": "映画.com",
       "summary": "",
       "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/2/8/1200xm/img_28576794c6ee18e400c9cfc2424209b62878723.jpg",
+      "image": "https://media.eiga.com/images/buzz/130442/4daafe28a9d2a264.jpg",
       "categories": [
         "anime"
       ],
@@ -3060,7 +3090,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-07T12:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110210041",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/e/b/1/2/eb1274a5e787eeb25a51d4c6a899f482_1.jpg?20261110213042",
       "categories": [
         "other"
       ],
