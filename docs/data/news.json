@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:00:22.126Z",
+  "updatedAt": "2026-11-10T23:30:17.470Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "kuji",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 27
+      "count": 28
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "usagi",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 24
+      "count": 23
     },
     {
       "name": "インサイド",
@@ -153,10 +153,6 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
-      "count": 2
-    },
-    {
       "name": "Dellows News",
       "count": 2
     },
@@ -173,11 +169,15 @@
       "count": 2
     },
     {
+      "name": "グノシー",
+      "count": 1
+    },
+    {
       "name": "読売新聞",
       "count": 1
     },
     {
-      "name": "グノシー",
+      "name": "アニメージュプラス",
       "count": 1
     },
     {
@@ -209,6 +209,10 @@
       "count": 1
     },
     {
+      "name": "オタク総研",
+      "count": 1
+    },
+    {
       "name": "@DIME アットダイム",
       "count": 1
     },
@@ -230,6 +234,10 @@
     },
     {
       "name": "モデルプレス",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -292,7 +300,7 @@
       "articles": [
         {
           "title": "『映画ちいかわ』特典に“エアーびんよよ”や“ヒミツにしようなんて許さライト”が登場。第8弾～第12弾が一挙公開",
-          "url": "https://dengekionline.com/article/202611/93486",
+          "url": "https://dengekionline.com/article/images/202611/93486/926577",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-09T05:26:00.000Z",
           "isPR": false
@@ -508,7 +516,7 @@
       "articleCount": 5,
       "categories": [
         "goods",
-        "anime"
+        "other"
       ],
       "keywords": [
         "ナガノキャラクターズ",
@@ -517,10 +525,10 @@
       ],
       "articles": [
         {
-          "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！（アニメージュプラス）",
-          "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-10T12:45:00.000Z",
+          "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！",
+          "url": "https://animageplus.jp/articles/detail/68203",
+          "source": "アニメージュプラス",
+          "publishedAt": "2026-11-10T12:46:36.000Z",
           "isPR": false
         },
         {
@@ -830,32 +838,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T22:30:19.908Z",
+    "previousAt": "2026-11-10T23:00:22.126Z",
     "previousCount": 115,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T23:30:22.126Z",
+  "nextUpdateAt": "2026-11-11T00:00:17.470Z",
   "items": [
-    {
-      "id": "3f9b0eac4b2b",
-      "title": "「民意」に背き日本のエンタメ排除、「ちいかわ」映画も中国本土で見られず…日中「理解の土台」損なう恐れ",
-      "url": "https://www.yomiuri.co.jp/world/20261111-GYT1T00074/",
-      "host": "yomiuri.co.jp",
-      "source": "読売新聞",
-      "summary": "",
-      "publishedAt": "2026-11-10T22:11:43.000Z",
-      "image": "https://www.yomiuri.co.jp/media/2026/11/20261111-GYT1I00075-1.jpg?type=ogp",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "9453c4bf24a0",
       "title": "「ナガノマーケット UMEDA」大阪・LUCUA SOUTHに2026年11月24日（火）GRAND OPEN！",
@@ -909,6 +898,25 @@
       "series": [
         "hachiware"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3f9b0eac4b2b",
+      "title": "「民意」に背き日本のエンタメ排除、「ちいかわ」映画も中国本土で見られず…日中「理解の土台」損なう恐れ",
+      "url": "https://www.yomiuri.co.jp/world/20261111-GYT1T00074/",
+      "host": "yomiuri.co.jp",
+      "source": "読売新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T20:00:00.000Z",
+      "image": "https://www.yomiuri.co.jp/media/2026/11/20261111-GYT1I00075-1.jpg?type=ogp",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1032,15 +1040,15 @@
     },
     {
       "id": "2a4abc10e21a",
-      "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！（アニメージュプラス）",
-      "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！",
+      "url": "https://animageplus.jp/articles/detail/68203",
+      "host": "animageplus.jp",
+      "source": "アニメージュプラス",
       "summary": "",
-      "publishedAt": "2026-11-10T12:45:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00068203-animage-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-10T12:46:36.000Z",
+      "image": "",
       "categories": [
-        "anime"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1702,6 +1710,25 @@
       "isNew": false
     },
     {
+      "id": "71e075376185",
+      "title": "映画『ちいかわ』年内残り入場特典を一挙公開、さらに興収伸びそうな「びんよよ」ほか渾身のラインナップ判明",
+      "url": "https://0115765.com/archives/213331",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:45:19.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/04/0428-40qtkcox.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "081dc2ba459e",
       "title": "アニメちいかわの新入学・学童グッズが11月下旬より順次発売！ネームタグ付きのトートバッグや洗える巾着セットなど4アイテム",
       "url": "https://nijimen.kusuguru.co.jp/topics/652801",
@@ -2022,7 +2049,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7f5967d408a",
@@ -2377,12 +2404,12 @@
     {
       "id": "80224212f9ed",
       "title": "『映画ちいかわ』特典に“エアーびんよよ”や“ヒミツにしようなんて許さライト”が登場。第8弾～第12弾が一挙公開",
-      "url": "https://dengekionline.com/article/202611/93486",
+      "url": "https://dengekionline.com/article/images/202611/93486/926577",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-11-09T05:26:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93486/ogp_sliY.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/93486/5f5b02e6d7d3d5abefba5f7f76e51067c.jpg?x=1280",
       "categories": [
         "anime"
       ],
@@ -3074,27 +3101,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1fbb3be62a12",
-      "title": "「ちいかわ」草むしり検定合格で、ハチワレと嬉し泣き…！お祝いラーメン食べる2人の「ぬーどるストッパーフィギュア」に感動",
-      "url": "http://www.excite.co.jp/news/article/Inside_190528/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-07T23:02:32.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
