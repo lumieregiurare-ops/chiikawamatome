@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-10T17:00:19.349Z",
+  "updatedAt": "2026-11-10T17:30:18.777Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 117,
+  "total": 116,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 42
+      "count": 41
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 39
+      "count": 38
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 28
+      "count": 29
     }
   ],
   "series": [
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 23
+      "count": 24
     },
     {
       "name": "インサイド",
@@ -105,12 +105,16 @@
       "count": 6
     },
     {
-      "name": "ファッションプレス",
+      "name": "山陽新聞",
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 5
+      "name": "ファッションプレス",
+      "count": 4
+    },
+    {
+      "name": "電撃オンライン",
+      "count": 3
     },
     {
       "name": "アニメ！アニメ！",
@@ -142,10 +146,6 @@
     },
     {
       "name": "キャラグー",
-      "count": 2
-    },
-    {
-      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -181,10 +181,6 @@
       "count": 1
     },
     {
-      "name": "クランクイン！",
-      "count": 1
-    },
-    {
       "name": "Howl.Link",
       "count": 1
     },
@@ -210,10 +206,6 @@
     },
     {
       "name": "ダイヤモンド・オンライン",
-      "count": 1
-    },
-    {
-      "name": "オタク総研",
       "count": 1
     },
     {
@@ -409,16 +401,16 @@
           "isPR": false
         },
         {
-          "title": "画像・写真 | 映画『ちいかわ』興収187.9億円突破 年内配布の新たな特典発表で大台200億円目指す 2枚目",
-          "url": "https://www.oricon.co.jp/news/2491637/photo/2/",
-          "source": "オリコンニュース",
+          "title": "＜映画ちいかわ 人魚の島のひみつ＞興収187.9億円突破 1286万人動員 年内配布の第8～12弾入場者特典を一挙発表",
+          "url": "https://news.yahoo.co.jp/articles/4bd4d4cc072b026c93b58f3ca9d0c6b2be035df1",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-09T05:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "＜映画ちいかわ 人魚の島のひみつ＞興収187.9億円突破 1286万人動員 年内配布の第8～12弾入場者特典を一挙発表",
-          "url": "https://news.yahoo.co.jp/articles/4bd4d4cc072b026c93b58f3ca9d0c6b2be035df1",
-          "source": "Yahoo!ニュース",
+          "title": "画像・写真 | 映画『ちいかわ』興収187.9億円突破 年内配布の新たな特典発表で大台200億円目指す 2枚目",
+          "url": "https://www.oricon.co.jp/news/2491637/photo/2/",
+          "source": "オリコンニュース",
           "publishedAt": "2026-11-09T05:00:00.000Z",
           "isPR": false
         }
@@ -567,7 +559,7 @@
       "leadSource": "ファッションプレス",
       "publishedAt": "2026-11-10T14:03:51.000Z",
       "sourceCount": 4,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "goods",
         "anime"
@@ -578,13 +570,6 @@
         "カラフル"
       ],
       "articles": [
-        {
-          "title": "写真6/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
-          "url": "https://www.fashion-press.net/news/gallery/153156/2589905",
-          "source": "ファッションプレス",
-          "publishedAt": "2026-11-10T14:03:49.000Z",
-          "isPR": false
-        },
         {
           "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！（アニメージュプラス）",
           "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad",
@@ -862,12 +847,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T16:30:20.238Z",
-    "previousCount": 115,
-    "newCount": 4
+    "previousAt": "2026-11-10T17:00:19.349Z",
+    "previousCount": 117,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T17:30:19.349Z",
+  "nextUpdateAt": "2026-11-10T18:00:18.777Z",
   "items": [
     {
       "id": "006d336e8456",
@@ -887,6 +872,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "04c9200b010d",
+      "title": "『ちいかわ』更新（11/10）。にぎやかなトランプ大会、自分の考えは意外と読めない!?",
+      "url": "https://dengekionline.com/article/202611/93668",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:41:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93668/ogp_JjcF.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0078ea5bc569",
@@ -925,25 +929,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "37c2ea26b9c8",
-      "title": "写真6/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
-      "url": "https://www.fashion-press.net/news/gallery/153156/2589905",
-      "host": "fashion-press.net",
-      "source": "ファッションプレス",
-      "summary": "",
-      "publishedAt": "2026-11-10T14:03:49.000Z",
-      "image": "https://www.fashion-press.net/img/news/153156/upk.jpg?1794303340",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2a4abc10e21a",
@@ -1220,13 +1205,13 @@
     },
     {
       "id": "ed54b7a1124b",
-      "title": "『ちいかわ』ナガノ作“くま”のきらめっこ発売決定！ どこかシュールで絶妙な表情",
-      "url": "https://www.crank-in.net/trend/item/194089",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
+      "title": "『ちいかわ』ナガノ作“くま”のきらめっこ発売決定！ どこかシュールで絶妙な表情（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/0ca308a2504036a356835cf151538b79f0c977fe",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-10T10:25:00.000Z",
-      "image": "https://www.crank-in.net/img/db/269116105189273_1200.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00194089-crankinn-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -1731,25 +1716,6 @@
       "isNew": false
     },
     {
-      "id": "71e075376185",
-      "title": "映画『ちいかわ』年内残り入場特典を一挙公開、さらに興収伸びそうな「びんよよ」ほか渾身のラインナップ判明",
-      "url": "https://0115765.com/archives/213331",
-      "host": "0115765.com",
-      "source": "オタク総研",
-      "summary": "",
-      "publishedAt": "2026-11-10T02:45:19.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/04/0428-40qtkcox.jpeg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "081dc2ba459e",
       "title": "アニメちいかわの新入学・学童グッズが11月下旬より順次発売！ネームタグ付きのトートバッグや洗える巾着セットなど4アイテム",
       "url": "https://nijimen.kusuguru.co.jp/topics/652801",
@@ -2225,7 +2191,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3da073111bd6",
@@ -2323,7 +2289,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "40536af1b51b",
@@ -2554,14 +2520,14 @@
       "isNew": false
     },
     {
-      "id": "a5a1a67fcd2e",
-      "title": "画像・写真 | 映画『ちいかわ』興収187.9億円突破 年内配布の新たな特典発表で大台200億円目指す 2枚目",
-      "url": "https://www.oricon.co.jp/news/2491637/photo/2/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "id": "5b9f68b31f56",
+      "title": "＜映画ちいかわ 人魚の島のひみつ＞興収187.9億円突破 1286万人動員 年内配布の第8～12弾入場者特典を一挙発表",
+      "url": "https://news.yahoo.co.jp/articles/4bd4d4cc072b026c93b58f3ca9d0c6b2be035df1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491637/20261109_125648_p_o_92334925.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000042-mantan-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -2573,14 +2539,14 @@
       "isNew": false
     },
     {
-      "id": "5b9f68b31f56",
-      "title": "＜映画ちいかわ 人魚の島のひみつ＞興収187.9億円突破 1286万人動員 年内配布の第8～12弾入場者特典を一挙発表",
-      "url": "https://news.yahoo.co.jp/articles/4bd4d4cc072b026c93b58f3ca9d0c6b2be035df1",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "a5a1a67fcd2e",
+      "title": "画像・写真 | 映画『ちいかわ』興収187.9億円突破 年内配布の新たな特典発表で大台200億円目指す 2枚目",
+      "url": "https://www.oricon.co.jp/news/2491637/photo/2/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-09T05:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000042-mantan-000-1-view.jpg?exp=10800",
+      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491637/20261109_125648_p_o_92334925.jpg",
       "categories": [
         "anime"
       ],
