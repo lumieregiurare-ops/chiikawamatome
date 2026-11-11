@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-11T18:30:17.910Z",
+  "updatedAt": "2026-11-11T19:00:23.139Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 126,
-  "todayCount": 3,
+  "total": 128,
+  "todayCount": 4,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 45
+      "count": 47
     },
     {
       "id": "kuji",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "usagi",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 2
+      "count": 3
     },
     {
       "id": "rakko",
@@ -102,7 +102,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 8
     },
     {
       "name": "にじめん",
@@ -110,6 +110,10 @@
     },
     {
       "name": "電撃オンライン",
+      "count": 4
+    },
+    {
+      "name": "ファッションプレス",
       "count": 4
     },
     {
@@ -121,12 +125,8 @@
       "count": 4
     },
     {
-      "name": "ファッションプレス",
-      "count": 3
-    },
-    {
       "name": "ニコニコニュース",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ナタリー",
@@ -222,10 +222,6 @@
     },
     {
       "name": "TVer",
-      "count": 1
-    },
-    {
-      "name": "Record China",
       "count": 1
     },
     {
@@ -489,7 +485,7 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-11-11T12:45:54.000Z",
       "sourceCount": 6,
-      "articleCount": 8,
+      "articleCount": 9,
       "categories": [
         "goods",
         "other"
@@ -533,6 +529,13 @@
           "url": "https://www.fashion-press.net/news/gallery/153156/2589896",
           "source": "ファッションプレス",
           "publishedAt": "2026-11-10T14:03:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "写真11/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+          "url": "https://www.fashion-press.net/news/gallery/153156/2589902",
+          "source": "ファッションプレス",
+          "publishedAt": "2026-11-10T14:03:50.000Z",
           "isPR": false
         },
         {
@@ -812,13 +815,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T18:00:18.556Z",
+    "previousAt": "2026-11-11T18:30:17.910Z",
     "previousCount": 126,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T19:00:17.910Z",
+  "nextUpdateAt": "2026-11-11T19:30:23.139Z",
   "items": [
+    {
+      "id": "c21b49d22bd0",
+      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYUl0bl9BMEJzU1M1MGRQc0h5V1ZmRW85X0Nsb19oSGRnTXdsSDlIV2pxaTBzdXI1REt6b1kxa1ZnVnFxeEp5Y25IczZSa1BYcm55S2syZEpjSUxMU2VJLXQ2QVdyLTdlaGlzclpvaFR0R3FQYW93RGdQVnB5QmpGTFk2cmJVUUlxcE5VcTcyVXk0aUZuajBJT1Z4X1B3cGNqNUNjcEczZXU5cXhWd1N6OXJ5R0dHZ3UtMWpVM0M0MzE0WDlCNjE5Y2E1T25LRnljNmlVbmt1ckszTHZZWE1CSUo3OXpVdmhhYWFDbXIyLUFodHZ4ZUNqMGVSdktMVURyWGpyYkdsVlZmSF9KWDFTMUFJaWFLamJHLXFkaWtqUllyYWowNFZNdTVHemMyZWJCWnV2ME90dG9INlF4WWZvem5nQk5kRkk5ZHh3dDhwN25nSmZ1dU5YZmQwT3RCVEwtbnpINll1cHI0MkxILUM5MTdOQQ?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T17:02:54.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "eef649e75917",
       "title": "強くなったハチワレ回も収録！『ちいかわ』最新9巻の予約受付が再開中。11/20発売、特装版は全24枚のポストカードブック＆おまけシール付き",
@@ -839,7 +864,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "23185e109dff",
@@ -1626,6 +1651,25 @@
       "isNew": false
     },
     {
+      "id": "65c7b935a76c",
+      "title": "写真11/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+      "url": "https://www.fashion-press.net/news/gallery/153156/2589902",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:03:50.000Z",
+      "image": "https://www.fashion-press.net/img/news/153156/Hrw.jpg?1794303340",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2a4abc10e21a",
       "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！ (アニメージュプラス)",
       "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad/images/000",
@@ -1700,7 +1744,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83444f02a250",
@@ -2381,12 +2425,12 @@
     {
       "id": "3c1f4c4e72ec",
       "title": "韓国「ちいかわ」ブームで星形貯金箱の売り上げ400％増＝韓国ネット「影響力すごい」",
-      "url": "https://www.recordchina.co.jp/b997544-s39-c30-d0202.html",
-      "host": "recordchina.co.jp",
-      "source": "Record China",
+      "url": "https://news.nicovideo.jp/watch/nw19972246",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T11:00:01.000Z",
-      "image": "https://assets.recordchina.co.jp/newRc/m1200/20261109/d11fd5a9d27874f784718fae2af1663f.jpg",
+      "publishedAt": "2026-11-09T11:00:29.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2998,7 +3042,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "44318ed60ab0",
