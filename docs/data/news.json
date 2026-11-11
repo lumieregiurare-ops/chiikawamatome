@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T04:30:20.609Z",
+  "updatedAt": "2026-11-11T05:00:21.272Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 123,
-  "todayCount": 17,
+  "total": 125,
+  "todayCount": 19,
   "categories": [
     {
       "id": "goods",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 38
+      "count": 39
     },
     {
       "id": "book",
@@ -54,12 +54,12 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "momonga",
@@ -97,15 +97,15 @@
       "count": 13
     },
     {
+      "name": "山陽新聞",
+      "count": 8
+    },
+    {
       "name": "にじめん",
       "count": 7
     },
     {
       "name": "コラボカフェ",
-      "count": 7
-    },
-    {
-      "name": "山陽新聞",
       "count": 7
     },
     {
@@ -173,6 +173,10 @@
       "count": 2
     },
     {
+      "name": "毎日新聞",
+      "count": 1
+    },
+    {
       "name": "読売新聞",
       "count": 1
     },
@@ -210,6 +214,10 @@
     },
     {
       "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "オタク総研",
       "count": 1
     },
     {
@@ -258,10 +266,6 @@
     },
     {
       "name": "Kids Well-being",
-      "count": 1
-    },
-    {
-      "name": "Togetter",
       "count": 1
     }
   ],
@@ -615,41 +619,6 @@
       ]
     },
     {
-      "id": "c2b16d6050ab",
-      "title": "『ちいかわ』更新（11/9）。魔法のパピコだったってコト!? 悩んだハチワレの決断は…",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202611/93446",
-      "image": "https://cimg.kgl-systems.io/camion/files/93446/ogp_cYep.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-11-09T14:02:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "パピコ",
-        "増殖"
-      ],
-      "articles": [
-        {
-          "title": "「これって全部…自分ッ!?」パピコを割るたびハチワレが増殖!? 「ちいかわ」まさかの展開にファン動揺",
-          "url": "https://news.mynavi.jp/article/20261109-5286670/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-11-09T02:21:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ちいかわ』ハチワレ増殖回…増殖していることよりパピコの心配をするハチワレ、食べ始めてる哀ワレ、食べ終わったうさぎなどカオス (2ページ目)",
-          "url": "https://togetter.com/li/2768019?page",
-          "source": "Togetter",
-          "publishedAt": "2026-11-08T04:34:15.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "a9ede94e15a2",
       "title": "作中一番の良心!? 『ちいかわ』の健気すぎる愛されキャラ「シーサーが秘めた魅力」（ふたまん＋）",
       "summary": "",
@@ -796,16 +765,62 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "caaa6385c4cd",
+      "title": "休めるなら、とっくに休んでる…『ちいかわ』の神回が「休めない大人」にブッ刺さったワケ",
+      "summary": "",
+      "url": "https://diamond.jp/articles/-/402983",
+      "image": "https://dol.ismcdn.jp/mwimgs/4/e/-/img_4e9a5b45baf1d10075fd20f7f10a192d122616.jpg",
+      "leadSource": "ダイヤモンド・オンライン",
+      "publishedAt": "2026-11-10T06:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "goods"
+      ],
+      "keywords": [
+        "大人"
+      ],
+      "articles": [
+        {
+          "title": "【ダイソー】ちいかわグッズが110円で買える！大人も普段使いしたくなる実用的なアイテム3選（Fav-Log by ITmedia）",
+          "url": "https://news.yahoo.co.jp/articles/0c768b6d077fdfc09e39e915eea9d0ca6c6ab50a",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T01:55:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T04:00:16.491Z",
-    "previousCount": 122,
+    "previousAt": "2026-11-11T04:30:20.609Z",
+    "previousCount": 123,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T05:00:20.609Z",
+  "nextUpdateAt": "2026-11-11T05:30:21.272Z",
   "items": [
+    {
+      "id": "122b5762740f",
+      "title": "米大教授もはまる「ちいかわ」 共感呼ぶ「小さな幸せ」 将来、競争…世界中の若者の苦悩を反映",
+      "url": "https://mainichi.jp/articles/20261111/dde/001/200/031000c",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T04:16:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "932492bf18c2",
       "title": "『ちいかわ』「Fluffy Time」追加生産分を11月13日18時から予約再販売！ボアブルゾンやキャラ別ファーマフラー・バッグなど10アイテム",
@@ -823,7 +838,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e0e289d8f71",
@@ -836,6 +851,25 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-goods-anime-shinnyugaku-2026-eyecatch.jpg",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5a02f8a57c36",
+      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
+      "url": "https://www.sanyonews.jp/article/1975592?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T03:02:30.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/f/0/1/af01890e80ec935f81ba61f623d1a1cd_1.jpg",
+      "categories": [
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -1846,6 +1880,25 @@
       "isNew": false
     },
     {
+      "id": "71e075376185",
+      "title": "映画『ちいかわ』年内残り入場特典を一挙公開、さらに興収伸びそうな「びんよよ」ほか渾身のラインナップ判明",
+      "url": "https://0115765.com/archives/213331",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:45:19.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/04/0428-40qtkcox.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fea420018236",
       "title": "くら寿司の既存店売上が前年割れに、ちいかわコラボの不祥事でコラボキャンペーン依存の戦略見直しが必要か",
       "url": "https://dime.jp/genre/2170374/",
@@ -2669,7 +2722,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "44318ed60ab0",
@@ -3197,28 +3250,6 @@
         "goods"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b78d60ac1331",
-      "title": "『ちいかわ』ハチワレ増殖回…増殖していることよりパピコの心配をするハチワレ、食べ始めてる哀ワレ、食べ終わったうさぎなどカオス (2ページ目)",
-      "url": "https://togetter.com/li/2768019?page",
-      "host": "togetter.com",
-      "source": "Togetter",
-      "summary": "",
-      "publishedAt": "2026-11-08T04:34:15.000Z",
-      "image": "https://s.tgstc.com/ogp3/eb774da6370354704d9e35cea59fb51a-1200x630.jpeg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
