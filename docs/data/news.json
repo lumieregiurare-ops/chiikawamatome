@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-11T15:30:22.468Z",
+  "updatedAt": "2026-11-11T16:00:17.942Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 125,
+  "total": 128,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 43
+      "count": 44
     },
     {
       "id": "kuji",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 33
     }
   ],
   "series": [
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "momonga",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 29
+      "count": 30
     },
     {
       "name": "インサイド",
@@ -142,6 +142,10 @@
     },
     {
       "name": "조선일보",
+      "count": 2
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 2
     },
     {
@@ -205,7 +209,7 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "ダイヤモンド・オンライン",
       "count": 1
     },
     {
@@ -801,12 +805,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T15:00:22.101Z",
+    "previousAt": "2026-11-11T15:30:22.468Z",
     "previousCount": 125,
-    "newCount": 1
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T16:00:22.468Z",
+  "nextUpdateAt": "2026-11-11T16:30:17.942Z",
   "items": [
     {
       "id": "5e862927f51a",
@@ -825,7 +829,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e3986bb93696",
@@ -1968,6 +1972,25 @@
       "isNew": false
     },
     {
+      "id": "caaa6385c4cd",
+      "title": "休めるなら、とっくに休んでる…『ちいかわ』の神回が「休めない大人」にブッ刺さったワケ",
+      "url": "https://diamond.jp/articles/-/402983",
+      "host": "diamond.jp",
+      "source": "ダイヤモンド・オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-10T06:00:00.000Z",
+      "image": "https://dol.ismcdn.jp/mwimgs/4/e/-/img_4e9a5b45baf1d10075fd20f7f10a192d122616.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8c6df6052e88",
       "title": "『ちいかわ』おすわりぬいぐるみ②が11月中旬より順次再登場！うさぎ・モモンガ・古本屋・ラッコの手のひらサイズ全4種",
       "url": "https://nijimen.kusuguru.co.jp/topics/652899",
@@ -2664,6 +2687,27 @@
       "isNew": false
     },
     {
+      "id": "de005dc57f7d",
+      "title": "「ちいかわ」デザインの「純露」が再登場！ちいかわ・うさぎの全2種パッケージで11月9日より全国発売",
+      "url": "http://www.excite.co.jp/news/article/Nijimen_0000000000652148/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-11-09T06:16:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "usagi"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "80b63fc53012",
       "title": "ちいかわ》キャラクター人気ランキング！ 3位「シーサー」…2位＆1位は？（オトナンサー",
       "url": "https://news.yahoo.co.jp/articles/e7dddf357cc8e5ff5066975d6d36fe01998233f2",
@@ -3067,6 +3111,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "af6ac34496a0",
+      "title": "【ちいかわ】セブン-イレブン新商品！おかお巾着①開封レポ！全４種類のふわふわポーチ。ちいかわ出るか？",
+      "url": "https://news.yahoo.co.jp/expert/articles/b789020f282dda584e7edece987aa78294043d75",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:30:43.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/nanasemaru/02578784/title-1773805805175.jpeg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "92533e854ff3",
