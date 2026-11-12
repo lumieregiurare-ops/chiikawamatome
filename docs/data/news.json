@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T02:30:18.508Z",
+  "updatedAt": "2026-11-12T03:00:21.025Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 132,
-  "todayCount": 13,
+  "total": 134,
+  "todayCount": 16,
   "categories": [
     {
       "id": "goods",
@@ -17,7 +17,7 @@
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "collab",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 36
+      "count": 38
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 14
+      "count": 16
     },
     {
       "id": "usagi",
@@ -90,7 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 30
+      "count": 29
+    },
+    {
+      "name": "インサイド",
+      "count": 10
     },
     {
       "name": "山陽新聞",
@@ -101,16 +105,12 @@
       "count": 10
     },
     {
-      "name": "インサイド",
-      "count": 9
+      "name": "電撃オンライン",
+      "count": 6
     },
     {
       "name": "ライブドアニュース",
       "count": 6
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 5
     },
     {
       "name": "ファッションプレス",
@@ -165,6 +165,14 @@
       "count": 2
     },
     {
+      "name": "MOVIE WALKER PRESS",
+      "count": 1
+    },
+    {
+      "name": "Togetter",
+      "count": 1
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
@@ -178,10 +186,6 @@
     },
     {
       "name": "リアルサウンド",
-      "count": 1
-    },
-    {
-      "name": "MOVIE WALKER PRESS",
       "count": 1
     },
     {
@@ -349,9 +353,9 @@
         },
         {
           "title": "『映画ちいかわ』特典に“エアーびんよよ”や“ヒミツにしようなんて許さライト”が登場。第8弾～第12弾が一挙公開",
-          "url": "https://dengekionline.com/article/202611/93486",
+          "url": "https://dengekionline.com/article/images/202611/93486/926577",
           "source": "電撃オンライン",
-          "publishedAt": "2026-11-09T05:24:00.000Z",
+          "publishedAt": "2026-11-09T05:26:00.000Z",
           "isPR": false
         }
       ]
@@ -627,7 +631,7 @@
       "url": "https://press.moviewalker.jp/mv91749/",
       "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
       "leadSource": "MOVIE WALKER PRESS",
-      "publishedAt": "2026-11-11T10:47:35.000Z",
+      "publishedAt": "2026-11-12T00:48:56.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -787,13 +791,35 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T02:00:17.932Z",
+    "previousAt": "2026-11-12T02:30:18.508Z",
     "previousCount": 132,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T03:00:18.508Z",
+  "nextUpdateAt": "2026-11-12T03:30:21.025Z",
   "items": [
+    {
+      "id": "22ecf6e50b3c",
+      "title": "草むしり検定合格でハチワレと嬉し泣き…！お祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に心温まる",
+      "url": "https://www.inside-games.jp/article/2026/11/12/190804.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「ちいかわ ぬーどるストッパーフィギュア ー合格ラーメンー」がプライズ景品として2026年11月4週より展開！",
+      "publishedAt": "2026-11-12T03:00:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1800080.jpg",
+      "categories": [
+        "kuji",
+        "goods"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "344253935232",
       "title": "積み上げてきた人気と映画ならではの話題性で2026年の国内映画興行収入1位！「ちいかわ」ヒットの必然",
@@ -811,7 +837,48 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "c21b49d22bd0",
+      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
+      "url": "https://www.sanyonews.jp/article/2005014?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-12T01:19:36.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/7/c/1/77c1a8840bb7230c00a1235c0e0411f1_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3bcde6b30c3b",
+      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
+      "url": "https://press.moviewalker.jp/mv91749/",
+      "host": "press.moviewalker.jp",
+      "source": "MOVIE WALKER PRESS",
+      "summary": "",
+      "publishedAt": "2026-11-12T00:48:56.000Z",
+      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "5f26f94074cd",
@@ -826,6 +893,27 @@
         "goods"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2c2e6847109b",
+      "title": "「明日にはもう会えなそうだろ（泣）」ハチワレが喜んだら喜ワレの姿が薄れていってもう消えそう…感情対応して消えていくタイプなのかな (2ページ目)",
+      "url": "https://togetter.com/li/2769476?page",
+      "host": "togetter.com",
+      "source": "Togetter",
+      "summary": "",
+      "publishedAt": "2026-11-11T23:10:48.000Z",
+      "image": "https://s.tgstc.com/ogp3/708190692aa4ee562dc6be0b5ab1598d-1200x630.jpeg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -932,28 +1020,6 @@
       "isNew": false
     },
     {
-      "id": "c21b49d22bd0",
-      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQYUl0bl9BMEJzU1M1MGRQc0h5V1ZmRW85X0Nsb19oSGRnTXdsSDlIV2pxaTBzdXI1REt6b1kxa1ZnVnFxeEp5Y25IczZSa1BYcm55S2syZEpjSUxMU2VJLXQ2QVdyLTdlaGlzclpvaFR0R3FQYW93RGdQVnB5QmpGTFk2cmJVUUlxcE5VcTcyVXk0aUZuajBJT1Z4X1B3cGNqNUNjcEczZXU5cXhWd1N6OXJ5R0dHZ3UtMWpVM0M0MzE0WDlCNjE5Y2E1T25LRnljNmlVbmt1ckszTHZZWE1CSUo3OXpVdmhhYWFDbXIyLUFodHZ4ZUNqMGVSdktMVURyWGpyYkdsVlZmSF9KWDFTMUFJaWFLamJHLXFkaWtqUllyYWowNFZNdTVHemMyZWJCWnV2ME90dG9INlF4WWZvem5nQk5kRkk5ZHh3dDhwN25nSmZ1dU5YZmQwT3RCVEwtbnpINll1cHI0MkxILUM5MTdOQQ?oc=5",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T17:02:54.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "kurimanju"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "325c3497a246",
       "title": "ちいかわクリスマスマーケット、限定オリジナルグッズ公開 スノードームやトレーナーなどホリデーアイテムずらり",
       "url": "https://www.sanyonews.jp/article/2013845?rct",
@@ -1013,7 +1079,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "23185e109dff",
@@ -1132,25 +1198,6 @@
       "isNew": false
     },
     {
-      "id": "3bcde6b30c3b",
-      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
-      "url": "https://press.moviewalker.jp/mv91749/",
-      "host": "press.moviewalker.jp",
-      "source": "MOVIE WALKER PRESS",
-      "summary": "",
-      "publishedAt": "2026-11-11T10:47:35.000Z",
-      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "06df2939c2f1",
       "title": "『ちいかわ』モモンガだらけの秋冬グッズ！新デザインを含む全9種、長袖Tシャツやパーカー、ブランケットが登場",
       "url": "https://www.toy-people.com/jp/?p",
@@ -1198,7 +1245,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-11T09:13:17.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/jsc/02763707/title-1794387284920.jpeg?exp=10800",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -1799,6 +1846,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "04c9200b010d",
+      "title": "『ちいかわ』更新（11/10）。にぎやかなトランプ大会、自分の考えは意外と読めない!?",
+      "url": "https://dengekionline.com/article/202611/93668",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:41:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93668/ogp_JjcF.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0078ea5bc569",
@@ -3043,12 +3109,12 @@
     {
       "id": "80224212f9ed",
       "title": "『映画ちいかわ』特典に“エアーびんよよ”や“ヒミツにしようなんて許さライト”が登場。第8弾～第12弾が一挙公開",
-      "url": "https://dengekionline.com/article/202611/93486",
+      "url": "https://dengekionline.com/article/images/202611/93486/926577",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-11-09T05:24:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93486/ogp_sliY.jpg?x=1280",
+      "publishedAt": "2026-11-09T05:26:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/93486/5f5b02e6d7d3d5abefba5f7f76e51067c.jpg?x=1280",
       "categories": [
         "anime"
       ],
@@ -3361,25 +3427,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "af6ac34496a0",
-      "title": "【ちいかわ】セブン-イレブン新商品！おかお巾着①開封レポ！全４種類のふわふわポーチ。ちいかわ出るか？",
-      "url": "https://news.yahoo.co.jp/expert/articles/b789020f282dda584e7edece987aa78294043d75",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T02:30:43.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/nanasemaru/02578784/title-1773805805175.jpeg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
