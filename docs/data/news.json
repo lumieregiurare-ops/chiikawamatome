@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:30:19.908Z",
+  "updatedAt": "2026-11-12T00:00:18.497Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 41
+      "count": 40
     },
     {
       "id": "book",
@@ -90,15 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 33
+      "count": 32
+    },
+    {
+      "name": "インサイド",
+      "count": 11
     },
     {
       "name": "コラボカフェ",
       "count": 11
-    },
-    {
-      "name": "インサイド",
-      "count": 10
     },
     {
       "name": "山陽新聞",
@@ -117,12 +117,12 @@
       "count": 5
     },
     {
-      "name": "マイナビニュース",
+      "name": "ファッションプレス",
       "count": 4
     },
     {
-      "name": "ファッションプレス",
-      "count": 3
+      "name": "マイナビニュース",
+      "count": 4
     },
     {
       "name": "ニコニコニュース",
@@ -149,10 +149,6 @@
       "count": 2
     },
     {
-      "name": "조선일보",
-      "count": 2
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 2
     },
@@ -165,7 +161,7 @@
       "count": 2
     },
     {
-      "name": "徳島新聞デジタル",
+      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -182,6 +178,10 @@
     },
     {
       "name": "Infoseek",
+      "count": 1
+    },
+    {
+      "name": "조선일보",
       "count": 1
     },
     {
@@ -257,11 +257,11 @@
       "count": 1
     },
     {
-      "name": "クランクイン！",
+      "name": "徳島新聞デジタル",
       "count": 1
     },
     {
-      "name": "オリコンニュース",
+      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -421,7 +421,7 @@
       "leadSource": "インサイド",
       "publishedAt": "2026-11-11T16:07:51.000Z",
       "sourceCount": 6,
-      "articleCount": 8,
+      "articleCount": 9,
       "categories": [
         "goods",
         "other"
@@ -465,6 +465,13 @@
           "url": "https://www.fashion-press.net/news/gallery/153156/2589896",
           "source": "ファッションプレス",
           "publishedAt": "2026-11-10T14:03:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "写真11/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+          "url": "https://www.fashion-press.net/news/gallery/153156/2589902",
+          "source": "ファッションプレス",
+          "publishedAt": "2026-11-10T14:03:50.000Z",
           "isPR": false
         },
         {
@@ -802,12 +809,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T23:00:18.822Z",
-    "previousCount": 136,
+    "previousAt": "2026-11-11T23:30:19.908Z",
+    "previousCount": 134,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T00:00:19.908Z",
+  "nextUpdateAt": "2026-11-12T00:30:18.497Z",
   "items": [
     {
       "id": "428950d2ae6f",
@@ -826,7 +833,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b82a475cb5c8",
@@ -1747,7 +1754,7 @@
       "source": "ファッションプレス",
       "summary": "",
       "publishedAt": "2026-11-10T14:03:51.000Z",
-      "image": "",
+      "image": "https://www.fashion-press.net/img/news/153156/eDM.jpg?1794303340",
       "categories": [
         "goods"
       ],
@@ -1757,6 +1764,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "65c7b935a76c",
+      "title": "写真11/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+      "url": "https://www.fashion-press.net/news/gallery/153156/2589902",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:03:50.000Z",
+      "image": "https://www.fashion-press.net/img/news/153156/Hrw.jpg?1794303340",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2a4abc10e21a",
@@ -2907,12 +2933,12 @@
     {
       "id": "006d336e8456",
       "title": "ちいかわクリスマスマーケット、来場者に公式アプリのダウンロード呼びかけ フード購入や「鎧さんマーケット」参加に必須",
-      "url": "https://www.topics.or.jp/articles/-/1522610",
-      "host": "topics.or.jp",
-      "source": "徳島新聞デジタル",
+      "url": "https://www.oricon.co.jp/news/2491651/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-11-09T05:57:56.000Z",
-      "image": "https://tokushima.ismcdn.jp/mwimgs/f/e/1200wm/img_fe0ca71712e4f69110988f7d5868a3f870568.jpg",
+      "publishedAt": "2026-11-09T05:57:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491651/20261008_181002_p_o_93610357.jpg",
       "categories": [
         "game"
       ],
@@ -3369,12 +3395,12 @@
     {
       "id": "699f5a5277f3",
       "title": "「ちいかわ 」キャラパキあまおう苺が発売！チョコの型はおかおデザインなど全20種、個包装まで可愛い1パック5枚入り",
-      "url": "https://news.yahoo.co.jp/articles/2d2a303e094cf41befd942507fbe56b8de373631",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://www.inside-games.jp/article/2026/11/09/190582.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-09T01:35:02.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000018-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1804741.jpg",
       "categories": [
         "other"
       ],
@@ -3415,25 +3441,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000008-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c20828df9ee1",
-      "title": "『ちいかわ』週末興行1位守る…今年最高アニメ目前",
-      "url": "https://www.chosun.com/jp/culture-life-jp/2026/11/09/GCDIFNZPC5E6BINPCJY43EUC24/",
-      "host": "chosun.com",
-      "source": "조선일보",
-      "summary": "",
-      "publishedAt": "2026-11-08T23:45:00.000Z",
-      "image": "https://www.chosun.com/resizer/v2/GRSWENLCGEYDGYJVMM3TOMRSG4.jpg?auth=08ea6dc58533801fdd819f6feaf42a1255cdd24a8161da593cc3d065a218716b&width=1200&height=630&smart=true",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
