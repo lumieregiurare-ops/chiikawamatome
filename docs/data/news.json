@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:30:20.318Z",
+  "updatedAt": "2026-11-12T20:00:19.215Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 56
+      "count": 57
     },
     {
       "id": "kuji",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 13
+      "count": 14
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 19
+      "count": 18
     },
     {
       "id": "book",
@@ -161,6 +161,10 @@
       "count": 2
     },
     {
+      "name": "キャラグー",
+      "count": 2
+    },
+    {
       "name": "TVer",
       "count": 2
     },
@@ -245,10 +249,6 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "日経クロストレンド",
       "count": 1
     },
@@ -258,10 +258,6 @@
     },
     {
       "name": "クランクイン！",
-      "count": 1
-    },
-    {
-      "name": "MOVIE WALKER PRESS",
       "count": 1
     },
     {
@@ -528,29 +524,30 @@
       "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00056/001.jpg",
       "leadSource": "キャラグー",
       "publishedAt": "2026-11-10T23:08:46.000Z",
-      "sourceCount": 3,
+      "sourceCount": 2,
       "articleCount": 3,
       "categories": [
         "event",
         "goods"
       ],
       "keywords": [
-        "映画",
-        "人魚"
+        "コラボ",
+        "イベント",
+        "映画"
       ],
       "articles": [
+        {
+          "title": "ちいかわ 「ちいかわ、さがしてます。」東京メトロ脱出ゲーム おうちで遊べる版｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+          "url": "https://charagoo.jp/collab/event/389ec131d488/",
+          "source": "キャラグー",
+          "publishedAt": "2026-11-10T23:08:46.000Z",
+          "isPR": false
+        },
         {
           "title": "映画ちいかわ 人魚の島のひみつ",
           "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00056/",
           "source": "日経クロストレンド",
           "publishedAt": "2026-11-10T19:05:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
-          "url": "https://press.moviewalker.jp/mv91749/",
-          "source": "MOVIE WALKER PRESS",
-          "publishedAt": "2026-11-10T10:06:52.000Z",
           "isPR": false
         }
       ]
@@ -751,12 +748,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T19:00:20.693Z",
+    "previousAt": "2026-11-12T19:30:20.318Z",
     "previousCount": 118,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T20:00:20.318Z",
+  "nextUpdateAt": "2026-11-12T20:30:19.215Z",
   "items": [
     {
       "id": "dbb72baff71a",
@@ -1314,7 +1311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e5f6a7ea4eb2",
@@ -2495,6 +2492,26 @@
       "isNew": false
     },
     {
+      "id": "364720862b66",
+      "title": "ちいかわ 「ちいかわ、さがしてます。」東京メトロ脱出ゲーム おうちで遊べる版｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "url": "https://charagoo.jp/collab/event/389ec131d488/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-10T23:08:46.000Z",
+      "image": "",
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "34324441f94b",
       "title": "もうりさんち・なりきとKYOが共闘！あさえへのお土産「もっちるハチワレ」奪取作戦",
       "url": "https://news.livedoor.com/topics/detail/32785640/",
@@ -2757,25 +2774,6 @@
       "image": "https://www.crank-in.net/img/db/269116105189273_1200.jpg",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3bcde6b30c3b",
-      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
-      "url": "https://press.moviewalker.jp/mv91749/",
-      "host": "press.moviewalker.jp",
-      "source": "MOVIE WALKER PRESS",
-      "summary": "",
-      "publishedAt": "2026-11-10T10:06:52.000Z",
-      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
