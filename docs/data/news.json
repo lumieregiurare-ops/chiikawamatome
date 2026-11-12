@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-12T14:30:22.714Z",
+  "updatedAt": "2026-11-12T15:00:20.809Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 118,
-  "todayCount": 65,
+  "total": 117,
+  "todayCount": 0,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 55
+      "count": 53
     },
     {
       "id": "kuji",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 26
+      "count": 27
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "momonga",
@@ -90,10 +90,10 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 25
+      "count": 26
     },
     {
-      "name": "インサイド",
+      "name": "電撃オンライン",
       "count": 8
     },
     {
@@ -101,11 +101,11 @@
       "count": 7
     },
     {
-      "name": "コラボカフェ",
+      "name": "インサイド",
       "count": 7
     },
     {
-      "name": "電撃オンライン",
+      "name": "コラボカフェ",
       "count": 7
     },
     {
@@ -145,10 +145,6 @@
       "count": 2
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 2
-    },
-    {
       "name": "玩具人 TOY PEOPLE",
       "count": 2
     },
@@ -185,6 +181,10 @@
       "count": 1
     },
     {
+      "name": "アニメ！アニメ！",
+      "count": 1
+    },
+    {
       "name": "電ファミニコゲーマー",
       "count": 1
     },
@@ -202,10 +202,6 @@
     },
     {
       "name": "SPUR（シュプール）",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -286,8 +282,8 @@
       "image": "https://animeanime.jp/imgs/rss/955222.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-12T12:30:00.000Z",
-      "sourceCount": 20,
-      "articleCount": 27,
+      "sourceCount": 19,
+      "articleCount": 26,
       "categories": [
         "anime",
         "goods"
@@ -513,9 +509,9 @@
         },
         {
           "title": "「ちいかわ」新入学グッズが登場！トートバッグやナップサックなど全4アイテム♪ ハワイ限定マスコットキーホルダーも",
-          "url": "https://animeanime.jp/article/2026/11/10/104646.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-11-10T01:30:03.000Z",
+          "url": "https://news.yahoo.co.jp/articles/abcdd7d2b8e8200c78b678e645cbc1642e247530/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-10T01:46:04.000Z",
           "isPR": false
         }
       ]
@@ -748,13 +744,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T14:00:21.999Z",
-    "previousCount": 124,
-    "newCount": 0
+    "previousAt": "2026-11-12T14:30:22.714Z",
+    "previousCount": 118,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T15:00:22.714Z",
+  "nextUpdateAt": "2026-11-12T15:30:20.809Z",
   "items": [
+    {
+      "id": "b958fb449d5f",
+      "title": "『ちいかわ』更新（11/12）②。やっぱり消えてる!? ハチワレが嬉しい気持ちになったら、今度は…",
+      "url": "https://dengekionline.com/article/202611/93910",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-12T14:50:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93910/ogp_PEiV.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b0aaff86799d",
       "title": "「ちいかわクリニック」11月27日開催 流行語候補で大争奪戦へ",
@@ -1374,7 +1391,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-12T07:01:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lkQ7M6WpEuopyhCvwAu4gyvUJuopgE2VaD-eAdn594yZORSvgyYk6Lkd7FB9Galtmiy_sosxOOPuJCWDUjmpJhgvIxy9hz-DmeMCior_lphuRUO-M1uDWew_ATFvsz2UQ==",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lkQ7M6WpEuopyhCvwAu4gzKTqoOQ02HE0vCH9lI_i7msOaJne6ndnTzGf1Hs6LEzatwODAykVO6XZQcTbYlKPtfoCdBD3UWTnuLmor9mRkEkchKErj2C2bIvzaxFwu_jA==",
       "categories": [
         "other"
       ],
@@ -1454,25 +1471,6 @@
       "image": "",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "84d470295030",
-      "title": "ちいかわ：新グッズシリーズ「ちいかわクリニック」 ナース、おくすりに変身！",
-      "url": "https://mantan-web.jp/article/20261112dog00m200039000a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-11-12T05:58:00.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/12/20261112dog00m200039000a/001.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1934,6 +1932,25 @@
       "isNew": false
     },
     {
+      "id": "325c3497a246",
+      "title": "ちいかわクリスマスマーケット、限定オリジナルグッズ公開 スノードームやトレーナーなどホリデーアイテムずらり",
+      "url": "https://www.sanyonews.jp/article/2013845?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T18:49:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/0/a/1/80a10165a48888a8427e4deac3591770_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0eb153b60d09",
       "title": "ちいかわ、ハチワレ、うさぎ達がお弁当に!? 花屋さんや魚屋さんでお仕事も♪ 「ちいかわぽけっと」公式グッズ第4弾発売でPOP UP STORE開催【レポ】",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT280SmtmLXNDQmN2RXpCZGQ3aG8xOU5XcmRvVDdzTW8tSHUwYkxfbUZiVV9NSEJuTEl4a2xjZXc4MjVUdm9sdGlERm11TnRSVjZDcGhMRGctTGJaN2lRcFZKTW4yMGhQNzFvZG5oUVl3RUJvRERyaU1zOFVuOE9KT1NOV19zSEtwYlJQMkk4cEhsWknSAY8BQVVfeXFMTnRNZWJWazBkcFpFbDlZMVNuSHFEWmU3Q2JBbkNrYjZTTUhMMl9ua214RmVVVXRuVW9ob09lUzVXMmRpcEtCc0Y4N3FsWmVtYmZEekZKZTlTMGw5dUtETjczM2p2X1RpWEJ0Tzh2SXdtQ18ydm1NWkY0LXVYUmV0NktBanBMLTFzT3dEU05Pbkk?oc=5",
@@ -1953,25 +1970,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "325c3497a246",
-      "title": "ちいかわクリスマスマーケット、限定オリジナルグッズ公開 スノードームやトレーナーなどホリデーアイテムずらり",
-      "url": "https://www.sanyonews.jp/article/2013845?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T16:27:35.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/0/a/1/80a10165a48888a8427e4deac3591770_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2649,27 +2647,6 @@
       "isNew": false
     },
     {
-      "id": "3da361cf2fbd",
-      "title": "カプセルトイ「ちいかわ」ふりふりヘッドフィギュアが再販決定！島衣装のうさぎたち、セイレーンや島二郎など計8種",
-      "url": "https://www.inside-games.jp/article/2026/11/10/190692.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-11-10T10:55:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1796071.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c098b826d1b7",
       "title": "ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
       "url": "https://www.fashion-press.net/news/153156",
@@ -3042,12 +3019,12 @@
     {
       "id": "f61d501de11a",
       "title": "「ちいかわ」新入学グッズが登場！トートバッグやナップサックなど全4アイテム♪ ハワイ限定マスコットキーホルダーも",
-      "url": "https://animeanime.jp/article/2026/11/10/104646.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://news.yahoo.co.jp/articles/abcdd7d2b8e8200c78b678e645cbc1642e247530/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T01:30:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/953687.jpg",
+      "publishedAt": "2026-11-10T01:46:04.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26pxlt8q0e5gGaMKzO34B6hi83MHpxO_sE0LAPA1HNAlGgJE2wspcivTETsBwwANdu-XFLE--tb7x8gsO83dYJ6JmfpXniTrmOu2Fhce-mr7X2z7rpcGoGUe4ljRQWsuwnw==",
       "categories": [
         "goods"
       ],
