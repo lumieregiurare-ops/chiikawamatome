@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-12T20:30:19.938Z",
+  "updatedAt": "2026-11-12T21:00:22.603Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 119,
-  "todayCount": 2,
+  "total": 120,
+  "todayCount": 3,
   "categories": [
     {
       "id": "goods",
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -94,7 +94,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 8
     },
     {
       "name": "電撃オンライン",
@@ -109,11 +109,11 @@
       "count": 5
     },
     {
-      "name": "マイナビニュース",
-      "count": 4
+      "name": "ファッションプレス",
+      "count": 5
     },
     {
-      "name": "ファッションプレス",
+      "name": "マイナビニュース",
       "count": 4
     },
     {
@@ -194,6 +194,10 @@
     },
     {
       "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
+      "name": "コミロック",
       "count": 1
     },
     {
@@ -436,7 +440,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-12T11:03:00.000Z",
       "sourceCount": 3,
-      "articleCount": 6,
+      "articleCount": 7,
       "categories": [
         "goods",
         "other"
@@ -471,6 +475,13 @@
         {
           "title": "写真8/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
           "url": "https://www.fashion-press.net/news/gallery/153156/2589896",
+          "source": "ファッションプレス",
+          "publishedAt": "2026-11-10T14:03:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "写真14/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+          "url": "https://www.fashion-press.net/news/gallery/153156/2589909",
           "source": "ファッションプレス",
           "publishedAt": "2026-11-10T14:03:51.000Z",
           "isPR": false
@@ -668,6 +679,34 @@
       ]
     },
     {
+      "id": "b9b98fdee51c",
+      "title": "『ちいかわ』がモーニング次号51号（11月19日発売）の表紙に！ちいかわ描き下ろし漫画も掲載",
+      "summary": "",
+      "url": "https://comic11.hatenablog.com/entry/2026/11/12/175143",
+      "image": "https://cdn.image.st-hatena.com/image/scale/362bd9db52b25c819af85062353773769fa348b2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F3154nr6B5hL._SL500_.jpg",
+      "leadSource": "コミロック",
+      "publishedAt": "2026-11-12T08:51:43.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "book"
+      ],
+      "keywords": [
+        "モーニング",
+        "表紙",
+        "漫画"
+      ],
+      "articles": [
+        {
+          "title": "【ちいかわ】モーニング51号で表紙＆描きおろし漫画で登場。発売日は11月19日",
+          "url": "https://dengekionline.com/article/202611/93823",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-12T05:55:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "5f380af7aaf8",
       "title": "ナガノ“くま”がKiramekko（きらめっこ）に登場！ 全8種のカラーとシュールで絶妙な表情が可愛すぎ",
       "summary": "",
@@ -721,43 +760,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "0987d3d6fd13",
-      "title": "「これが一番欲しかった！」映画ちいかわ、年内の入場者特典一挙発表にファンがざわつく…劇中アイテムの登場に「需要わかってる」と反響（LIMO）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/87cf11a94cf1abbc6fd490508d7639b27d0ea33e",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00146057-toushin-000-1-view.png?fmt=jpeg&q=85&exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-10T08:36:05.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "アイテム",
-        "一番欲",
-        "映画"
-      ],
-      "articles": [
-        {
-          "title": "映画ちいかわ、入場者特典を第12弾まで一挙発表！劇中アイテムの特典化に「これが一番欲しかった！」と反響",
-          "url": "https://limo.media/articles/-/146057",
-          "source": "LIMO | くらしとお金の経済メディア",
-          "publishedAt": "2026-11-10T08:33:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T20:00:19.215Z",
-    "previousCount": 118,
-    "newCount": 1
+    "previousAt": "2026-11-12T20:30:19.938Z",
+    "previousCount": 119,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T21:00:19.938Z",
+  "nextUpdateAt": "2026-11-12T21:30:22.603Z",
   "items": [
     {
       "id": "795905e241ee",
@@ -776,7 +787,26 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "5a02f8a57c36",
+      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
+      "url": "https://www.sanyonews.jp/article/1975592?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-12T19:38:53.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/f/0/1/af01890e80ec935f81ba61f623d1a1cd_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "dbb72baff71a",
@@ -1216,6 +1246,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b9b98fdee51c",
+      "title": "『ちいかわ』がモーニング次号51号（11月19日発売）の表紙に！ちいかわ描き下ろし漫画も掲載",
+      "url": "https://comic11.hatenablog.com/entry/2026/11/12/175143",
+      "host": "comic11.hatenablog.com",
+      "source": "コミロック",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:51:43.000Z",
+      "image": "https://cdn.image.st-hatena.com/image/scale/362bd9db52b25c819af85062353773769fa348b2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F3154nr6B5hL._SL500_.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "809b8ebbdcf8",
@@ -1900,25 +1949,6 @@
       "isNew": false
     },
     {
-      "id": "5f26f94074cd",
-      "title": "『ちいかわ』グッズ、公式の告知文にネットざわつく「しばらく！？」「悩む」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T00:22:06.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "22b19ae17221",
       "title": "「明日にはもう会えなそうだろ（泣）」ハチワレが楽しんだら楽ワレの姿が薄れていってもう消えそう…感情対応して消えていくタイプなのかな",
       "url": "https://togetter.com/li/2769476",
@@ -2356,25 +2386,6 @@
       "isNew": false
     },
     {
-      "id": "5a02f8a57c36",
-      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
-      "url": "https://www.sanyonews.jp/article/1975592?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T03:02:30.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/a/f/0/1/af01890e80ec935f81ba61f623d1a1cd_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "99cebc9d7841",
       "title": "「ナガノマーケット UMEDA」が11月24日オープン！ちいかわ・ナガノキャラクターズの常設店、3,520円のホリデーリースなくまも",
       "url": "https://enuchi.jp/14624/nagano-market-umeda-202611",
@@ -2630,6 +2641,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "df6d3ff06bc6",
+      "title": "写真14/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
+      "url": "https://www.fashion-press.net/news/gallery/153156/2589909",
+      "host": "fashion-press.net",
+      "source": "ファッションプレス",
+      "summary": "",
+      "publishedAt": "2026-11-10T14:03:51.000Z",
+      "image": "https://www.fashion-press.net/img/news/153156/nsY.jpg?1794303333",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2a4abc10e21a",
