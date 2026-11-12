@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-12T17:00:24.213Z",
+  "updatedAt": "2026-11-12T17:30:27.784Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 117,
+  "total": 119,
   "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 54
+      "count": 56
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "event",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 18
+      "count": 19
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 4
+      "count": 3
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 27
+      "count": 26
     }
   ],
   "series": [
@@ -93,16 +93,16 @@
       "count": 27
     },
     {
+      "name": "山陽新聞",
+      "count": 8
+    },
+    {
       "name": "電撃オンライン",
       "count": 8
     },
     {
       "name": "コラボカフェ",
       "count": 7
-    },
-    {
-      "name": "山陽新聞",
-      "count": 6
     },
     {
       "name": "インサイド",
@@ -113,12 +113,12 @@
       "count": 5
     },
     {
-      "name": "PR TIMES",
+      "name": "マイナビニュース",
       "count": 4
     },
     {
-      "name": "マイナビニュース",
-      "count": 4
+      "name": "PR TIMES",
+      "count": 3
     },
     {
       "name": "ライブドアニュース",
@@ -269,6 +269,10 @@
       "count": 1
     },
     {
+      "name": "オタク総研",
+      "count": 1
+    },
+    {
       "name": "@DIME アットダイム",
       "count": 1
     }
@@ -283,7 +287,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-12T15:10:02.000Z",
       "sourceCount": 20,
-      "articleCount": 27,
+      "articleCount": 28,
       "categories": [
         "goods",
         "anime"
@@ -559,34 +563,6 @@
       ]
     },
     {
-      "id": "9f6d78880f59",
-      "title": "【ちいかわ】モーニング51号で表紙＆描きおろし漫画で登場。発売日は11月19日",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202611/93823",
-      "image": "https://cimg.kgl-systems.io/camion/files/93823/ogp_fgDY.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-11-12T15:10:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book"
-      ],
-      "keywords": [
-        "モーニング",
-        "漫画",
-        "表紙"
-      ],
-      "articles": [
-        {
-          "title": "来週11月19日（木）発売のモーニング51号表紙に『ちいかわ』登場！描き下ろし漫画も！",
-          "url": "https://prtimes.jp/main/html/rd/p/000009160.000001719.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-12T15:10:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "73b00b601522",
       "title": "「真理だ」自分とトランプをするハチワレ、そのセリフに共感の声多数 - ちいかわ最新話",
       "summary": "",
@@ -751,16 +727,63 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "0987d3d6fd13",
+      "title": "「これが一番欲しかった！」映画ちいかわ、年内の入場者特典一挙発表にファンがざわつく…劇中アイテムの登場に「需要わかってる」と反響（LIMO）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/87cf11a94cf1abbc6fd490508d7639b27d0ea33e",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00146057-toushin-000-1-view.png?fmt=jpeg&q=85&exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T08:36:05.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "アイテム",
+        "一番欲",
+        "映画"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ、入場者特典を第12弾まで一挙発表！劇中アイテムの特典化に「これが一番欲しかった！」と反響",
+          "url": "https://limo.media/articles/-/146057",
+          "source": "LIMO | くらしとお金の経済メディア",
+          "publishedAt": "2026-11-10T08:33:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T16:28:41.532Z",
+    "previousAt": "2026-11-12T17:00:24.213Z",
     "previousCount": 117,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T17:30:24.213Z",
+  "nextUpdateAt": "2026-11-12T18:00:27.784Z",
   "items": [
+    {
+      "id": "dbb72baff71a",
+      "title": "『ちいかわ』グッズ再販開始でネットざわつく「受注生産にして欲しい〜」「6分で売り切れ」",
+      "url": "https://www.sanyonews.jp/article/1977773?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-12T15:24:24.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/6/8/b/968bdb6980d812cda6c87f223508a5a3_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "71f5e041a2df",
       "title": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スタート！",
@@ -772,25 +795,6 @@
       "image": "https://prcdn.freetls.fastly.net/release_image/168561/83/168561-83-b63e4e624b6d18997bbcf8676c3c1c1a-2000x1390.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "93798a98e911",
-      "title": "来週11月19日（木）発売のモーニング51号表紙に『ちいかわ』登場！描き下ろし漫画も！",
-      "url": "https://prtimes.jp/main/html/rd/p/000009160.000001719.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社講談社] 『ちいかわ』、『くまのむちゃうま日記』、『MOGUMOGU食べ歩きくま』など、数々のヒットシリーズを手掛けるナガノ氏の大人気作、『ちいかわ なんか小さくてかわいいやつ』が11月19日（木）発売のモーニング51号...",
-      "publishedAt": "2026-11-12T15:10:02.000Z",
-      "image": "https://prtimes.jp/common/pc_v4/og.png",
-      "categories": [
-        "book"
       ],
       "series": [],
       "isOfficial": false,
@@ -1509,6 +1513,25 @@
       "isNew": false
     },
     {
+      "id": "fe42ce57b562",
+      "title": "ちいかわ＞新グッズシリーズ「ちいかわクリニック」 ナース、おくすりに変身！ (MANTANWEB)",
+      "url": "https://news.yahoo.co.jp/articles/e29e89b117ac33ab5e5af0d00d0e95f3a3c4172f/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-12T05:59:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gD62r5Hv9YNa9IZcfdTlzuF3ZfWDHSHZaM__7Ul5V7xHx0bjslFl7_YGlNHFkkBKs6ygpBD4xjZTtuxhAJyPK-wZtxqTyAbqxTZAnxZSHbNmkf_xC_FFfo1R9qiTyp7sA==",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9f6d78880f59",
       "title": "【ちいかわ】モーニング51号で表紙＆描きおろし漫画で登場。発売日は11月19日",
       "url": "https://dengekionline.com/article/202611/93823",
@@ -1674,7 +1697,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
       "categories": [
         "goods"
       ],
@@ -1900,6 +1923,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4386e2d1b010",
+      "title": "くら寿司従業員が景品横領 ちいかわコラボ中止",
+      "url": "https://www.sanyonews.jp/article/1984298?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T22:47:59.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/a/a/09aae7919060970bb10969b8aa892cce_1.jpg",
+      "categories": [
+        "kuji",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d4b20970477b",
@@ -2271,7 +2314,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-11T04:03:00.000Z",
-      "image": "https://s.eximg.jp/exnews/feed/Nijimen/f8/Nijimen_0000000000653854/Nijimen_0000000000653854_1.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2430,25 +2473,6 @@
       "summary": "",
       "publishedAt": "2026-11-11T00:26:34.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/c/7/c7390_1604_a342d5be_05ca8507.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5fdad8225e11",
-      "title": "「ちいかわ」はかわいい顔した現代社会？ 大人が夢中になる理由を死生学者が紐解く（FASHIONSNAP）",
-      "url": "https://news.yahoo.co.jp/articles/e3fe48585e54387ce97389d36345be83ebf954ed",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-11T00:24:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00541677-fashions-000-9-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -2991,7 +3015,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-10T03:00:33.000Z",
-      "image": "https://s.eximg.jp/exnews/feed/Nijimen/25/Nijimen_0000000000652801/Nijimen_0000000000652801_1.jpg",
+      "image": "",
       "categories": [
         "goods",
         "anime"
@@ -3002,6 +3026,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "71e075376185",
+      "title": "映画『ちいかわ』年内残り入場特典を一挙公開、さらに興収伸びそうな「びんよよ」ほか渾身のラインナップ判明",
+      "url": "https://0115765.com/archives/213331",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-11-10T02:45:19.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/04/0428-40qtkcox.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fea420018236",
@@ -3058,7 +3101,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
