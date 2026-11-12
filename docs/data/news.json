@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:30:22.241Z",
+  "updatedAt": "2026-11-12T22:00:17.600Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 122,
-  "todayCount": 4,
+  "todayCount": 5,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 58
+      "count": 57
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "event",
@@ -129,10 +129,6 @@
       "count": 3
     },
     {
-      "name": "PASH! PLUS",
-      "count": 2
-    },
-    {
       "name": "いこーよニュース",
       "count": 2
     },
@@ -169,11 +165,15 @@
       "count": 2
     },
     {
+      "name": "au Webポータル",
+      "count": 1
+    },
+    {
       "name": "サンスポ",
       "count": 1
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "zakⅡ",
       "count": 1
     },
     {
@@ -261,6 +261,10 @@
       "count": 1
     },
     {
+      "name": "PASH! PLUS",
+      "count": 1
+    },
+    {
       "name": "クランクイン！",
       "count": 1
     },
@@ -286,11 +290,11 @@
       "image": "https://animeanime.jp/imgs/rss/955222.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-12T14:00:57.000Z",
-      "sourceCount": 20,
-      "articleCount": 26,
+      "sourceCount": 19,
+      "articleCount": 25,
       "categories": [
         "anime",
-        "goods"
+        "event"
       ],
       "keywords": [
         "クリニック",
@@ -303,13 +307,6 @@
           "url": "https://news.yahoo.co.jp/articles/037a7c70fcd5071bafcb00f7d688373ee4ed2163/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-12T14:00:57.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
-          "url": "https://www.pashplus.jp/goods/502791/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-11-12T11:15:40.000Z",
           "isPR": false
         },
         {
@@ -352,6 +349,13 @@
           "url": "https://news.denfaminicogamer.jp/news/2611122v",
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-11-12T07:38:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわクリニック」グッズ第1弾が11月27日発売! ちいかわたちがナースや白衣姿、そして\"内臓\"にも変身",
+          "url": "https://news.mynavi.jp/article/20261112-5308592/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-12T07:09:26.000Z",
           "isPR": false
         }
       ]
@@ -759,13 +763,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T21:00:22.603Z",
-    "previousCount": 120,
-    "newCount": 2
+    "previousAt": "2026-11-12T21:30:22.241Z",
+    "previousCount": 122,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T22:00:22.241Z",
+  "nextUpdateAt": "2026-11-12T22:30:17.600Z",
   "items": [
+    {
+      "id": "be0956b508cc",
+      "title": "「ちいかわベーカリー」にサンタパンが登場！ 限定デザインが「可愛すぎる、飾りたい」と話題に",
+      "url": "https://article.auone.jp/d157c792-536c-4ed4-bc92-be6bea4145de",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-12T21:41:23.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/12/https___news_jp_i_1493727902361157729_w1280.webp",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "795905e241ee",
       "title": "【甘口辛口】「ちいかわ」どころか〝ちいともかわいくない〟 ブロック塀修理費用を事業に上乗せ、徳島・阿波市長を逮捕",
@@ -886,11 +909,11 @@
     {
       "id": "b0aaff86799d",
       "title": "「ちいかわクリニック」11月27日開催 流行語候補で大争奪戦へ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXRaVEgyaldwaXdEMjU5RTZrZW9HRnZGdmxmWGt0VTRpSTRwcXU5TWpOQVR3ellCZ0ZGMWVxTnRCUTdtUE9lajM1REdWWXhkb3R2YmZjVVl6dFJhQkFzZzYwazFXcmdYWWNoMUZhZlhVczVTWE1uaFpuV2tYOWR5UGdEWHhTRDl3c194RDJMaHBWSlFr0gGaAUFVX3lxTFB1bmRXX1hOb1NCdHVBaTBwWEVfV3Z2Ny1aSkpWcjBkUE54S0ZuRFhJLV9LRndPUVpCYzFFazVJcnJJRzZ5bmhneHg4VXFBa1JzeTdkSFNpclJDdEhNek8wZ183RFhGNE1SenY1NGRoSjlKaXVGLWtmNTVQb3JZWnBzZU14LU9jazVlTVNFTDkzN3QzNkNJWWhtV2c?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPOGpUY3p0d3ZTblJHU1Q4T2hiMWdXZld3U1JSVWROZFNDdkV2dUhUZGpvTW5VeFU3eVp6eHdMS3RMb1VGazdZNmpGa050YVJmSC1NWjZfTDc3T291bExaSzNSWEVtRldEMnF5T2RwMTFIY0E4b2NHadIBjAFBVV95cUxNUDNFUkVfWnQyWkw4ZDl1WFNlVTUxd0VOa0JXNlJkOXFUVWZrUU5FRzI4QThjcFJfSUJndzJkSVB2M3dMc2lGZlJqenZ0V0dEY2hFWUtTSW1VVlNzd1pCX3F4cWlRa19WMklDRUNUb1RDNUkzUGVCaXY1dG8xYUhxbEhYYlNCMGV5RU1Icg?oc=5",
+      "host": "zakzak.co.jp",
+      "source": "zakⅡ",
       "summary": "",
-      "publishedAt": "2026-11-12T13:02:00.000Z",
+      "publishedAt": "2026-11-12T13:02:05.000Z",
       "image": "",
       "categories": [
         "event"
@@ -1015,25 +1038,6 @@
       "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ae63877d3e0f",
-      "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
-      "url": "https://www.pashplus.jp/goods/502791/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:15:40.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/44897d706eab24c2dbe7aa5cdf4a0652.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2499,7 +2503,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a15215be1334",
@@ -2793,7 +2797,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c098b826d1b7",
