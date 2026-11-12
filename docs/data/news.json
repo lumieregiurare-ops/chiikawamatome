@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:30:19.964Z",
+  "updatedAt": "2026-11-12T13:00:18.971Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 56
+      "count": 55
     },
     {
       "id": "kuji",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 16
+      "count": 18
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 30
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "usagi",
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 4
+      "count": 3
     },
     {
       "id": "rakko",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 28
+      "count": 27
     },
     {
       "name": "インサイド",
@@ -125,6 +125,10 @@
       "count": 3
     },
     {
+      "name": "PR TIMES",
+      "count": 3
+    },
+    {
       "name": "ライブドアニュース",
       "count": 3
     },
@@ -142,10 +146,6 @@
     },
     {
       "name": "玩具人 TOY PEOPLE",
-      "count": 2
-    },
-    {
-      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -186,10 +186,6 @@
     },
     {
       "name": "毎日新聞",
-      "count": 1
-    },
-    {
-      "name": "AERA DIGITAL",
       "count": 1
     },
     {
@@ -253,6 +249,10 @@
       "count": 1
     },
     {
+      "name": "日経クロストレンド",
+      "count": 1
+    },
+    {
       "name": "ウレぴあ総研",
       "count": 1
     },
@@ -289,19 +289,33 @@
       "url": "https://animeanime.jp/article/2026/11/12/104716.html",
       "image": "https://animeanime.jp/imgs/rss/955222.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-12T09:20:56.000Z",
-      "sourceCount": 16,
-      "articleCount": 19,
+      "publishedAt": "2026-11-12T12:30:00.000Z",
+      "sourceCount": 22,
+      "articleCount": 29,
       "categories": [
-        "goods",
+        "anime",
         "event"
       ],
       "keywords": [
-        "ナース",
         "クリニック",
+        "ナース",
         "マスコット"
       ],
       "articles": [
+        {
+          "title": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！（アニメージュプラス）",
+          "url": "https://news.yahoo.co.jp/articles/037a7c70fcd5071bafcb00f7d688373ee4ed2163",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-12T12:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわクリニック』 in 全国19か所 11月27日より開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-clinic-popup-kiddyland-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-12T09:32:54.000Z",
+          "isPR": false
+        },
         {
           "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
           "url": "https://www.pashplus.jp/goods/502791/",
@@ -324,6 +338,13 @@
           "isPR": false
         },
         {
+          "title": "ちいかわの期間限定ショップ『ちいかわクリニック』が11月27日(金)より開催！",
+          "url": "https://sendai.keizai.biz/release/683084/",
+          "source": "仙台経済新聞",
+          "publishedAt": "2026-11-12T07:59:53.000Z",
+          "isPR": false
+        },
+        {
           "title": "「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾が2026年11月27日（金）より販売開始！ナース服や白衣に身を包んだちいかわたちのマスコットやポーチなどを各種展開！",
           "url": "https://hobby.dengeki.com/news/3229658/",
           "source": "電撃ホビーウェブ",
@@ -331,31 +352,10 @@
           "isPR": false
         },
         {
-          "title": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スタート！",
-          "url": "https://dot.asahi.com/articles/-/297502",
-          "source": "AERA DIGITAL",
-          "publishedAt": "2026-11-12T07:16:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわクリニック」グッズ第1弾が11月27日発売! ちいかわたちがナースや白衣姿、そして\"内臓\"にも変身",
-          "url": "https://news.mynavi.jp/article/20261112-5308592/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-11-12T07:09:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわクリニック」グッズ、ハチワレたちがナース＆ドクター姿に！マスコットやレントゲン風ポーチ",
-          "url": "https://www.chiba-tv.com/plus/detail/2026112216636",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-11-12T06:58:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわクリニック」第1弾が11月27日発売！ナース・ドクター姿のマスコットや臓器モチーフのグッズが登場、国内19店舗と通販で購入特典も",
-          "url": "https://nijimen.kusuguru.co.jp/topics/655039",
-          "source": "にじめん",
-          "publishedAt": "2026-11-12T06:56:00.000Z",
+          "title": "「ちいかわ」たちが“臓器”になった！？『ちいかわ』新グッズシリーズ「ちいかわクリニック」発表",
+          "url": "https://news.denfaminicogamer.jp/news/2611122v",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-12T07:38:00.000Z",
           "isPR": false
         }
       ]
@@ -432,113 +432,6 @@
       ]
     },
     {
-      "id": "9bce0ee39b14",
-      "title": "ちいかわの期間限定ショップ『ちいかわクリニック』が11月27日(金)より開催！",
-      "summary": "",
-      "url": "https://sendai.keizai.biz/release/683084/",
-      "image": "https://prtimes.jp/img/1117/412/thumb/d1117-412-8305c444a61a4f67a392-0.png",
-      "leadSource": "仙台経済新聞",
-      "publishedAt": "2026-11-12T07:59:53.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "keywords": [
-        "クリニック",
-        "ショップ",
-        "期間限定"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわ』期間限定ショップ「ちいかわクリニック」がオープン！全国19カ所にナース＆ドクター姿のグッズが登場 購入特典も",
-          "url": "https://www.toy-people.com/jp/?p",
-          "source": "玩具人 TOY PEOPLE",
-          "publishedAt": "2026-11-12T06:44:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "期間限定ショップ『ちいかわクリニック』が全国19か所で開催決定!看護師姿のちいかわたちが大集合（めざましmedia）",
-          "url": "https://news.yahoo.co.jp/articles/f8c8173021baa23bc630f1c327405ff6d39c4a15",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-12T05:42:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ナース姿のちいかわたちが大集合！「ちいかわクリニック」グッズ第1弾がまもなく発売！",
-          "url": "https://www.fukuoka-navi.jp/420862",
-          "source": "ふくおかナビ",
-          "publishedAt": "2026-11-12T05:38:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわの期間限定ショップ『ちいかわクリニック』が11月27日(金)より開催！ | 株式会社キデイランドのプレスリリース",
-          "url": "https://prtimes.jp/main/html/rd/p/000000412.000001117.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-12T04:14:39.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "66ce388ee96e",
-      "title": "【ちいかわクリニック】“臓器マスコット” に注目集中 くりまんじゅう＝肝臓担当が「完ぺき」と話題（LASISA）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/9571e3433273910a625514146e95400b4d365d28",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-10169296-lasisa-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-12T10:25:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 6,
-      "categories": [
-        "goods",
-        "event"
-      ],
-      "keywords": [
-        "クリニック",
-        "臓器",
-        "lasisa"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわクリニック』 in 全国19か所 11月27日より開催!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-clinic-popup-kiddyland-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-12T09:32:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売",
-          "url": "https://www.cinemacafe.net/article/2026/11/12/114066.html",
-          "source": "cinemacafe.net",
-          "publishedAt": "2026-11-12T08:00:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売（cinemacafe.net）",
-          "url": "https://news.yahoo.co.jp/articles/4090c788fba9197ddfc549b0db393e4bb7af6174",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-12T08:00:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわクリニック】臓器の形のマスコット！？ ユニークすぎるアイテムにファン驚き 「本当にヤバイかわいい」",
-          "url": "https://lasisa.net/post/169171",
-          "source": "LASISA",
-          "publishedAt": "2026-11-12T07:02:39.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「本当にヤバい」…【ちいかわクリニック】ファンをザワつかせた注目商品 「キティさんですらない」まさに“前代未聞” (LASISA)",
-          "url": "https://news.yahoo.co.jp/articles/fd2b634b827b0d7d3fa0d61e618b2954c8e6f409/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-12T07:01:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "51f776f680dd",
       "title": "ナガノキャラクターズの“くま”がカラフルな着ぐるみに アクセサリーぬいぐるみ「Kiramekko」全8種発売（リアルサウンド）",
       "summary": "",
@@ -596,41 +489,6 @@
       ]
     },
     {
-      "id": "3feb41b24f3a",
-      "title": "＜ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/2488f0ec23552a5a609cfc41e1433a71e4b337a1",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-01456837-the_tv-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-12T11:48:27.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "発表",
-        "臓器",
-        "ハチワレ"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声 (関連動画)",
-          "url": "https://thetv.jp/news/detail/1456837/embed/video/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-11-12T11:48:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」たちが“臓器”になった！？『ちいかわ』新グッズシリーズ「ちいかわクリニック」発表",
-          "url": "https://news.denfaminicogamer.jp/news/2611122v",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-12T07:38:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "0e0e289d8f71",
       "title": "ちいかわ 新入学グッズ 11月下旬よりトートやナップサック発売!",
       "summary": "",
@@ -662,6 +520,41 @@
           "url": "https://news.yahoo.co.jp/articles/abcdd7d2b8e8200c78b678e645cbc1642e247530/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-10T01:46:04.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "2831103f5680",
+      "title": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE 名古屋｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "summary": "",
+      "url": "https://charagoo.jp/collab/event/64e01ac98abc/",
+      "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00056/001.jpg",
+      "leadSource": "キャラグー",
+      "publishedAt": "2026-11-10T23:08:46.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "keywords": [
+        "映画",
+        "人魚"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ",
+          "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00056/",
+          "source": "日経クロストレンド",
+          "publishedAt": "2026-11-10T19:05:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
+          "url": "https://press.moviewalker.jp/mv91749/",
+          "source": "MOVIE WALKER PRESS",
+          "publishedAt": "2026-11-10T10:06:52.000Z",
           "isPR": false
         }
       ]
@@ -717,6 +610,34 @@
           "url": "https://nijimen.kusuguru.co.jp/topics/655275",
           "source": "にじめん",
           "publishedAt": "2026-11-12T09:16:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "756e47460d85",
+      "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売 (cinemacafe.net)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/4090c788fba9197ddfc549b0db393e4bb7af6174/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26r7qslqmYv04X_4trxotWbMPLoPIP5notbORUJbaDknvy2QPT06jZMLKTyszDzLSlQaCZ5p-yMwAIF-wkZUNuxJaANpBA_Kzre_1Q1ImWIaT",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T09:12:27.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ナース",
+        "クリニック",
+        "臓器"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売",
+          "url": "https://www.cinemacafe.net/article/2026/11/12/114066.html",
+          "source": "cinemacafe.net",
+          "publishedAt": "2026-11-12T08:00:03.000Z",
           "isPR": false
         }
       ]
@@ -804,16 +725,63 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "0eb153b60d09",
+      "title": "ちいかわ、ハチワレ、うさぎ達がお弁当に!? 花屋さんや魚屋さんでお仕事も♪ 「ちいかわぽけっと」公式グッズ第4弾発売でPOP UP STORE開催【レポ】",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT280SmtmLXNDQmN2RXpCZGQ3aG8xOU5XcmRvVDdzTW8tSHUwYkxfbUZiVV9NSEJuTEl4a2xjZXc4MjVUdm9sdGlERm11TnRSVjZDcGhMRGctTGJaN2lRcFZKTW4yMGhQNzFvZG5oUVl3RUJvRERyaU1zOFVuOE9KT1NOV19zSEtwYlJQMkk4cEhsWknSAY8BQVVfeXFMTnRNZWJWazBkcFpFbDlZMVNuSHFEWmU3Q2JBbkNrYjZTTUhMMl9ua214RmVVVXRuVW9ob09lUzVXMmRpcEtCc0Y4N3FsWmVtYmZEekZKZTlTMGw5dUtETjczM2p2X1RpWEJ0Tzh2SXdtQ18ydm1NWkY0LXVYUmV0NktBanBMLTFzT3dEU05Pbkk?oc=5",
+      "image": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-27.jpeg",
+      "leadSource": "ｄメニューニュース",
+      "publishedAt": "2026-11-11T17:12:22.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "keywords": [
+        "pop",
+        "store"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわ POP UP STORE in JR池袋駅 11月24日より開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-nov-popup-jr-ikebukuro-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-11T06:01:19.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T12:00:19.034Z",
+    "previousAt": "2026-11-12T12:30:19.964Z",
     "previousCount": 121,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T13:00:19.964Z",
+  "nextUpdateAt": "2026-11-12T13:30:18.971Z",
   "items": [
+    {
+      "id": "0b72dfc8d434",
+      "title": "【ちいかわクリニック】期間限定ショップにナースや医者姿のアイテムが登場！（アニメージュプラス）",
+      "url": "https://news.yahoo.co.jp/articles/037a7c70fcd5071bafcb00f7d688373ee4ed2163",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-12T12:30:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00068223-animage-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "65e7dd5153f9",
       "title": "ポシェットの鎧さんも羨む？シーサーとラーメンの鎧さんの心温まる師弟愛！アニメ『ちいかわ』187話（ABEMA TIMES）",
@@ -833,33 +801,12 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "3feb41b24f3a",
-      "title": "＜ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声",
-      "url": "https://news.yahoo.co.jp/articles/2488f0ec23552a5a609cfc41e1433a71e4b337a1",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:48:27.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-01456837-the_tv-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "564397dcd028",
-      "title": "ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声 (関連動画)",
-      "url": "https://thetv.jp/news/detail/1456837/embed/video/",
+      "title": "ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声",
+      "url": "https://thetv.jp/news/detail/1456837/",
       "host": "thetv.jp",
       "source": "WEBザテレビジョン",
       "summary": "",
@@ -1003,7 +950,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-12T09:50:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00385312-magmix-000-2-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00385312-magmix-000-3-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1156,6 +1103,25 @@
       "isNew": false
     },
     {
+      "id": "756e47460d85",
+      "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売 (cinemacafe.net)",
+      "url": "https://news.yahoo.co.jp/articles/4090c788fba9197ddfc549b0db393e4bb7af6174/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-12T09:12:27.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26r7qslqmYv04X_4trxotWbMPLoPIP5notbORUJbaDknvy2QPT06jZMLKTyszDzLSlQaCZ5p-yMwAIF-wkZUNuxJaANpBA_Kzre_1Q1ImWIaT",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6b56409e3172",
       "title": "「ちいかわ」たちが舞妓さんや芸妓さんの姿に！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日販売開始",
       "url": "https://www.inside-games.jp/article/2026/11/12/190838.html",
@@ -1275,25 +1241,6 @@
       "isNew": false
     },
     {
-      "id": "756e47460d85",
-      "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売（cinemacafe.net）",
-      "url": "https://news.yahoo.co.jp/articles/4090c788fba9197ddfc549b0db393e4bb7af6174",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-12T08:00:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00000011-cine-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9bce0ee39b14",
       "title": "ちいかわの期間限定ショップ『ちいかわクリニック』が11月27日(金)より開催！",
       "url": "https://sendai.keizai.biz/release/683084/",
@@ -1380,25 +1327,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "71f5e041a2df",
-      "title": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スタート！",
-      "url": "https://dot.asahi.com/articles/-/297502",
-      "host": "dot.asahi.com",
-      "source": "AERA DIGITAL",
-      "summary": "",
-      "publishedAt": "2026-11-12T07:16:11.000Z",
-      "image": "https://aeradot.ismcdn.jp/mwimgs/5/2/1200xm/img_5277067a9a7025134fae3fca31d0697162612.png",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1579,7 +1507,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9f6d78880f59",
@@ -1854,6 +1782,25 @@
       "isNew": false
     },
     {
+      "id": "71f5e041a2df",
+      "title": "ナース服・ドクター姿のちいかわたちが勢ぞろい！毎年人気の「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾アイテムが登場！第一弾：11月27日（金）／第二弾：12月11日（金）販売スタート！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000168561.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-12T03:04:28.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/168561/83/168561-83-b63e4e624b6d18997bbcf8676c3c1c1a-2000x1390.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "22ecf6e50b3c",
       "title": "草むしり検定合格でハチワレと嬉し泣き…！お祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に心温まる",
       "url": "https://www.inside-games.jp/article/2026/11/12/190804.html",
@@ -1878,12 +1825,12 @@
     {
       "id": "006d336e8456",
       "title": "ちいかわクリスマスマーケット、来場者に公式アプリのダウンロード呼びかけ フード購入や「鎧さんマーケット」参加に必須",
-      "url": "https://www.oricon.co.jp/news/2491651/photo/5/",
+      "url": "https://www.oricon.co.jp/news/2491651/photo/3/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
-      "publishedAt": "2026-11-12T02:44:01.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491651/20261008_181005_p_o_84405765.jpg",
+      "publishedAt": "2026-11-12T02:39:03.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491651/20261008_181003_p_o_49014882.jpg",
       "categories": [
         "game"
       ],
@@ -2594,6 +2541,25 @@
       "isNew": false
     },
     {
+      "id": "118bc1a39072",
+      "title": "映画ちいかわ 人魚の島のひみつ",
+      "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00056/",
+      "host": "xtrend.nikkei.com",
+      "source": "日経クロストレンド",
+      "summary": "",
+      "publishedAt": "2026-11-10T19:05:32.000Z",
+      "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00056/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "04c9200b010d",
       "title": "『ちいかわ』更新（11/10）。にぎやかなトランプ大会、自分の考えは意外と読めない!?",
       "url": "https://dengekionline.com/article/202611/93668",
@@ -3173,27 +3139,6 @@
       ],
       "series": [
         "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ac218b7c1081",
-      "title": "「ちいかわ」くりまんじゅうの「だし割りセット」が大人気！特別デザインの日本酒や専用カップで、“だし割り”を手軽に体験",
-      "url": "https://news.yahoo.co.jp/articles/45a2e5cad487a379d4caee7a6d08c1a113bd9903",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T13:00:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000059-isd-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kurimanju"
       ],
       "isOfficial": false,
       "isPR": false,
