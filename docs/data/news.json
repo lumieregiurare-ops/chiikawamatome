@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-12T15:30:21.690Z",
+  "updatedAt": "2026-11-12T16:00:25.256Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 117,
+  "total": 115,
   "todayCount": 2,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 54
+      "count": 53
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "event",
@@ -74,12 +74,12 @@
     {
       "id": "rakko",
       "label": "ラッコ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kuma",
@@ -90,23 +90,23 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 28
     },
     {
       "name": "電撃オンライン",
       "count": 8
     },
     {
-      "name": "山陽新聞",
-      "count": 7
-    },
-    {
       "name": "コラボカフェ",
       "count": 7
     },
     {
-      "name": "インサイド",
+      "name": "山陽新聞",
       "count": 6
+    },
+    {
+      "name": "インサイド",
+      "count": 5
     },
     {
       "name": "PR TIMES",
@@ -117,12 +117,12 @@
       "count": 4
     },
     {
-      "name": "にじめん",
+      "name": "ファッションプレス",
       "count": 4
     },
     {
-      "name": "ファッションプレス",
-      "count": 4
+      "name": "にじめん",
+      "count": 3
     },
     {
       "name": "ライブドアニュース",
@@ -205,10 +205,6 @@
       "count": 1
     },
     {
-      "name": "Mantan Web",
-      "count": 1
-    },
-    {
       "name": "ふくおかナビ",
       "count": 1
     },
@@ -282,8 +278,8 @@
       "image": "https://animeanime.jp/imgs/rss/955222.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-12T15:10:02.000Z",
-      "sourceCount": 21,
-      "articleCount": 28,
+      "sourceCount": 20,
+      "articleCount": 27,
       "categories": [
         "goods",
         "anime"
@@ -309,17 +305,17 @@
           "isPR": false
         },
         {
+          "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
+          "url": "https://www.pashplus.jp/goods/502791/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-11-12T11:15:40.000Z",
+          "isPR": false
+        },
+        {
           "title": "『ちいかわクリニック』 in 全国19か所 11月27日より開催!",
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-clinic-popup-kiddyland-2026/",
           "source": "コラボカフェ",
           "publishedAt": "2026-11-12T09:37:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
-          "url": "https://www.pashplus.jp/goods/502791/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-11-12T09:20:56.000Z",
           "isPR": false
         },
         {
@@ -732,26 +728,27 @@
         "other"
       ],
       "keywords": [
-        "チャーム"
+        "チャーム",
+        "月中"
       ],
       "articles": [
         {
-          "title": "『ちいかわ』「なんか小さくてかわいいチャーム」第3弾がマリモクラフトから登場！ラッコ・シーサー・古本屋など全8種が各605円",
-          "url": "https://nijimen.kusuguru.co.jp/topics/653075",
-          "source": "にじめん",
-          "publishedAt": "2026-11-10T09:02:00.000Z",
+          "title": "「ちいかわ」なんか小さくてかわいいチャーム第3弾が11月中より順次発売！くりまんじゅうやモモンガなど全8種ラインナップ",
+          "url": "https://news.yahoo.co.jp/articles/19713f0f861f11faa8b385134fa0b99608b90bb5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-10T08:30:03.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T15:00:20.809Z",
+    "previousAt": "2026-11-12T15:30:21.690Z",
     "previousCount": 117,
-    "newCount": 2
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T16:00:21.690Z",
+  "nextUpdateAt": "2026-11-12T16:30:25.256Z",
   "items": [
     {
       "id": "71f5e041a2df",
@@ -789,7 +786,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b958fb449d5f",
@@ -923,6 +920,25 @@
       "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
       "categories": [
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ae63877d3e0f",
+      "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
+      "url": "https://www.pashplus.jp/goods/502791/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-12T11:15:40.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/44897d706eab24c2dbe7aa5cdf4a0652.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1119,25 +1135,6 @@
       "summary": "",
       "publishedAt": "2026-11-12T09:30:00.000Z",
       "image": "https://media.eiga.com/images/anime/news/127846/photo/9503be66b5db5ed9/640.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ae63877d3e0f",
-      "title": "【ちいかわ】ナース・ドクター服の姿がかわいい！ 毎年人気のグッズシリーズより「ちいかわクリニック」第一弾アイテムが登場",
-      "url": "https://www.pashplus.jp/goods/502791/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-11-12T09:20:56.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/44897d706eab24c2dbe7aa5cdf4a0652.jpg",
       "categories": [
         "goods"
       ],
@@ -1501,25 +1498,6 @@
       "isNew": false
     },
     {
-      "id": "84d470295030",
-      "title": "ちいかわ：新グッズシリーズ「ちいかわクリニック」 ナース、おくすりに変身！",
-      "url": "https://mantan-web.jp/article/20261112dog00m200039000a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-11-12T05:58:00.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/12/20261112dog00m200039000a/001.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "9f6d78880f59",
       "title": "【ちいかわ】モーニング51号で表紙＆描きおろし漫画で登場。発売日は11月19日",
       "url": "https://dengekionline.com/article/202611/93823",
@@ -1794,12 +1772,12 @@
     {
       "id": "22ecf6e50b3c",
       "title": "草むしり検定合格でハチワレと嬉し泣き…！お祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に心温まる",
-      "url": "https://news.yahoo.co.jp/articles/dca9af002d362e7f76f36f115a47bcd7f04e511b",
+      "url": "https://news.yahoo.co.jp/articles/dca9af002d362e7f76f36f115a47bcd7f04e511b/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-12T03:00:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00000021-isd-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26nDqec62fKnFsQnUhF-QsoMfxJZvA3qEyFCt2ZoYG6zmpRV9iJxYBpxSrbbLC_YZMIqHdaa4uYcstV7QzFIMTpB5RnvUHDDhbgFyILdkwHMV",
       "categories": [
         "goods"
       ],
@@ -2452,6 +2430,25 @@
       "isNew": false
     },
     {
+      "id": "5fdad8225e11",
+      "title": "「ちいかわ」はかわいい顔した現代社会？ 大人が夢中になる理由を死生学者が紐解く（FASHIONSNAP）",
+      "url": "https://news.yahoo.co.jp/articles/e3fe48585e54387ce97389d36345be83ebf954ed",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:24:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00541677-fashions-000-9-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2831103f5680",
       "title": "映画ちいかわ 人魚の島のひみつ Collaboration CAFE 名古屋｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
       "url": "https://charagoo.jp/collab/event/64e01ac98abc/",
@@ -2821,28 +2818,6 @@
       "isNew": false
     },
     {
-      "id": "920b39f54800",
-      "title": "『ちいかわ』「なんか小さくてかわいいチャーム」第3弾がマリモクラフトから登場！ラッコ・シーサー・古本屋など全8種が各605円",
-      "url": "https://nijimen.kusuguru.co.jp/topics/653075",
-      "host": "nijimen.kusuguru.co.jp",
-      "source": "にじめん",
-      "summary": "",
-      "publishedAt": "2026-11-10T09:02:00.000Z",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/6bcaa80008c64804aa349db727185168.webp",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "rakko",
-        "shisa"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ed2532b0cbc9",
       "title": "「ちいかわ」作者・ナガノが描く「ナガノキャラクターズ」からカラフルな “くま” の「Kiramekko」が登場！「ナガノキャラクターズ Kiramekko Kuma Color Collection」 | 株式会社グレイ・パーカー・サービ…",
       "url": "https://prtimes.jp/main/html/rd/p/000000082.000168561.html",
@@ -2921,12 +2896,12 @@
     {
       "id": "65aa35dd2304",
       "title": "「ちいかわ」なんか小さくてかわいいチャーム第3弾が11月中より順次発売！くりまんじゅうやモモンガなど全8種ラインナップ",
-      "url": "https://www.inside-games.jp/article/2026/11/10/190676.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://news.yahoo.co.jp/articles/19713f0f861f11faa8b385134fa0b99608b90bb5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-10T08:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1805313.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000043-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -3028,26 +3003,6 @@
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26pxlt8q0e5gGaMKzO34B6hi83MHpxO_sE0LAPA1HNAlGgJE2wspcivTETsBwwANdu-XFLE--tb7x8gsO83dYJ6JmfpXniTrmOu2Fhce-mr7X2z7rpcGoGUe4ljRQWsuwnw==",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5119b757533d",
-      "title": "くら寿司『ちいかわ』コラボ中止までの経緯 SNSで景品の扱いに指摘→調査公表から3日後に従業員の不正発表",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:46:01.000Z",
-      "image": "",
-      "categories": [
-        "kuji",
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
