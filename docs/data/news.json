@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-13T07:00:20.282Z",
+  "updatedAt": "2026-11-13T07:30:19.198Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 145,
-  "todayCount": 39,
+  "total": 143,
+  "todayCount": 40,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 61
+      "count": 60
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 14
+      "count": 13
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 22
+      "count": 20
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 34
+      "count": 35
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 24
+      "count": 23
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "momonga",
@@ -90,30 +90,26 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 31
+      "count": 32
+    },
+    {
+      "name": "インサイド",
+      "count": 8
     },
     {
       "name": "コラボカフェ",
       "count": 8
     },
     {
-      "name": "インサイド",
-      "count": 7
-    },
-    {
-      "name": "山陽新聞",
-      "count": 7
-    },
-    {
       "name": "電撃オンライン",
       "count": 7
     },
     {
-      "name": "PR TIMES",
-      "count": 5
+      "name": "山陽新聞",
+      "count": 6
     },
     {
-      "name": "ファッションプレス",
+      "name": "PR TIMES",
       "count": 5
     },
     {
@@ -129,11 +125,15 @@
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "ファッションプレス",
+      "count": 4
+    },
+    {
+      "name": "Infoseek",
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ｄメニューニュース",
       "count": 3
     },
     {
@@ -149,7 +149,7 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -237,10 +237,6 @@
       "count": 1
     },
     {
-      "name": "cinemacafe.net",
-      "count": 1
-    },
-    {
       "name": "仙台経済新聞",
       "count": 1
     },
@@ -254,10 +250,6 @@
     },
     {
       "name": "モデルプレス",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -281,7 +273,7 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド",
+      "name": "Togetter",
       "count": 1
     },
     {
@@ -321,9 +313,9 @@
       "url": "https://animeanime.jp/article/2026/11/12/104716.html",
       "image": "https://animeanime.jp/imgs/rss/955222.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-13T06:00:00.000Z",
+      "publishedAt": "2026-11-13T06:41:57.000Z",
       "sourceCount": 25,
-      "articleCount": 31,
+      "articleCount": 30,
       "categories": [
         "goods",
         "event"
@@ -334,6 +326,13 @@
         "マスコット"
       ],
       "articles": [
+        {
+          "title": "ちいかわたちがナース服姿に♡「ちいかわクリニック」グッズ第1弾はマスコット全12種など盛りだくさん！",
+          "url": "https://news.infoseek.co.jp/article/oshiraku_30552/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-13T06:41:57.000Z",
+          "isPR": false
+        },
         {
           "title": "ちいかわが「ちいかわクリニック」でナース服に！1,980円のマスコットや臓器モチーフの器など第一弾が11月27日発売",
           "url": "https://enuchi.jp/14645/chiikawa-clinic-202611",
@@ -381,13 +380,6 @@
           "url": "https://collabo-cafe.com/events/collabo/chiikawa-clinic-popup-kiddyland-2026/",
           "source": "コラボカフェ",
           "publishedAt": "2026-11-12T09:37:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわたちがナース姿のマスコットに！グッズ「ちいかわクリニック」第一弾が発売へ",
-          "url": "https://report.iko-yo.net/articles/35643/digest",
-          "source": "いこーよニュース",
-          "publishedAt": "2026-11-12T08:41:39.000Z",
           "isPR": false
         }
       ]
@@ -557,7 +549,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-12T11:03:00.000Z",
       "sourceCount": 3,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "goods",
         "other"
@@ -597,17 +589,65 @@
           "isPR": false
         },
         {
-          "title": "写真14/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
-          "url": "https://www.fashion-press.net/news/gallery/153156/2589909",
-          "source": "ファッションプレス",
-          "publishedAt": "2026-11-10T14:03:51.000Z",
-          "isPR": false
-        },
-        {
           "title": "【Kiramekko】ナガノキャラクターズの「くま」がカラフルに登場！ (アニメージュプラス)",
           "url": "https://news.yahoo.co.jp/articles/b9cc57e9c006255ab4949147cadd7142d8b8a6ad/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-10T12:45:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "e64cf31dbf2b",
+      "title": "「ちいかわ」たちがチューニングをお手伝い！パッケージまで可愛いクリップチューナー全3種が11月20日より発売",
+      "summary": "「ちいかわ クリップチューナー」が11月20日より発売！",
+      "url": "https://www.inside-games.jp/article/2026/11/13/190899.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1807209.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-13T07:30:02.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "チューニング",
+        "クリップチューナー",
+        "手伝"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわたちがギターのチューニングをお手伝い！？ちいかわ クリップチューナー♪2026年11月20日(金)販売開始！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000004.000135390.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-13T02:50:01.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "75b5559750d1",
+      "title": "『ちいかわ』×「minum」のコラボ第2弾が決定！ 限定デザインのヘアケアセット＆オリジナルヘアバンドが登場",
+      "summary": "",
+      "url": "https://eeo.today/media/2026/11/09/410781/",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
+      "leadSource": "eeo",
+      "publishedAt": "2026-11-13T07:16:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "collab"
+      ],
+      "keywords": [
+        "コラボ",
+        "オリジナルヘアバンド"
+      ],
+      "articles": [
+        {
+          "title": "ちいかわコラボ第2弾！限定デザインのヘアケアアイテムとオリジナルヘアバンドが登場",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWxQdVRvRU5ianNOaWJ1c2R4NkhwQnAxVF9hSFFnZUMwX1ZfVzJ6a1NLRkI1NjBfMVVPRmNtNnUyNTlSY00tTDFROUszdDBMS3lmWVhjS3o0QVp5ZGpIMHkxaVlLLUt5THhmSHFVeXI1MFdFMVdjM1pFUklaZlBHZ0YxVngyQlcyZnI3U9IBjAFBVV95cUxONWxQdVRvRU5ianNOaWJ1c2R4NkhwQnAxVF9hSFFnZUMwX1ZfVzJ6a1NLRkI1NjBfMVVPRmNtNnUyNTlSY00tTDFROUszdDBMS3lmWVhjS3o0QVp5ZGpIMHkxaVlLLUt5THhmSHFVeXI1MFdFMVdjM1pFUklaZlBHZ0YxVngyQlcyZnI3Uw?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-11-12T22:01:00.000Z",
           "isPR": false
         }
       ]
@@ -636,33 +676,6 @@
           "url": "https://hobby.dengeki.com/news/3223574/",
           "source": "電撃ホビーウェブ",
           "publishedAt": "2026-11-11T23:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "75b5559750d1",
-      "title": "『ちいかわ』×「minum」のコラボ第2弾が決定！ 限定デザインのヘアケアセット＆オリジナルヘアバンドが登場",
-      "summary": "",
-      "url": "https://eeo.today/media/2026/11/09/410781/",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
-      "leadSource": "eeo",
-      "publishedAt": "2026-11-13T04:14:34.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab"
-      ],
-      "keywords": [
-        "コラボ",
-        "オリジナルヘアバンド"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわコラボ第2弾！限定デザインのヘアケアアイテムとオリジナルヘアバンドが登場",
-          "url": "https://news.nicovideo.jp/watch/nw19986721?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-12T22:03:31.000Z",
           "isPR": false
         }
       ]
@@ -779,63 +792,72 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "1c2ac94a1d87",
-      "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1959759?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/0/a/0/30a0e8e3ef0037db53bb73b57f4e6b1c_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-12T19:01:40.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab",
-        "anime"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "コラボ"
-      ],
-      "articles": [
-        {
-          "title": "「映画ちいかわ」コラボ脱出ゲームに「おうちで遊べる版」登場 ちいかわ、ハチワレ、うさぎを探す冒険が楽しめる（映画.com）",
-          "url": "https://news.yahoo.co.jp/articles/608a322e4168ad4ad4e6b71bdef7bdb0e245d25e",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-12T05:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T06:30:18.516Z",
-    "previousCount": 142,
-    "newCount": 5
+    "previousAt": "2026-11-13T07:00:20.282Z",
+    "previousCount": 145,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T07:30:20.282Z",
+  "nextUpdateAt": "2026-11-13T08:00:19.198Z",
   "items": [
     {
-      "id": "c589b0c80bec",
-      "title": "【GU感謝祭】まさか「ちいかわコラボ」をぶつけてきた…！11月20日開始「人気やばそ」「気づいた人勝ち」SNSどよめき",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GZ08xSXEzVzd6SVRXWVZVZ1BxMENUMG0tSkc2dklydUtuOFd1Zi1BeS1VRDc3SmlQUzVud2lmV1VRX3g2SF96U0RSZFdzZU9GUDNjVFp4LVpuaFFLOWJrZzVWUVFaZi1JaHdPMmltQlFNMjZm0gF6QVVfeXFMTmd4VV96RUs5ZEUtbHhmaGRyOTh4TlRib2RLZTkxbDVYaEVpSDFJQVBBWTJlQ2d3dk9lZnNrM2tMV2pRS0dfS2d2QVhrOWJNYkU3aTNITlBzaVQzVjJ5Wk1RZ1pBZDdUSENJWXRJQ2xycGRLOUpkdEdRalE?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "id": "e64cf31dbf2b",
+      "title": "「ちいかわ」たちがチューニングをお手伝い！パッケージまで可愛いクリップチューナー全3種が11月20日より発売",
+      "url": "https://www.inside-games.jp/article/2026/11/13/190899.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "「ちいかわ クリップチューナー」が11月20日より発売！",
+      "publishedAt": "2026-11-13T07:30:02.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1807209.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "75b5559750d1",
+      "title": "『ちいかわ』×「minum」のコラボ第2弾が決定！ 限定デザインのヘアケアセット＆オリジナルヘアバンドが登場",
+      "url": "https://eeo.today/media/2026/11/09/410781/",
+      "host": "eeo.today",
+      "source": "eeo",
       "summary": "",
-      "publishedAt": "2026-11-13T06:05:01.000Z",
-      "image": "",
+      "publishedAt": "2026-11-13T07:16:45.000Z",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
       "categories": [
         "collab"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "06ec9c428055",
+      "title": "ちいかわたちがナース服姿に♡「ちいかわクリニック」グッズ第1弾はマスコット全12種など盛りだくさん！",
+      "url": "https://news.infoseek.co.jp/article/oshiraku_30552/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:41:57.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_30552_0-enlarge.png",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "60c1157dbd95",
@@ -848,6 +870,25 @@
       "image": "https://image.enuchi.jp/upload/20261113/images/thumb_chiikawa_clinic.jpg",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c589b0c80bec",
+      "title": "【GU感謝祭】まさか「ちいかわコラボ」をぶつけてきた…！11月20日開始「人気やばそ」「気づいた人勝ち」SNSどよめき（LASISA）",
+      "url": "https://news.yahoo.co.jp/articles/ac7271ce456d49b84215e813a1311bf7af5e4841",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T05:59:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-10169534-lasisa-000-2-view.jpg?exp=10800",
+      "categories": [
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -951,25 +992,6 @@
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "75b5559750d1",
-      "title": "『ちいかわ』×「minum」のコラボ第2弾が決定！ 限定デザインのヘアケアセット＆オリジナルヘアバンドが登場",
-      "url": "https://eeo.today/media/2026/11/09/410781/",
-      "host": "eeo.today",
-      "source": "eeo",
-      "summary": "",
-      "publishedAt": "2026-11-13T04:14:34.000Z",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1215,7 +1237,7 @@
       "source": "にじめん",
       "summary": "",
       "publishedAt": "2026-11-13T00:53:00.000Z",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/e59a44e5121a429498189d317d531041.png",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -1404,11 +1426,11 @@
     {
       "id": "5d6624c59a84",
       "title": "ちいかわコラボ第2弾！限定デザインのヘアケアアイテムとオリジナルヘアバンドが登場",
-      "url": "https://news.nicovideo.jp/watch/nw19986721?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWxQdVRvRU5ianNOaWJ1c2R4NkhwQnAxVF9hSFFnZUMwX1ZfVzJ6a1NLRkI1NjBfMVVPRmNtNnUyNTlSY00tTDFROUszdDBMS3lmWVhjS3o0QVp5ZGpIMHkxaVlLLUt5THhmSHFVeXI1MFdFMVdjM1pFUklaZlBHZ0YxVngyQlcyZnI3U9IBjAFBVV95cUxONWxQdVRvRU5ianNOaWJ1c2R4NkhwQnAxVF9hSFFnZUMwX1ZfVzJ6a1NLRkI1NjBfMVVPRmNtNnUyNTlSY00tTDFROUszdDBMS3lmWVhjS3o0QVp5ZGpIMHkxaVlLLUt5THhmSHFVeXI1MFdFMVdjM1pFUklaZlBHZ0YxVngyQlcyZnI3Uw?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-11-12T22:03:31.000Z",
+      "publishedAt": "2026-11-12T22:01:00.000Z",
       "image": "",
       "categories": [
         "collab"
@@ -1416,7 +1438,7 @@
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1490,29 +1512,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c2ac94a1d87",
-      "title": "仙台名物“七夕”と『映画ちいかわ』がコラボ ちいかわ・ハチワレ・うさぎたちの七夕吹き流しがアーケード街に登場「かわいいー！」「素敵すぎます!!」",
-      "url": "https://www.sanyonews.jp/article/1959759?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T19:01:40.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/0/a/0/30a0e8e3ef0037db53bb73b57f4e6b1c_1.jpg",
-      "categories": [
-        "collab",
-        "anime"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1774,6 +1773,25 @@
       "series": [
         "hachiware"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e62f8fdda60a",
+      "title": "『ちいかわ』ナガノのオフィシャルショップがルクア大阪の新館にグランドオープン 購入者を対象としたノベルティ配布も",
+      "url": "https://news.yahoo.co.jp/articles/78f9c0da6d32bb82aef6f7f43c06a477f1ca5c5e",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:30:38.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00010040-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "event"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2062,25 +2080,6 @@
       "isNew": false
     },
     {
-      "id": "a8c4143e31ec",
-      "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売",
-      "url": "https://www.cinemacafe.net/article/2026/11/12/114066.html",
-      "host": "cinemacafe.net",
-      "source": "cinemacafe.net",
-      "summary": "",
-      "publishedAt": "2026-11-12T08:00:03.000Z",
-      "image": "https://www.cinemacafe.net/imgs/ogp_f/846406.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "756e47460d85",
       "title": "ちいかわたちがナース、おくすり、臓器に!?「ちいかわクリニック」第1弾発売（cinemacafe.net）",
       "url": "https://news.yahoo.co.jp/articles/4090c788fba9197ddfc549b0db393e4bb7af6174",
@@ -2291,27 +2290,6 @@
       "isNew": false
     },
     {
-      "id": "155402f83bf6",
-      "title": "お腹こちょこちょで無限バンザイの子猫 ハチワレ | にゃんですか ABEMA Morning【平日あさ7時〜生放送】 | にゃんですか",
-      "url": "https://abema.tv/video/episode/89-70_s120_p2037",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-12T06:27:29.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "19a23330a5d8",
       "title": "【ちいかわ×OLIVE YOUNG×the SAEM】限定コラボコスメ開封の儀ッ！ - スモールグッドシングス - ファッション",
       "url": "https://spur.hpplus.jp/fashion/smallgoodthings/weZLRQ/",
@@ -2329,25 +2307,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "fe42ce57b562",
-      "title": "ちいかわ＞新グッズシリーズ「ちいかわクリニック」 ナース、おくすりに変身！ (MANTANWEB)",
-      "url": "https://news.yahoo.co.jp/articles/e29e89b117ac33ab5e5af0d00d0e95f3a3c4172f/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-12T05:59:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gD62r5Hv9YNa9IZcfdTlzuF3ZfWDHSHZaM__7Ul5V7xHx0bjslFl7_YGlNHFkkBKs6ygpBD4xjZTtuxhAJyPK-wZtxqTyAbqxTZAnxZSHbNmkf_xC_FFfo1R9qiTyp7sA==",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9f6d78880f59",
@@ -2534,7 +2493,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
       "categories": [
         "goods"
       ],
@@ -2684,6 +2643,27 @@
       "isNew": false
     },
     {
+      "id": "22b19ae17221",
+      "title": "「明日にはもう会えなそうだろ（泣）」ハチワレが楽しんだら楽ワレの姿が薄れていってもう消えそう…感情対応して消えていくタイプなのかな",
+      "url": "https://togetter.com/li/2769476",
+      "host": "togetter.com",
+      "source": "Togetter",
+      "summary": "",
+      "publishedAt": "2026-11-11T23:10:48.000Z",
+      "image": "https://s.tgstc.com/ogp3/040036659635b9c0bd858d3a35cf6ac4-1200x630.jpeg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "428950d2ae6f",
       "title": "『ちいかわ』のキャラマグネッツ第5弾が食玩に登場！2パーツに分かれる新仕様のレアマグネット「フレーム」も収録！",
       "url": "https://hobby.dengeki.com/news/3223574/",
@@ -2758,25 +2738,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e62f8fdda60a",
-      "title": "『ちいかわ』ナガノのオフィシャルショップがルクア大阪の新館にグランドオープン 購入者を対象としたノベルティ配布も",
-      "url": "https://realsound.jp/book/2026/11/post-2581004.html",
-      "host": "realsound.jp",
-      "source": "リアルサウンド",
-      "summary": "",
-      "publishedAt": "2026-11-11T12:45:40.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261111-umeda-07.jpg",
-      "categories": [
-        "event"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -3076,7 +3037,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "129af13adc63",
@@ -3177,7 +3138,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2831103f5680",
@@ -3207,7 +3168,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-10T20:01:06.000Z",
-      "image": "https://s.yimg.jp/images/news-web/versions/20261113-cde348e/all/images/ogp_default.png",
+      "image": "https://s.yimg.jp/images/news-web/versions/20261113-bd39b63/all/images/ogp_default.png",
       "categories": [
         "anime"
       ],
@@ -3227,25 +3188,6 @@
       "summary": "",
       "publishedAt": "2026-11-10T14:03:51.000Z",
       "image": "https://www.fashion-press.net/img/news/153156/eDM.jpg?1794303340",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "df6d3ff06bc6",
-      "title": "写真14/14｜ナガノキャラクターズ「くま」が“瞳きらめく”ぬいぐるみに、全8色の着ぐるみ姿",
-      "url": "https://www.fashion-press.net/news/gallery/153156/2589909",
-      "host": "fashion-press.net",
-      "source": "ファッションプレス",
-      "summary": "",
-      "publishedAt": "2026-11-10T14:03:51.000Z",
-      "image": "https://www.fashion-press.net/img/news/153156/nsY.jpg?1794303333",
       "categories": [
         "goods"
       ],
@@ -3292,7 +3234,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6273c7252321",
@@ -3331,7 +3273,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2cc08dd3cbb1",
