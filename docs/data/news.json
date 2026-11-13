@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-13T00:30:17.480Z",
+  "updatedAt": "2026-11-13T01:00:19.697Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 131,
-  "todayCount": 15,
+  "total": 132,
+  "todayCount": 16,
   "categories": [
     {
       "id": "goods",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "anime",
@@ -101,12 +101,12 @@
       "count": 8
     },
     {
-      "name": "インサイド",
+      "name": "コラボカフェ",
       "count": 7
     },
     {
-      "name": "コラボカフェ",
-      "count": 7
+      "name": "インサイド",
+      "count": 6
     },
     {
       "name": "ファッションプレス",
@@ -163,6 +163,10 @@
     {
       "name": "キャラグー",
       "count": 2
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 1
     },
     {
       "name": "オリコンニュース",
@@ -238,6 +242,10 @@
     },
     {
       "name": "ふくおかナビ",
+      "count": 1
+    },
+    {
+      "name": "グルメ Watch",
       "count": 1
     },
     {
@@ -769,12 +777,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T00:00:17.692Z",
-    "previousCount": 132,
-    "newCount": 3
+    "previousAt": "2026-11-13T00:30:17.480Z",
+    "previousCount": 131,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T01:00:17.480Z",
+  "nextUpdateAt": "2026-11-13T01:30:19.697Z",
   "items": [
     {
       "id": "8708620f1578",
@@ -787,6 +795,25 @@
       "image": "https://www.inside-games.jp/imgs/rss/1807023.jpg",
       "categories": [
         "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "cc448a295a43",
+      "title": "数量限定の購入者特典あり！関東最大級の「ちいかわらんど」が東京・新宿に4月25日オープン(1/2)",
+      "url": "https://www.walkerplus.com/article/1259058/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-12T23:20:59.000Z",
+      "image": "https://news.walkerplus.com/article/1259058/14413343_615.jpg",
+      "categories": [
+        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -814,7 +841,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "87298be27777",
@@ -862,7 +889,7 @@
       "source": "やしおん",
       "summary": "",
       "publishedAt": "2026-11-12T23:00:54.000Z",
-      "image": "",
+      "image": "https://yashion.jp/contents/uploads/2026/11/sub5-2-1024x606.jpg",
       "categories": [
         "other"
       ],
@@ -871,7 +898,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "34d98d8e7f93",
@@ -1837,13 +1864,13 @@
     },
     {
       "id": "617ef56f12c0",
-      "title": "「ちいかわ」のグッズシリーズ新作「ちいかわクリニック」が11月27日発売！ナース服や白衣に身を包んだマスコット、ポーチなど豊富なデザイン",
-      "url": "https://www.inside-games.jp/article/2026/11/12/190821.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "「ちいかわ」のグッズシリーズ、2026年のテーマは「ちいかわクリニック」に決定！206年11月27日より発売。",
+      "title": "「ちいかわ」のグッズシリーズ新作「ちいかわクリニック」が11月27日発売！ナース服や白衣に身を包んだマスコット、ポーチなど豊富なデザイン (インサイド)",
+      "url": "https://news.yahoo.co.jp/articles/be2fbc05c6ba2739ccd3775c957bc124bb0986ee/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
       "publishedAt": "2026-11-12T05:45:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/rss/1806690.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26pdbnCShyTZeXQYx_TceNVMm3sYM1i6zP-rhAD35jpQcy5LAV--xuY0eAApggzkLUYIaY9vtDioNqUaJreW0HixBnpJSXh--rnXpkRGnBpTw",
       "categories": [
         "goods"
       ],
@@ -1958,12 +1985,12 @@
     {
       "id": "50c3b1509ac0",
       "title": "「ちいかわクリニック」第1弾、ナース服や白衣姿のちいかわたちのマスコットやおくすり袋風ポーチを11月27日に発売！",
-      "url": "https://news.yahoo.co.jp/articles/c508690a16e2680e1cb87dd5f985f0c7123731eb/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2155851.html",
+      "host": "gourmet.watch.impress.co.jp",
+      "source": "グルメ Watch",
       "summary": "",
-      "publishedAt": "2026-11-12T04:18:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26t5lL3DIq1dOFyc6nKqFpfw3X-x97aXaQUJFAiXBwlCZGeSTXdZxlMyyOK5uXs-Z5wC2I8c06CN9UTFwsSXi0S-z4yLcBuzhmXKAdM_q3OhR",
+      "publishedAt": "2026-11-12T04:18:12.000Z",
+      "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2155/851/top.jpg",
       "categories": [
         "goods"
       ],
@@ -1982,7 +2009,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
