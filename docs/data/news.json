@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:00:18.687Z",
+  "updatedAt": "2026-11-13T15:30:22.549Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 58
+      "count": 59
     },
     {
       "id": "kuji",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 42
+      "count": 41
     }
   ],
   "series": [
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 34
+      "count": 35
     },
     {
       "name": "山陽新聞",
@@ -141,6 +141,10 @@
       "count": 3
     },
     {
+      "name": "ニコニコニュース",
+      "count": 3
+    },
+    {
       "name": "中日新聞Web",
       "count": 2
     },
@@ -173,10 +177,6 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
       "name": "All About ニュース",
       "count": 1
     },
@@ -194,10 +194,6 @@
     },
     {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "愛媛新聞",
       "count": 1
     },
     {
@@ -222,10 +218,6 @@
     },
     {
       "name": "lasisa.net",
-      "count": 1
-    },
-    {
-      "name": "山形新聞",
       "count": 1
     },
     {
@@ -423,24 +415,31 @@
       "url": "https://www.inside-games.jp/article/2026/11/13/190899.html",
       "image": "https://www.inside-games.jp/imgs/rss/1807209.jpg",
       "leadSource": "インサイド",
-      "publishedAt": "2026-11-13T09:05:22.000Z",
-      "sourceCount": 8,
-      "articleCount": 9,
+      "publishedAt": "2026-11-13T08:51:37.000Z",
+      "sourceCount": 9,
+      "articleCount": 10,
       "categories": [
         "other",
         "goods"
       ],
       "keywords": [
         "チューナー",
-        "チューニング",
-        "クリップチューナー"
+        "クリップチューナー",
+        "チューニング"
       ],
       "articles": [
         {
-          "title": "ちいかわたちが楽器のチューニングをお手伝い かわいらしいクリップチューナーが登場",
-          "url": "https://www.ehime-np.co.jp/article/202611130200",
-          "source": "愛媛新聞",
-          "publishedAt": "2026-11-13T09:05:22.000Z",
+          "title": "『ちいかわ』ちいかわ、ハチワレ、うさぎが「クリップチューナー」に変身！ おなかに液晶画面を搭載、音楽好きに悪いやつはいない",
+          "url": "https://www.toy-people.com/jp/?p",
+          "source": "玩具人 TOY PEOPLE",
+          "publishedAt": "2026-11-13T08:51:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』楽器用クリップチューナーが11/20発売！ ちいかわ・ハチワレ・うさぎの全3種",
+          "url": "https://dengekionline.com/article/202611/93971",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-13T08:30:00.000Z",
           "isPR": false
         },
         {
@@ -484,13 +483,6 @@
           "source": "ナタリー",
           "publishedAt": "2026-11-13T03:34:00.000Z",
           "isPR": false
-        },
-        {
-          "title": "ちいかわたちがギターのチューニングをお手伝い！？ちいかわ クリップチューナー♪2026年11月20日(金)販売開始！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000004.000135390.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-13T02:50:01.000Z",
-          "isPR": true
         }
       ]
     },
@@ -814,34 +806,6 @@
       ]
     },
     {
-      "id": "736a3fb74dad",
-      "title": "『ちいかわ』ちいかわ、ハチワレ、うさぎが「クリップチューナー」に変身！ おなかに液晶画面を搭載、音楽好きに悪いやつはいない",
-      "summary": "",
-      "url": "https://www.toy-people.com/jp/?p",
-      "image": "https://cimg.kgl-systems.io/camion/files/93971/ogp_QLrx.jpg?x=1280",
-      "leadSource": "玩具人 TOY PEOPLE",
-      "publishedAt": "2026-11-13T08:51:37.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "ハチワレ",
-        "うさぎ",
-        "クリップチューナー"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわ』楽器用クリップチューナーが11/20発売！ ちいかわ・ハチワレ・うさぎの全3種",
-          "url": "https://dengekionline.com/article/202611/93971",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-13T08:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "ef2660418ce8",
       "title": "「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？（ハフポスト日本版）",
       "summary": "",
@@ -896,15 +860,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "ee68283bc2b6",
+      "title": "付録は「アニメちいかわ」の「2027年スケジュール帳」と「シャカシャカシール」。『キラピチ12月号』本日発売",
+      "summary": "",
+      "url": "https://news.livedoor.com/topics/detail/32808195/",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/c/1c580_1843_752cec262d8fa33c08d9d4db83010b8f.jpg",
+      "leadSource": "ライブドアニュース",
+      "publishedAt": "2026-11-13T03:06:56.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "アニメ",
+        "スケジュール",
+        "シャカシャカシール"
+      ],
+      "articles": [
+        {
+          "title": "プレスリリース：アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』発売（PR TIMES）",
+          "url": "https://mainichi.jp/articles/20261113/pr1/00m/020/069000c",
+          "source": "毎日新聞",
+          "publishedAt": "2026-11-13T02:23:35.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T14:30:19.788Z",
-    "previousCount": 152,
-    "newCount": 2
+    "previousAt": "2026-11-13T15:00:18.687Z",
+    "previousCount": 150,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T15:30:18.687Z",
+  "nextUpdateAt": "2026-11-13T16:00:22.549Z",
   "items": [
     {
       "id": "46fd20b4720c",
@@ -1155,25 +1148,6 @@
       "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1493900286544151700/origin_1.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0de071e66451",
-      "title": "ちいかわたちが楽器のチューニングをお手伝い かわいらしいクリップチューナーが登場",
-      "url": "https://www.ehime-np.co.jp/article/202611130200",
-      "host": "ehime-np.co.jp",
-      "source": "愛媛新聞",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:05:22.000Z",
-      "image": "https://www.ehime-np.co.jp/media/images/img/logo_ogp.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1552,7 +1526,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-13T05:59:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26i43DNtYP6fsSgXSPwXKp-feMYPVBS1PtrLeZsraFAYHbsO79PF3KihO0W43HfWAv-wg7k97mypknxYkYja6WSC_aY_jC2N2AcLbENqksGAfs93iC8LQChCPQC39Dx5Fyg==",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26i43DNtYP6fsSgXSPwXKp-fKCmLKyZY2DTrQzRaZkM23NGCfIk7vrxbtjrOr4tEgB-ZOlzFUtZcRVbPt6YA4xtl8CGUgYsFUcuMVMMx9GZyuUXB5flkuSYqW8eFQnfhi_g==",
       "categories": [
         "collab"
       ],
@@ -1721,25 +1695,6 @@
       "isNew": false
     },
     {
-      "id": "286e20c87b79",
-      "title": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも",
-      "url": "https://www.yamagata-np.jp/oricon/print.php?id",
-      "host": "yamagata-np.jp",
-      "source": "山形新聞",
-      "summary": "",
-      "publishedAt": "2026-11-13T03:17:25.000Z",
-      "image": "https://www.yamagata-np.jp/",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ee68283bc2b6",
       "title": "付録は「アニメちいかわ」の「2027年スケジュール帳」と「シャカシャカシール」。『キラピチ12月号』本日発売",
       "url": "https://news.livedoor.com/topics/detail/32808195/",
@@ -1828,6 +1783,25 @@
       "image": "",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "286e20c87b79",
+      "title": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも",
+      "url": "https://news.nicovideo.jp/watch/nw19987373?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T02:00:33.000Z",
+      "image": "",
+      "categories": [
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -2549,6 +2523,25 @@
       "isNew": false
     },
     {
+      "id": "6b56409e3172",
+      "title": "「ちいかわ」たちが舞妓さんや芸妓さんの姿に！「ちいかわもぐもぐ本舗」3周年記念グッズが11月13日販売開始（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/7712c57d469dcb3bd6119bafc9791a106a77e6de",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-12T09:10:02.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00000055-isd-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b9b98fdee51c",
       "title": "『ちいかわ』がモーニング次号51号（11月19日発売）の表紙に！ちいかわ描き下ろし漫画も掲載",
       "url": "https://comic11.hatenablog.com/entry/2026/11/12/175143",
@@ -2760,7 +2753,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f592a5499046",
@@ -3604,7 +3597,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e0e289d8f71",
