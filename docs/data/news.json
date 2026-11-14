@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T07:00:16.474Z",
+  "updatedAt": "2026-11-14T07:30:16.673Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 137,
-  "todayCount": 21,
+  "total": 136,
+  "todayCount": 23,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 54
+      "count": 55
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 19
+      "count": 21
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 20
+      "count": 21
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 34
+      "count": 31
     }
   ],
   "series": [
@@ -84,13 +84,13 @@
     {
       "id": "kuma",
       "label": "自分ツッコミくま",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 36
+      "count": 35
     },
     {
       "name": "山陽新聞",
@@ -98,7 +98,7 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 7
+      "count": 6
     },
     {
       "name": "にじめん",
@@ -113,7 +113,11 @@
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "オリコンニュース",
+      "count": 3
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 3
     },
     {
@@ -122,10 +126,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 3
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 3
     },
     {
@@ -141,15 +141,15 @@
       "count": 3
     },
     {
-      "name": "オリコンニュース",
-      "count": 2
-    },
-    {
       "name": "アニメハック",
       "count": 2
     },
     {
       "name": "ふねぽ",
+      "count": 2
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 2
     },
     {
@@ -214,6 +214,10 @@
     },
     {
       "name": "lasisa.net",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -314,8 +318,8 @@
       "image": "https://media.eiga.com/images/anime/news/127864/photo/489d225c08f4dd25/640.jpg",
       "leadSource": "アニメハック",
       "publishedAt": "2026-11-14T03:00:00.000Z",
-      "sourceCount": 16,
-      "articleCount": 20,
+      "sourceCount": 17,
+      "articleCount": 21,
       "categories": [
         "goods",
         "other"
@@ -327,17 +331,24 @@
       ],
       "articles": [
         {
+          "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
+          "url": "https://www.sanyonews.jp/article/2019784?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-13T23:06:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ｜ボンボンドロップシールきたー！ぷっくり感にきゅん。キャラがいっぱいで嬉しい！",
+          "url": "https://perfectworld.tokyo/news/chiikawa-bonbonsticker/",
+          "source": "パーフェクト・ワールド株式会社",
+          "publishedAt": "2026-11-13T21:37:20.000Z",
+          "isPR": false
+        },
+        {
           "title": "越谷レイクタウンに「ちいかわクリニック」 ナース姿のちいかわたちが11月27日から登場",
           "url": "https://yashion.jp/event/46928",
           "source": "やしおん",
           "publishedAt": "2026-11-12T23:00:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
-          "url": "https://www.sanyonews.jp/article/2019784?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-12T11:51:44.000Z",
           "isPR": false
         },
         {
@@ -373,13 +384,6 @@
           "url": "https://news.yahoo.co.jp/articles/cc27fe42aa99cc870d5df1f50b96b8677ecd663f",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-12T07:45:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」たちが“臓器”になった！？『ちいかわ』新グッズシリーズ「ちいかわクリニック」発表",
-          "url": "https://news.denfaminicogamer.jp/news/2611122v",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-12T07:38:00.000Z",
           "isPR": false
         }
       ]
@@ -682,6 +686,33 @@
       ]
     },
     {
+      "id": "a29ea3864f3c",
+      "title": "「ちいかわクリニック」グッズに記された“まさかのフレーズ”にネットざわつく「公式くつずれ替え歌!?」「何か既視感…って思ったんだけど…」",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/news/2492854/full/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492854/20261114_120932_p_o_14757802.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-11-14T06:40:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "クリニック",
+        "ネット"
+      ],
+      "articles": [
+        {
+          "title": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」（レコードチャイナ）",
+          "url": "https://topics.smt.docomo.ne.jp/article/recordchina/business/recordchina-RC_997980",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-11-13T14:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "0b4957270e7b",
       "title": "『ちいかわくじ』27日発売予定の商品の販売を延期 物流事業者に不正アクセス被害 | ORICON NEWS | 国内海外のニュース",
       "summary": "",
@@ -705,32 +736,6 @@
           "url": "https://www.oricon.co.jp/news/2492855/full/",
           "source": "オリコンニュース",
           "publishedAt": "2026-11-14T03:39:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "29911a39b34f",
-      "title": "ちいかわ、病院モチーフの最新マスコットに反響⇒白衣やナース服を着たキャラたちに「かわいすぎて詰んだ」（ハフポスト日本版）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/04ca2ce5b5a2beca0ca5fb72412cf8ddb9bc3b2f",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00010008-huffpost-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T02:10:05.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "キャラ"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ｜ボンボンドロップシールきたー！ぷっくり感にきゅん。キャラがいっぱいで嬉しい！",
-          "url": "https://perfectworld.tokyo/news/chiikawa-bonbonsticker/",
-          "source": "パーフェクト・ワールド株式会社",
-          "publishedAt": "2026-11-13T21:37:20.000Z",
           "isPR": false
         }
       ]
@@ -821,31 +826,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T06:30:17.150Z",
-    "previousCount": 138,
-    "newCount": 2
+    "previousAt": "2026-11-14T07:00:16.474Z",
+    "previousCount": 137,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T07:30:16.474Z",
+  "nextUpdateAt": "2026-11-14T08:00:16.673Z",
   "items": [
     {
       "id": "a29ea3864f3c",
       "title": "「ちいかわクリニック」グッズに記された“まさかのフレーズ”にネットざわつく「公式くつずれ替え歌!?」「何か既視感…って思ったんだけど…」",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa3Riei0tRjA0TXZxWUdwblJ1bF9hemhVUjBEazMydjVsUWRYUnFKckVFamNlWmdtZy1vQ0EyMTVMRzh2RnFjclZucjhOakFrSUhaM0FPeUZGb1BDUWJOdFg2QzZhSVVuV0dRbTh6YlJUUmM0N0J1cWJ5NW9xYUhCcdIBhgFBVV95cUxOV3JHbWltQnBqTGJrOHJQTHNWWGszQXIwM2VtdXM5UlhJajRGNWN0OEtLYlhlSHM1T0lCRHJmZXMwTnhVbHRoeWdzRjNhUUxwMlU2T05RNWxIOE5lQWhRdnBMVDRvWF9UTG5qd09mUGhXazlfSnpkRW9xVURGWk1COGlRUEJLQQ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://www.oricon.co.jp/news/2492854/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-14T06:40:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492854/20261114_120932_p_o_14757802.jpg",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "26eae5aef2ac",
@@ -904,7 +909,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66ed8614e1d4",
@@ -1078,6 +1083,25 @@
       "isNew": false
     },
     {
+      "id": "d8ee30e8a75b",
+      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
+      "url": "https://www.sanyonews.jp/article/2019784?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T23:06:30.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/9/7/6/b9764db30910fd25fee28b2084c50c3f_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "48c939947cbb",
       "title": "ちいかわ×スッパイマン コラボパッケージをモチーフにした5アイテムが登場",
       "url": "https://www.sanyonews.jp/article/1961872?kw",
@@ -1173,23 +1197,44 @@
       "isNew": false
     },
     {
-      "id": "fcadc8a931fa",
-      "title": "「どっちもかわいい」立命館大学卒グラドル、白ニット姿でちいかわキャラとのツーショット披露「ちいかわ好きだったのちょっと意外」",
-      "url": "https://news.yahoo.co.jp/articles/a2faa9237a2a44e4375b1cdf97608ec117fedc46",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "ca58cedc5521",
+      "title": "「ちいかわレストラン」のドリンクスタンドとグッズショップが仙台PARCOに登場！",
+      "url": "https://www.walkerplus.com/article/1234584/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
       "summary": "",
-      "publishedAt": "2026-11-13T20:45:53.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000013-chuspo-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-13T20:24:36.000Z",
+      "image": "https://news.walkerplus.com/article/1234584/13910560_615.jpg",
       "categories": [
-        "other"
+        "goods",
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "fe81624b8107",
+      "title": "【映画ちいかわ】あの『しるこサンド』とのコラボ発表 SNSざわつく「やりやがった…やりやがったなっ!!」「なっちゃった。公式に」",
+      "url": "https://www.sanyonews.jp/article/1949475?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T19:09:10.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/7/4/7/3747df33e1f258c2720fe528499b99af_1.jpg",
+      "categories": [
+        "collab",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3bcde6b30c3b",
@@ -1856,6 +1901,25 @@
       "isNew": false
     },
     {
+      "id": "286e20c87b79",
+      "title": "【きょうから】「ちいかわベーカリー」にクリスマスをテーマにしたパンが登場 限定のオリジナルパッケージも",
+      "url": "https://news.nicovideo.jp/watch/nw19987373?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T02:00:33.000Z",
+      "image": "",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fee6ad3f26c8",
       "title": "ちいかわたちがナースやお医者さんに！「ちいかわクリニック」全国19か所で開催",
       "url": "https://otakuma.net/archives/2026111302.html",
@@ -2110,27 +2174,6 @@
       "isNew": false
     },
     {
-      "id": "4afdaed9e50c",
-      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
-      "url": "https://www.sanyonews.jp/article/1982996?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T15:26:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/0/c/3/20c3bd5fd117f75e8519caa6e4337ef1_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kuma"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dbb72baff71a",
       "title": "『ちいかわ』グッズ再販開始でネットざわつく「受注生産にして欲しい〜」「6分で売り切れ」",
       "url": "https://www.sanyonews.jp/article/1977773?rct",
@@ -2244,25 +2287,6 @@
       "series": [
         "shisa"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8ee30e8a75b",
-      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
-      "url": "https://www.sanyonews.jp/article/2019784?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:51:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/9/7/6/b9764db30910fd25fee28b2084c50c3f_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2618,25 +2642,6 @@
       "summary": "",
       "publishedAt": "2026-11-12T08:00:00.000Z",
       "image": "https://eeo.today/media/wp-content/uploads/2026/11/20261109_chikawa_01.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "28722cdc9375",
-      "title": "「ちいかわ」×「東京ばな奈」の“むちゃうま”コラボレーションが秋葉原にやってきた！",
-      "url": "https://www.walkerplus.com/article/1257303/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-12T08:00:00.000Z",
-      "image": "https://news.walkerplus.com/article/1257303/14360230_615.jpg",
       "categories": [
         "collab"
       ],
@@ -3025,7 +3030,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
       "categories": [
         "goods"
       ],
@@ -3221,25 +3226,6 @@
       "summary": "",
       "publishedAt": "2026-11-11T23:00:00.000Z",
       "image": "https://hobby.dengeki.com/ss/hobby/2026/10/samu_M9NLRHgBVXc7TpBPzI-ypK1C87AwLR8M_6tqpbCFLlaTPL0TadaNu1vNnb494Kr-W.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b82a475cb5c8",
-      "title": "【ちいかわ】約60cmの超BIGクッション。冬毛でラーメンや草むしり検定の名場面が両面デザインになった2種で登場",
-      "url": "https://dengekionline.com/article/202611/93735",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-11T22:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/93735/ogp_qcrU.jpg?x=1280",
       "categories": [
         "other"
       ],
