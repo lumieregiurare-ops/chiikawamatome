@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T22:00:17.868Z",
+  "updatedAt": "2026-11-14T22:30:17.179Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 128,
-  "todayCount": 9,
+  "total": 130,
+  "todayCount": 10,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 56
+      "count": 55
     },
     {
       "id": "kuji",
@@ -47,24 +47,24 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 33
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 27
+      "count": 28
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kurimanju",
@@ -90,11 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 38
+      "count": 36
     },
     {
       "name": "山陽新聞",
       "count": 13
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 5
     },
     {
       "name": "にじめん",
@@ -102,10 +106,6 @@
     },
     {
       "name": "インサイド",
-      "count": 4
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 4
     },
     {
@@ -149,8 +149,16 @@
       "count": 2
     },
     {
+      "name": "毎日新聞",
+      "count": 2
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 2
+    },
+    {
+      "name": "めざましmedia",
+      "count": 1
     },
     {
       "name": "東洋経済オンライン",
@@ -210,10 +218,6 @@
     },
     {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "毎日新聞",
       "count": 1
     },
     {
@@ -277,11 +281,15 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
+      "name": "モデルプレス",
       "count": 1
     },
     {
       "name": "SPUR（シュプール）",
+      "count": 1
+    },
+    {
+      "name": "グルメ Watch",
       "count": 1
     },
     {
@@ -302,7 +310,7 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00010011-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-14T01:01:35.000Z",
-      "sourceCount": 12,
+      "sourceCount": 13,
       "articleCount": 17,
       "categories": [
         "goods",
@@ -804,13 +812,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T21:30:15.127Z",
-    "previousCount": 127,
-    "newCount": 3
+    "previousAt": "2026-11-14T22:00:17.868Z",
+    "previousCount": 128,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T22:30:17.868Z",
+  "nextUpdateAt": "2026-11-14T23:00:17.179Z",
   "items": [
+    {
+      "id": "47f2c97a9ae3",
+      "title": "週刊ちいかわ恋占い 2026年11月15日（日）～11月21日（土）",
+      "url": "https://mezamashi.media/articles/-/366833",
+      "host": "mezamashi.media",
+      "source": "めざましmedia",
+      "summary": "",
+      "publishedAt": "2026-11-14T22:00:00.000Z",
+      "image": "https://mezamashi.ismcdn.jp/mwimgs/7/d/1200xm/img_7de4a6e51f920ace19266862b19f5651521151.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ced89c1d2ebb",
       "title": "なぜ朝のうどん店で“ちいかわのあの貝汁”を飲むべきなのか…あさり11個入り、887円の定食が冬の朝にしみるワケ",
@@ -828,7 +855,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2682b01d0e0f",
@@ -847,7 +874,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d8ee30e8a75b",
@@ -1075,7 +1102,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-14T09:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115070034",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115072827",
       "categories": [
         "other"
       ],
@@ -1143,6 +1170,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "32f3728603e3",
+      "title": "ちいかわクリスマスマーケット(千葉県)の情報",
+      "url": "https://www.walkerplus.com/event/ar0312e620660/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-14T07:11:27.000Z",
+      "image": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/60/l2/620660.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a29ea3864f3c",
@@ -1695,25 +1741,6 @@
       "isNew": false
     },
     {
-      "id": "aadb1650ef9e",
-      "title": "「ナガノ先生は元看護師？」ちいかわ新グッズにSNS騒然→まさかの内容に「医療従事者以外わからないネタww」「解像度高い」",
-      "url": "https://news.yahoo.co.jp/articles/13bd6cbdc6ac6cebf69475950e5abd0796f83f00",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:03:43.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-10177241-it_nlab-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3660c378928a",
       "title": "【入場特典リスト 11月最新版】「映画ちいかわ」うさぎも持ってた“びんよよ”配布 この後も豪華特典てんこ盛り",
       "url": "https://news.nicovideo.jp/watch/nw19989228?news_ref",
@@ -1858,6 +1885,30 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f45dbed4d556",
+      "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
+      "url": "https://www.sanyonews.jp/article/1885622",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/4/1/3/e413d8d18b9c157f359c1a4e4fa3dba2_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [
+        "hachiware",
+        "usagi",
+        "momonga"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c589b0c80bec",
@@ -2492,26 +2543,6 @@
       "isNew": false
     },
     {
-      "id": "5f4aff2b9a74",
-      "title": "くら寿司、「ちいかわ」コラボグッズの不適切な取り扱いめぐり謝罪 事実関係を調査「法的措置も含め厳格に対応」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:16:50.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "51f776f680dd",
       "title": "ナガノキャラクターズの“くま”がカラフルな着ぐるみに アクセサリーぬいぐるみ「Kiramekko」全8種発売（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/07af5c0644c8f22964cc89292c64af873fa645f7",
@@ -2905,6 +2936,25 @@
       "isNew": false
     },
     {
+      "id": "566e3dd58807",
+      "title": "きしむ日中関係：ちいかわ、ミスド…中国で「日本発」好調 不買運動起こらぬ理由",
+      "url": "https://mainichi.jp/articles/20261112/k00/00m/030/111000c",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-12T07:30:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ea2d9dfae999",
       "title": "「ちいかわクリニック」グッズ第1弾が11月27日発売! ちいかわたちがナースや白衣姿、そして\"内臓\"にも変身",
       "url": "https://news.mynavi.jp/article/20261112-5308592/",
@@ -2931,7 +2981,7 @@
       "source": "LASISA",
       "summary": "",
       "publishedAt": "2026-11-12T07:02:39.000Z",
-      "image": "https://lasisa.net/wp-content/uploads/2027/11/261112-chc-01.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2964,12 +3014,12 @@
     {
       "id": "a63eb47d36f7",
       "title": "「ちいかわ」グッズシリーズ2026年テーマは「ちいかわクリニック」 ナース服マスコットなど第1弾アイテム登場",
-      "url": "https://article.auone.jp/cc5e8e73-68ce-4e8d-bab1-6c6a18e7c916",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
+      "url": "https://mdpr.jp/news/detail/4875339",
+      "host": "mdpr.jp",
+      "source": "モデルプレス",
       "summary": "",
       "publishedAt": "2026-11-12T06:47:13.000Z",
-      "image": "https://portal.auone.jp/media/thumbnails/2026/11/12/4875339_w700.webp",
+      "image": "https://img-mdpr.freetls.fastly.net/article/hDY6/nm/hDY6IMMNWeWJGBDgGt09ZkosOmq7ALRkY-BkNlb9mUc.jpg?width=700&disable=upscale&auto=webp&quality=80",
       "categories": [
         "goods"
       ],
@@ -3103,12 +3153,12 @@
     {
       "id": "50c3b1509ac0",
       "title": "「ちいかわクリニック」第1弾、ナース服や白衣姿のちいかわたちのマスコットやおくすり袋風ポーチを11月27日に発売！",
-      "url": "https://news.yahoo.co.jp/articles/c508690a16e2680e1cb87dd5f985f0c7123731eb",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://gourmet.watch.impress.co.jp/docs/news/2155851.html",
+      "host": "gourmet.watch.impress.co.jp",
+      "source": "グルメ Watch",
       "summary": "",
-      "publishedAt": "2026-11-12T04:18:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00000019-impgrw-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-12T04:18:12.000Z",
+      "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2155/851/top.jpg",
       "categories": [
         "goods"
       ],
