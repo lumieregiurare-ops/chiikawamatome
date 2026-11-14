@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:00:22.968Z",
+  "updatedAt": "2026-11-14T17:30:18.347Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,7 +7,7 @@
     "contactUrl": ""
   },
   "total": 128,
-  "todayCount": 2,
+  "todayCount": 3,
   "categories": [
     {
       "id": "goods",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 38
+      "count": 37
     },
     {
       "name": "山陽新聞",
-      "count": 10
+      "count": 11
     },
     {
       "name": "にじめん",
@@ -307,7 +307,7 @@
       "leadSource": "アニメハック",
       "publishedAt": "2026-11-14T03:00:00.000Z",
       "sourceCount": 15,
-      "articleCount": 20,
+      "articleCount": 19,
       "categories": [
         "goods",
         "other"
@@ -319,17 +319,17 @@
       ],
       "articles": [
         {
+          "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
+          "url": "https://www.sanyonews.jp/article/2019784?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-13T23:06:30.000Z",
+          "isPR": false
+        },
+        {
           "title": "越谷レイクタウンに「ちいかわクリニック」 ナース姿のちいかわたちが11月27日から登場",
           "url": "https://yashion.jp/event/46928",
           "source": "やしおん",
           "publishedAt": "2026-11-12T23:00:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
-          "url": "https://www.sanyonews.jp/article/2019784?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-12T11:51:44.000Z",
           "isPR": false
         },
         {
@@ -793,13 +793,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T16:30:21.218Z",
-    "previousCount": 124,
-    "newCount": 5
+    "previousAt": "2026-11-14T17:00:22.968Z",
+    "previousCount": 128,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T17:30:22.968Z",
+  "nextUpdateAt": "2026-11-14T18:00:18.347Z",
   "items": [
+    {
+      "id": "952deb3ac91e",
+      "title": "全身『ちいかわ』グッズだらけ！ 市川美織のオフショットにネットざわつく「島二郎、いい…なっ！」",
+      "url": "https://www.sanyonews.jp/article/1984779?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T16:47:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/2/e/e/a2ee6226cc869331aea8b37c9c92dedd_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "2aa46ebe3929",
       "title": "グレイ・パーカー・サービス×『ちいかわ』新商品が登場！ ちいかわ、ハチワレ、うさぎの防炎仕様セーフティポーチや映画グッズをラインアップ",
@@ -843,7 +862,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "513bb1026ba9",
@@ -1095,7 +1114,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66ed8614e1d4",
@@ -1269,6 +1288,25 @@
       "isNew": false
     },
     {
+      "id": "d8ee30e8a75b",
+      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
+      "url": "https://www.sanyonews.jp/article/2019784?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T23:06:30.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/9/7/6/b9764db30910fd25fee28b2084c50c3f_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "fdbba022b386",
       "title": "ちいかわ｜ボンボンドロップシールきたー！ぷっくり感にきゅん。キャラがいっぱいで嬉しい！",
       "url": "https://perfectworld.tokyo/news/chiikawa-bonbonsticker/",
@@ -1323,7 +1361,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "70e1631491aa",
@@ -1342,7 +1380,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c2ac94a1d87",
@@ -2321,25 +2359,6 @@
       "isNew": false
     },
     {
-      "id": "d8ee30e8a75b",
-      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
-      "url": "https://www.sanyonews.jp/article/2019784?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:51:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/9/7/6/b9764db30910fd25fee28b2084c50c3f_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3feb41b24f3a",
       "title": "＜ちいかわ＞「笑顔で吐かないでwww」ちいかわ新グッズ発表、嘔吐するハチワレや“臓器”姿のキャラに驚愕の声",
       "url": "https://news.yahoo.co.jp/articles/2488f0ec23552a5a609cfc41e1433a71e4b337a1/images/000",
@@ -2459,7 +2478,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c906b1249b1d",
@@ -2901,25 +2920,6 @@
       "image": "",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fe42ce57b562",
-      "title": "ちいかわ＞新グッズシリーズ「ちいかわクリニック」 ナース、おくすりに変身！ (MANTANWEB)",
-      "url": "https://news.yahoo.co.jp/articles/e29e89b117ac33ab5e5af0d00d0e95f3a3c4172f/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-12T05:59:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26gD62r5Hv9YNa9IZcfdTlzuF3ZfWDHSHZaM__7Ul5V7xHx0bjslFl7_YGlNHFkkBKs6ygpBD4xjZTtuxhAJyPK-wZtxqTyAbqxTZAnxZSHbNmkf_xC_FFfo1R9qiTyp7sA==",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
