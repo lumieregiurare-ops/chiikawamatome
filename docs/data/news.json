@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T19:30:20.129Z",
+  "updatedAt": "2026-11-14T20:00:16.556Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -27,7 +27,7 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 12
+      "count": 11
     },
     {
       "id": "anime",
@@ -97,6 +97,10 @@
       "count": 13
     },
     {
+      "name": "ウォーカープラス",
+      "count": 5
+    },
+    {
       "name": "にじめん",
       "count": 5
     },
@@ -106,10 +110,6 @@
     },
     {
       "name": "インサイド",
-      "count": 4
-    },
-    {
-      "name": "ウォーカープラス",
       "count": 4
     },
     {
@@ -202,10 +202,6 @@
     },
     {
       "name": "coki",
-      "count": 1
-    },
-    {
-      "name": "lasisa.net",
       "count": 1
     },
     {
@@ -687,7 +683,7 @@
       "title": "「見てぶっ飛んだ!!」「ホンマに、ちいかわ?」〝激変キャラ弁〟4児の父・織田信成の投稿に騒然「これは誰??」「思わず笑った」「気持ちはわかる」",
       "summary": "",
       "url": "https://nishispo.nishinippon.co.jp/article/1057326",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115043029",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115050029",
       "leadSource": "西スポWEB OTTO!",
       "publishedAt": "2026-11-14T09:50:00.000Z",
       "sourceCount": 2,
@@ -793,12 +789,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T19:00:21.431Z",
+    "previousAt": "2026-11-14T19:30:20.129Z",
     "previousCount": 130,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T20:00:20.129Z",
+  "nextUpdateAt": "2026-11-14T20:30:16.556Z",
   "items": [
     {
       "id": "44318ed60ab0",
@@ -1007,7 +1003,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-14T09:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115043029",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115050029",
       "categories": [
         "other"
       ],
@@ -1807,26 +1803,6 @@
         "usagi",
         "momonga"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "4e14b732012c",
-      "title": "【GU感謝祭】11月20日～26日開催決定！「ちいかわ」冬コラボ第1弾と同日スタートで冬物アイテムがお得に",
-      "url": "https://lasisa.net/photo/169534",
-      "host": "lasisa.net",
-      "source": "lasisa.net",
-      "summary": "",
-      "publishedAt": "2026-11-13T06:02:10.000Z",
-      "image": "https://lasisa.net/wp-content/uploads/2027/11/20261113_gu_kanshasai_chiikawa_01.jpg",
-      "categories": [
-        "collab",
-        "event"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2781,6 +2757,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "28722cdc9375",
+      "title": "「ちいかわ」×「東京ばな奈」の“むちゃうま”コラボレーションが秋葉原にやってきた！",
+      "url": "https://www.walkerplus.com/article/1257303/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1257303/14360230_615.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e5f6a7ea4eb2",
