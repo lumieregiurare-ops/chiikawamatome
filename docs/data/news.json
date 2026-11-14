@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T05:30:18.995Z",
+  "updatedAt": "2026-11-14T06:00:16.532Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 141,
-  "todayCount": 18,
+  "total": 140,
+  "todayCount": 20,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 55
+      "count": 53
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 20
+      "count": 19
     },
     {
       "id": "event",
@@ -32,12 +32,12 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 20
+      "count": 21
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 5
+      "count": 6
     },
     {
       "id": "game",
@@ -98,7 +98,7 @@
     },
     {
       "name": "電撃オンライン",
-      "count": 7
+      "count": 8
     },
     {
       "name": "インサイド",
@@ -118,7 +118,7 @@
     },
     {
       "name": "ウォーカープラス",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Infoseek",
@@ -306,10 +306,6 @@
     },
     {
       "name": "株式会社ピクセラ",
-      "count": 1
-    },
-    {
-      "name": "女子旅プレス",
       "count": 1
     }
   ],
@@ -727,7 +723,7 @@
       "title": "【コラム】ちいかわコラボ東京スカイツリー・ちいかわパーク・東京5泊遠征①・推し／レイちゃん",
       "summary": "",
       "url": "https://yugi-nippon.com/pachinko-column/post-81563/",
-      "image": "https://yugi-nippon.com/wp-content/uploads/2026/10/5e2d3571009809f76f7d75635b052011-1.jpeg",
+      "image": "https://news.walkerplus.com/article/1163610/12307535_615.jpg",
       "leadSource": "遊技日本",
       "publishedAt": "2026-11-13T23:30:27.000Z",
       "sourceCount": 2,
@@ -836,12 +832,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T05:00:18.923Z",
-    "previousCount": 146,
+    "previousAt": "2026-11-14T05:30:18.995Z",
+    "previousCount": 141,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T06:00:18.995Z",
+  "nextUpdateAt": "2026-11-14T06:30:16.532Z",
   "items": [
     {
       "id": "26eae5aef2ac",
@@ -862,7 +858,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c6275132331e",
@@ -894,6 +890,25 @@
       "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492855/20261114_114043_p_o_63015358.jpg",
       "categories": [
         "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "cc448a295a43",
+      "title": "数量限定の購入者特典あり！関東最大級の「ちいかわらんど」が東京・新宿に4月25日オープン(1/2)",
+      "url": "https://www.walkerplus.com/article/1259058/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-14T03:20:28.000Z",
+      "image": "https://news.walkerplus.com/article/1259058/14413343_615.jpg",
+      "categories": [
+        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -1043,7 +1058,7 @@
       "source": "遊技日本",
       "summary": "",
       "publishedAt": "2026-11-13T23:30:27.000Z",
-      "image": "https://yugi-nippon.com/wp-content/uploads/2026/10/5e2d3571009809f76f7d75635b052011-1.jpeg",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -1167,6 +1182,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fe81624b8107",
+      "title": "【映画ちいかわ】あの『しるこサンド』とのコラボ発表 SNSざわつく「やりやがった…やりやがったなっ!!」「なっちゃった。公式に」",
+      "url": "https://www.sanyonews.jp/article/1949475?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T19:09:10.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/7/4/7/3747df33e1f258c2720fe528499b99af_1.jpg",
+      "categories": [
+        "collab",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3bcde6b30c3b",
@@ -1639,7 +1674,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-13T05:59:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26i43DNtYP6fsSgXSPwXKp-d8CHKfKk59OGnw6Wlg1RZpQENlR7OYgMURbpBpSSiMbLdqu1uxvNkTllM1PGJAjTHnxEGoDkES8yRwIcxJRH-9mVw7rFpV302TOai6FvjlSQ==",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26i43DNtYP6fsSgXSPwXKp-dXBH1fNtqqeY6qoSLSytNi8sHnYEntEPTU-sgzaoTNBVeJHihrNvcivCS3xHxWxRp5dySefxfAHmeadkMOiz3l7dLroc0Sx7OdYtWIpg17Ig==",
       "categories": [
         "collab"
       ],
@@ -1877,25 +1912,6 @@
       "image": "https://www.inside-games.jp/imgs/ogp_f/1807023.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cc448a295a43",
-      "title": "数量限定の購入者特典あり！関東最大級の「ちいかわらんど」が東京・新宿に4月25日オープン(1/2)",
-      "url": "https://www.walkerplus.com/article/1259058/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-12T23:20:59.000Z",
-      "image": "https://news.walkerplus.com/article/1259058/14413343_615.jpg",
-      "categories": [
-        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -2346,26 +2362,6 @@
       "isNew": false
     },
     {
-      "id": "5f4aff2b9a74",
-      "title": "くら寿司、「ちいかわ」コラボグッズの不適切な取り扱いめぐり謝罪 事実関係を調査「法的措置も含め厳格に対応」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:16:50.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "51f776f680dd",
       "title": "ナガノキャラクターズの“くま”がカラフルな着ぐるみに アクセサリーぬいぐるみ「Kiramekko」全8種発売（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/07af5c0644c8f22964cc89292c64af873fa645f7",
@@ -2683,25 +2679,6 @@
       "isNew": false
     },
     {
-      "id": "28722cdc9375",
-      "title": "「ちいかわ」×「東京ばな奈」の“むちゃうま”コラボレーションが秋葉原にやってきた！",
-      "url": "https://www.walkerplus.com/article/1257303/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-12T08:00:00.000Z",
-      "image": "https://news.walkerplus.com/article/1257303/14360230_615.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e5f6a7ea4eb2",
       "title": "「ちいかわ」のグッズシリーズ「ちいかわクリニック」第一弾が2026年11月27日（金）より販売開始！ナース服や白衣に身を包んだちいかわたちのマスコットやポーチなどを各種展開！",
       "url": "https://hobby.dengeki.com/news/3229658/",
@@ -2881,7 +2858,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-12T06:27:29.000Z",
-      "image": "https://image.p-c2-x.abema-tv.com/image/programs/89-70_s120_p2037/thumb001.png?height=720&quality=75&version=1794437346&width=1280",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2931,6 +2908,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9f6d78880f59",
+      "title": "【ちいかわ】モーニング51号で表紙＆描きおろし漫画で登場。発売日は11月19日",
+      "url": "https://dengekionline.com/article/202611/93823",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-12T05:55:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93823/ogp_fgDY.jpg?x=1280",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "617ef56f12c0",
@@ -3079,7 +3075,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -3402,7 +3398,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e1618e459a1b",
@@ -3596,25 +3592,6 @@
       "image": "https://collabo-cafe.com/wp-content/uploads/8eee516ea26deb25bb112dc2c22f84eb-27.jpeg",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dd50f5d564b7",
-      "title": "ちいかわ・ナガノ作品の常設店が梅田に誕生 人気キャラのぬいぐるみ＆雑貨にフォトスポット、限定ノベルティも",
-      "url": "https://travel.mdpr.jp/travel/4874742",
-      "host": "travel.mdpr.jp",
-      "source": "女子旅プレス",
-      "summary": "",
-      "publishedAt": "2026-11-11T05:40:34.000Z",
-      "image": "https://img-mdpr.freetls.fastly.net/article/loWX/nm/loWXut0N6IlHnw8gxzSFuv4fn6g8pduelr93HN5oD0Q.jpg?width=1400&disable=upscale&auto=webp",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
