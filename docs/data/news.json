@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-14T00:00:18.450Z",
+  "updatedAt": "2026-11-14T00:30:23.619Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 148,
-  "todayCount": 7,
+  "total": 147,
+  "todayCount": 8,
   "categories": [
     {
       "id": "goods",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 39
+      "count": 38
     }
   ],
   "series": [
@@ -133,10 +133,6 @@
       "count": 3
     },
     {
-      "name": "ライブドアニュース",
-      "count": 3
-    },
-    {
       "name": "PR TIMES",
       "count": 3
     },
@@ -154,6 +150,10 @@
     },
     {
       "name": "えんウチ",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -178,6 +178,10 @@
     },
     {
       "name": "パーフェクト・ワールド株式会社",
+      "count": 1
+    },
+    {
+      "name": "MOVIE WALKER PRESS",
       "count": 1
     },
     {
@@ -306,10 +310,6 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 1
-    },
-    {
-      "name": "MOVIE WALKER PRESS",
       "count": 1
     },
     {
@@ -565,11 +565,10 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261112-00010044-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-12T11:03:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
+      "sourceCount": 3,
+      "articleCount": 4,
       "categories": [
-        "goods",
-        "other"
+        "goods"
       ],
       "keywords": [
         "ナガノキャラクターズ",
@@ -596,13 +595,6 @@
           "url": "https://news.yahoo.co.jp/articles/b1fc176b165de99b77656a38267c954209d9099e",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-11T02:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "カラフルな着ぐるみ姿の“くま”全8色が集合！Kiramekko「ナガノキャラクターズ Kiramekko Kuma Color Collection」",
-          "url": "https://news.livedoor.com/article/detail/32786774/",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-11T00:26:34.000Z",
           "isPR": false
         }
       ]
@@ -754,7 +746,7 @@
       "title": "『ちいかわ』がモーニング次号51号（11月19日発売）の表紙に！ちいかわ描き下ろし漫画も掲載",
       "summary": "",
       "url": "https://comic11.hatenablog.com/entry/2026/11/12/175143",
-      "image": "https://cdn.image.st-hatena.com/image/scale/362bd9db52b25c819af85062353773769fa348b2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F3154nr6B5hL._SL500_.jpg",
+      "image": "https://cimg.kgl-systems.io/camion/files/93823/ogp_fgDY.jpg?x=1280",
       "leadSource": "コミロック",
       "publishedAt": "2026-11-12T08:51:43.000Z",
       "sourceCount": 3,
@@ -872,12 +864,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T23:30:15.435Z",
-    "previousCount": 147,
-    "newCount": 2
+    "previousAt": "2026-11-14T00:00:18.450Z",
+    "previousCount": 148,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T00:30:18.450Z",
+  "nextUpdateAt": "2026-11-14T01:00:23.619Z",
   "items": [
     {
       "id": "12ba91a2627a",
@@ -896,7 +888,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "550e06bf8d51",
@@ -985,6 +977,25 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000013-chuspo-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3bcde6b30c3b",
+      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
+      "url": "https://press.moviewalker.jp/mv91749/",
+      "host": "press.moviewalker.jp",
+      "source": "MOVIE WALKER PRESS",
+      "summary": "",
+      "publishedAt": "2026-11-13T16:30:06.000Z",
+      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2151,7 +2162,7 @@
       "source": "クラウドファンディング - READYFOR",
       "summary": "",
       "publishedAt": "2026-11-12T15:08:13.000Z",
-      "image": "",
+      "image": "https://readyfor.jp/s3/readyfor-img/editor_images/e8d6406d-08b3-4b4c-9b8d-49bbe6cf1b5e.jpg",
       "categories": [
         "other"
       ],
@@ -2531,7 +2542,7 @@
       "source": "コミロック",
       "summary": "",
       "publishedAt": "2026-11-12T08:51:43.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/362bd9db52b25c819af85062353773769fa348b2/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F3154nr6B5hL._SL500_.jpg",
+      "image": "",
       "categories": [
         "book"
       ],
@@ -2678,7 +2689,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e5f6a7ea4eb2",
@@ -3037,7 +3048,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
       "categories": [
         "goods"
       ],
@@ -3352,25 +3363,6 @@
       "summary": "",
       "publishedAt": "2026-11-11T15:03:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-10168831-lasisa-000-4-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3bcde6b30c3b",
-      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
-      "url": "https://press.moviewalker.jp/mv91749/",
-      "host": "press.moviewalker.jp",
-      "source": "MOVIE WALKER PRESS",
-      "summary": "",
-      "publishedAt": "2026-11-11T14:56:27.000Z",
-      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
       "categories": [
         "anime"
       ],
@@ -3770,25 +3762,6 @@
       "series": [
         "kuma"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a15215be1334",
-      "title": "カラフルな着ぐるみ姿の“くま”全8色が集合！Kiramekko「ナガノキャラクターズ Kiramekko Kuma Color Collection」",
-      "url": "https://news.livedoor.com/article/detail/32786774/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-11T00:26:34.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/c/7/c7390_1604_a342d5be_05ca8507.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
