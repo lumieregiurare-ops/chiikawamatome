@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-14T18:30:18.748Z",
+  "updatedAt": "2026-11-14T19:00:21.431Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 128,
-  "todayCount": 3,
+  "total": 130,
+  "todayCount": 6,
   "categories": [
     {
       "id": "goods",
@@ -42,12 +42,12 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 33
     }
   ],
   "series": [
@@ -94,7 +94,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 10
+      "count": 12
     },
     {
       "name": "ウォーカープラス",
@@ -687,7 +687,7 @@
       "title": "「見てぶっ飛んだ!!」「ホンマに、ちいかわ?」〝激変キャラ弁〟4児の父・織田信成の投稿に騒然「これは誰??」「思わず笑った」「気持ちはわかる」",
       "summary": "",
       "url": "https://nishispo.nishinippon.co.jp/article/1057326",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115033030",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115040030",
       "leadSource": "西スポWEB OTTO!",
       "publishedAt": "2026-11-14T09:50:00.000Z",
       "sourceCount": 2,
@@ -793,13 +793,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T18:00:21.167Z",
-    "previousCount": 131,
-    "newCount": 2
+    "previousAt": "2026-11-14T18:30:18.748Z",
+    "previousCount": 128,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T19:00:18.748Z",
+  "nextUpdateAt": "2026-11-14T19:30:21.431Z",
   "items": [
+    {
+      "id": "44318ed60ab0",
+      "title": "『ちいかわ』年内配布の新たな特典発表 「エアーびんよよ」「ヒミツにしようなんて許さライト」",
+      "url": "https://www.sanyonews.jp/article/2018005",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T17:02:02.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/7/9/8/e7985b2955c142197e4dfc6831a31a44_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "952deb3ac91e",
+      "title": "全身『ちいかわ』グッズだらけ！ 市川美織のオフショットにネットざわつく「島二郎、いい…なっ！」",
+      "url": "https://www.sanyonews.jp/article/1984779?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T16:47:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/2/e/e/a2ee6226cc869331aea8b37c9c92dedd_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "2aa46ebe3929",
       "title": "グレイ・パーカー・サービス×『ちいかわ』新商品が登場！ ちいかわ、ハチワレ、うさぎの防炎仕様セーフティポーチや映画グッズをラインアップ",
@@ -822,6 +860,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "806a9987376c",
+      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
+      "url": "https://www.sanyonews.jp/article/1985696?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T16:27:50.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
+      "categories": [
+        "collab",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "12b24719c95b",
@@ -949,7 +1007,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-14T09:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115033030",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115040030",
       "categories": [
         "other"
       ],
@@ -1035,7 +1093,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a29ea3864f3c",
@@ -1115,7 +1173,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66ed8614e1d4",
@@ -2403,26 +2461,6 @@
       "isNew": false
     },
     {
-      "id": "5f4aff2b9a74",
-      "title": "くら寿司、「ちいかわ」コラボグッズの不適切な取り扱いめぐり謝罪 事実関係を調査「法的措置も含め厳格に対応」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T11:16:50.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "51f776f680dd",
       "title": "ナガノキャラクターズの“くま”がカラフルな着ぐるみに アクセサリーぬいぐるみ「Kiramekko」全8種発売（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/07af5c0644c8f22964cc89292c64af873fa645f7",
@@ -2669,7 +2707,7 @@
       "source": "ファッションプレス",
       "summary": "",
       "publishedAt": "2026-11-12T08:03:58.000Z",
-      "image": "https://www.fashion-press.net/img/news/153253/-1w.jpg?1794454157",
+      "image": "",
       "categories": [
         "goods"
       ],
