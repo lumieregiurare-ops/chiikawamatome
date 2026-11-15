@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-15T19:30:18.759Z",
+  "updatedAt": "2026-11-15T20:00:23.224Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 110,
+  "total": 112,
   "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 40
+      "count": 41
     },
     {
       "id": "kuji",
@@ -22,22 +22,22 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 6
+      "count": 8
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 22
+      "count": 23
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 5
+      "count": 4
     },
     {
       "id": "game",
@@ -59,7 +59,7 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "momonga",
@@ -94,7 +94,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 20
+      "count": 21
     },
     {
       "name": "オリコンニュース",
@@ -110,7 +110,7 @@
     },
     {
       "name": "ウォーカープラス",
-      "count": 4
+      "count": 3
     },
     {
       "name": "ニコニコニュース",
@@ -134,6 +134,10 @@
     },
     {
       "name": "玩具人 TOY PEOPLE",
+      "count": 2
+    },
+    {
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -189,10 +193,6 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "KOREA WAVE",
       "count": 1
     },
@@ -222,6 +222,10 @@
     },
     {
       "name": "ねとらぼ",
+      "count": 1
+    },
+    {
+      "name": "LASISA",
       "count": 1
     },
     {
@@ -685,12 +689,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T19:00:15.415Z",
-    "previousCount": 116,
-    "newCount": 2
+    "previousAt": "2026-11-15T19:30:18.759Z",
+    "previousCount": 110,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T20:00:18.759Z",
+  "nextUpdateAt": "2026-11-15T20:30:23.224Z",
   "items": [
     {
       "id": "90e6ed1b85b1",
@@ -844,6 +848,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e22013a649b4",
+      "title": "『映画ちいかわ』の“ひみつ”を特別に大放出 原作・ナガノのイチオシ名シーンを本邦初公開",
+      "url": "https://www.sanyonews.jp/article/1964266",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:17:28.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/4/c/c/04cc17e4cb80cf47c8456adf4053705b_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e1332d21fef0",
@@ -1341,6 +1364,26 @@
       "isNew": false
     },
     {
+      "id": "364720862b66",
+      "title": "ちいかわ 「ちいかわ、さがしてます。」東京メトロ脱出ゲーム おうちで遊べる版｜ちいかわのコラボ・イベント 開催期間・場所・グッズ",
+      "url": "https://charagoo.jp/collab/event/389ec131d488/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-14T15:46:46.000Z",
+      "image": "",
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "12b24719c95b",
       "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
       "url": "https://www.sanyonews.jp/article/2009976?kw",
@@ -1515,6 +1558,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d5096cf967ae",
+      "title": "ちいかわが「ドンペン」とコラボ ドン・キホーテ系列50店舗限定でアイテムを展開",
+      "url": "https://www.sanyonews.jp/article/1927121?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T06:43:59.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/c/7/1/5c71e8a335e85d076e1624238a74ea31_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c6275132331e",
@@ -2253,6 +2315,44 @@
       "isNew": false
     },
     {
+      "id": "a702be7927ab",
+      "title": "ちいかわ 第57話～第63話 「草むしり検定」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/episodes/eplfs6i168",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8177aa1ae87a",
+      "title": "ちいかわ 2023年放送 第58話 勉強中／お昼ごはん｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/episodes/epugv40ioi",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f45dbed4d556",
       "title": "ちいかわ・ハチワレ・うさぎ達が制服姿の“小麦色ギャル”に… アパレルブランドとの限定コラボ発表「何これ買うWWW」「モモンガ似合いすぎw」「チョベリグ」",
       "url": "https://www.sanyonews.jp/article/1885622",
@@ -2277,44 +2377,6 @@
       "isNew": false
     },
     {
-      "id": "a702be7927ab",
-      "title": "ちいかわ 第57話～第63話 「草むしり検定」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
-      "url": "https://tver.jp/episodes/eplfs6i168",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "8177aa1ae87a",
-      "title": "ちいかわ 2023年放送 第58話 勉強中／お昼ごはん｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
-      "url": "https://tver.jp/episodes/epugv40ioi",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e64cf31dbf2b",
       "title": "「ちいかわ」たちがチューニングをお手伝い！パッケージまで可愛いクリップチューナー全3種が11月20日より発売",
       "url": "https://www.inside-games.jp/article/2026/11/13/190899.html",
@@ -2325,6 +2387,26 @@
       "image": "https://www.inside-games.jp/imgs/ogp_f/1807209.webp",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4e14b732012c",
+      "title": "【GU感謝祭】11月20日～26日開催決定！「ちいかわ」冬コラボ第1弾と同日スタートで冬物アイテムがお得に",
+      "url": "https://lasisa.net/post/169534",
+      "host": "lasisa.net",
+      "source": "LASISA",
+      "summary": "",
+      "publishedAt": "2026-11-13T06:00:10.000Z",
+      "image": "https://lasisa.net/wp-content/uploads/2027/11/20261113_gu_kanshasai_chiikawa_01.jpg",
+      "categories": [
+        "collab",
+        "event"
       ],
       "series": [],
       "isOfficial": false,
@@ -2813,46 +2895,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-10169257-lasisa-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "719d9a1c4f88",
-      "title": "「ちいかわベーカリー」に“うさぎのシュトーレン”登場！漫画を忠実に再現",
-      "url": "https://www.walkerplus.com/article/1303634/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-12T19:45:25.000Z",
-      "image": "https://news.walkerplus.com/article/1303634/15565056_615.jpg",
-      "categories": [
-        "book"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5a02f8a57c36",
-      "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
-      "url": "https://www.sanyonews.jp/article/1975592?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T19:30:57.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/a/f/0/1/af01890e80ec935f81ba61f623d1a1cd_1.jpg",
-      "categories": [
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
