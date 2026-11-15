@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:30:16.504Z",
+  "updatedAt": "2026-11-15T23:58:40.011Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -12,7 +12,7 @@
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "event",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Yahoo!ニュース",
@@ -105,7 +105,7 @@
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "Infoseek",
       "count": 3
     },
     {
@@ -117,16 +117,8 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "にじめん",
       "count": 3
-    },
-    {
-      "name": "Infoseek",
-      "count": 2
     },
     {
       "name": "ふねぽ",
@@ -141,7 +133,19 @@
       "count": 2
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 2
+    },
+    {
       "name": "玩具人 TOY PEOPLE",
+      "count": 2
+    },
+    {
+      "name": "アニメハック",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -177,10 +181,6 @@
       "count": 1
     },
     {
-      "name": "映画.com",
-      "count": 1
-    },
-    {
       "name": "Dellows News",
       "count": 1
     },
@@ -190,10 +190,6 @@
     },
     {
       "name": "Ameba News [アメーバニュース]",
-      "count": 1
-    },
-    {
-      "name": "アニメハック",
       "count": 1
     },
     {
@@ -446,6 +442,40 @@
       ]
     },
     {
+      "id": "3d2fbf9e8e9f",
+      "title": "「ちいかわクリニック」入店予約に“顔認証”導入へ ネット反応さまざま「めちゃ転売ヤー対策してるやん!!!」「ありがたい」「このご時世に少し抵抗」",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/news/2492960/full/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492960/20261114_120938_p_o_68503642.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-11-15T08:10:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "クリニック",
+        "ネット"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわクリニック」グッズに記された“まさかのフレーズ”にネットざわつく「公式くつずれ替え歌!?」「何か既視感…って思ったんだけど…」",
+          "url": "https://www.oricon.co.jp/news/2492854/photo/1/?anc",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-11-14T06:56:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」",
+          "url": "https://news.infoseek.co.jp/article/recordchina_RC_997980/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-13T14:00:01.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "139a24aa1cc9",
       "title": "ちいかわクリスマスマーケットの限定グッズとフード詳細が公開",
       "summary": "",
@@ -639,43 +669,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "ef2660418ce8",
-      "title": "「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？（ハフポスト日本版）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/21999bdbaf06cb2583f38208fa612faaa956c83c",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00010016-huffpost-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T08:35:32.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "アニメ",
-        "カキネ",
-        "紅白出場"
-      ],
-      "articles": [
-        {
-          "title": "【画像】「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？",
-          "url": "https://www.huffingtonpost.jp/entry/story_jp_6af6b6fae4b0914f133e5b3e",
-          "source": "ハフポスト",
-          "publishedAt": "2026-11-13T08:14:04.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T23:00:23.507Z",
-    "previousCount": 112,
-    "newCount": 4
+    "previousAt": "2026-11-15T23:30:16.504Z",
+    "previousCount": 108,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T00:00:16.504Z",
+  "nextUpdateAt": "2026-11-16T00:28:40.011Z",
   "items": [
     {
       "id": "389e83b124a7",
@@ -833,6 +835,25 @@
       "isNew": false
     },
     {
+      "id": "ff155afc2b12",
+      "title": "『ちいかわ』新商品のデザインにネット衝撃「遊び心があって良い」「これで、ごはん食べたら幸せ」",
+      "url": "https://www.sanyonews.jp/article/1983577",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T11:17:20.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/4/9/6/4496e5a68a7943e92646476478ef95a9_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d8ee30e8a75b",
       "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
       "url": "https://www.sanyonews.jp/article/2019784?kw",
@@ -945,7 +966,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e1332d21fef0",
@@ -1235,25 +1256,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3d84a92a5408",
-      "title": "「ちいかわ」年賀はがきセットが発売 はがきがデコれるおまけシール付き",
-      "url": "https://eiga.com/l/VI9qx",
-      "host": "eiga.com",
-      "source": "映画.com",
-      "summary": "",
-      "publishedAt": "2026-11-15T00:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/130533/9503be66b5db5ed9.jpg",
-      "categories": [
-        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1602,6 +1604,25 @@
       "isNew": false
     },
     {
+      "id": "e9e6377470ee",
+      "title": "モンテールとちいかわが今年もコラボ 『むちゃうまプリン』イメージのスイーツ2品登場",
+      "url": "https://www.sanyonews.jp/article/1978165",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/d/e/a/3/dea39139ac1218c99889cc626f8f9573_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fdab262e4837",
       "title": "映画『ちいかわ』本編映像初解禁にSNSでも反響「この島、この島に…！」「すでに泣きそう」「ハートフルストーリー感すごい」",
       "url": "https://www.sanyonews.jp/article/1879914",
@@ -1612,25 +1633,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/e/4/f/0/e4f0ed98bf1d6392bfdca76219daca25_1.jpg",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "076d0bd27ef5",
-      "title": "『ちいかわ』新たな特典の絵柄にネットざわつく「島二郎の髪のひみつが…」",
-      "url": "https://www.sanyonews.jp/article/2008795",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/a/8/e/1a8e3fb4e1444577bb7fee822fe810f0_1.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -2013,13 +2015,13 @@
     },
     {
       "id": "46fd20b4720c",
-      "title": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」（レコードチャイナ）",
-      "url": "https://topics.smt.docomo.ne.jp/article/recordchina/business/recordchina-RC_997980",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "title": "新作グッズ「ちいかわクリニック」に中国ネット悶絶＝「かわいすぎ」「日本まで診てもらいに行く」",
+      "url": "https://news.infoseek.co.jp/article/recordchina_RC_997980/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-13T14:00:00.000Z",
-      "image": "https://img.topics.smt.news.goo.ne.jp/picture/recordchina/m_recordchina-RC_997980.jpg",
+      "publishedAt": "2026-11-13T14:00:01.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/recordchina/recordchina_RC_997980_0.jpg",
       "categories": [
         "goods"
       ],
@@ -2227,17 +2229,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3660c378928a",
       "title": "【入場特典リスト 11月最新版】「映画ちいかわ」うさぎも持ってた“びんよよ”配布 この後も豪華特典てんこ盛り",
-      "url": "https://news.nicovideo.jp/watch/nw19989228?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://anime.eiga.com/news/column/tokuten_list/127857/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
       "summary": "",
-      "publishedAt": "2026-11-13T09:00:40.000Z",
-      "image": "",
+      "publishedAt": "2026-11-13T09:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127857/photo/83f42cfeb37db30d/640.jpg",
       "categories": [
         "anime"
       ],
@@ -2474,7 +2476,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "60c1157dbd95",
@@ -2632,7 +2634,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66fbbb4143e7",
@@ -2792,7 +2794,7 @@
     {
       "id": "8708620f1578",
       "title": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/7910df31eeffcb6dfd50940af8188fe88ebc66d3?source",
+      "url": "https://news.yahoo.co.jp/articles/7910df31eeffcb6dfd50940af8188fe88ebc66d3",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
