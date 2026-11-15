@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-15T01:00:17.934Z",
+  "updatedAt": "2026-11-15T01:30:16.428Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 132,
-  "todayCount": 13,
+  "total": 134,
+  "todayCount": 16,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 56
+      "count": 54
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "event",
@@ -37,7 +37,7 @@
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 5
+      "count": 6
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 33
     }
   ],
   "series": [
@@ -69,7 +69,7 @@
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 2
+      "count": 1
     },
     {
       "id": "rakko",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 38
+      "count": 37
     },
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 13
     },
     {
       "name": "ウォーカープラス",
@@ -109,7 +109,15 @@
       "count": 5
     },
     {
+      "name": "インサイド",
+      "count": 4
+    },
+    {
       "name": "オリコンニュース",
+      "count": 4
+    },
+    {
+      "name": "Infoseek",
       "count": 4
     },
     {
@@ -121,20 +129,16 @@
       "count": 3
     },
     {
-      "name": "インサイド",
-      "count": 3
-    },
-    {
-      "name": "Infoseek",
-      "count": 3
-    },
-    {
       "name": "PR TIMES",
       "count": 3
     },
     {
       "name": "マイナビニュース",
       "count": 3
+    },
+    {
+      "name": "東洋経済オンライン",
+      "count": 2
     },
     {
       "name": "玩具人 TOY PEOPLE",
@@ -149,11 +153,11 @@
       "count": 2
     },
     {
-      "name": "映画.com",
+      "name": "蔦屋書店ポータル",
       "count": 1
     },
     {
-      "name": "東洋経済オンライン",
+      "name": "映画.com",
       "count": 1
     },
     {
@@ -213,11 +217,11 @@
       "count": 1
     },
     {
-      "name": "毎日新聞",
+      "name": "おたくま経済新聞",
       "count": 1
     },
     {
-      "name": "おたくま経済新聞",
+      "name": "ちいかわ日和",
       "count": 1
     },
     {
@@ -623,6 +627,41 @@
       ]
     },
     {
+      "id": "751343bd139f",
+      "title": "画像 | なぜ朝のうどん店で\"ちいかわのあの貝汁\"を飲むべきなのか…あさり11個入り､887円の定食が冬の朝にしみるワケ",
+      "summary": "",
+      "url": "https://toyokeizai.net/articles/photo/964769",
+      "image": "https://tk.ismcdn.jp/mwimgs/5/4/1200xm/img_549268a0a560363cb2f1a174455926ef290479.jpg",
+      "leadSource": "東洋経済オンライン",
+      "publishedAt": "2026-11-15T01:17:24.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "貝汁",
+        "個入",
+        "定食"
+      ],
+      "articles": [
+        {
+          "title": "なぜ朝のうどん店で“ちいかわのあの貝汁”を飲むべきなのか…あさり11個入り、887円の定食が冬の朝にしみるワケ",
+          "url": "https://news.yahoo.co.jp/articles/a49ab5cfb012ed7347c1469fb65c2a4a59d72d31",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-14T21:16:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "なぜ朝のうどん店で\"ちいかわのあの貝汁\"を飲むべきなのか…あさり11個入り､887円の定食が冬の朝にしみるワケ",
+          "url": "https://toyokeizai.net/articles/-/964769",
+          "source": "東洋経済オンライン",
+          "publishedAt": "2026-11-14T21:15:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "c4bb805b101c",
       "title": "映画『ちいかわ』入場者特典「第8弾から第12弾」一挙解禁！ 豪華すぎる内容にファン悲鳴「まだ行かねば」（ふたまん＋）",
       "summary": "",
@@ -689,34 +728,6 @@
           "url": "https://lasisa.net/post/169171",
           "source": "LASISA",
           "publishedAt": "2026-11-12T07:02:39.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ced89c1d2ebb",
-      "title": "なぜ朝のうどん店で“ちいかわのあの貝汁”を飲むべきなのか…あさり11個入り、887円の定食が冬の朝にしみるワケ",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/a49ab5cfb012ed7347c1469fb65c2a4a59d72d31",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00964769-toyo-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-14T21:16:15.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "貝汁",
-        "個入",
-        "定食"
-      ],
-      "articles": [
-        {
-          "title": "なぜ朝のうどん店で\"ちいかわのあの貝汁\"を飲むべきなのか…あさり11個入り､887円の定食が冬の朝にしみるワケ",
-          "url": "https://toyokeizai.net/articles/-/964769",
-          "source": "東洋経済オンライン",
-          "publishedAt": "2026-11-14T21:15:00.000Z",
           "isPR": false
         }
       ]
@@ -805,13 +816,90 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T00:30:18.298Z",
-    "previousCount": 130,
-    "newCount": 3
+    "previousAt": "2026-11-15T01:00:17.934Z",
+    "previousCount": 132,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T01:30:17.934Z",
+  "nextUpdateAt": "2026-11-15T02:00:16.428Z",
   "items": [
+    {
+      "id": "751343bd139f",
+      "title": "画像 | なぜ朝のうどん店で\"ちいかわのあの貝汁\"を飲むべきなのか…あさり11個入り､887円の定食が冬の朝にしみるワケ",
+      "url": "https://toyokeizai.net/articles/photo/964769",
+      "host": "toyokeizai.net",
+      "source": "東洋経済オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:17:24.000Z",
+      "image": "https://tk.ismcdn.jp/mwimgs/5/4/1200xm/img_549268a0a560363cb2f1a174455926ef290479.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "cf2408069dd6",
+      "title": "「ちいかわ」 マルチカラーパウダーがガシャポン展開！容器は漫画1コマ風デザイン全6種、コンパクトで持ち運びに便利",
+      "url": "https://www.inside-games.jp/article/2026/11/15/190979.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "ガシャポン「ポンデクルール ちいかわ マルチカラーパウダー」が11月第3週より発売！",
+      "publishedAt": "2026-11-15T01:15:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/rss/1804798.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6bc51802393a",
+      "title": "【SHOP NEWS】5F GU ちいかわコラボ商品販売のお知らせ",
+      "url": "https://store.tsite.jp/hirakata/news/t-site/58059-1628561114.html",
+      "host": "store.tsite.jp",
+      "source": "蔦屋書店ポータル",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:13:24.000Z",
+      "image": "https://store.tsite.jp/article_img/hirakata/2026/1794641046954/slider/ac04e756-df22-47ba-82d1-cbe9a6a109c4.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "806a9987376c",
+      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
+      "url": "https://www.sanyonews.jp/article/1985696?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T00:37:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
+      "categories": [
+        "collab",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "65abf6e9a58f",
       "title": "いつも不機嫌な義父が『ちいかわ』にドハマりした結果…態度までかわいくなっちゃった！",
@@ -1009,26 +1097,6 @@
       "isNew": false
     },
     {
-      "id": "806a9987376c",
-      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
-      "url": "https://www.sanyonews.jp/article/1985696?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T16:27:50.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
-      "categories": [
-        "collab",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "12b24719c95b",
       "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
       "url": "https://www.sanyonews.jp/article/2009976?kw",
@@ -1097,7 +1165,7 @@
       "source": "MOVIE WALKER PRESS",
       "summary": "",
       "publishedAt": "2026-11-14T11:47:00.000Z",
-      "image": "",
+      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
       "categories": [
         "anime"
       ],
@@ -1135,7 +1203,7 @@
       "source": "西スポWEB OTTO!",
       "summary": "",
       "publishedAt": "2026-11-14T09:50:00.000Z",
-      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115093030",
+      "image": "https://nishispo-static.nishinippon.co.jp/image/article/size1/5/b/9/2/5b9287a7c059fd39bbe1df4fa38c14b8_1.jpg?20261115103030",
       "categories": [
         "other"
       ],
@@ -1301,7 +1369,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66ed8614e1d4",
@@ -1387,7 +1455,7 @@
       "source": "RELAZO",
       "summary": "",
       "publishedAt": "2026-11-14T01:31:42.000Z",
-      "image": "https://relazo.net/wp-content/uploads/2026/11/アイコスコラボアイキャッチ-768x574.webp",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -1463,7 +1531,7 @@
       "source": "遊技日本",
       "summary": "",
       "publishedAt": "2026-11-13T23:30:27.000Z",
-      "image": "https://yugi-nippon.com/wp-content/uploads/2026/10/5e2d3571009809f76f7d75635b052011-1.jpeg",
+      "image": "",
       "categories": [
         "collab"
       ],
@@ -1729,7 +1797,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1422b571fc63",
@@ -1739,7 +1807,7 @@
       "source": "coki",
       "summary": "",
       "publishedAt": "2026-11-13T10:08:22.000Z",
-      "image": "https://coki.jp/wp-content/uploads/2026/11/chiikawa-kuji-delay-data-leak.jpg",
+      "image": "",
       "categories": [
         "kuji"
       ],
@@ -2140,14 +2208,14 @@
       "isNew": false
     },
     {
-      "id": "c5d7d7a9521e",
-      "title": "プレスリリース：アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』発売（PR TIMES）",
-      "url": "https://mainichi.jp/articles/20261113/pr1/00m/020/069000c",
-      "host": "mainichi.jp",
-      "source": "毎日新聞",
+      "id": "746da1473d43",
+      "title": "アニメちいかわのスケジュール帳＆シャカシャカシールが付録！ 小学生の“今いちばんかわいい”がつまった雑誌『キラピチ12月号』発売",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000009592_000002535/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-13T02:23:35.000Z",
-      "image": "",
+      "publishedAt": "2026-11-13T02:15:28.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "book",
         "goods"
@@ -2157,7 +2225,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "286e20c87b79",
@@ -2198,6 +2266,27 @@
       "isNew": false
     },
     {
+      "id": "e3084dfc4b26",
+      "title": "【ちいかわ】ハチワレがパピコで増殖する話【まとめ】",
+      "url": "https://chiikawa-biyori.com/papico",
+      "host": "chiikawa-biyori.com",
+      "source": "ちいかわ日和",
+      "summary": "",
+      "publishedAt": "2026-11-13T01:01:02.000Z",
+      "image": "https://chiikawa-biyori.com/wp-content/uploads/2026/11/kidoairaku.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c4ac7ec77b18",
       "title": "『ちいかわ』防炎セーフティポーチやキャラパキ あまおう苺など8アイテム！ちいかわマーケットで11月13日11時から取扱い開始",
       "url": "https://nijimen.kusuguru.co.jp/topics/655819",
@@ -2206,25 +2295,6 @@
       "summary": "",
       "publishedAt": "2026-11-13T00:53:00.000Z",
       "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/e59a44e5121a429498189d317d531041.png",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8708620f1578",
-      "title": "「ちいかわ」なかよしトリオの防炎ポーチなど、新商品が本日11月13日11時より発売！カプセルトイからキャラパキ、クリアシールなどさまざま（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/7910df31eeffcb6dfd50940af8188fe88ebc66d3",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T00:20:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00000015-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -3099,7 +3169,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "617ef56f12c0",
@@ -3248,7 +3318,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-12T04:17:52.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2155/849/002.jpg",
       "categories": [
         "goods"
       ],
@@ -3388,28 +3458,6 @@
         "game"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c21b49d22bd0",
-      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
-      "url": "https://www.sanyonews.jp/article/2005014?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-12T01:19:36.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/7/c/1/77c1a8840bb7230c00a1235c0e0411f1_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "kurimanju"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
