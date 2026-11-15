@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-15T18:30:18.633Z",
+  "updatedAt": "2026-11-15T19:00:15.415Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 114,
+  "total": 116,
   "todayCount": 1,
   "categories": [
     {
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 8
+      "count": 9
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 21
+      "count": 22
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 33
     }
   ],
   "series": [
@@ -89,12 +89,12 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
+      "name": "山陽新聞",
       "count": 23
     },
     {
-      "name": "山陽新聞",
-      "count": 21
+      "name": "Yahoo!ニュース",
+      "count": 23
     },
     {
       "name": "オリコンニュース",
@@ -121,6 +121,10 @@
       "count": 3
     },
     {
+      "name": "ナタリー",
+      "count": 3
+    },
+    {
       "name": "電撃オンライン",
       "count": 2
     },
@@ -142,10 +146,6 @@
     },
     {
       "name": "Infoseek",
-      "count": 2
-    },
-    {
-      "name": "ナタリー",
       "count": 2
     },
     {
@@ -198,10 +198,6 @@
     },
     {
       "name": "アニメハック",
-      "count": 1
-    },
-    {
-      "name": "RELAZO",
       "count": 1
     },
     {
@@ -435,8 +431,8 @@
       "image": "https://static.sanyonews.jp/image/article/size1/1/5/e/f/15ef7cc62c49f7da5f63b92c6a2d7c6a_1.jpg",
       "leadSource": "玩具人 TOY PEOPLE",
       "publishedAt": "2026-11-14T16:28:07.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "goods",
         "anime"
@@ -459,6 +455,13 @@
           "url": "https://news.infoseek.co.jp/article/oshiraku_30558/",
           "source": "Infoseek",
           "publishedAt": "2026-11-13T05:51:33.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわたちがチューナーになった",
+          "url": "https://natalie.mu/music/news/697884",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-13T03:34:00.000Z",
           "isPR": false
         }
       ]
@@ -551,6 +554,34 @@
           "url": "https://mantan-web.jp/article/20261109dog00m200063000a.html",
           "source": "Mantan Web",
           "publishedAt": "2026-11-15T09:31:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "3bcde6b30c3b",
+      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
+      "summary": "",
+      "url": "https://press.moviewalker.jp/mv91749/",
+      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
+      "leadSource": "MOVIE WALKER PRESS",
+      "publishedAt": "2026-11-15T09:33:16.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "collab"
+      ],
+      "keywords": [
+        "映画",
+        "人魚"
+      ],
+      "articles": [
+        {
+          "title": "『映画ちいかわ 人魚の島のひみつ』コラボレーションカフェが登場 オープン前日に行ってきた【内覧会リポート】",
+          "url": "https://www.sanyonews.jp/article/1952836",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T08:59:03.000Z",
           "isPR": false
         }
       ]
@@ -666,43 +697,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "ef2660418ce8",
-      "title": "「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？（ハフポスト日本版）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/21999bdbaf06cb2583f38208fa612faaa956c83c",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00010016-huffpost-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T08:35:32.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "アニメ",
-        "カキネ",
-        "紅白出場"
-      ],
-      "articles": [
-        {
-          "title": "【画像】「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？",
-          "url": "https://www.huffingtonpost.jp/entry/story_jp_6af6b6fae4b0914f133e5b3e",
-          "source": "ハフポスト",
-          "publishedAt": "2026-11-13T08:14:04.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T18:00:17.758Z",
-    "previousCount": 113,
-    "newCount": 6
+    "previousAt": "2026-11-15T18:30:18.633Z",
+    "previousCount": 114,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T19:00:18.633Z",
+  "nextUpdateAt": "2026-11-15T19:30:15.415Z",
   "items": [
     {
       "id": "90e6ed1b85b1",
@@ -741,25 +744,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "de8ce04e3b79",
-      "title": "『ちいかわ』シュールなクリスマスの新グッズにネットざわつく「ジワる」「わろた」「いみわからん」「好きすぎるwwwww」",
-      "url": "https://www.sanyonews.jp/article/2012802?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T11:50:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/4/4/7/944793119dcf358d8ee21c2c327dbe24_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8f85ba9af6b8",
@@ -817,7 +801,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3b2a4de7dbac",
@@ -877,6 +861,25 @@
       "isNew": false
     },
     {
+      "id": "e22013a649b4",
+      "title": "『映画ちいかわ』の“ひみつ”を特別に大放出 原作・ナガノのイチオシ名シーンを本邦初公開",
+      "url": "https://www.sanyonews.jp/article/1964266",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:17:28.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/4/c/c/04cc17e4cb80cf47c8456adf4053705b_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e1332d21fef0",
       "title": "なぜ日本人は性格が悪い『ちいかわ』のモモンガに夢中なのか？ アメリカ人が考察した人気の理由とは",
       "url": "https://article.auone.jp/6abfca00-b7e7-4ae9-90b6-3fdaf186a0c5",
@@ -896,6 +899,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "85a4aa8efa3a",
+      "title": "『映画ちいかわ 人魚の島のひみつ』コラボレーションカフェが登場 オープン前日に行ってきた【内覧会リポート】",
+      "url": "https://www.sanyonews.jp/article/1952836",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T08:59:03.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/f/3/c/2f3c350a3b72b986f3f6f91f9d8a4b95_1.jpg",
+      "categories": [
+        "collab",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3d2fbf9e8e9f",
@@ -995,6 +1018,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dbb72baff71a",
+      "title": "『ちいかわ』グッズ再販開始でネットざわつく「受注生産にして欲しい〜」「6分で売り切れ」",
+      "url": "https://www.sanyonews.jp/article/1977773?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T03:05:30.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/6/8/b/968bdb6980d812cda6c87f223508a5a3_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6be06984902e",
@@ -1546,7 +1588,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "32f3728603e3",
@@ -1694,25 +1736,6 @@
       "image": "https://media.eiga.com/images/anime/news/127864/photo/489d225c08f4dd25/640.jpg",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "30d26ac2b1bb",
-      "title": "アイコスのmiumiu・ちいかわ・ディオールコラボは本物？AI画像の真相と公式コラボ一覧",
-      "url": "https://relazo.net/iqos_informal/",
-      "host": "relazo.net",
-      "source": "RELAZO",
-      "summary": "",
-      "publishedAt": "2026-11-14T01:31:42.000Z",
-      "image": "https://relazo.net/wp-content/uploads/2026/11/アイコスコラボアイキャッチ-768x574.webp",
-      "categories": [
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -2377,7 +2400,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f45dbed4d556",
@@ -2543,6 +2566,25 @@
       "isNew": false
     },
     {
+      "id": "68fc02ae7bd9",
+      "title": "ちいかわたちがチューナーになった",
+      "url": "https://natalie.mu/music/news/697884",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T03:34:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ee68283bc2b6",
       "title": "付録は「アニメちいかわ」の「2027年スケジュール帳」と「シャカシャカシール」。『キラピチ12月号』本日発売",
       "url": "https://www.chiba-tv.com/plus/detail/2026112219755",
@@ -2579,7 +2621,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66fbbb4143e7",
@@ -2637,7 +2679,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "286e20c87b79",
