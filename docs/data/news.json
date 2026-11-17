@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-17T20:30:20.466Z",
+  "updatedAt": "2026-11-17T21:00:17.853Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 127,
+  "total": 125,
   "todayCount": 6,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 30
+      "count": 29
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 29
     }
   ],
   "series": [
@@ -101,16 +101,16 @@
       "count": 8
     },
     {
-      "name": "電撃オンライン",
-      "count": 7
-    },
-    {
       "name": "にじめん",
       "count": 7
     },
     {
+      "name": "電撃オンライン",
+      "count": 6
+    },
+    {
       "name": "ライブドアニュース",
-      "count": 7
+      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
@@ -170,10 +170,6 @@
     },
     {
       "name": "時事通信ニュース",
-      "count": 1
-    },
-    {
-      "name": "MOVIE WALKER PRESS",
       "count": 1
     },
     {
@@ -254,6 +250,10 @@
     },
     {
       "name": "jocr.jp",
+      "count": 1
+    },
+    {
+      "name": "MOVIE WALKER PRESS",
       "count": 1
     },
     {
@@ -340,6 +340,49 @@
           "url": "https://gamebiz.jp/news/435635",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-11-17T06:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "5dc4bc751d19",
+      "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1912545",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/6/a/206a8f6736f9248712e80e9b09d71376_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-16T21:18:49.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "ハチワレ",
+        "うさぎ",
+        "映画"
+      ],
+      "articles": [
+        {
+          "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
+          "url": "https://press.moviewalker.jp/mv91749/",
+          "source": "MOVIE WALKER PRESS",
+          "publishedAt": "2026-11-15T18:56:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『映画ちいかわ』IMAXで公開決定 ちいかわ・ハチワレ・うさぎが大迫力に…ビジュアル公開",
+          "url": "https://www.sanyonews.jp/article/1951762",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T11:12:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわ」ちいかわ、ハチワレ、うさぎがギターのチューニング!? かわいいクリップチューナーが登場",
+          "url": "https://animeanime.jp/article/2026/11/15/104795.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-11-15T07:00:03.000Z",
           "isPR": false
         }
       ]
@@ -674,42 +717,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "3bcde6b30c3b",
-      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
-      "summary": "",
-      "url": "https://press.moviewalker.jp/mv91749/",
-      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
-      "leadSource": "MOVIE WALKER PRESS",
-      "publishedAt": "2026-11-17T11:16:37.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "映画",
-        "人魚"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
-          "url": "https://www.sanyonews.jp/article/1912545",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-16T21:18:49.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T20:00:19.485Z",
-    "previousCount": 125,
-    "newCount": 4
+    "previousAt": "2026-11-17T20:30:20.466Z",
+    "previousCount": 127,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-17T21:00:20.466Z",
+  "nextUpdateAt": "2026-11-17T21:30:17.853Z",
   "items": [
     {
       "id": "fb061c9b2784",
@@ -722,6 +738,25 @@
       "image": "https://assets.st-note.com/production/uploads/images/337434174/rectangle_large_type_2_1ab1a96a9714a18f6f4bd110718d3fef.png?fit=bounds&quality=85&width=1280",
       "categories": [
         "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60056abb1d06",
+      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
+      "url": "https://www.sanyonews.jp/article/1985468?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-17T18:39:36.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
+      "categories": [
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -789,25 +824,6 @@
       "isNew": false
     },
     {
-      "id": "60056abb1d06",
-      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
-      "url": "https://www.sanyonews.jp/article/1985468?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-17T17:23:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4afdaed9e50c",
       "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
       "url": "https://www.sanyonews.jp/article/1982996?rct",
@@ -850,8 +866,8 @@
     {
       "id": "3a07d097fa57",
       "title": "『ちいかわ』更新（11/17）。図解で消える法則が明確に。ハチワレが怒ったらアウト…ってコト!?",
-      "url": "http://news.dengeki.com/article/202611/94332",
-      "host": "news.dengeki.com",
+      "url": "https://dengekionline.com/article/202611/94332",
+      "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-11-17T14:23:00.000Z",
@@ -981,25 +997,6 @@
       "image": "https://news.dellows.jp/wp-content/uploads/2026/11/1155102_1.jpg",
       "categories": [
         "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3bcde6b30c3b",
-      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
-      "url": "https://press.moviewalker.jp/mv91749/",
-      "host": "press.moviewalker.jp",
-      "source": "MOVIE WALKER PRESS",
-      "summary": "",
-      "publishedAt": "2026-11-17T11:16:37.000Z",
-      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
-      "categories": [
-        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -1386,25 +1383,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000010-manetatsun-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3985896d1be7",
-      "title": "大阪駅ルクアに人気キャラ28店舗 ちいかわやキティ24日開業 (2026年11月17日掲載)",
-      "url": "https://news.livedoor.com/topics/detail/32838645/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-17T08:34:55.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/5/5/55e81_1675_48427cad31ee9a18934e6a1f6720eb1e.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1944,6 +1922,28 @@
       "isNew": false
     },
     {
+      "id": "c21b49d22bd0",
+      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
+      "url": "https://www.sanyonews.jp/article/2005014?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T22:31:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/7/c/1/77c1a8840bb7230c00a1235c0e0411f1_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "5dc4bc751d19",
       "title": "ちいかわ、ハチワレ、うさぎの“本物のチェキ”が登場 『映画ちいかわ 人魚の島のひみつ』全5種類のムビチェキを数量限定発売",
       "url": "https://www.sanyonews.jp/article/1912545",
@@ -2021,7 +2021,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a29ea3864f3c",
@@ -2276,7 +2276,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6347572cafc3",
@@ -2398,12 +2398,12 @@
     {
       "id": "af5c72003f63",
       "title": "『ちいかわ』興収189.6億円突破 今後の特典スケジュール",
-      "url": "https://www.oricon.co.jp/news/2493212/full/",
+      "url": "https://www.oricon.co.jp/news/2493212/photo/3/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-16T07:02:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2494000/2493212/20261013_125752_p_o_38466130.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2494000/2493212/20261109_125648_p_o_92334925.jpg",
       "categories": [
         "other"
       ],
@@ -2704,25 +2704,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "e3d5fd2beab2",
-      "title": "映画『ちいかわ 人魚の島のひみつ』人気キャラランキングTOP10。ちいかわ、セイレーン、島二郎…ファンが選んだ推しは？（ネタバレあり）【2026年最新版】",
-      "url": "https://dengekionline.com/article/202611/90975",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-16T02:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/90975/ogp_wRNd.jpg?x=1280",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -2738,28 +2719,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c21b49d22bd0",
-      "title": "ハチワレはパイロット＆くりまんじゅうは整備士に 『ちいかわ×ANA』オリジナルグッズ第1弾登場",
-      "url": "https://www.sanyonews.jp/article/2005014?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T22:50:19.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/7/c/1/77c1a8840bb7230c00a1235c0e0411f1_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware",
-        "kurimanju"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2922,6 +2881,25 @@
       "isNew": false
     },
     {
+      "id": "3bcde6b30c3b",
+      "title": "映画ちいかわ 人魚の島のひみつ：映画作品情報・あらすじ・評価",
+      "url": "https://press.moviewalker.jp/mv91749/",
+      "host": "press.moviewalker.jp",
+      "source": "MOVIE WALKER PRESS",
+      "summary": "",
+      "publishedAt": "2026-11-15T18:56:51.000Z",
+      "image": "https://press.moviewalker.jp/api/resizeimage/content/main/mv91749_22268731d763eeb9e3ee9386d81b03875a4626.jpg?w=1200",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "aa4712850a26",
       "title": "『ちいかわ』FNS歌謡祭に登場 ハチワレが歌う映画OP初パフォーマンス！20時に特別映像公開",
       "url": "https://www.sanyonews.jp/article/1947456?kw",
@@ -2959,7 +2937,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9648808c07f5",
