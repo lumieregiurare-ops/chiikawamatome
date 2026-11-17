@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:00:17.853Z",
+  "updatedAt": "2026-11-17T21:30:27.997Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -7,12 +7,12 @@
     "contactUrl": ""
   },
   "total": 125,
-  "todayCount": 6,
+  "todayCount": 7,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 41
+      "count": 42
     },
     {
       "id": "kuji",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 22
+      "count": 21
     },
     {
       "id": "anime",
@@ -54,7 +54,7 @@
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 19
+      "count": 18
     },
     {
       "id": "usagi",
@@ -98,7 +98,7 @@
     },
     {
       "name": "インサイド",
-      "count": 8
+      "count": 9
     },
     {
       "name": "にじめん",
@@ -137,6 +137,10 @@
       "count": 3
     },
     {
+      "name": "PASH! PLUS",
+      "count": 2
+    },
+    {
       "name": "TVer",
       "count": 2
     },
@@ -146,10 +150,6 @@
     },
     {
       "name": "ウレぴあ総研",
-      "count": 2
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 2
     },
     {
@@ -259,10 +259,6 @@
     {
       "name": "蔦屋書店ポータル",
       "count": 1
-    },
-    {
-      "name": "Ameba News [アメーバニュース]",
-      "count": 1
     }
   ],
   "topics": [
@@ -273,12 +269,12 @@
       "url": "https://animeanime.jp/article/2026/11/17/104867.html",
       "image": "https://animeanime.jp/imgs/rss/957219.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-17T13:15:18.000Z",
+      "publishedAt": "2026-11-17T20:28:04.000Z",
       "sourceCount": 9,
       "articleCount": 9,
       "categories": [
-        "event",
-        "anime"
+        "anime",
+        "event"
       ],
       "keywords": [
         "abema",
@@ -287,17 +283,17 @@
       ],
       "articles": [
         {
+          "title": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン",
+          "url": "https://www.pashplus.jp/anime/503416/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-11-17T20:28:04.000Z",
+          "isPR": false
+        },
+        {
           "title": "「ちいかわクリスマスマーケット」開催記念！ABEMA「ちいかわ公式無料チャンネル」が11月21日（土）より期間限定オー",
           "url": "https://news.nicovideo.jp/watch/nw20002338?news_ref",
           "source": "ニコニコニュース",
           "publishedAt": "2026-11-17T13:15:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン",
-          "url": "https://www.pashplus.jp/anime/503416/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-11-17T12:22:30.000Z",
           "isPR": false
         },
         {
@@ -720,13 +716,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T20:30:20.466Z",
-    "previousCount": 127,
-    "newCount": 0
+    "previousAt": "2026-11-17T21:00:17.853Z",
+    "previousCount": 125,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-17T21:30:17.853Z",
+  "nextUpdateAt": "2026-11-17T22:00:27.997Z",
   "items": [
+    {
+      "id": "e46f12ad0d92",
+      "title": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン",
+      "url": "https://www.pashplus.jp/anime/503416/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-17T20:28:04.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/b36cf31ff7a403e6d6dff9a76c02a054.jpg",
+      "categories": [
+        "anime",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "fb061c9b2784",
       "title": "ちいかわがびんよよを携えてきた！2026年11月3週末目のアニメ映画興行ウォッチング｜ネジムラ89 / アニメ映画ライター",
@@ -738,25 +754,6 @@
       "image": "https://assets.st-note.com/production/uploads/images/337434174/rectangle_large_type_2_1ab1a96a9714a18f6f4bd110718d3fef.png?fit=bounds&quality=85&width=1280",
       "categories": [
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60056abb1d06",
-      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
-      "url": "https://www.sanyonews.jp/article/1985468?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-17T18:39:36.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
-      "categories": [
-        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -815,6 +812,25 @@
       "image": "https://fan.books.rakuten.co.jp/images/og/logo.png",
       "categories": [
         "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "60056abb1d06",
+      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
+      "url": "https://www.sanyonews.jp/article/1985468?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-17T17:23:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
+      "categories": [
+        "collab"
       ],
       "series": [],
       "isOfficial": false,
@@ -919,26 +935,6 @@
       "series": [
         "hachiware"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e46f12ad0d92",
-      "title": "【ちいかわ】「ちいかわクリスマスマーケット」開催記念！ アニメ第382話までを無料一挙放送するABEMA「ちいかわ公式無料チャンネル」が期間限定オープン",
-      "url": "https://www.pashplus.jp/anime/503416/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-11-17T12:22:30.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/b36cf31ff7a403e6d6dff9a76c02a054.jpg",
-      "categories": [
-        "anime",
-        "event"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1430,6 +1426,25 @@
       "isNew": false
     },
     {
+      "id": "5d1eb4687b26",
+      "title": "大阪駅ルクア、人気キャラ集結 ちいかわやキティ、24日に開業（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/2e825d9a8cf47a074e5cfc1ea5e5dc1a1387a231",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-17T08:13:21.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000150-kyodonews-000-3-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "87241b54243e",
       "title": "『ちいかわ焼き』新店舗が2027年3月新宿にオープン予定。幕張、横浜、名古屋に続く国内4店舗目",
       "url": "https://dengekionline.com/article/202611/94290",
@@ -1822,6 +1837,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "77cada88428b",
+      "title": "【きょうから】『映画ちいかわ』とCoCo壱番屋のコラボ詳細発表 限定メニュー＆シール・フィギュアプレゼントも",
+      "url": "https://www.sanyonews.jp/article/1955869?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-17T01:21:06.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/a/6/9/4a6944f3e8ed393c7295f32b50a04402_1.jpg",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "08aff8b88973",
@@ -2416,13 +2451,13 @@
     },
     {
       "id": "68a564c9573f",
-      "title": "「ボンボンドロップシール」がロフトネットストアで抽選販売！ちいかわ、サンリオキャラクターズなど合計22種を11月19日まで受付中（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/a4c6fc2b63f390a2cb757164ae3725f89ca7d75e",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ボンボンドロップシール」がロフトネットストアで抽選販売！ちいかわ、サンリオキャラクターズなど合計22種を11月19日まで受付中",
+      "url": "https://www.inside-games.jp/article/2026/11/16/191038.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-16T06:45:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000035-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1808062.jpg",
       "categories": [
         "goods",
         "event"
@@ -2921,25 +2956,6 @@
       "isNew": false
     },
     {
-      "id": "fc1ab3b780e3",
-      "title": "【あすオープン】「ちいかわらんど」16店舗目が越谷レイクタウンにオープン 限定ノベルティ配布や記念の“スタンプ”も設置",
-      "url": "https://www.sanyonews.jp/article/1940045?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T16:39:22.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/2/1/6/b2166ad55ac7b9328fb2102c90246aa9_1.jpg",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9648808c07f5",
       "title": "『ちいかわ』更新（11/15）。新しいともだちが消えていってるッ!! 楽しさから一転、哀しくなり…!?",
       "url": "https://dengekionline.com/article/202611/94099",
@@ -3170,27 +3186,6 @@
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "26eae5aef2ac",
-      "title": "ちいかわやハチワレが内臓に！？近況報告マグネットや蓄光ステッカーも並ぶ「ちいかわクリニック」",
-      "url": "https://news.ameba.jp/entry/20261114-6070076",
-      "host": "news.ameba.jp",
-      "source": "Ameba News [アメーバニュース]",
-      "summary": "",
-      "publishedAt": "2026-11-14T21:22:30.000Z",
-      "image": "https://image.ext-news.ameba.jp/9a65d9bb/ZWVjMzI2MTktNDZlYS00MWNlLTk5YzYtNzA1Zjg4ZWJlMzMw",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
