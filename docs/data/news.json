@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-19T03:30:20.101Z",
+  "updatedAt": "2026-11-19T04:00:29.081Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 141,
-  "todayCount": 32,
+  "total": 140,
+  "todayCount": 35,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 40
+      "count": 39
     },
     {
       "id": "kuji",
@@ -27,17 +27,17 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 25
+      "count": 23
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 30
+      "count": 31
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 16
+      "count": 15
     },
     {
       "id": "game",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 43
+      "count": 45
     }
   ],
   "series": [
@@ -59,12 +59,12 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "kurimanju",
@@ -74,7 +74,7 @@
     {
       "id": "rakko",
       "label": "ラッコ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "shisa",
@@ -90,19 +90,19 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 28
+      "count": 31
     },
     {
       "name": "山陽新聞",
-      "count": 13
+      "count": 12
+    },
+    {
+      "name": "コラボカフェ",
+      "count": 7
     },
     {
       "name": "インサイド",
-      "count": 8
-    },
-    {
-      "name": "オリコンニュース",
-      "count": 6
+      "count": 7
     },
     {
       "name": "電撃オンライン",
@@ -117,31 +117,23 @@
       "count": 6
     },
     {
-      "name": "コラボカフェ",
-      "count": 6
+      "name": "オリコンニュース",
+      "count": 5
     },
     {
       "name": "Infoseek",
-      "count": 4
+      "count": 5
     },
     {
       "name": "電撃ホビーウェブ",
       "count": 3
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "ウォーカープラス",
       "count": 3
     },
     {
       "name": "ライブドアニュース",
-      "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
-      "name": "推し楽",
       "count": 3
     },
     {
@@ -153,10 +145,6 @@
       "count": 2
     },
     {
-      "name": "au Webポータル",
-      "count": 2
-    },
-    {
       "name": "LIMO | くらしとお金の経済メディア",
       "count": 2
     },
@@ -165,7 +153,7 @@
       "count": 2
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "アニメ！アニメ！",
       "count": 2
     },
     {
@@ -173,7 +161,11 @@
       "count": 2
     },
     {
-      "name": "Dellows News",
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "超！アニメディア",
       "count": 2
     },
     {
@@ -181,7 +173,7 @@
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
+      "name": "推し楽",
       "count": 2
     },
     {
@@ -189,7 +181,7 @@
       "count": 1
     },
     {
-      "name": "新潟日報",
+      "name": "毎日新聞",
       "count": 1
     },
     {
@@ -210,6 +202,14 @@
     },
     {
       "name": "NiEW",
+      "count": 1
+    },
+    {
+      "name": "au Webポータル",
+      "count": 1
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -241,10 +241,6 @@
       "count": 1
     },
     {
-      "name": "超！アニメディア",
-      "count": 1
-    },
-    {
       "name": "Mantan Web",
       "count": 1
     },
@@ -265,11 +261,19 @@
       "count": 1
     },
     {
+      "name": "Dellows News",
+      "count": 1
+    },
+    {
       "name": "日経クロストレンド",
       "count": 1
     },
     {
       "name": "Togetter",
+      "count": 1
+    },
+    {
+      "name": "조선일보",
       "count": 1
     },
     {
@@ -279,84 +283,6 @@
   ],
   "topics": [
     {
-      "id": "bdaa06b63b48",
-      "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」の配布が決定！合計100万名分を抽選形式でプレゼント、11月25日から",
-      "summary": "開催中止となった「くら寿司×ちいかわ」コラボについて、配布予定だった「寿司皿」が抽選形式でプレゼント決定！",
-      "url": "https://www.inside-games.jp/article/2026/11/19/191221.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1809455.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-11-19T02:50:02.000Z",
-      "sourceCount": 10,
-      "articleCount": 12,
-      "categories": [
-        "collab",
-        "event"
-      ],
-      "keywords": [
-        "寿司",
-        "寿司皿",
-        "抽選"
-      ],
-      "articles": [
-        {
-          "title": "【ちいかわ×くら寿司】コラボ寿司皿の抽選プレゼントが決定。11/25より抽選開始",
-          "url": "https://dengekionline.com/article/202611/94458",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-19T02:44:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "くら寿司、「ちいかわ 寿司皿」100万枚をLINE抽選にて配布へ 9月にコラボキャンペーン中止",
-          "url": "https://www.oricon.co.jp/news/2493894/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-11-19T02:35:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "くら寿司、9月に配布中止となった「ちいかわ 寿司皿」を抽選配布決定 - 公式LINEから応募",
-          "url": "https://news.mynavi.jp/article/20261119-5358952/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-11-19T02:28:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で配布中止に…抽選プレゼントとして再配布が決定",
-          "url": "https://www.niigata-nippo.co.jp/articles/-/945748",
-          "source": "新潟日報",
-          "publishedAt": "2026-11-19T02:22:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で延期に…抽選プレゼントとして再配布が決定",
-          "url": "https://news.yahoo.co.jp/articles/088e0489cc41763b7241c780b5ac1513be6ddeec",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-19T02:22:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で延期に…25日から抽選プレゼントとして再配布が決定",
-          "url": "https://news.infoseek.co.jp/article/oricon_2493891/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-19T02:22:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の配布を発表 抽選プレゼント形式に（クランクイン！）",
-          "url": "https://news.yahoo.co.jp/articles/1e8e3b058084ed2fc2553c8f90bfd6e3ae9630cb",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-19T02:03:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の再配布を発表 抽選プレゼント形式に",
-          "url": "https://www.crank-in.net/trend/gourmet/194545",
-          "source": "クランクイン！",
-          "publishedAt": "2026-11-19T02:03:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "4095dcfb5419",
       "title": "『ちいかわ』アニメ全382話、ABEMAで期間限定無料配信 「ちいかわクリスマスマーケット」開催記念（リアルサウンド）",
       "summary": "",
@@ -364,8 +290,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00010025-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-19T03:11:42.000Z",
-      "sourceCount": 10,
-      "articleCount": 10,
+      "sourceCount": 11,
+      "articleCount": 11,
       "categories": [
         "anime",
         "event"
@@ -376,6 +302,13 @@
         "開催記念"
       ],
       "articles": [
+        {
+          "title": "ちいかわクリスマスマーケット(千葉県)の情報",
+          "url": "https://www.walkerplus.com/event/ar0312e620660/",
+          "source": "ウォーカープラス",
+          "publishedAt": "2026-11-18T17:16:04.000Z",
+          "isPR": false
+        },
         {
           "title": "「ちいかわクリスマスマーケット」開催記念！「ちいかわ」全382話を無料配信",
           "url": "https://article.auone.jp/203f5f00-4128-4b29-809d-764a402e9f67",
@@ -424,76 +357,104 @@
           "source": "にじめん",
           "publishedAt": "2026-11-17T06:36:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "bdaa06b63b48",
+      "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」の配布が決定！合計100万名分を抽選形式でプレゼント、11月25日から",
+      "summary": "開催中止となった「くら寿司×ちいかわ」コラボについて、配布予定だった「寿司皿」が抽選形式でプレゼント決定！",
+      "url": "https://www.inside-games.jp/article/2026/11/19/191221.html",
+      "image": "https://www.inside-games.jp/imgs/rss/1809455.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-19T02:50:02.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "collab",
+        "event"
+      ],
+      "keywords": [
+        "寿司",
+        "寿司皿",
+        "抽選"
+      ],
+      "articles": [
+        {
+          "title": "【ちいかわ×くら寿司】コラボ寿司皿の抽選プレゼントが決定。11/25より抽選開始",
+          "url": "https://dengekionline.com/article/202611/94458",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-19T02:44:00.000Z",
+          "isPR": false
         },
         {
-          "title": "「ちいかわ」全382話をABEMAで一挙無料放送 1カ月間、毎週末に",
-          "url": "https://natalie.mu/comic/news/698362",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-17T06:22:00.000Z",
+          "title": "くら寿司、「ちいかわ 寿司皿」100万枚をLINE抽選にて配布へ 9月にコラボキャンペーン中止",
+          "url": "https://www.oricon.co.jp/news/2493894/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-11-19T02:35:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の再配布を発表 抽選プレゼント形式に",
+          "url": "https://www.crank-in.net/trend/gourmet/194545",
+          "source": "クランクイン！",
+          "publishedAt": "2026-11-19T02:03:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の配布を発表 抽選プレゼント形式に（クランクイン！）",
+          "url": "https://news.yahoo.co.jp/articles/1e8e3b058084ed2fc2553c8f90bfd6e3ae9630cb",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-19T02:03:00.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "f14d8f3fe2cf",
-      "title": "「ちいかわ×東京ばな奈 エコバッグ」 [画像ギャラリー 7/14]",
+      "id": "72d5c7ecbe86",
+      "title": "くら寿司「ちいかわ」の寿司皿が当たる！ 「ちいかわ オリジナル寿司皿 LINE抽選プレゼント！」を実施（グルメ Watch）",
       "summary": "",
-      "url": "https://natalie.mu/comic/gallery/news/698512/2953785?ref",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/twi_main_-Piex0jznMN5xu6LPocnEriwDktm5hNa_8dh9q_606cG7lV-EB-pW6AUxEE18XGmx.jpg",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-11-18T12:29:09.000Z",
-      "sourceCount": 5,
-      "articleCount": 7,
+      "url": "https://news.yahoo.co.jp/articles/7d18eda544c7dc8671d84424ac14155a0d1ed3f6",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000018-impgrw-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-19T03:40:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
       "categories": [
-        "other",
-        "goods"
+        "other"
       ],
       "keywords": [
-        "東京",
-        "バッグ",
-        "エコバッグ"
+        "line",
+        "寿司",
+        "寿司皿"
       ],
       "articles": [
         {
-          "title": "ちいかわ×東京ばな奈が東京駅に期間限定出店!新作クッキーサンドや限定エコバッグも登場",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IVDQ2OV9QR0FMYTg0OWlRWHU2NXVGeHVyN0d4V25vN3RFTDlzOWNjMjBIRG9SSV9OX3dsa2d6QVlyLXA2NkJFYVdMZkFnbTNmY3prOG5yU1lRb3hkLWxnWHJfeTU4VHZnbHN4NU8zTHlTemRITFROQjdfTUTSAXxBVV95cUxOSFQ0NjlfUEdBTGE4NDlpUVh1NjV1Rnh1cjdHeFdubzd0RUw5czljYzIwSERvUklfTl93bGtnekFZci1wNjZCRWFXTGZBZ20zZmN6azhuclNZUW94ZC1sZ1hyX3k1OFR2Z2xzeDVPM0x5U3pkSExUTkI3X01E?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-11-18T10:30:00.000Z",
+          "title": "くら寿司、9月に配布中止となった「ちいかわ 寿司皿」を抽選配布決定 - 公式LINEから応募",
+          "url": "https://news.mynavi.jp/article/20261119-5358952/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-19T02:28:20.000Z",
           "isPR": false
         },
         {
-          "title": "「ちいかわ×東京ばな奈 トートバッグ」 [画像ギャラリー 14/14]",
-          "url": "https://natalie.mu/comic/gallery/news/698512/2953778",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-18T07:37:51.000Z",
+          "title": "くら寿司、配布中止のちいかわ「寿司皿」を公式LINEで抽選プレゼント形式に 抽選期間は11月25日11時から12月6日20時まで",
+          "url": "https://game.watch.impress.co.jp/docs/news/2157722.html",
+          "source": "GAME Watch",
+          "publishedAt": "2026-11-19T01:23:38.000Z",
           "isPR": false
         },
         {
-          "title": "「ちいかわ×東京ばな奈 トートバッグ」 [画像ギャラリー 11/14]",
-          "url": "https://natalie.mu/comic/gallery/news/698512/3021104",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-18T07:37:48.000Z",
+          "title": "くら寿司、配布中止のちいかわ「寿司皿」を公式LINEで抽選プレゼント形式に（GAME Watch）",
+          "url": "https://news.yahoo.co.jp/articles/5f86faef312142ee42f6af4b0cb95d1d235f46f5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-19T01:23:00.000Z",
           "isPR": false
         },
         {
-          "title": "『ちいかわ』×「東京ばな奈」コラボが東京駅に進出！ちいかわバナナプリンケーキ、エコバッグ、トートバッグなどが販売されるポップアップストアが2026年11月24日（火）より開催！",
-          "url": "https://hobby.dengeki.com/news/3237091/",
-          "source": "電撃ホビーウェブ",
-          "publishedAt": "2026-11-18T06:09:13.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ×東京ばな奈、“じっと見つめる”バナナプリンケーキ＆キラキラ瞳の限定バッグをグランスタ東京で",
-          "url": "https://www.fashion-press.net/news/153510",
-          "source": "ファッションプレス",
-          "publishedAt": "2026-11-18T04:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわ×東京ばな奈、むちゃうまスイーツ＆限定グッズが勢ぞろい！ 東京駅でポップアップ開催",
-          "url": "https://news.infoseek.co.jp/article/oshiraku_30822/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-18T02:39:12.000Z",
+          "title": "ちいかわ オリジナル寿司皿 LINE抽選プレゼント！｜おすすめ情報｜くら寿司 ホームページ",
+          "url": "https://www.kurasushi.co.jp/topic/009011.html",
+          "source": "くら寿司",
+          "publishedAt": "2026-11-19T01:03:26.000Z",
           "isPR": false
         }
       ]
@@ -549,6 +510,49 @@
       ]
     },
     {
+      "id": "07901922adae",
+      "title": "「ちいかわ×東京ばな奈 トートバッグ」 [画像ギャラリー 14/14]",
+      "summary": "",
+      "url": "https://natalie.mu/comic/gallery/news/698512/2953778",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/twi_main_-Piex0jznMN5xu6LPocnEriwDktm5hNa_8dh9q_606cG7lV-EB-pW6AUxEE18XGmx.jpg",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-11-18T07:37:51.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "event"
+      ],
+      "keywords": [
+        "東京",
+        "バッグ",
+        "トートバッグ"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ×東京ばな奈 トートバッグ」 [画像ギャラリー 11/14]",
+          "url": "https://natalie.mu/comic/gallery/news/698512/3021104",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-18T07:37:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』×「東京ばな奈」コラボが東京駅に進出！ちいかわバナナプリンケーキ、エコバッグ、トートバッグなどが販売されるポップアップストアが2026年11月24日（火）より開催！",
+          "url": "https://hobby.dengeki.com/news/3237091/",
+          "source": "電撃ホビーウェブ",
+          "publishedAt": "2026-11-18T06:09:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ×東京ばな奈、“じっと見つめる”バナナプリンケーキ＆キラキラ瞳の限定バッグをグランスタ東京で",
+          "url": "https://www.fashion-press.net/news/153510",
+          "source": "ファッションプレス",
+          "publishedAt": "2026-11-18T04:30:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "092396b18cfb",
       "title": "＜ちいかわ＞コミックス累計600万部突破 パラレルワールド編収録の最新9巻 強くなったハチワレ、叫ぶモモンガがポストカードに",
       "summary": "",
@@ -556,7 +560,7 @@
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26mlbt7K2_ZX-5uSX9Z5304ydgBOqLW61b4r4VtxPQgZY5jMerkhI7zIl1uwd7YhCnfrwmnKc9INwmdq-TmL9TsJoEm1FQWc85K_2STdYnqezwa8B_OqB0cwskGkDFQc_Dg==",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-17T09:43:00.000Z",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "articleCount": 4,
       "categories": [
         "book",
@@ -583,10 +587,81 @@
           "isPR": false
         },
         {
-          "title": "「ちいかわ」”パラレルワールド編”収録のコミックス9巻が11月20日発売！特装版には描き下ろしポストカードブック24枚＆おまけシールセット",
-          "url": "https://www.inside-games.jp/article/2026/11/17/191083.html",
-          "source": "インサイド",
+          "title": "「ちいかわ」”パラレルワールド編”収録のコミックス9巻が11月20日発売！特装版には描き下ろしポストカードブック24枚＆おまけシールセット（インサイド）",
+          "url": "https://news.yahoo.co.jp/articles/46275fc6f671f66fe9a5d5840748ffc0c190cee4",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-17T02:45:03.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "acc96c4071bb",
+      "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で延期に…抽選プレゼントとして再配布が決定",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/088e0489cc41763b7241c780b5ac1513be6ddeec",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000401-oric-000-10-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-19T02:22:19.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "メルカリ",
+        "プレゼント",
+        "寿司皿"
+      ],
+      "articles": [
+        {
+          "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で配布中止に…抽選プレゼントとして再配布が決定",
+          "url": "https://mainichi.jp/articles/20261119/orc/00m/200/065000c",
+          "source": "毎日新聞",
+          "publishedAt": "2026-11-19T02:22:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で延期に…25日から抽選プレゼントとして再配布が決定",
+          "url": "https://news.infoseek.co.jp/article/oricon_2493891/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-19T02:22:19.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "0eb6c04b889e",
+      "title": "ちいかわ×東京ばな奈が東京駅に期間限定出店!新作クッキーサンドや限定エコバッグも登場",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IVDQ2OV9QR0FMYTg0OWlRWHU2NXVGeHVyN0d4V25vN3RFTDlzOWNjMjBIRG9SSV9OX3dsa2d6QVlyLXA2NkJFYVdMZkFnbTNmY3prOG5yU1lRb3hkLWxnWHJfeTU4VHZnbHN4NU8zTHlTemRITFROQjdfTUTSAXxBVV95cUxOSFQ0NjlfUEdBTGE4NDlpUVh1NjV1Rnh1cjdHeFdubzd0RUw5czljYzIwSERvUklfTl93bGtnekFZci1wNjZCRWFXTGZBZ20zZmN6azhuclNZUW94ZC1sZ1hyX3k1OFR2Z2xzeDVPM0x5U3pkSExUTkI3X01E?oc=5",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_30822_0-enlarge.jpg",
+      "leadSource": "ｄメニューニュース",
+      "publishedAt": "2026-11-18T10:30:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "other"
+      ],
+      "keywords": [
+        "東京",
+        "エコバッグ",
+        "東京駅"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ×東京ばな奈 エコバッグ」 [画像ギャラリー 6/14]",
+          "url": "https://natalie.mu/comic/gallery/news/698512/3021102",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-18T07:37:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわ×東京ばな奈、むちゃうまスイーツ＆限定グッズが勢ぞろい！ 東京駅でポップアップ開催",
+          "url": "https://news.infoseek.co.jp/article/oshiraku_30822/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-18T02:39:12.000Z",
           "isPR": false
         }
       ]
@@ -697,41 +772,13 @@
       ]
     },
     {
-      "id": "d8ee30e8a75b",
-      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/2019784?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/9/7/6/b9764db30910fd25fee28b2084c50c3f_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-18T21:13:19.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "クリニック",
-        "キャラ",
-        "ナース"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ」新グッズは「ちいかわクリニック」ナース服や白衣で勢ぞろい（写真28枚） - キャラなた",
-          "url": "https://natalie.mu/chara/news/698425",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-18T04:32:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "41763f469134",
       "title": "でっかわ!!!「ちいかわ」がモーニングの表紙に、センターカラーで描き下ろしエピソード（コミックナタリー）",
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/6ca49965b696bd0bbead73a010e4fafc252bd230",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000001-nataliec-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-18T15:10:05.000Z",
+      "publishedAt": "2026-11-18T15:00:11.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -751,74 +798,54 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "5ad8878ca974",
-      "title": "ドンキ、アピタで「ちいかわ」大人アパレルが11月21日発売！ワンポイントが可愛いZIPトレーナーなど全12アイテム",
-      "summary": "全国のドン・キホーテ、アピタにて、「ちいかわ」の大人アパレルが2026年11月21日9時より順次発売！",
-      "url": "https://www.inside-games.jp/article/2026/11/18/191182.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1809246.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-11-18T09:54:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "zip",
-        "トレーナー",
-        "アピタ"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわ』大人用トレーナー全12柄が11月21日発売！ドン・キホーテ・アピタで税込2,981円から、背面イラスト入りZIPタイプも",
-          "url": "https://nijimen.kusuguru.co.jp/topics/661561",
-          "source": "にじめん",
-          "publishedAt": "2026-11-18T09:54:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1f9b04b32af4",
-      "title": "速報！ちいかわのベビーカステラ専門店が京都に2号店をオープン。早速行ってみた（きょん。） - エキスパート",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/expert/articles/b1f579f43881534e09cd85bfb523b7d09a4f9632",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kyon/02769053/title-1794990343687.jpeg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-18T08:31:06.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "event",
-        "goods"
-      ],
-      "keywords": [
-        "ベビーカステラ",
-        "京都",
-        "号店"
-      ],
-      "articles": [
-        {
-          "title": "「食べられないよ……」 【ちいかわベビーカステラ】京都・錦市場に待望の2号店が11/18に開店。新作マスコットセットや限定ステッカー、焼きたてカステラが登場",
-          "url": "https://www.asahi.com/and/w/article/17035916",
-          "source": "朝日新聞",
-          "publishedAt": "2026-11-16T23:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-19T03:00:19.211Z",
-    "previousCount": 143,
+    "previousAt": "2026-11-19T03:30:20.101Z",
+    "previousCount": 141,
     "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T04:00:20.101Z",
+  "nextUpdateAt": "2026-11-19T04:30:29.081Z",
   "items": [
+    {
+      "id": "e85a292b9c45",
+      "title": "ちいかわ パレード 11月カプセルトイ 巾着ポーチなど順次発売!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-parade-capsule-toy-nov-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:51:22.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-parade-capsule-202611-main.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "72d5c7ecbe86",
+      "title": "くら寿司「ちいかわ」の寿司皿が当たる！ 「ちいかわ オリジナル寿司皿 LINE抽選プレゼント！」を実施（グルメ Watch）",
+      "url": "https://news.yahoo.co.jp/articles/7d18eda544c7dc8671d84424ac14155a0d1ed3f6",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-19T03:40:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000018-impgrw-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "4095dcfb5419",
       "title": "『ちいかわ』アニメ全382話、ABEMAで期間限定無料配信 「ちいかわクリスマスマーケット」開催記念（リアルサウンド）",
@@ -856,7 +883,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc3568cea2a9",
@@ -962,7 +989,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-19T02:29:43.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000152-spnannex-000-2-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000152-spnannex-000-4-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -993,14 +1020,14 @@
       "isNew": false
     },
     {
-      "id": "d728080e2a6f",
-      "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で配布中止に…抽選プレゼントとして再配布が決定",
-      "url": "https://www.niigata-nippo.co.jp/articles/-/945748",
-      "host": "niigata-nippo.co.jp",
-      "source": "新潟日報",
+      "id": "acc96c4071bb",
+      "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で延期に…抽選プレゼントとして再配布が決定",
+      "url": "https://news.yahoo.co.jp/articles/088e0489cc41763b7241c780b5ac1513be6ddeec",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-19T02:22:19.000Z",
-      "image": "https://niigata-nippo.ismcdn.jp/mwimgs/d/0/1200m/img_d08684a36bb83b67202b2a47e04150f455526.jpg?rd=202611051124",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000401-oric-000-10-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -1012,14 +1039,14 @@
       "isNew": false
     },
     {
-      "id": "acc96c4071bb",
-      "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で延期に…抽選プレゼントとして再配布が決定",
-      "url": "https://news.yahoo.co.jp/articles/088e0489cc41763b7241c780b5ac1513be6ddeec",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "d728080e2a6f",
+      "title": "メルカリ、『ちいかわ』寿司皿の一時的な出品禁止を発表 従業員の不正行為で配布中止に…抽選プレゼントとして再配布が決定",
+      "url": "https://mainichi.jp/articles/20261119/orc/00m/200/065000c",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
       "summary": "",
       "publishedAt": "2026-11-19T02:22:19.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000401-oric-000-10-view.jpg?exp=10800",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1050,14 +1077,14 @@
       "isNew": false
     },
     {
-      "id": "8a786da30ba8",
-      "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の配布を発表 抽選プレゼント形式に（クランクイン！）",
-      "url": "https://news.yahoo.co.jp/articles/1e8e3b058084ed2fc2553c8f90bfd6e3ae9630cb",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "6f7f31a7ba85",
+      "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の再配布を発表 抽選プレゼント形式に",
+      "url": "https://www.crank-in.net/trend/gourmet/194545",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
       "summary": "",
       "publishedAt": "2026-11-19T02:03:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00194545-crankinn-000-13-view.jpg?exp=10800",
+      "image": "https://www.crank-in.net/img/db/268119195108438_1200.jpg",
       "categories": [
         "other"
       ],
@@ -1069,14 +1096,14 @@
       "isNew": false
     },
     {
-      "id": "6f7f31a7ba85",
-      "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の再配布を発表 抽選プレゼント形式に",
-      "url": "https://www.crank-in.net/trend/gourmet/194545",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
+      "id": "8a786da30ba8",
+      "title": "くら寿司、中止になっていた『ちいかわ』寿司皿の配布を発表 抽選プレゼント形式に（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/1e8e3b058084ed2fc2553c8f90bfd6e3ae9630cb",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-19T02:03:00.000Z",
-      "image": "https://www.crank-in.net/img/db/268119195108438_1200.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00194545-crankinn-000-13-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -1142,7 +1169,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0c7c6a51848c",
@@ -1223,13 +1250,13 @@
     },
     {
       "id": "e68a2703475f",
-      "title": "『ちいかわ』×「GU」第1弾は明日発売！ もこもこのフード姿がかわいいニットやポーチを展開",
-      "url": "https://article.auone.jp/fe263f4d-5dfb-447a-b446-32c28d870244",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
+      "title": "『ちいかわ』×「GU」第1弾は明日発売！ もこもこのフード姿がかわいいニットやポーチを展開（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/1b01bccd6038edbd129297103a7f4d4f1a043a7c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-19T01:00:00.000Z",
-      "image": "https://portal.auone.jp/media/thumbnails/2026/11/19/https___m_crank-in_net_trend_item_194418_w650.webp",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00194418-crankinn-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1338,23 +1365,24 @@
       "isNew": false
     },
     {
-      "id": "d8ee30e8a75b",
-      "title": "「ちいかわ」グッズシリーズ、今年のテーマは“クリニック” 12キャラがナースに変身",
-      "url": "https://www.sanyonews.jp/article/2019784?kw",
+      "id": "806a9987376c",
+      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
+      "url": "https://www.sanyonews.jp/article/1985696?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-18T21:13:19.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/9/7/6/b9764db30910fd25fee28b2084c50c3f_1.jpg",
+      "publishedAt": "2026-11-18T19:09:54.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
       "categories": [
-        "goods"
+        "collab",
+        "game"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4afdaed9e50c",
@@ -1376,6 +1404,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "32f3728603e3",
+      "title": "ちいかわクリスマスマーケット(千葉県)の情報",
+      "url": "https://www.walkerplus.com/event/ar0312e620660/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-18T17:16:04.000Z",
+      "image": "https://ms-cache.walkerplus.com/walkertouch/wtd/event/60/l2/620660.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d13feb9c72ec",
@@ -1403,7 +1450,7 @@
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-18T15:10:05.000Z",
+      "publishedAt": "2026-11-18T15:00:11.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000001-nataliec-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
@@ -1427,25 +1474,6 @@
       "categories": [
         "event",
         "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f14d8f3fe2cf",
-      "title": "「ちいかわ×東京ばな奈 エコバッグ」 [画像ギャラリー 7/14]",
-      "url": "https://natalie.mu/comic/gallery/news/698512/2953785?ref",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-18T12:29:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1644,6 +1672,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1e7e9851d12f",
+      "title": "「ちいかわ×東京ばな奈 エコバッグ」 [画像ギャラリー 6/14]",
+      "url": "https://natalie.mu/comic/gallery/news/698512/3021102",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-18T07:37:48.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1d65bf3934ea",
@@ -2100,26 +2147,6 @@
       "isNew": false
     },
     {
-      "id": "806a9987376c",
-      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
-      "url": "https://www.sanyonews.jp/article/1985696?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-17T17:31:04.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
-      "categories": [
-        "collab",
-        "game"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d4b20970477b",
       "title": "「ちいかわ（現象）」「なんとかなれーッ」 2026年『新語・流行語大賞』候補にアニメ・漫画系で「ちいかわ」唯一ノミネート",
       "url": "https://www.sanyonews.jp/article/2016149?rct",
@@ -2261,25 +2288,6 @@
       "isNew": false
     },
     {
-      "id": "4f3516eac6dc",
-      "title": "キデイランド、ちいかわクリニックをちいかわらんどなど全国19か所で11月27日より開催へ",
-      "url": "https://news.dellows.jp/1155102/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-17T11:25:26.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/11/1155102_1.jpg",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "26ce297aac37",
       "title": "MINISO×『ちいかわ』「リラックス・ブルーシリーズ」登場！ デニムコーデのぬいぐるみ＆秋冬アイテムがかわいすぎる",
       "url": "https://www.toy-people.com/jp/?p",
@@ -2312,29 +2320,6 @@
       ],
       "series": [
         "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ed00958db98f",
-      "title": "ちいかわ「もっちるおすわりBIGぬいぐるみ②」が11月下旬から順次展開！首をかしげたうさぎ・古本屋・モモンガ・ラッコの",
-      "url": "https://news.nicovideo.jp/watch/nw20001813?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-17T10:51:12.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "usagi",
-        "momonga",
-        "rakko"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -2625,7 +2610,7 @@
     {
       "id": "12fb8a6e99c5",
       "title": "ルクア大阪の日本最大・48以上のキャラクターフロア、24日開業 「サンリオ」「ちいかわ」は全国初業態",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3o5aWxOTlRleFNsRlc0Vklqc2x4V2d5bGNSNEprRldsQ2U3TzcyUzFweGo2T2FSWFNYQzBGZTdoamxEaXdoaXMyYnNVc2ljeU1kUlluWENaNXJPc2xLT193aVdOVnVPQ2dYYzd2djBCMmQ4SXFkY3hYcHIzSnR5Q1dQU0I4bElD?oc=5",
+      "url": "https://news.yahoo.co.jp/articles/cf20112c522cf34945490fe924355f7af78edaa7?page",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
@@ -2637,7 +2622,7 @@
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2682,14 +2667,15 @@
     },
     {
       "id": "16b0819887ca",
-      "title": "「ちいかわ」最新9巻が11月20日ごろ発売！ 特装版は「豆大福になったちいかわ」「ボリボリおかき懸賞応募はがき」など全24枚のポストカード",
-      "url": "https://animeanime.jp/article/2026/11/17/104849.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "title": "「ちいかわ」最新9巻が11月20日ごろ発売！ 特装版は「豆大福になったちいかわ」「ボリボリおかき懸賞応募はがき」など全24枚のポストカード♪（アニメ！アニメ！）",
+      "url": "https://news.yahoo.co.jp/articles/a5fa649ba1aaecacf77caa608d0910bbad8a6996",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-17T06:30:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/957085.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000008-anmanmv-000-1-view.jpg?exp=10800",
       "categories": [
+        "anime",
         "book"
       ],
       "series": [],
@@ -2721,12 +2707,12 @@
     {
       "id": "559ee2a81098",
       "title": "ちいかわ、アニメ全382話をABEMAで放送！ クリスマスマーケット開催記念",
-      "url": "https://fan.books.rakuten.co.jp/articles/lqk2evfqe5bu6i01zv88zksu",
-      "host": "fan.books.rakuten.co.jp",
-      "source": "推し楽",
+      "url": "https://news.infoseek.co.jp/article/oshiraku_30765/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-17T06:10:00.000Z",
-      "image": "https://books.r10s.jp/fan/images/oshiraku-images/chiikawa_abema_main_444c77065a.jpg",
+      "publishedAt": "2026-11-17T06:10:21.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/oshiraku/oshiraku_30765_0-enlarge.jpg",
       "categories": [
         "anime",
         "event"
@@ -2801,13 +2787,13 @@
     },
     {
       "id": "a56e088f88d6",
-      "title": "「ちいかわ」”パラレルワールド編”収録のコミックス9巻が11月20日発売！特装版には描き下ろしポストカードブック24枚＆おまけシールセット",
-      "url": "https://www.inside-games.jp/article/2026/11/17/191083.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "「ちいかわ」”パラレルワールド編”収録のコミックス9巻が11月20日発売！特装版には描き下ろしポストカードブック24枚＆おまけシールセット（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/46275fc6f671f66fe9a5d5840748ffc0c190cee4",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-17T02:45:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1808425.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000012-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods",
         "book"
@@ -2817,7 +2803,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d93157a4c8b9",
@@ -2876,7 +2862,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5f26f94074cd",
@@ -2958,12 +2944,12 @@
     {
       "id": "afc626a75163",
       "title": "合格ラーメンをおいしそうにパクリ！『ちいかわ』ちいかわとハチワレがぬーどるストッパーフィギュアに登場！",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xTlBtQ3JJdGNDUVVmdEExV3dsOUF0STNLWk4ydjZrdFpUVUNSU1dqNHE1TnBmSzZ2QnRQeXhOcnNMQWhUSXhUVW94bnBCTU9N?oc=5",
+      "url": "https://hobby.dengeki.com/news/3222995/",
       "host": "hobby.dengeki.com",
       "source": "電撃ホビーウェブ",
       "summary": "",
       "publishedAt": "2026-11-16T23:00:00.000Z",
-      "image": "",
+      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/1200_5CgcSzC86-qLeGhMbBpKgzPw9nh7x1RC_8GfbHpThGEbPHa3ezRA-TiCatIJHOmNb.jpg",
       "categories": [
         "goods"
       ],
@@ -2972,7 +2958,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -3234,6 +3220,25 @@
       "isNew": false
     },
     {
+      "id": "0fb45b438153",
+      "title": "「ちいかわ」フラッシュ撮影でイラストが変化!? 新刊9巻発売記念広告が札幌・名古屋・大阪・博多に登場",
+      "url": "https://cho-animedia.jp/article/2026/11/16/64708.html",
+      "host": "cho-animedia.jp",
+      "source": "超！アニメディア",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:07:54.000Z",
+      "image": "https://cho-animedia.jp/imgs/ogp_f/1419446.jpg",
+      "categories": [
+        "book"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "64c25b2bd920",
       "title": "ちいかわ キャラマグネッツ5 11月16日より全21種で発売!",
       "url": "https://collabo-cafe.com/events/collabo/chiikawa-goods-bandai-chara-magnets5-2026/",
@@ -3272,34 +3277,14 @@
       "isNew": false
     },
     {
-      "id": "0fb45b438153",
-      "title": "「ちいかわ」フラッシュ撮影でイラストが変化!? 新刊9巻発売記念広告が札幌・名古屋・大阪・博多に登場（アニメ！アニメ！）",
-      "url": "https://news.yahoo.co.jp/articles/38de3264d7ad962bb3afbd1fecaa45bda233f75b",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-16T08:30:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000012-anmanmv-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "719d9a1c4f88",
       "title": "「ちいかわベーカリー」に“うさぎのシュトーレン”登場！漫画を忠実に再現",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93bnZreVBtNVZIYVJzSnJ0R0lWZ3dMa3l2Szl5OHJLdkZ4OFlaOEFfekI5WDZTVWJ5ZWZIXzh6YUJWUHVaY2kwRkdoSm1BVmMtTkIzVlFn0gFbQVVfeXFMT3RHUmVXbW8xZ0RjZWlEb3E2bHRlS0YzNEwzaVZxNHJuWWdBXzBCUEI3SGo1dl9JTlh4ZDR3OEJHVENzRVRQQ3luY1djMW80a0dGM21yeGF0Qkk0Yw?oc=5",
+      "url": "https://www.walkerplus.com/article/1303634/",
       "host": "walkerplus.com",
       "source": "ウォーカープラス",
       "summary": "",
       "publishedAt": "2026-11-16T08:09:52.000Z",
-      "image": "",
+      "image": "https://news.walkerplus.com/article/1303634/15565056_615.jpg",
       "categories": [
         "book"
       ],
@@ -3308,7 +3293,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -3353,13 +3338,13 @@
     },
     {
       "id": "af5c72003f63",
-      "title": "『ちいかわ』興収189.6億円突破 今後の特典スケジュール",
-      "url": "https://www.oricon.co.jp/news/2493212/photo/3/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "title": "『ちいかわ』興収189.6億円突破 今後の特典スケジュール（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/082163ff6f67ed0dfc495e3c4e222fcce3380182",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-16T07:02:00.000Z",
-      "image": "",
+      "publishedAt": "2026-11-16T07:02:44.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000471-oric-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -3485,6 +3470,25 @@
       "isNew": false
     },
     {
+      "id": "16eed19de8d1",
+      "title": "小さくてかわいい『ちいかわ』、韓国で今年アニメ興行1位",
+      "url": "https://www.chosun.com/jp/culture-life-jp/2026/11/16/4AAMMAO6KZEANL2HC5PQG437LQ/",
+      "host": "chosun.com",
+      "source": "조선일보",
+      "summary": "",
+      "publishedAt": "2026-11-16T04:41:00.000Z",
+      "image": "https://www.chosun.com/resizer/v2/MNRTAOJRMIYGGOBYHBSDQNZWGM.jpg?auth=ffbf824053e649bc9bcba36203132d3a6e73c50c8168aef40b5bfa76c6903ca7&width=1200&height=630&smart=true",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca58cedc5521",
       "title": "「ちいかわレストラン」のドリンクスタンドとグッズショップが仙台PARCOに登場！",
       "url": "https://www.walkerplus.com/article/1234584/",
@@ -3540,44 +3544,6 @@
         "hachiware",
         "usagi"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7772722941a4",
-      "title": "「ちいかわ」たちがナースやお医者さんに！「ちいかわクリニック」がちいかわらんど福岡パルコ店などで開催【11/27〜】",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2g0eGQ1c3V4Um5rSmlsVmgzckV4TGJVcHdEWUdGS1l0YmZZUHNCVXR1SVRhMmpTM0VwdjV2TWRGdDAtVkF3dXNxeFkyT29iSWx4NGo5RzB1bmszZ2NFdHRmeU9SbGI5RGhwcEpPY0JPNTk5dTJZYUVSTGl5VGh1Y3JISzk2Z9IBiwFBVV95cUxNaXNmc1haUlVXNzRIOW5TU284aW1ib0lpQ1ZZZmFfek1vOXBsNi1uU3piSjJYcWdERjdXUFJxdXduR2VHNWZTc2tnSWZtY2JKOVpfSDNtOTg1MXdxRk01U1pRcFpEaWJRWTR6ZXVMUnNCeWF4U0NQTm1zSG92RmtRYWtnYXFuZS1EN1Zv?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-11-16T04:00:00.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6e98748446ad",
-      "title": "「ちいかわ」漫画のコマが、かわいいマグネットに！「キャラマグネッツ5」いよいよ発売（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/f532cf0efdac4139fbf29f9883f033fe2346be64",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-16T03:45:02.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-00000024-isd-000-1-view.jpg?exp=10800",
-      "categories": [
-        "book"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
