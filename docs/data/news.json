@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-22T10:30:17.715Z",
+  "updatedAt": "2026-11-22T11:00:18.295Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 127,
-  "todayCount": 23,
+  "total": 126,
+  "todayCount": 22,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 21
+      "count": 20
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 19
+      "count": 22
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 35
+      "count": 30
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 12
+      "count": 8
     },
     {
       "id": "usagi",
@@ -90,19 +90,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 37
+      "count": 34
     },
     {
       "name": "山陽新聞",
-      "count": 18
+      "count": 19
     },
     {
       "name": "インサイド",
-      "count": 9
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 7
+      "count": 10
     },
     {
       "name": "ナタリー",
@@ -110,7 +106,11 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "電撃オンライン",
+      "count": 6
     },
     {
       "name": "ウォーカープラス",
@@ -122,6 +122,10 @@
     },
     {
       "name": "Excite エキサイト",
+      "count": 3
+    },
+    {
+      "name": "TVer",
       "count": 3
     },
     {
@@ -142,14 +146,6 @@
     },
     {
       "name": "日経クロストレンド",
-      "count": 2
-    },
-    {
-      "name": "TVer",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -185,10 +181,6 @@
       "count": 1
     },
     {
-      "name": "tenki.jp",
-      "count": 1
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 1
     },
@@ -202,6 +194,14 @@
     },
     {
       "name": "ニューズウィーク日本版",
+      "count": 1
+    },
+    {
+      "name": "ねとらぼ",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -285,18 +285,25 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/8c5f4f273e48394908a2d8a0a8f28f9d.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-11-21T03:08:03.000Z",
-      "sourceCount": 4,
+      "sourceCount": 3,
       "articleCount": 4,
       "categories": [
         "anime",
         "other"
       ],
       "keywords": [
-        "ハチワレ",
         "アニメ",
-        "見逃"
+        "見逃",
+        "ハチワレ"
       ],
       "articles": [
+        {
+          "title": "ちいかわ｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+          "url": "https://tver.jp/series/sr3lsg7nv7",
+          "source": "TVer",
+          "publishedAt": "2026-11-20T08:00:00.000Z",
+          "isPR": false
+        },
         {
           "title": "ちいかわ 第85話～第95話 「カブトムシ」編｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
           "url": "https://tver.jp/episodes/epxy27ruhb",
@@ -310,13 +317,6 @@
           "source": "ナタリー",
           "publishedAt": "2026-11-19T15:04:43.000Z",
           "isPR": false
-        },
-        {
-          "title": "「ヤダ～～ッ!!!」暴れるハチワレをゆさゆさ…お泊り回で見せた優しさが話題「ちいかわ」188話",
-          "url": "https://news.infoseek.co.jp/article/abematimes_10288167/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-19T10:33:00.000Z",
-          "isPR": false
         }
       ]
     },
@@ -329,7 +329,7 @@
       "leadSource": "テレ朝NEWS",
       "publishedAt": "2026-11-20T01:10:44.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "kuji",
         "other"
@@ -340,6 +340,13 @@
         "line"
       ],
       "articles": [
+        {
+          "title": "景品横領が発覚のくら寿司 「ちいかわ」皿を100万人に配布 店舗LINEで抽選開始（テレビ朝日系（ANN））",
+          "url": "https://news.yahoo.co.jp/articles/a677917358d18a4dd7ffe59d874a8a1f2086a781",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-20T01:10:44.000Z",
+          "isPR": false
+        },
         {
           "title": "くら寿司、中止の「ちいかわ」すし皿を27日から配布へ LINE抽選に切り替え（産経新聞）",
           "url": "https://news.yahoo.co.jp/articles/8b309b47ae18d6029689eefbca6348e2adff1636",
@@ -352,6 +359,41 @@
           "url": "https://www.yomiuri.co.jp/economy/20261119-GYT1T00346/",
           "source": "読売新聞",
           "publishedAt": "2026-11-19T11:08:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d94d5f0efd18",
+      "title": "「大人のちいかわ好きさんに」【GU新作ニット】やキャップおすすめ3選（Fav-Log by ITmedia）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/862aa70438dc36237a023064b3503f06045e4dbc",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-10178245-it_favlog-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T04:10:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "ニット",
+        "キャップ",
+        "大人"
+      ],
+      "articles": [
+        {
+          "title": "「大人のちいかわ好きさんに」【GU新作ニット】やキャップおすすめ3選【2026年11月版】（1/2） | 帽子・キャップ・ハット Fav-Log by ITmedia",
+          "url": "https://nlab.itmedia.co.jp/fav/articles/4109072/",
+          "source": "ねとらぼ",
+          "publishedAt": "2026-11-20T04:10:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「大人のちいかわ好きさんに」【GU新作ニット】やキャップおすすめ3選",
+          "url": "https://news.infoseek.co.jp/article/itmedia_favlog_4109072/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-20T04:10:00.000Z",
           "isPR": false
         }
       ]
@@ -610,52 +652,25 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "7db3a728bd90",
-      "title": "「ちいかわ」1年ぶりの新刊となる9巻が本日発売！表紙は古本屋 特装版も",
-      "summary": "",
-      "url": "https://natalie.mu/chara/news/698927",
-      "image": "https://cimg.kgl-systems.io/camion/files/None/ogp_ZZlz.jpg?x=1280",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book"
-      ],
-      "keywords": [
-        "表紙",
-        "特装版"
-      ],
-      "articles": [
-        {
-          "title": "『ちいかわ』最新9巻発売。特装版や店舗特典あり、でっかわ!!!表紙のモーニング最新号も要チェック！",
-          "url": "https://dengekionline.com/article/202611/94578",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-20T03:40:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T10:00:16.701Z",
-    "previousCount": 129,
-    "newCount": 4
+    "previousAt": "2026-11-22T10:30:17.715Z",
+    "previousCount": 127,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T11:00:17.715Z",
+  "nextUpdateAt": "2026-11-22T11:30:18.295Z",
   "items": [
     {
       "id": "bb43954fd97f",
-      "title": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/22daa56957ef94ccba7dbf3f7bc085874f55d05e",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場",
+      "url": "https://www.oricon.co.jp/news/2494585/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-22T08:55:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261122-00000406-oric-000-1-view.jpg?exp=10800",
+      "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494585/20261122_165633_p_o_60748824.jpg",
       "categories": [
         "collab"
       ],
@@ -881,16 +896,16 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "806a9987376c",
       "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
-      "url": "https://www.sanyonews.jp/article/1985696",
+      "url": "https://www.sanyonews.jp/article/1985696?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-22T02:02:21.000Z",
+      "publishedAt": "2026-11-22T01:12:55.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
       "categories": [
         "collab",
@@ -930,7 +945,7 @@
       "source": "ウォーカープラス",
       "summary": "",
       "publishedAt": "2026-11-22T00:19:47.000Z",
-      "image": "",
+      "image": "https://news.walkerplus.com/article/1330396/16313015_615.jpg",
       "categories": [
         "other"
       ],
@@ -1002,6 +1017,25 @@
       "isNew": false
     },
     {
+      "id": "10afcdbd6f62",
+      "title": "【映画ちいかわ】“人魚”のビジュアルが公開 “意味深”なキャラ紹介にSNSざわつく「闇」「いちいち胸にささる」「もう1匹は…」",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeFE3djNJUWVhLXlrejFWWGNvWkVBQnZ3N3lmeDlmZnY3MW42Q21qeUdGU1Q4SjljbWp6OFA5WUtLZFdFQVRlWG82R2VRTHZVTm5QLWRKdDZYTjNsY25uM1EyUS1GeVdlMEZ1d1RvRVJXYkQyMGQ3ejFsWHl0cmZHdk5JUVZaSDhJT3dicEtuZzUyV0t3bEt5SERRY2FfVEM1X3c0WjdSTFkxQnM2WTVRQmFTQmh5SkZwbXFSaXJ4NHR1TVVSUktPRGlXQXJOOWJxQ29wTzRYek9MdUFCTUhyWjY1aG9ncFN0VzFGTEc5eTVldkd4MGFfQ2ZBVlQ5UG8?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T20:27:04.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2386654da5f6",
       "title": "アニメ『ちいかわ』話題のエピソードがついに放送開始 ネットざわつく「あはっあはっ…来ちゃった…」「今後の伊藤アナの反応が楽しみすぎる」【ネタバレあり】",
       "url": "https://www.sanyonews.jp/article/1983605?kw",
@@ -1021,6 +1055,26 @@
       "isNew": false
     },
     {
+      "id": "fe6e808c2998",
+      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
+      "url": "https://www.sanyonews.jp/article/1994052?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T19:12:01.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2a862aa20499",
       "title": "『ちいかわ』更新（11/22）。仲良く過ごしていたら「ドゴォッ」な急展開！ いったい何事…",
       "url": "https://dengekionline.com/article/202611/94717",
@@ -1033,65 +1087,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d3ad4a44038",
-      "title": "77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」",
-      "url": "https://www.sanyonews.jp/article/2011940?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T16:01:07.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/f/2/f/0f2f849694dfdfef5d42c6e36d01c665_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "60056abb1d06",
-      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
-      "url": "https://www.sanyonews.jp/article/1985468?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T15:59:13.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ca679f010bc9",
-      "title": "「ちいかわ」「ハチワレ」の顔を再現、棒付きチョコレート9・8より発売 台紙デザインは全12種",
-      "url": "https://www.sanyonews.jp/article/1981814?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T15:00:51.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/3/3/0/9330868805992da73eb6821cdc575f99_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1299,6 +1294,25 @@
       "isNew": false
     },
     {
+      "id": "60056abb1d06",
+      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
+      "url": "https://www.sanyonews.jp/article/1985468?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T02:24:55.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b0e1084313f5",
       "title": "「小さくてかわいいやつ」が快挙…「ちいかわ」観客動員300万人突破、今年のアニメ興行1位",
       "url": "https://www.mk.co.kr/jp/culture/12215202",
@@ -1458,13 +1472,13 @@
     },
     {
       "id": "ba31449d3687",
-      "title": "首をかしげる姿が可愛い「うさぎ」たち！「ちいかわ」 もっちるおすわりBIGぬいぐるみ第2弾がプライズ展開（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/51081a472f7d5ad889c5044a4a923d140b97ada2",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "首をかしげる姿が可愛い「うさぎ」たち！「ちいかわ」 もっちるおすわりBIGぬいぐるみ第2弾がプライズ展開",
+      "url": "https://www.inside-games.jp/article/2026/11/21/191344.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-20T21:00:02.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-00000008-isd-000-1-view.jpg?exp=10800",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1808794.jpg",
       "categories": [
         "goods",
         "kuji"
@@ -1574,25 +1588,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "15d1b6b28cc2",
-      "title": "ちいかわベーカリー OSAKAの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/6/30/200/187382/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-11-20T15:23:58.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/308597/normal.jpg?1781655998&w=640&h=640&t=r",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5cc2bef95874",
@@ -2021,6 +2016,25 @@
       "isNew": false
     },
     {
+      "id": "08ebb1ab4dad",
+      "title": "ちいかわ｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/series/sr3lsg7nv7",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "96f8399db5c4",
       "title": "第78話～第81話 「ハチワレのカメラ」編",
       "url": "https://tver.jp/episodes/eppu9xbtgb",
@@ -2157,6 +2171,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cf52fd3a2d23",
+      "title": "「大人のちいかわ好きさんに」【GU新作ニット】やキャップおすすめ3選【2026年11月版】（1/2） | 帽子・キャップ・ハット Fav-Log by ITmedia",
+      "url": "https://nlab.itmedia.co.jp/fav/articles/4109072/",
+      "host": "nlab.itmedia.co.jp",
+      "source": "ねとらぼ",
+      "summary": "",
+      "publishedAt": "2026-11-20T04:10:00.000Z",
+      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/11/1795134546_61sUN8wCx4L._AC_SX679__1200x630.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7673eb2b1392",
@@ -2311,6 +2344,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d35e76337620",
+      "title": "景品横領が発覚のくら寿司 「ちいかわ」皿を100万人に配布 店舗LINEで抽選開始（テレビ朝日系（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/a677917358d18a4dd7ffe59d874a8a1f2086a781",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-20T01:10:44.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-00000022-ann-000-4-thumb.jpg?exp=10800",
+      "categories": [
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e7382bf0a48b",
@@ -2512,7 +2564,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d7d99f4306d7",
@@ -2532,7 +2584,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e64cf31dbf2b",
@@ -2583,6 +2635,25 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/5f41622c62f8f8855d5b58310a4f75fd.jpg",
       "categories": [
         "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4d3ad4a44038",
+      "title": "77歳・糸井重里『ちいかわ』イラスト描きネット注目 少し雰囲気が変わり「可愛い」",
+      "url": "https://www.sanyonews.jp/article/2011940?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-19T22:24:19.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/f/2/f/0f2f849694dfdfef5d42c6e36d01c665_1.jpg",
+      "categories": [
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -2715,7 +2786,7 @@
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-19T21:05:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494065/20261119_154037_p_o_39848315.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -3053,89 +3124,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3a07d097fa57",
-      "title": "『ちいかわ』更新（11/17）。図解で消える法則が明確に。ハチワレが怒ったらアウト…ってコト!?",
-      "url": "https://dengekionline.com/article/202611/94332",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:53:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94332/ogp_OSBx.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ac6fc1664273",
-      "title": "【GU】売り切れ必至… “ちいかわコラボ” の 《追加予約》を発表！ ファン「本当にありがたい」「さすがGU」（LASISA）",
-      "url": "https://news.yahoo.co.jp/articles/bbdfac036950e9b3399779731bb3484074e1a707",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:45:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-10171067-lasisa-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "606261b4dfd9",
-      "title": "「ヤダ〜〜ッ!!!」暴れるハチワレをゆさゆさ…お泊り回で見せた優しさが話題「ちいかわ」188話 (ABEMA TIMES)",
-      "url": "https://news.yahoo.co.jp/articles/689b2f1b8864ca09851f45b2b1eea119d85fbb55/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:36:18.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26swykWCM7p-Ff9EFE4P6k72ZdG1ioZbaTEqYdjozToCLw3YR_JsVMQ-rt5il-GEJfclLresuft_KstKdHrxV5Qjpc9qJNO3GCTViST61H004adE5cBdCRcGAAPhfRd_7ow==",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4c5692401b00",
-      "title": "「ヤダ～～ッ!!!」暴れるハチワレをゆさゆさ…お泊り回で見せた優しさが話題「ちいかわ」188話",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10288167/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:33:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10288167_0-enlarge.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
