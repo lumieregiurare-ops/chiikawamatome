@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:30:17.342Z",
+  "updatedAt": "2026-11-22T20:00:19.856Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
@@ -22,17 +22,17 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 21
+      "count": 22
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 21
+      "count": 20
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 28
     }
   ],
   "series": [
@@ -59,27 +59,27 @@
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 3
+      "count": 4
     },
     {
       "id": "rakko",
       "label": "ラッコ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kuma",
@@ -90,7 +90,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 26
+      "count": 25
     },
     {
       "name": "山陽新聞",
@@ -114,6 +114,10 @@
     },
     {
       "name": "ウォーカープラス",
+      "count": 4
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 3
     },
     {
@@ -134,10 +138,6 @@
     },
     {
       "name": "LIMO | くらしとお金の経済メディア",
-      "count": 2
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 2
     },
     {
@@ -197,10 +197,6 @@
       "count": 1
     },
     {
-      "name": "tenki.jp",
-      "count": 1
-    },
-    {
       "name": "Dellows News",
       "count": 1
     },
@@ -254,18 +250,25 @@
       "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494576/20261122_162620_p_o_15824787.jpg",
       "leadSource": "オリコンニュース",
       "publishedAt": "2026-11-22T08:50:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "other",
         "goods"
       ],
       "keywords": [
         "冬季限定",
-        "マスコット",
-        "くりまんじゅう"
+        "くりまんじゅう",
+        "モモンガ"
       ],
       "articles": [
+        {
+          "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場",
+          "url": "https://www.pashplus.jp/goods/503952/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-11-22T06:31:49.000Z",
+          "isPR": false
+        },
         {
           "title": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも（コミックナタリー）",
           "url": "https://news.yahoo.co.jp/articles/eb6a96cbf6421c155fd5e115e01182c744b4c46f",
@@ -667,12 +670,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T19:00:27.533Z",
-    "previousCount": 115,
-    "newCount": 6
+    "previousAt": "2026-11-22T19:30:17.342Z",
+    "previousCount": 120,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T20:00:17.342Z",
+  "nextUpdateAt": "2026-11-22T20:30:19.856Z",
   "items": [
     {
       "id": "952deb3ac91e",
@@ -886,6 +889,29 @@
       "isNew": false
     },
     {
+      "id": "6646309425f2",
+      "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場",
+      "url": "https://www.pashplus.jp/goods/503952/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-22T06:31:49.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/01-2649.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "momonga",
+        "kurimanju",
+        "rakko"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5a02f8a57c36",
       "title": "『ちいかわ』ジャポニカ学習帳とコラボ レトロなデザインで全8種類",
       "url": "https://www.sanyonews.jp/article/1975592",
@@ -1023,13 +1049,32 @@
       "isNew": false
     },
     {
-      "id": "806a9987376c",
-      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
-      "url": "https://www.sanyonews.jp/article/1985696",
+      "id": "de8ce04e3b79",
+      "title": "『ちいかわ』シュールなクリスマスの新グッズにネットざわつく「ジワる」「わろた」「いみわからん」「好きすぎるwwwww」",
+      "url": "https://www.sanyonews.jp/article/2012802?rct",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-22T02:02:21.000Z",
+      "publishedAt": "2026-11-22T01:24:40.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/4/4/7/944793119dcf358d8ee21c2c327dbe24_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "806a9987376c",
+      "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
+      "url": "https://www.sanyonews.jp/article/1985696?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-22T01:12:55.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
       "categories": [
         "collab",
@@ -1179,26 +1224,6 @@
       "isNew": false
     },
     {
-      "id": "fe6e808c2998",
-      "title": "『ちいかわ』新作アニメ放送一時休止へ 再開は来年1月 10月からリバイバル放送",
-      "url": "https://www.sanyonews.jp/article/1994052?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T19:12:01.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/5/b/a/45ba841b960207dfa31c4853010e888d_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2a862aa20499",
       "title": "『ちいかわ』更新（11/22）。仲良く過ごしていたら「ドゴォッ」な急展開！ いったい何事…",
       "url": "https://dengekionline.com/article/202611/94717",
@@ -1255,7 +1280,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "457280ebdc2c",
@@ -1676,25 +1701,6 @@
       "isNew": false
     },
     {
-      "id": "15d1b6b28cc2",
-      "title": "ちいかわベーカリー OSAKAの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/6/30/200/187382/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-11-20T15:23:58.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/308597/normal.jpg?1781655998&w=640&h=640&t=r",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5cc2bef95874",
       "title": "しまむら・アベイルで「ちいかわ」グッズが発売！アパレルやバッグ類、寒い時期に嬉しいアームウォーマーや腹巻付パンツも",
       "url": "https://www.inside-games.jp/article/2026/11/21/191338.html",
@@ -1750,7 +1756,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "114ad6b264fe",
@@ -2182,6 +2188,28 @@
       "isNew": false
     },
     {
+      "id": "896d870ea74c",
+      "title": "【ちいかわ】「シーサーのおみやげやさん」那覇空港内に8月12日オープン！沖縄定番のスッパイマン、オリオンビールとのコラボアイテムに注目",
+      "url": "https://www.walkerplus.com/article/1430022/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1430022/18137743_615.jpg",
+      "categories": [
+        "collab",
+        "event"
+      ],
+      "series": [
+        "shisa"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "96f8399db5c4",
       "title": "第78話～第81話 「ハチワレのカメラ」編",
       "url": "https://tver.jp/episodes/eppu9xbtgb",
@@ -2356,7 +2384,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf52fd3a2d23",
@@ -2471,7 +2499,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5425a788a02e",
@@ -2904,28 +2932,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "5128378832f4",
-      "title": "「ヤハ」72歳・高見沢俊彦、“ちいかわ”うさぎが腕に…おちゃめなステージ裏ショットに反響「めっっっちゃ可愛くてお茶目」「タカミーはうさぎ推しなんですね！」（オリコン）",
-      "url": "https://news.yahoo.co.jp/articles/aaf1071cd946df71529c454bf5e47e82c9786cc3",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-19T22:10:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-00000327-oric-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dbb72baff71a",
