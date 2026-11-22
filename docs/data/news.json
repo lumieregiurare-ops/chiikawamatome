@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-21T23:57:11.274Z",
+  "updatedAt": "2026-11-22T00:30:17.831Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 143,
-  "todayCount": 4,
+  "total": 145,
+  "todayCount": 6,
   "categories": [
     {
       "id": "goods",
@@ -22,12 +22,12 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 28
+      "count": 29
     },
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 20
+      "count": 21
     },
     {
       "id": "anime",
@@ -42,7 +42,7 @@
     {
       "id": "game",
       "label": "ゲーム・アプリ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "other",
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 43
+      "count": 44
     },
     {
       "name": "山陽新聞",
-      "count": 13
+      "count": 14
     },
     {
       "name": "インサイド",
@@ -209,6 +209,10 @@
       "count": 1
     },
     {
+      "name": "https://miyoca.jp/",
+      "count": 1
+    },
+    {
       "name": "読売新聞",
       "count": 1
     },
@@ -242,10 +246,6 @@
     },
     {
       "name": "Howl.Link",
-      "count": 1
-    },
-    {
-      "name": "ハフポスト",
       "count": 1
     }
   ],
@@ -621,6 +621,42 @@
       ]
     },
     {
+      "id": "ea37630a88d7",
+      "title": "【追記あり】全国初「ちいかわパークストア」がルクア大阪に 池袋の人気体験施設のグッズが買える",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/a9fe70a9752464ac5eba45f1b4773645982e2b09",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261118-02555711-wwdjapan-000-7-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T00:22:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "event"
+      ],
+      "keywords": [
+        "パークストア",
+        "全国初",
+        "大阪"
+      ],
+      "articles": [
+        {
+          "title": "【大阪】梅田に全国初の「ちいかわパークストア」、フォトスポットにグリーティングなど魅力満載の店内を先行レポート",
+          "url": "https://miyoca.jp/check/5087",
+          "source": "https://miyoca.jp/",
+          "publishedAt": "2026-11-19T11:16:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "全国初「ちいかわパークストア」オープン！ 同フロアには「ナガノマーケット UMEDA」も♪ この冬、大阪がちいかわ一色に【ルクア サウス】（アニメ！アニメ！）",
+          "url": "https://news.yahoo.co.jp/articles/cc8d182162098b1ab4320a6c15bee36508ce2de6",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-19T08:00:04.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "9a61e81ae611",
       "title": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン",
       "summary": "「ちいかわ ぬーどるストッパーフィギュア ー合格ラーメンー」がプライズ景品として2026年11月4週より展開！",
@@ -703,43 +739,35 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "ba31449d3687",
-      "title": "首をかしげる姿が可愛い「うさぎ」たち！「ちいかわ」 もっちるおすわりBIGぬいぐるみ第2弾がプライズ展開",
-      "summary": "「ちいかわ もっちるおすわりBIGぬいぐるみ2」が11月下旬よりプライズ展開！",
-      "url": "https://www.inside-games.jp/article/2026/11/21/191344.html",
-      "image": "https://www.inside-games.jp/imgs/rss/1808794.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-11-20T21:00:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "kuji"
-      ],
-      "keywords": [
-        "big"
-      ],
-      "articles": [
-        {
-          "title": "ちいかわ もっちるおすわりBIGぬいぐるみ② 11月20日より登場!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-prize-taito-mocchiru-osuwari-big-nuigurumi-2-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-19T10:22:33.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-21T23:30:21.657Z",
-    "previousCount": 144,
+    "previousAt": "2026-11-21T23:57:11.274Z",
+    "previousCount": 143,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T00:27:11.274Z",
+  "nextUpdateAt": "2026-11-22T01:00:17.831Z",
   "items": [
+    {
+      "id": "a29ea3864f3c",
+      "title": "「ちいかわクリニック」グッズに記された“まさかのフレーズ”にネットざわつく「公式くつずれ替え歌!?」「何か既視感…って思ったんだけど…」",
+      "url": "https://www.sanyonews.jp/article/2021054",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T23:21:48.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/b/2/b/cb2b09963613ca24507a9afda7044c04_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "9a61e81ae611",
       "title": "ハチワレと嬉し泣き…！草むしり検定合格でお祝いラーメン食べる「ちいかわ」たちの「ぬーどるストッパーフィギュア」に胸キュン",
@@ -801,6 +829,25 @@
       "isNew": false
     },
     {
+      "id": "60056abb1d06",
+      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
+      "url": "https://www.sanyonews.jp/article/1985468?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T15:59:13.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca679f010bc9",
       "title": "「ちいかわ」「ハチワレ」の顔を再現、棒付きチョコレート9・8より発売 台紙デザインは全12種",
       "url": "https://www.sanyonews.jp/article/1981814?rct",
@@ -819,7 +866,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3bcde6b30c3b",
@@ -1073,25 +1120,6 @@
       "series": [
         "momonga"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a29ea3864f3c",
-      "title": "「ちいかわクリニック」グッズに記された“まさかのフレーズ”にネットざわつく「公式くつずれ替え歌!?」「何か既視感…って思ったんだけど…」",
-      "url": "https://www.sanyonews.jp/article/2021054",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T01:34:54.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/b/2/b/cb2b09963613ca24507a9afda7044c04_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1840,7 +1868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7673eb2b1392",
@@ -1878,7 +1906,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b1607ab1f6c3",
@@ -2590,6 +2618,25 @@
       "isNew": false
     },
     {
+      "id": "f524cfb6b965",
+      "title": "【大阪】梅田に全国初の「ちいかわパークストア」、フォトスポットにグリーティングなど魅力満載の店内を先行レポート",
+      "url": "https://miyoca.jp/check/5087",
+      "host": "miyoca.jp",
+      "source": "https://miyoca.jp/",
+      "summary": "",
+      "publishedAt": "2026-11-19T11:16:06.000Z",
+      "image": "https://d1lidgpwyeyeml.cloudfront.net/tenants/1417/articles/images/000/005/540/large/b32dc070-9552-4e60-92a3-30c16001a10e.jpg?1794993742",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0b500277ae63",
       "title": "くら寿司、「ちいかわ」コラボ未配布の寿司皿を１００万人に配布へ…従業員の景品横領で９月に中止",
       "url": "https://www.yomiuri.co.jp/economy/20261119-GYT1T00346/",
@@ -3082,6 +3129,26 @@
       "isNew": false
     },
     {
+      "id": "a3563da7cc32",
+      "title": "「根本的な解決にはなってない」くら寿司×ちいかわグッズの再配布が決定も…フリマアプリの転売対策に残る課題（女性自身）",
+      "url": "https://news.yahoo.co.jp/articles/89a3cd0ebc292894caa75c014b83b59d06d5a186",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-19T06:15:46.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000029-jisin-000-4-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "59687ee4dd17",
       "title": "くら寿司「ちいかわ 寿司皿」LINE抽選にて100万枚配布 従業員の不正行為発覚で9月にコラボ中止していた",
       "url": "https://mdpr.jp/news/detail/4879471",
@@ -3434,25 +3501,6 @@
       "summary": "",
       "publishedAt": "2026-11-19T01:53:31.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00010008-huffpost-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bdf87f95b7a0",
-      "title": "【画像】THE ALFEE 高見沢俊彦、「ちいかわ」グッズを使いこなす⇒「すっかり虜に…」「似合う」の声",
-      "url": "https://www.huffingtonpost.jp/entry/story_jp_6afe3d88e4b0f8ebfa4a1638",
-      "host": "huffingtonpost.jp",
-      "source": "ハフポスト",
-      "summary": "",
-      "publishedAt": "2026-11-19T01:45:59.000Z",
-      "image": "https://img.huffingtonpost.com/asset/69e81767140000e6f8ecac57.png?cache=XvDUDAzw9g&ops=1200_630",
       "categories": [
         "goods"
       ],
