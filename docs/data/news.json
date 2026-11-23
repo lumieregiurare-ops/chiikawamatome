@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-23T11:00:20.821Z",
+  "updatedAt": "2026-11-23T11:30:24.894Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 98,
-  "todayCount": 28,
+  "total": 97,
+  "todayCount": 31,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 47
+      "count": 45
     },
     {
       "id": "kuji",
@@ -22,7 +22,7 @@
     {
       "id": "collab",
       "label": "コラボ・カフェ",
-      "count": 23
+      "count": 22
     },
     {
       "id": "event",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 15
+      "count": 16
     },
     {
       "id": "book",
@@ -47,7 +47,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 22
     }
   ],
   "series": [
@@ -90,11 +90,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 27
+      "count": 25
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 18
+      "count": 19
     },
     {
       "name": "インサイド",
@@ -137,15 +137,7 @@
       "count": 2
     },
     {
-      "name": "台北経済新聞",
-      "count": 2
-    },
-    {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "アニメージュプラス",
       "count": 1
     },
     {
@@ -213,7 +205,19 @@
       "count": 1
     },
     {
+      "name": "台北経済新聞",
+      "count": 1
+    },
+    {
       "name": "Togetter",
+      "count": 1
+    },
+    {
+      "name": "tenki.jp",
+      "count": 1
+    },
+    {
+      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -299,17 +303,17 @@
     },
     {
       "id": "66aa3dd5dd3f",
-      "title": "【ちいかわ焼き】幕張新都心店1周年！ 冬季限定味や新作マスコットが登場",
+      "title": "【ちいかわ焼き】幕張新都心店1周年！ 冬季限定味や新作マスコットが登場（アニメージュプラス）",
       "summary": "",
-      "url": "https://animageplus.jp/articles/detail/68308",
-      "image": "https://www.pashplus.jp/wp-content/uploads/01-2649.jpg",
-      "leadSource": "アニメージュプラス",
-      "publishedAt": "2026-11-23T10:00:27.000Z",
+      "url": "https://news.yahoo.co.jp/articles/f9bcf7f900d7be687ac34354023ca9f57cc3c500",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00068308-animage-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-23T10:00:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
         "goods",
-        "other"
+        "anime"
       ],
       "keywords": [
         "幕張新都心店",
@@ -444,7 +448,7 @@
       "id": "d02b11418b58",
       "title": "【ナガノのくま】『新作ぬいぐるみ』11/24発売。「2000円か……」価格とランダム販売に悩む声も",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DYURDWUs0ZEJhTmtIN2dDejlJMm9tTHE3eUxiYzc5OHVnUXRILVYxRGRSMzRQZWtubWkyeE4ycXZzOVpiRmdWZWdfal9YUmM4YzBFZzY5S0tFM09GU3dvVGVNTQ?oc=5",
+      "url": "https://www.asahi.com/and/w/article/17067910/31590332",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-11811054-asahiand-000-1-view.jpg?exp=10800",
       "leadSource": "朝日新聞",
       "publishedAt": "2026-11-23T04:08:33.000Z",
@@ -581,12 +585,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T10:30:16.509Z",
-    "previousCount": 6,
-    "newCount": 92
+    "previousAt": "2026-11-23T11:00:20.821Z",
+    "previousCount": 98,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T11:30:20.821Z",
+  "nextUpdateAt": "2026-11-23T12:00:24.894Z",
   "items": [
     {
       "id": "e33e706ebee8",
@@ -606,26 +610,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66aa3dd5dd3f",
-      "title": "【ちいかわ焼き】幕張新都心店1周年！ 冬季限定味や新作マスコットが登場",
-      "url": "https://animageplus.jp/articles/detail/68308",
-      "host": "animageplus.jp",
-      "source": "アニメージュプラス",
+      "title": "【ちいかわ焼き】幕張新都心店1周年！ 冬季限定味や新作マスコットが登場（アニメージュプラス）",
+      "url": "https://news.yahoo.co.jp/articles/f9bcf7f900d7be687ac34354023ca9f57cc3c500",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-23T10:00:27.000Z",
-      "image": "",
+      "publishedAt": "2026-11-23T10:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00068308-animage-000-1-view.jpg?exp=10800",
       "categories": [
-        "goods"
+        "goods",
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e74a6b754bbb",
@@ -645,7 +650,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "99341c3f3c47",
@@ -665,7 +670,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b91c56449248",
@@ -684,7 +689,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d23a428044ad",
@@ -704,7 +709,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a3e5fd151b96",
@@ -724,7 +729,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "457280ebdc2c",
@@ -743,7 +748,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7772722941a4",
@@ -762,7 +767,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "821b9f689899",
@@ -783,7 +788,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e54a935f1d69",
@@ -803,12 +808,12 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d02b11418b58",
       "title": "【ナガノのくま】『新作ぬいぐるみ』11/24発売。「2000円か……」価格とランダム販売に悩む声も",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DYURDWUs0ZEJhTmtIN2dDejlJMm9tTHE3eUxiYzc5OHVnUXRILVYxRGRSMzRQZWtubWkyeE4ycXZzOVpiRmdWZWdfal9YUmM4YzBFZzY5S0tFM09GU3dvVGVNTQ?oc=5",
+      "url": "https://www.asahi.com/and/w/article/17067910/31590332",
       "host": "asahi.com",
       "source": "朝日新聞",
       "summary": "",
@@ -822,9 +827,9 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "627d01cf5c47",
@@ -844,7 +849,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f8b204ad6e23",
@@ -886,7 +891,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fed4da72def3",
@@ -947,7 +952,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "755d3a82a54c",
@@ -967,7 +972,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "34f4354d2fbb",
@@ -978,6 +983,25 @@
       "summary": "「ポンデクルール ちいかわ マルチカラーパウダー」が11月23日より発売！ガシャポンでも展開予定です。",
       "publishedAt": "2026-11-23T00:40:02.000Z",
       "image": "https://www.inside-games.jp/imgs/rss/1772451.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "af5c72003f63",
+      "title": "『ちいかわ』興収189.6億円突破 今後の特典スケジュール",
+      "url": "https://www.sanyonews.jp/article/2021852?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:13:44.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/8/d/3/e8d3d62fe1a1b01e283e7f563add2772_1.jpg",
       "categories": [
         "other"
       ],
@@ -1007,7 +1031,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4e8882edf0a6",
@@ -1027,7 +1051,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfbce06f121b",
@@ -1066,7 +1090,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "952deb3ac91e",
@@ -1085,7 +1109,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "8e0ced42424e",
+      "title": "カズレーザー、くら寿司従業員の「ちいかわ」不正に言及 疑問も「横領として警察に届けているけど…」",
+      "url": "https://www.sanyonews.jp/article/1985264?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-22T17:23:08.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/d/f/6/6df6865244dc9cd976c73b4c705c6747_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "5e8972bb7210",
@@ -1104,7 +1147,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "105b08d7ce1e",
@@ -1123,7 +1166,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "60056abb1d06",
+      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
+      "url": "https://www.sanyonews.jp/article/1985468?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-22T15:39:33.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "39f151ee09b6",
@@ -1133,7 +1195,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-22T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2157/678/011.jpg",
       "categories": [
         "goods"
       ],
@@ -1142,7 +1204,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7b3ac5f8743d",
@@ -1161,7 +1223,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7be868b6da21",
@@ -1180,7 +1242,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e16f2c6261be",
@@ -1199,7 +1261,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "11b86b066e88",
@@ -1220,7 +1282,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bb43954fd97f",
@@ -1239,7 +1301,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a11fe0609ebe",
@@ -1258,7 +1320,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6646309425f2",
@@ -1281,7 +1343,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5cb6487a3cc4",
@@ -1300,7 +1362,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5a02f8a57c36",
@@ -1319,7 +1381,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce8e7a70a0d4",
@@ -1338,7 +1400,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce2c7102efde",
@@ -1357,7 +1419,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2e083a3d2ceb",
@@ -1377,26 +1439,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "af5c72003f63",
-      "title": "『ちいかわ』興収189.6億円突破 今後の特典スケジュール",
-      "url": "https://www.sanyonews.jp/article/2021852",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-22T03:31:21.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/8/d/3/e8d3d62fe1a1b01e283e7f563add2772_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61b1057e4d30",
@@ -1415,7 +1458,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c7b86103f89",
@@ -1456,17 +1499,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "806a9987376c",
       "title": "ヤフオク、くら寿司ちいかわコラボ巡り「必要な対応を進めています」関連商品の出品状況を確認 オークションサイト＆フリマアプリ対応追われる",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TeTNKaUlaNlFTRVVZWjlkRU80X01PaG5xTzNTeVl0OE1reWdLZF9jNnhJU09mTnF6cGlRYWdUMXZ2eEJSRVphdjVOYVp4azF0T3c?oc=5",
+      "url": "https://www.sanyonews.jp/article/1985696",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-11-22T02:02:21.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/4/2/0942085ab7c76068330d94c8e6e677f4_1.jpg",
       "categories": [
         "collab",
         "game"
@@ -1474,9 +1517,9 @@
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "de8ce04e3b79",
@@ -1495,7 +1538,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "932c81af5b27",
@@ -1514,7 +1557,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c910cfc6ac3d",
@@ -1533,7 +1576,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "86b30c687cc3",
@@ -1552,7 +1595,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d90aae149a6f",
@@ -1571,7 +1614,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b8d8f3737794",
@@ -1591,7 +1634,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9a61e81ae611",
@@ -1612,7 +1655,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "10afcdbd6f62",
@@ -1631,7 +1674,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2386654da5f6",
@@ -1650,7 +1693,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b646d1d86a82",
@@ -1669,7 +1712,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fe6e808c2998",
@@ -1689,7 +1732,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff155afc2b12",
@@ -1708,26 +1751,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "8e0ced42424e",
-      "title": "カズレーザー、くら寿司従業員の「ちいかわ」不正に言及 疑問も「横領として警察に届けているけど…」",
-      "url": "https://www.sanyonews.jp/article/1985264?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T17:36:30.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/d/f/6/6df6865244dc9cd976c73b4c705c6747_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "618c056012a2",
@@ -1746,7 +1770,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a862aa20499",
@@ -1765,46 +1789,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "60056abb1d06",
-      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
-      "url": "https://www.sanyonews.jp/article/1985468?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T15:59:13.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "12b24719c95b",
-      "title": "ANA、『ちいかわ』コラボグッズ販売の今後についてアナウンス「さすがANAだー！」「神対応ありがとうございます」「どうか転売対策も」",
-      "url": "https://sandigi-www.webow.jp/article/2009976",
-      "host": "sandigi-www.webow.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T15:28:26.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "945f68753f19",
@@ -1823,7 +1808,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "45fb8e444f50",
@@ -1844,7 +1829,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9d669508f937",
@@ -1863,7 +1848,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1b0512de533",
@@ -1883,7 +1868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "278355b19ba6",
@@ -1902,7 +1887,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ba6cf2cfb680",
@@ -1925,7 +1910,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfcc5a08eb41",
@@ -1945,7 +1930,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "547f1cd87249",
@@ -1964,7 +1949,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "275e43bfb88e",
@@ -1984,7 +1969,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2cdf8fcdc770",
@@ -2004,7 +1989,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "af6996898782",
@@ -2025,26 +2010,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "a3efb599a249",
-      "title": "“ちいかわ初”の映画館マナーCMが決定 あす8日から全国のTOHOシネマズ限定で公開",
-      "url": "https://www.sanyonews.jp/article/1917161?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T02:26:25.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/a/9/2/f/a92f9aebb964163b52567646960fca0d_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b0e1084313f5",
@@ -2063,7 +2029,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "441c23f946ff",
@@ -2082,7 +2048,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1b7913525f8f",
@@ -2103,7 +2069,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c56c2c8120c1",
@@ -2122,7 +2088,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4e0b3c75d448",
@@ -2142,7 +2108,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4256d4b418f7",
@@ -2162,7 +2128,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c216f9d8be1a",
@@ -2182,7 +2148,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "29020cb8543d",
@@ -2202,7 +2168,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "45bb376307a4",
@@ -2221,7 +2187,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ba31449d3687",
@@ -2243,7 +2209,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "87b4bbdac32d",
@@ -2263,7 +2229,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d5e840c98f30",
@@ -2282,7 +2248,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "768e02384a66",
@@ -2301,7 +2267,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5f26f94074cd",
@@ -2320,7 +2286,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "118bc1a39072",
@@ -2339,7 +2305,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f016f1f3573a",
@@ -2359,7 +2325,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "820dcfd9c38e",
@@ -2378,7 +2344,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3c19c0311a07",
@@ -2391,6 +2357,44 @@
       "image": "https://static.sanyonews.jp/image/article/size1/0/3/9/4/0394cd2d2c1dbfb3773583f0d6e92cec_1.jpg",
       "categories": [
         "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "15d1b6b28cc2",
+      "title": "ちいかわベーカリー OSAKAの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+      "url": "https://tenki.jp/leisure/6/30/200/187382/",
+      "host": "tenki.jp",
+      "source": "tenki.jp",
+      "summary": "",
+      "publishedAt": "2026-11-20T15:23:58.000Z",
+      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/308597/normal.jpg?1781655998&w=640&h=640&t=r",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ef2660418ce8",
+      "title": "「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112220979",
+      "host": "chiba-tv.com",
+      "source": "千葉テレビ放送株式会社",
+      "summary": "",
+      "publishedAt": "2026-11-20T15:11:24.000Z",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1496528823920018931/origin_1.jpg",
+      "categories": [
+        "anime"
       ],
       "series": [],
       "isOfficial": false,
@@ -2417,26 +2421,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "9123377e2a0d",
-      "title": "台北中山に「ちいかわ大判焼き」常設店 大判焼き型マスコットなども販売",
-      "url": "https://taipei.keizai.biz/headline/743/",
-      "host": "taipei.keizai.biz",
-      "source": "台北経済新聞",
-      "summary": "",
-      "publishedAt": "2026-11-20T14:55:20.000Z",
-      "image": "https://images.keizai.biz/taipei_keizai/headline/1795186410_photo.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "114ad6b264fe",
@@ -2455,7 +2440,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4770f0628c60",
@@ -2465,7 +2450,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-20T12:13:24.000Z",
-      "image": "",
+      "image": "https://s.eximg.jp/exnews/feed/CrankinTrend/1e/CrankinTrend_E194682/CrankinTrend_E194682_1.jpg",
       "categories": [
         "goods"
       ],
@@ -2474,7 +2459,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1f8e6899790",
@@ -2493,7 +2478,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fa69ddf63376",
@@ -2512,7 +2497,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
