@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-23T15:00:20.394Z",
+  "updatedAt": "2026-11-23T15:30:19.529Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 101,
-  "todayCount": 0,
+  "total": 99,
+  "todayCount": 1,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 46
+      "count": 45
     },
     {
       "id": "kuji",
@@ -27,17 +27,17 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 16
+      "count": 15
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 15
+      "count": 14
     },
     {
       "id": "book",
       "label": "漫画・本",
-      "count": 0
+      "count": 1
     },
     {
       "id": "game",
@@ -64,17 +64,17 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kurimanju",
       "label": "くりまんじゅう",
-      "count": 4
+      "count": 5
     },
     {
       "id": "rakko",
       "label": "ラッコ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "shisa",
@@ -84,7 +84,7 @@
     {
       "id": "kuma",
       "label": "自分ツッコミくま",
-      "count": 2
+      "count": 3
     }
   ],
   "sources": [
@@ -94,26 +94,22 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 18
+      "count": 21
     },
     {
       "name": "インサイド",
-      "count": 9
-    },
-    {
-      "name": "オリコンニュース",
-      "count": 4
+      "count": 8
     },
     {
       "name": "電撃オンライン",
-      "count": 3
-    },
-    {
-      "name": "ジモはる",
-      "count": 2
+      "count": 4
     },
     {
       "name": "クランクイン！",
+      "count": 2
+    },
+    {
+      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -122,6 +118,10 @@
     },
     {
       "name": "Togetter",
+      "count": 2
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 2
     },
     {
@@ -137,11 +137,15 @@
       "count": 2
     },
     {
-      "name": "ねとらぼ",
-      "count": 1
+      "name": "ニコニコニュース",
+      "count": 2
     },
     {
       "name": "Lmaga.jp",
+      "count": 1
+    },
+    {
+      "name": "ジモはる",
       "count": 1
     },
     {
@@ -181,10 +185,6 @@
       "count": 1
     },
     {
-      "name": "めざましmedia",
-      "count": 1
-    },
-    {
       "name": "香港経済新聞",
       "count": 1
     },
@@ -213,19 +213,7 @@
       "count": 1
     },
     {
-      "name": "川崎経済新聞",
-      "count": 1
-    },
-    {
-      "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
       "name": "매일경제",
-      "count": 1
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -233,11 +221,7 @@
       "count": 1
     },
     {
-      "name": "tenki.jp",
-      "count": 1
-    },
-    {
-      "name": "千葉テレビ放送株式会社",
+      "name": "ｄメニューニュース",
       "count": 1
     }
   ],
@@ -274,6 +258,41 @@
           "url": "https://game.watch.impress.co.jp/docs/news/2157678.html",
           "source": "GAME Watch",
           "publishedAt": "2026-11-22T15:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ba6cf2cfb680",
+      "title": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも（コミックナタリー）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/eb6a96cbf6421c155fd5e115e01182c744b4c46f",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-00000038-nataliec-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-21T04:28:10.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "マスコット",
+        "冬季限定",
+        "モモンガ"
+      ],
+      "articles": [
+        {
+          "title": "モモンガのメープルバターあんなど冬季限定3種が登場♪「ちいかわ焼き」幕張新都心店1周年で11月27日から新マスコット＆冷凍ちいかわ焼きも発売！",
+          "url": "https://nijimen.kusuguru.co.jp/topics/663846",
+          "source": "にじめん",
+          "publishedAt": "2026-11-21T01:47:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ちいかわ焼き幕張新都心店1周年】11月27日(金)よりマスコットに新キャラクターが登場！冬季限定のお味や冷凍商品も販",
+          "url": "https://news.nicovideo.jp/watch/nw20018248?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-21T01:15:23.000Z",
           "isPR": false
         }
       ]
@@ -366,6 +385,35 @@
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeFE3djNJUWVhLXlrejFWWGNvWkVBQnZ3N3lmeDlmZnY3MW42Q21qeUdGU1Q4SjljbWp6OFA5WUtLZFdFQVRlWG82R2VRTHZVTm5QLWRKdDZYTjNsY25uM1EyUS1GeVdlMEZ1d1RvRVJXYkQyMGQ3ejFsWHl0cmZHdk5JUVZaSDhJT3dicEtuZzUyV0t3bEt5SERRY2FfVEM1X3c0WjdSTFkxQnM2WTVRQmFTQmh5SkZwbXFSaXJ4NHR1TVVSUktPRGlXQXJOOWJxQ29wTzRYek9MdUFCTUhyWjY1aG9ncFN0VzFGTEc5eTVldkd4MGFfQ2ZBVlQ5UG8?oc=5",
           "source": "山陽新聞",
           "publishedAt": "2026-11-21T20:27:04.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "66aa3dd5dd3f",
+      "title": "【ちいかわ焼き】幕張新都心店1周年！ 冬季限定味や新作マスコットが登場",
+      "summary": "",
+      "url": "https://animageplus.jp/articles/detail/68308",
+      "image": "https://www.pashplus.jp/wp-content/uploads/01-2649.jpg",
+      "leadSource": "アニメージュプラス",
+      "publishedAt": "2026-11-23T10:00:27.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "other"
+      ],
+      "keywords": [
+        "幕張新都心店",
+        "周年",
+        "冬季限定"
+      ],
+      "articles": [
+        {
+          "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場",
+          "url": "https://www.pashplus.jp/goods/503952/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-11-22T06:31:49.000Z",
           "isPR": false
         }
       ]
@@ -538,83 +586,27 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "11b86b066e88",
-      "title": "「ちいかわ焼き」冬季限定の味が登場 くりまんじゅうの“甘酒”など季節ならでは3種の味わい",
-      "summary": "",
-      "url": "https://www.oricon.co.jp/news/2494576/photo/1/",
-      "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494576/20261122_162620_p_o_15824787.jpg",
-      "leadSource": "オリコンニュース",
-      "publishedAt": "2026-11-22T08:50:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "くりまんじゅう",
-        "冬季限定"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわ焼き」冬季限定のお味登場 モモンガ、くりまんじゅう、ラッコのマスコットも（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/eb6a96cbf6421c155fd5e115e01182c744b4c46f",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-21T04:28:10.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ce8e7a70a0d4",
-      "title": "【ユニクロ】買い逃した人に朗報の値下げ！まだまだ映画公開中の「ちいかわスウェットシャツ」は胸元刺繍に心奪われる可愛さ",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/c7a5fdddf762af8185db465dd0a71839df6418fd",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261122-90000623-toushin-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T04:50:33.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ユニクロ",
-        "スウェットシャツ",
-        "映画公開中"
-      ],
-      "articles": [
-        {
-          "title": "写真 | 【ユニクロ】まだまだ映画公開中の「ちいかわスウェットシャツ」が今なら1000円引き！ゆったり部屋着やキッズにもおすすめ 胸元刺繍が愛おしい記念モデルが今なら2990円！XSやXXLなど残るサイズが合えば買い逃し組にも幸運 | L…",
-          "url": "https://limo.media/articles/photo/147570",
-          "source": "LIMO | くらしとお金の経済メディア",
-          "publishedAt": "2026-11-22T04:45:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T14:30:18.727Z",
-    "previousCount": 97,
-    "newCount": 8
+    "previousAt": "2026-11-23T15:00:20.394Z",
+    "previousCount": 101,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T15:30:20.394Z",
+  "nextUpdateAt": "2026-11-23T16:00:19.529Z",
   "items": [
     {
-      "id": "7c2647fb36ff",
-      "title": "ちいかわPOP UPはイオンモール成田で11/27〜12/14｜初日の整理券は9:30から、駐車場は無料",
-      "url": "https://jimoharu.net/chiikawa-popup-store-aeonmall-narita-1127-1214-seiriken-parking-bus/",
-      "host": "jimoharu.net",
-      "source": "ジモはる",
+      "id": "dfb59556df4d",
+      "title": "『ちいかわ』更新（11/23）。布団が1枚の時のかしこい寝方（図解付き）！ おやすみ、そして…",
+      "url": "https://dengekionline.com/article/202611/94834",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-11-23T13:10:00.000Z",
-      "image": "https://jimoharu.net/wp-content/uploads/2026/11/chiikawa_popup_aeonmall_narita_1127_eye-2.jpg",
+      "publishedAt": "2026-11-23T15:01:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94834/ogp_spHM.jpg?x=1280",
       "categories": [
-        "event"
+        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -622,6 +614,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
+    },
+    {
+      "id": "7be868b6da21",
+      "title": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!?",
+      "url": "https://dengekionline.com/article/202611/94768",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-23T14:51:09.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94768/ogp_frCo.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "d23a428044ad",
@@ -644,32 +655,13 @@
       "isNew": false
     },
     {
-      "id": "3fd77e99af6d",
-      "title": "出張帰りに乗るANAの飛行機→偶然出会った“ちいかわジェット”に「うらやましすぎるうぅぅ！」「仕事の疲れも吹っ飛ぶ」（1/3） | ライフスタイル ねとらぼ",
-      "url": "https://nlab.itmedia.co.jp/cont/articles/4102934/",
-      "host": "nlab.itmedia.co.jp",
-      "source": "ねとらぼ",
-      "summary": "",
-      "publishedAt": "2026-11-23T12:18:18.000Z",
-      "image": "https://research.image.itmedia.co.jp/wp-content/uploads/2026/11/1794971163_dcddcbd70e0b6fa5ed599ab1cd347157.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "85a17802010f",
       "title": "【全国初】「ちいかわパーク」を再現！大阪・梅田に新スポット、ファンに刺さるマニアックなグッズも",
       "url": "https://www.lmaga.jp/news/2026/11/1121637/",
       "host": "lmaga.jp",
       "source": "Lmaga.jp",
       "summary": "",
-      "publishedAt": "2026-11-23T11:38:12.000Z",
+      "publishedAt": "2026-11-23T11:13:53.000Z",
       "image": "https://www.lmaga.jp/wp-content/uploads/2026/11/chiikawa2026_1118_2.jpg",
       "categories": [
         "goods"
@@ -698,7 +690,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3bcde6b30c3b",
@@ -1059,7 +1051,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "34f4354d2fbb",
@@ -1157,7 +1149,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfbce06f121b",
@@ -1171,25 +1163,6 @@
       "categories": [
         "kuji",
         "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0cddb2e41ddf",
-      "title": "11月23日(月)の「ちいかわ占い」",
-      "url": "https://mezamashi.media/articles/-/373885",
-      "host": "mezamashi.media",
-      "source": "めざましmedia",
-      "summary": "",
-      "publishedAt": "2026-11-22T22:00:00.000Z",
-      "image": "https://mezamashi.ismcdn.jp/mwimgs/d/7/1200xm/img_d7acc7d854adb04f8ca06c8fb31d9ab8180247.jpg",
-      "categories": [
-        "other"
       ],
       "series": [],
       "isOfficial": false,
@@ -1217,6 +1190,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "url": "https://www.sanyonews.jp/article/1982996?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-22T20:59:13.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/c/3/20c3bd5fd117f75e8519caa6e4337ef1_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kuma"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8e0ced42424e",
@@ -1371,25 +1365,6 @@
       "isNew": false
     },
     {
-      "id": "7be868b6da21",
-      "title": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!?",
-      "url": "https://dengekionline.com/article/202611/94768",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-22T14:31:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94768/ogp_frCo.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e16f2c6261be",
       "title": "ちいかわクリスマスマーケット2026ガイド｜チケット・当日の回り方・グッズ・フードを元旅行会社員が解説 - もとりょこblog -",
       "url": "https://motoryokoblog.com/?p",
@@ -1406,7 +1381,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "11b86b066e88",
+      "title": "「ちいかわ焼き」冬季限定の味が登場 くりまんじゅうの“甘酒”など季節ならでは3種の味わい (オリコン)",
+      "url": "https://news.yahoo.co.jp/articles/32cd8c64448a957a194b1ea70a1c931c10c379dd/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-22T13:40:02.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26nWb7waiqXyDBy3_ry7nZXi7wSOOS3i1cqkXurTy19Zx4SAHwkpjEczXkouT7tNJ3WkRrj-aHLxARPRKC0JXq_ZflFdkYhwxj9v4nFgKvXYq",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kurimanju"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "24b89f1eb5ee",
@@ -1431,38 +1427,17 @@
     },
     {
       "id": "bb43954fd97f",
-      "title": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場",
-      "url": "https://www.oricon.co.jp/news/2494585/photo/8/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "title": "「ちいかわ焼き」冬季限定デザインの特別なボックスが登場 (オリコン)",
+      "url": "https://news.yahoo.co.jp/articles/22daa56957ef94ccba7dbf3f7bc085874f55d05e/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-22T08:55:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494585/20260217_121855_p_o_70137312.jpg",
+      "publishedAt": "2026-11-22T10:40:03.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26is2-1BIJBV1cGEv1E0rypusNsVenTjoRjvZkTPFk-NYVIQOeN9JMyW70M7ahJ6frKdfvxkptIwDQRESM20uUeQ1YKAqRJ2xVoP8h46nT9y_",
       "categories": [
         "collab"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "11b86b066e88",
-      "title": "「ちいかわ焼き」冬季限定の味が登場 くりまんじゅうの“甘酒”など季節ならでは3種の味わい",
-      "url": "https://www.oricon.co.jp/news/2494576/photo/1/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-22T08:50:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494576/20261122_162620_p_o_15824787.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kurimanju"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -1487,6 +1462,29 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6646309425f2",
+      "title": "「ちいかわ焼き」にモモンガ、くりまんじゅう、ラッコが仲間入り！ イオンモール幕張新都心店1周年を記念して冬季限定のお味が登場",
+      "url": "https://www.pashplus.jp/goods/503952/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-22T06:31:49.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/01-2649.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "momonga",
+        "kurimanju",
+        "rakko"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5cb6487a3cc4",
@@ -2134,23 +2132,24 @@
       "isNew": false
     },
     {
-      "id": "c56c2c8120c1",
-      "title": "【ちいかわ焼き幕張新都心店1周年】11月27日(金)よりマスコットに新キャラクターが登場！冬季限定のお味や冷凍商品も販売開始！",
-      "url": "https://kawasaki.keizai.biz/release/688826/",
-      "host": "kawasaki.keizai.biz",
-      "source": "川崎経済新聞",
+      "id": "275e43bfb88e",
+      "title": "「ちいかわ」新刊・9巻発売を記念して“フラッシュ広告”登場 フラッシュ撮影するとイラストが変わる（映画.com）",
+      "url": "https://news.yahoo.co.jp/articles/c14df6a786763b84abf499364c8d25f743077a7d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-21T03:39:37.000Z",
-      "image": "https://prtimes.jp/img/157539/26/thumb/d157539-26-e3df6269b07c554c7d77-23.jpg",
+      "publishedAt": "2026-11-21T04:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-00000007-eiga-000-1-view.jpg?exp=10800",
       "categories": [
-        "goods"
+        "anime",
+        "book"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "2cdf8fcdc770",
@@ -2250,7 +2249,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "c56c2c8120c1",
+      "title": "【ちいかわ焼き幕張新都心店1周年】11月27日(金)よりマスコットに新キャラクターが登場！冬季限定のお味や冷凍商品も販",
+      "url": "https://news.nicovideo.jp/watch/nw20018248?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-21T01:15:23.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "4256d4b418f7",
@@ -2390,7 +2408,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3a319641ba03",
@@ -2489,6 +2507,26 @@
       "isNew": false
     },
     {
+      "id": "5cc2bef95874",
+      "title": "しまむら・アベイルで「ちいかわ」グッズが発売！アパレルやバッグ類、寒い時期に嬉しいアームウォーマーや腹巻付パンツも",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVmRKWFFoeVlyUU5Fb2Y2RG03MDVNcWs2YTUtVlpOb1R1REhXZVdIcTVJallicTRlMFh2SlZ5LVY4cjZ6X1JPdUx1U1BZMk5va19TSWkyN1lvUlhvdHRkU25RWWs3RXRueWRJaWJPTlNJUEpkNlVSYU1CU3NlZElEbUdn0gGHAUFVX3lxTE5LaVRZcGF5dVBGcW5KN3ZSNy1aQldYanFfMjExYjh1ZmZaX3U2d1FTTW1xTWN5Q2l3OFktbmxzV01FeFN0Y2FwdENOMGp3VXJiNGlHdTFPQ3pZR0NkMXZ4eFl4V3BuNG9XZUo2MnNjRmdGYU1EaDlRYl9NOW9uTWJhVDNhTnBhSQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-20T16:17:34.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "3c19c0311a07",
       "title": "メルカリ、くら寿司『ちいかわ』キャンペーン中止めぐり「必要な対応を進めています」",
       "url": "https://www.sanyonews.jp/article/1985111?kw",
@@ -2498,84 +2536,6 @@
       "publishedAt": "2026-11-20T15:57:04.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/0/3/9/4/0394cd2d2c1dbfb3773583f0d6e92cec_1.jpg",
       "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "15d1b6b28cc2",
-      "title": "ちいかわベーカリー OSAKAの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/6/30/200/187382/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-11-20T15:23:58.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/308597/normal.jpg?1781655998&w=640&h=640&t=r",
-      "categories": [
-        "other"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4e0b3c75d448",
-      "title": "しまむら、『映画ちいかわ』グッズ受注生産へ「ご好評につき」 きのう発売、購入制限など呼びかけていた",
-      "url": "https://www.sanyonews.jp/article/1986839?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-20T15:13:47.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/6/1/0/c61010ac431cc95dbe4ea8f977d9b52d_1.jpg",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ef2660418ce8",
-      "title": "「ちいかわ」紅白出場ならず。アニメ放送局の“カキネ”は理由にならないワケは？",
-      "url": "https://www.chiba-tv.com/plus/detail/2026112220979",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-11-20T15:11:24.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1496528823920018931/origin_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5cc2bef95874",
-      "title": "しまむら・アベイルで「ちいかわ」グッズが発売！アパレルやバッグ類、寒い時期に嬉しいアームウォーマーや腹巻付パンツも",
-      "url": "https://www.inside-games.jp/article/2026/11/21/191338.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-11-20T15:05:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1809355.jpg",
-      "categories": [
-        "goods",
         "collab"
       ],
       "series": [],
