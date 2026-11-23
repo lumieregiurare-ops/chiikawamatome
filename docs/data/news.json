@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-23T20:00:26.480Z",
+  "updatedAt": "2026-11-23T20:30:19.056Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 102,
-  "todayCount": 11,
+  "total": 104,
+  "todayCount": 12,
   "categories": [
     {
       "id": "goods",
@@ -32,7 +32,7 @@
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 14
+      "count": 15
     },
     {
       "id": "book",
@@ -47,19 +47,19 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 25
+      "count": 27
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 9
+      "count": 11
     },
     {
       "id": "usagi",
       "label": "うさぎ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "momonga",
@@ -94,11 +94,15 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 22
+      "count": 23
     },
     {
       "name": "インサイド",
       "count": 8
+    },
+    {
+      "name": "ナタリー",
+      "count": 3
     },
     {
       "name": "PASH! PLUS",
@@ -117,15 +121,11 @@
       "count": 2
     },
     {
-      "name": "ナタリー",
+      "name": "クランクイン！",
       "count": 2
     },
     {
       "name": "ライブドアニュース",
-      "count": 2
-    },
-    {
-      "name": "クランクイン！",
       "count": 2
     },
     {
@@ -234,8 +234,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261124-00194744-crankinn-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-23T19:10:15.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
+      "sourceCount": 4,
+      "articleCount": 6,
       "categories": [
         "other",
         "event"
@@ -265,6 +265,20 @@
           "url": "https://natalie.mu/chara/news/699215",
           "source": "ナタリー",
           "publishedAt": "2026-11-23T19:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "（写真）全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？",
+          "url": "https://www.crank-in.net/trend/gallery/report/194744/38",
+          "source": "クランクイン！",
+          "publishedAt": "2026-11-23T19:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわクリスマスマーケット」は明日より開催！ スノードームなど限定オリジナルグッズが公開（クランクイン！）",
+          "url": "https://news.yahoo.co.jp/articles/29fddcaec0ad722c065a210c881878cfd1693e68?source",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-23T09:00:00.000Z",
           "isPR": false
         }
       ]
@@ -337,35 +351,6 @@
           "url": "https://game.watch.impress.co.jp/docs/news/2157678.html",
           "source": "GAME Watch",
           "publishedAt": "2026-11-22T15:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "88b1ce361bc2",
-      "title": "【ちいかわ】クリスマスツリーやスノードームなど見どころ満載！ 限定メニューや参加型コンテンツで特別なクリスマスを楽しめる「ちいかわクリスマスマーケット」フォトレポート",
-      "summary": "",
-      "url": "https://www.pashplus.jp/report/504119/",
-      "image": "https://www.pashplus.jp/wp-content/uploads/93320f147ad50c07a6d8d6324201a9d6.jpg",
-      "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-11-23T19:07:30.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "collab",
-        "goods"
-      ],
-      "keywords": [
-        "スノードーム",
-        "クリスマス",
-        "クリスマスマーケット"
-      ],
-      "articles": [
-        {
-          "title": "「ちいかわクリスマスマーケット」は明日より開催！ スノードームなど限定オリジナルグッズが公開",
-          "url": "https://www.crank-in.net/trend/events/194563",
-          "source": "クランクイン！",
-          "publishedAt": "2026-11-23T09:00:00.000Z",
           "isPR": false
         }
       ]
@@ -594,15 +579,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "c56c2c8120c1",
+      "title": "【ちいかわ焼き幕張新都心店1周年】11月27日(金)よりマスコットに新キャラクターが登場！冬季限定のお味や冷凍商品も販売開始！",
+      "summary": "",
+      "url": "https://kawasaki.keizai.biz/release/688826/",
+      "image": "https://prtimes.jp/img/157539/26/thumb/d157539-26-e3df6269b07c554c7d77-23.jpg",
+      "leadSource": "川崎経済新聞",
+      "publishedAt": "2026-11-21T03:39:37.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "マスコット",
+        "幕張新都心店",
+        "周年"
+      ],
+      "articles": [
+        {
+          "title": "モモンガのメープルバターあんなど冬季限定3種が登場♪「ちいかわ焼き」幕張新都心店1周年で11月27日から新マスコット＆冷凍ちいかわ焼きも発売！",
+          "url": "https://nijimen.kusuguru.co.jp/topics/663846",
+          "source": "にじめん",
+          "publishedAt": "2026-11-21T01:47:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T19:30:26.410Z",
-    "previousCount": 106,
-    "newCount": 4
+    "previousAt": "2026-11-23T20:00:26.480Z",
+    "previousCount": 102,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T20:30:26.480Z",
+  "nextUpdateAt": "2026-11-23T21:00:19.056Z",
   "items": [
     {
       "id": "36ed993a5807",
@@ -617,6 +630,27 @@
         "goods"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "be1900e25f67",
+      "title": "登壇するハチワレ [画像ギャラリー 5/46]",
+      "url": "https://natalie.mu/comic/gallery/news/699025/3025652",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-23T19:13:26.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "hachiware"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -684,7 +718,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d3bd180f6da0",
@@ -766,23 +800,26 @@
       "isNew": false
     },
     {
-      "id": "de8ce04e3b79",
-      "title": "『ちいかわ』シュールなクリスマスの新グッズにネットざわつく「ジワる」「わろた」「いみわからん」「好きすぎるwwwww」",
-      "url": "https://www.sanyonews.jp/article/2012802?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "af3b844b3494",
+      "title": "（写真）全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？",
+      "url": "https://www.crank-in.net/trend/gallery/report/194744/38",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
       "summary": "",
-      "publishedAt": "2026-11-23T18:15:17.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/4/4/7/944793119dcf358d8ee21c2c327dbe24_1.jpg",
+      "publishedAt": "2026-11-23T19:00:00.000Z",
+      "image": "https://www.crank-in.net/img/db/263116242029061_1200.jpg",
       "categories": [
-        "goods"
+        "other"
       ],
-      "series": [],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "2004ca8f0664",
@@ -963,13 +1000,13 @@
     },
     {
       "id": "99341c3f3c47",
-      "title": "「ちいかわクリスマスマーケット」は明日より開催！ スノードームなど限定オリジナルグッズが公開",
-      "url": "https://www.crank-in.net/trend/events/194563",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
+      "title": "「ちいかわクリスマスマーケット」は明日より開催！ スノードームなど限定オリジナルグッズが公開（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/29fddcaec0ad722c065a210c881878cfd1693e68?source",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-23T09:00:00.000Z",
-      "image": "https://www.crank-in.net/img/db/264118196128036_1200.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00194563-crankinn-000-1-view.jpg?exp=10800",
       "categories": [
         "goods",
         "event"
@@ -1264,6 +1301,25 @@
       "isNew": false
     },
     {
+      "id": "60056abb1d06",
+      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
+      "url": "https://www.sanyonews.jp/article/1985468?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:19:01.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "af5c72003f63",
       "title": "『ちいかわ』興収189.6億円突破 今後の特典スケジュール",
       "url": "https://www.sanyonews.jp/article/2021852?kw",
@@ -1410,7 +1466,7 @@
       "host": "togetter.com",
       "source": "Togetter",
       "summary": "",
-      "publishedAt": "2026-11-22T19:27:40.000Z",
+      "publishedAt": "2026-11-22T20:09:25.000Z",
       "image": "https://s.tgstc.com/ogp3/d57fc855b98ab12f370f72ccfea60229-1200x630.jpeg",
       "categories": [
         "other"
@@ -1501,25 +1557,6 @@
       "isNew": false
     },
     {
-      "id": "60056abb1d06",
-      "title": "しまむら、『ちいかわ』コラボあすから発売 Xで呼びかけ「休業の店舗」注意喚起も",
-      "url": "https://www.sanyonews.jp/article/1985468?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-22T15:39:33.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/5/e/9/25e91728fcb1ae2f4f34337fe93e14a0_1.jpg",
-      "categories": [
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "39f151ee09b6",
       "title": "食玩「チョコサプ ちいかわ2」本日発売。ちいかわたちのフィギュア全14種が登場",
       "url": "https://game.watch.impress.co.jp/docs/news/2157678.html",
@@ -1527,7 +1564,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-22T15:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2157/678/011.jpg",
       "categories": [
         "goods"
       ],
@@ -1845,6 +1882,25 @@
       "categories": [
         "collab",
         "game"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "de8ce04e3b79",
+      "title": "『ちいかわ』シュールなクリスマスの新グッズにネットざわつく「ジワる」「わろた」「いみわからん」「好きすぎるwwwww」",
+      "url": "https://www.sanyonews.jp/article/2012802?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-22T01:24:40.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/4/4/7/944793119dcf358d8ee21c2c327dbe24_1.jpg",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -2440,6 +2496,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4e0b3c75d448",
+      "title": "しまむら、『映画ちいかわ』グッズ受注生産へ「ご好評につき」 きのう発売、購入制限など呼びかけていた",
+      "url": "https://www.sanyonews.jp/article/1986839?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T00:19:10.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/6/1/0/c61010ac431cc95dbe4ea8f977d9b52d_1.jpg",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2600,25 +2676,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3a319641ba03",
-      "title": "千秋、「ちいかわ」ハマるもグッズ収集の苦戦ぶりを明かす「全然集まりません」 穴場スポット＆私物アイテムを紹介",
-      "url": "https://www.sanyonews.jp/article/1996985?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-20T20:01:15.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/a/a/5/baa52f1712008e82898c525cc1220ef6_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
