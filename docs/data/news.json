@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-25T13:00:18.704Z",
+  "updatedAt": "2026-11-25T13:30:22.120Z",
   "site": {
     "title": "ちいかわ速報",
     "tagline": "ちいかわのグッズ・コラボ・イベント・アニメのニュースを集めています。",
     "url": "https://chiikawamatome.gamelab.website/",
     "contactUrl": ""
   },
-  "total": 176,
+  "total": 172,
   "todayCount": 57,
   "categories": [
     {
       "id": "goods",
       "label": "グッズ",
-      "count": 62
+      "count": 57
     },
     {
       "id": "kuji",
       "label": "くじ・プライズ",
-      "count": 15
+      "count": 16
     },
     {
       "id": "collab",
@@ -27,12 +27,12 @@
     {
       "id": "event",
       "label": "ポップアップ・イベント",
-      "count": 38
+      "count": 39
     },
     {
       "id": "anime",
       "label": "アニメ・映画",
-      "count": 14
+      "count": 15
     },
     {
       "id": "book",
@@ -47,14 +47,14 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 47
+      "count": 45
     }
   ],
   "series": [
     {
       "id": "hachiware",
       "label": "ハチワレ",
-      "count": 30
+      "count": 19
     },
     {
       "id": "usagi",
@@ -64,7 +64,7 @@
     {
       "id": "momonga",
       "label": "モモンガ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kurimanju",
@@ -74,12 +74,12 @@
     {
       "id": "rakko",
       "label": "ラッコ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "shisa",
       "label": "シーサー",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kuma",
@@ -90,39 +90,39 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 38
+      "count": 39
     },
     {
       "name": "ナタリー",
-      "count": 29
+      "count": 16
+    },
+    {
+      "name": "電撃オンライン",
+      "count": 11
     },
     {
       "name": "インサイド",
       "count": 10
     },
     {
-      "name": "電撃オンライン",
-      "count": 9
-    },
-    {
       "name": "オリコンニュース",
-      "count": 6
+      "count": 7
     },
     {
       "name": "コラボカフェ",
       "count": 6
     },
     {
-      "name": "山陽新聞",
+      "name": "マイナビニュース",
       "count": 6
     },
     {
-      "name": "マイナビニュース",
+      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 4
+      "name": "にじめん",
+      "count": 5
     },
     {
       "name": "クランクイン！",
@@ -133,11 +133,11 @@
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "いこーよニュース",
       "count": 3
     },
     {
-      "name": "にじめん",
+      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -149,7 +149,7 @@
       "count": 3
     },
     {
-      "name": "Howl.Link",
+      "name": "ｄメニューニュース",
       "count": 2
     },
     {
@@ -161,16 +161,24 @@
       "count": 2
     },
     {
-      "name": "いこーよニュース",
+      "name": "ふくおかナビ",
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
+      "name": "中日新聞Web",
+      "count": 2
+    },
+    {
+      "name": "Dtimes",
       "count": 2
     },
     {
       "name": "キャラグー",
       "count": 2
+    },
+    {
+      "name": "Howl.Link",
+      "count": 1
     },
     {
       "name": "coki",
@@ -185,15 +193,7 @@
       "count": 1
     },
     {
-      "name": "Togetter",
-      "count": 1
-    },
-    {
-      "name": "https://mediadogs.jp/",
-      "count": 1
-    },
-    {
-      "name": "ふくおかナビ",
+      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -205,7 +205,7 @@
       "count": 1
     },
     {
-      "name": "中日新聞Web",
+      "name": "ASCII.jp",
       "count": 1
     },
     {
@@ -233,6 +233,10 @@
       "count": 1
     },
     {
+      "name": "ウレぴあ総研",
+      "count": 1
+    },
+    {
       "name": "J-CAST ニュース",
       "count": 1
     },
@@ -241,15 +245,15 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
       "name": "東奥日報社",
       "count": 1
     },
     {
       "name": "食品産業新聞社ニュースWEB",
+      "count": 1
+    },
+    {
+      "name": "財経新聞",
       "count": 1
     },
     {
@@ -265,11 +269,11 @@
       "count": 1
     },
     {
-      "name": "Dtimes",
+      "name": "ファミ通",
       "count": 1
     },
     {
-      "name": "ファミ通",
+      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -289,7 +293,15 @@
       "count": 1
     },
     {
+      "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
       "name": "朝日新聞",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -307,7 +319,7 @@
       "leadSource": "オリコンニュース",
       "publishedAt": "2026-11-25T11:57:50.000Z",
       "sourceCount": 14,
-      "articleCount": 27,
+      "articleCount": 19,
       "categories": [
         "collab",
         "event"
@@ -315,7 +327,7 @@
       "keywords": [
         "セブン",
         "コラボ",
-        "ハチワレ"
+        "イレブン"
       ],
       "articles": [
         {
@@ -340,6 +352,13 @@
           "isPR": false
         },
         {
+          "title": "ちいかわ × セブン 12月3日より冬もちいかわとワクワク開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-shop-tieup-seven-eleven-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-24T07:48:34.000Z",
+          "isPR": false
+        },
+        {
           "title": "「ちいかわ×セブン‐イレブン」コラボ食品全12品が11月30日より順次発売！作中の「背徳ラーメン」をイメージしたメニューも",
           "url": "https://nijimen.kusuguru.co.jp/topics/666265",
           "source": "にじめん",
@@ -361,15 +380,8 @@
           "isPR": false
         },
         {
-          "title": "「サンドなマスコット（ハチワレ）」 [画像ギャラリー 12/25]",
-          "url": "https://natalie.mu/comic/gallery/news/699353/3026194",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-24T05:36:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「スタッフさんなマスコット（ハチワレ）」 [画像ギャラリー 7/25]",
-          "url": "https://natalie.mu/comic/gallery/news/699353/3026179",
+          "title": "「ハチワレ食パン」 [画像ギャラリー 4/25]",
+          "url": "https://natalie.mu/comic/gallery/news/699353/2700538",
           "source": "ナタリー",
           "publishedAt": "2026-11-24T05:36:02.000Z",
           "isPR": false
@@ -377,25 +389,32 @@
       ]
     },
     {
-      "id": "c149bc1ecf82",
-      "title": "ちいかわクリスマスマーケット、初日に当日分グッズ完売 12月4日からオンラインで予約販売へ",
-      "summary": "",
-      "url": "https://mediadogs.jp/2026/11/25/chiikawa-xmas-market-preorder/",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/chiikawa-xmas-market-preorder-eyecatch.webp",
-      "leadSource": "https://mediadogs.jp/",
-      "publishedAt": "2026-11-25T06:25:35.000Z",
-      "sourceCount": 10,
-      "articleCount": 12,
+      "id": "b82a4118a834",
+      "title": "初日午前で完売グッズ続出…「ちいかわクリスマスマーケット」 オンラインストアで予約販売へ",
+      "summary": "イベント「ちいかわクリスマスマーケット」が2026年11月24日より豊砂公園（イオンモール幕張新都心前）にてスタート。初日より完売商品が相次ぎ、「ちいかわぽけっとグッズストア（オンラインストア）」で予約販売を実施することが決定した。",
+      "url": "https://animeanime.jp/article/2026/11/25/105065.html",
+      "image": "https://animeanime.jp/imgs/rss/959992.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-11-25T04:46:00.000Z",
+      "sourceCount": 12,
+      "articleCount": 14,
       "categories": [
         "goods",
         "event"
       ],
       "keywords": [
         "クリスマスマーケット",
-        "完売",
-        "予約販売"
+        "予約販売",
+        "完売"
       ],
       "articles": [
+        {
+          "title": "「ちいかわクリスマスマーケット」グッズの予約販売が決定！ちいかわぽけっとグッズストアで12月4日から受付",
+          "url": "https://nijimen.kusuguru.co.jp/topics/667252",
+          "source": "にじめん",
+          "publishedAt": "2026-11-25T04:46:00.000Z",
+          "isPR": false
+        },
         {
           "title": "「ちいかわクリスマスマーケット」、グッズ対応を謝罪 初日の“午前中”に完売、オンライン予約販売を発表",
           "url": "https://www.topics.or.jp/articles/-/1531116",
@@ -418,6 +437,13 @@
           "isPR": false
         },
         {
+          "title": "『ちいかわクリスマスマーケット』グッズが12月4日よりオンライン予約販売決定",
+          "url": "https://dengekionline.com/article/202611/94984",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-25T02:35:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "「ちいかわ」クリスマスマーケット、グッズ予約販売へ 公式が謝罪 初日から完売…不満の声受け対応発表（スポニチアネックス）",
           "url": "https://news.yahoo.co.jp/articles/e7a50e12769feff99e1023dd25505eecaa3010ce",
           "source": "Yahoo!ニュース",
@@ -426,7 +452,7 @@
         },
         {
           "title": "ちいかわクリスマスマーケット、グッズ予約販売へ 最終入場前に当日分グッズ完売→SNSで不満や落胆の声も - J-CAST ニュース",
-          "url": "https://www.j-cast.com/2026/11/24519385.html",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfenlyeFpPRHVMZFFyZFVMMExja3JmZFFoOWpSb2ZPTTJva1BLN1ZQb2ZQYUs4a052d1FXVWs0bkU3YzV3LTBrRWFzOXdiS3BKc3ZuUzJvdw?oc=5",
           "source": "J-CAST ニュース",
           "publishedAt": "2026-11-24T10:42:13.000Z",
           "isPR": false
@@ -437,36 +463,22 @@
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-24T10:32:00.000Z",
           "isPR": false
-        },
-        {
-          "title": "（写真）初日迎えた「ちいかわクリスマスマーケット」が謝罪 開始約4時間でグッズ当日分完売 予約販売を発表",
-          "url": "https://www.crank-in.net/trend/gallery/trip/194812",
-          "source": "クランクイン！",
-          "publishedAt": "2026-11-24T10:32:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "チケットは完売 ちいかわクリスマスマーケット開催",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVpVV2FCbjVRbkRKZUhDeEhFdGtCa3ctemk1cjBlYk1BNlNjN1EyWmFya2V5RjZMWFA5Ujdyb1duZ19GWlRfcGZwYl9USE5OenBVdEY4OVpzOENMSC1ESjZFTWd3TVFhNXZSc2MzOUlBWFg2TXFHdzl1WVhGaVk5TTN3amNBX0diX3fSAY8BQVVfeXFMTjFncm9zb0pIVEdRcVo1allDVG1YeFFySUN0a3RLdHRZc1lSY3IyLUhZS1pIQjhYaW50TThSS0gyeDJLWmdTQmM0S3VEc1czNmVJNlN2aUx0bDFLQlNmWURTOXkzTi1JRlBQd0hFQTdBeVdmbE1VanVCOG1YVm0td2RCYXRxcVJiUTlyYXl5cnM?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-11-24T09:45:00.000Z",
-          "isPR": false
         }
       ]
     },
     {
-      "id": "ba3882a5fd0a",
-      "title": "「ちいかわ」こたつから出られないよッ…!! 冬を過ごすみんなが可愛すぎ♪ セブンイレブンでハズレなしくじ今年も発売",
-      "summary": "「ちいかわ」より、冬のあったか時間をテーマにしたレトロかわいい「エニマイくじ」が登場。2026年12月12日（土）より、全国のセブン‐イレブン、イトーヨーカドー店舗にて販売される。",
-      "url": "https://animeanime.jp/article/2026/11/24/105052.html",
-      "image": "https://animeanime.jp/imgs/rss/959652.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-24T09:00:03.000Z",
+      "id": "3e4480fa6145",
+      "title": "「エニマイくじ ちいかわ」12月12日発売！ラスト賞はあのこのしっぽが揺れる振り子時計",
+      "summary": "",
+      "url": "https://nijimen.kusuguru.co.jp/topics/666606",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/585da008002c4d08a16f5bbb7f5f0090.png",
+      "leadSource": "にじめん",
+      "publishedAt": "2026-11-24T12:57:00.000Z",
       "sourceCount": 9,
-      "articleCount": 10,
+      "articleCount": 9,
       "categories": [
-        "goods",
-        "kuji"
+        "kuji",
+        "goods"
       ],
       "keywords": [
         "エニマイ",
@@ -475,9 +487,9 @@
       ],
       "articles": [
         {
-          "title": "「ちいかわ」冬のエニマイくじが今年も登場 こたつでぬくぬくするジオラマやぬいぐるみ、ラスト賞は振り子時計",
-          "url": "https://news.infoseek.co.jp/article/cinemacafenet_114372/",
-          "source": "Infoseek",
+          "title": "「ちいかわ」冬のエニマイくじが今年も登場 こたつでぬくぬくするジオラマやぬいぐるみ、ラスト賞は振り子時計（cinemacafe.net）",
+          "url": "https://news.yahoo.co.jp/articles/8b1d8074da5b23e7869e1b2d8da93e9108ecdbd1",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-24T09:00:03.000Z",
           "isPR": false
         },
@@ -496,24 +508,10 @@
           "isPR": false
         },
         {
-          "title": "「エニマイくじ ちいかわ」今年の冬も発売決定！！",
-          "url": "https://news.nicovideo.jp/watch/nw20024420?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-24T04:51:30.000Z",
-          "isPR": false
-        },
-        {
           "title": "『ちいかわ』エニマイくじまとめ。ゾウの加湿器やあのこの時計も",
           "url": "https://dengekionline.com/article/images/202611/94867/939205",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-24T04:35:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわ」エニマイくじ こたつでくつろぐジオラマや吊るし柿になっちゃったマスコット",
-          "url": "https://natalie.mu/comic/news/699319",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-24T04:15:00.000Z",
           "isPR": false
         },
         {
@@ -524,10 +522,24 @@
           "isPR": false
         },
         {
+          "title": "「エニマイくじ ちいかわ」今年の冬も発売決定！！",
+          "url": "https://animeanime.jp/release/prtimes/20261124/328956.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-11-24T02:46:51.000Z",
+          "isPR": false
+        },
+        {
           "title": "「エニマイくじ ちいかわ」の新作が12月12日発売！こたつで温まるジオラマフィギュア、ゾウの加湿器、あのこ振り子時計など“冬”グッズ盛りだくさん",
           "url": "https://www.inside-games.jp/article/2026/11/24/191452.html",
           "source": "インサイド",
           "publishedAt": "2026-11-24T02:00:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ちいかわ』エニマイくじ、12．12発売！ 冬をのんびりと過ごすちいかわたちをデザイン",
+          "url": "https://www.crank-in.net/trend/item/194747",
+          "source": "クランクイン！",
+          "publishedAt": "2026-11-24T01:37:00.000Z",
           "isPR": false
         }
       ]
@@ -540,7 +552,7 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-10290670-abemad-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-25T11:15:34.000Z",
-      "sourceCount": 5,
+      "sourceCount": 6,
       "articleCount": 12,
       "categories": [
         "other",
@@ -548,8 +560,8 @@
       ],
       "keywords": [
         "うさぎ",
-        "ハチワレ",
-        "クリスマスマーケット"
+        "クリスマスマーケット",
+        "点灯式"
       ],
       "articles": [
         {
@@ -560,7 +572,7 @@
           "isPR": false
         },
         {
-          "title": "【写真・画像】点灯式にちいかわ・ハチワレ・うさぎが登場！「ちいかわクリスマスマーケット」レポート 8枚目",
+          "title": "【写真・画像】点灯式にちいかわ・ハチワレ・うさぎが登場！「ちいかわクリスマスマーケット」レポート 6枚目",
           "url": "https://times.abema.tv/articles/photo/10292117?pn",
           "source": "ABEMA TIMES",
           "publishedAt": "2026-11-25T11:03:00.000Z",
@@ -595,18 +607,75 @@
           "isPR": false
         },
         {
-          "title": "左からハチワレ、ちいかわ、うさぎ [画像ギャラリー 8/46]",
-          "url": "https://natalie.mu/comic/gallery/news/699025/3025663",
+          "title": "「ちいかわクリスマスマーケット」本日スタート！ちいかわたちがツリーの点灯式に登場（イベントレポート / 写真83枚） - キャラなた",
+          "url": "https://natalie.mu/chara/news/699215",
           "source": "ナタリー",
-          "publishedAt": "2026-11-23T19:13:27.000Z",
+          "publishedAt": "2026-11-23T19:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "登壇するハチワレ [画像ギャラリー 5/46]",
-          "url": "https://natalie.mu/comic/gallery/news/699025/3025652",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-23T19:13:26.000Z",
+          "title": "全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？",
+          "url": "https://www.crank-in.net/trend/report/194744",
+          "source": "クランクイン！",
+          "publishedAt": "2026-11-23T19:00:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "682e6912b937",
+      "title": "「ちいかわベーカリー」のポップアップが名古屋PARCOで12月11日から、名古屋限定の小豆入り食パンも",
+      "summary": "",
+      "url": "https://enuchi.jp/14740/chiikawa-bakery-nagoya-popup-202612",
+      "image": "https://image.enuchi.jp/upload/20261125/images/thumb_chiikawa_bakery_nagoya.jpg",
+      "leadSource": "えんウチ",
+      "publishedAt": "2026-11-25T04:00:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
+      "categories": [
+        "collab",
+        "event"
+      ],
+      "keywords": [
+        "ベーカリー",
+        "名古屋",
+        "名古屋限定"
+      ],
+      "articles": [
+        {
+          "title": "【ちいかわベーカリー】名古屋でPOP UP開催！ 名古屋限定は小豆とマーガリン入り（アニメージュプラス）",
+          "url": "https://news.yahoo.co.jp/articles/503507b4d9036093da405b43702a0ca34db82473",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-24T12:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわベーカリー POP UP SHOP in 名古屋 12月11日より開催!",
+          "url": "https://collabo-cafe.com/events/collabo/chiikawa-bakery-nagoya-popup-parco-2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-24T08:57:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ちいかわベーカリーが名古屋PARCOに！名古屋限定の小豆入り食パン950円、12月11日から",
+          "url": "https://report.iko-yo.net/articles/35921",
+          "source": "いこーよニュース",
+          "publishedAt": "2026-11-24T07:02:43.000Z",
+          "isPR": false
+        },
+        {
+          "title": "名古屋限定の小豆入り食パンが登場！ちいかわベーカリー「ちいかわベーカリー NAGOYA POP UP SHOP」",
+          "url": "https://dtimes.jp/post-1478247/",
+          "source": "Dtimes",
+          "publishedAt": "2026-11-24T05:42:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ちいかわベーカリー NAGOYA POP UP SHOP」が名古屋PARCOで初開催決定！！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000339.000086964.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-24T04:00:01.000Z",
+          "isPR": true
         }
       ]
     },
@@ -681,59 +750,9 @@
         },
         {
           "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント",
-          "url": "https://www.inside-games.jp/article/2026/11/24/191500.html",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNDZPUEpPUlJzQ0VfVE4yWGhseHI1MjdrT0JWTmM5YVVkMHAzWTU1Q1NUODNIcUdLYVVwR1ZKSzFmNk1ZQjhKM0RBNjhnb0tYTXFQNFI2TmZEa2tiUy14MkZxYVBoMDhKSXc?oc=5",
           "source": "インサイド",
           "publishedAt": "2026-11-24T13:30:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "c886bf7b6e4c",
-      "title": "【ちいかわ×セブン】大規模コラボ開催。背徳ラーメンや限定グッズが登場",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202611/94999",
-      "image": "https://cimg.kgl-systems.io/camion/files/94999/ogp_eGjp.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-11-25T04:34:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "keywords": [
-        "セブン",
-        "コラボ",
-        "ラーメン"
-      ],
-      "articles": [
-        {
-          "title": "セブンで『ちいかわ』大型コラボ！全12品のコラボ商品登場 背徳ラーメン、中華まん、コーヒーカップまで限定仕様（オタク総研）",
-          "url": "https://news.yahoo.co.jp/articles/57ce589c7c4cb01eb9207b2bad68647b3902df82",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-25T03:12:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "セブンで「ちいかわ」コラボ祭り再び！ 背徳ラーメンや三ツ星オムライス、モモンガのオムレットまで - 週刊アスキー",
-          "url": "https://t.co/R2L3Y26plx",
-          "source": "Howl.Link",
-          "publishedAt": "2026-11-25T02:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "セブン‐イレブン「ちいかわ」コラボ 背徳ラーメンやオムライス、限定グッズ・キャンペーンも",
-          "url": "https://www.ssnp.co.jp/distribution/712980/",
-          "source": "食品産業新聞社ニュースWEB",
-          "publishedAt": "2026-11-24T08:10:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【セブン】ちいかわ新コラボ！ 「今年も」「来たわね」… ケーキも 中華まんも オムライスも（LASISA）",
-          "url": "https://news.yahoo.co.jp/articles/e72ce792e2e7b94e2b98dee563612c52c3c39dff",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-24T04:05:00.000Z",
           "isPR": false
         }
       ]
@@ -746,8 +765,8 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-65.jpg",
       "leadSource": "電ファミニコゲーマー",
       "publishedAt": "2026-11-24T13:45:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
+      "sourceCount": 5,
+      "articleCount": 6,
       "categories": [
         "anime",
         "other"
@@ -785,91 +804,62 @@
           "source": "ナタリー",
           "publishedAt": "2026-11-24T08:00:00.000Z",
           "isPR": false
+        },
+        {
+          "title": "アニメ『ちいかわ』ピアノBOOK 12月11日発売!!（株式会社シンコーミュージック・エンタテイメント プレスリリース）",
+          "url": "https://www.zaikei.co.jp/releases/3731182/",
+          "source": "財経新聞",
+          "publishedAt": "2026-11-24T08:00:00.000Z",
+          "isPR": false
         }
       ]
     },
     {
-      "id": "682e6912b937",
-      "title": "「ちいかわベーカリー」のポップアップが名古屋PARCOで12月11日から、名古屋限定の小豆入り食パンも",
+      "id": "c886bf7b6e4c",
+      "title": "【ちいかわ×セブン】大規模コラボ開催。背徳ラーメンや限定グッズが登場",
       "summary": "",
-      "url": "https://enuchi.jp/14740/chiikawa-bakery-nagoya-popup-202612",
-      "image": "https://image.enuchi.jp/upload/20261125/images/thumb_chiikawa_bakery_nagoya.jpg",
-      "leadSource": "えんウチ",
-      "publishedAt": "2026-11-25T04:00:00.000Z",
+      "url": "https://dengekionline.com/article/202611/94999",
+      "image": "https://cimg.kgl-systems.io/camion/files/94999/ogp_eGjp.jpg?x=1280",
+      "leadSource": "電撃オンライン",
+      "publishedAt": "2026-11-25T04:34:00.000Z",
       "sourceCount": 4,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
-        "collab",
-        "event"
-      ],
-      "keywords": [
-        "ベーカリー",
-        "名古屋",
-        "pop"
-      ],
-      "articles": [
-        {
-          "title": "【ちいかわベーカリー】名古屋でPOP UP開催！ 名古屋限定は小豆とマーガリン入り（アニメージュプラス）",
-          "url": "https://news.yahoo.co.jp/articles/503507b4d9036093da405b43702a0ca34db82473",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-24T12:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ちいかわベーカリー POP UP SHOP in 名古屋 12月11日より開催!",
-          "url": "https://collabo-cafe.com/events/collabo/chiikawa-bakery-nagoya-popup-parco-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-11-24T08:57:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ちいかわベーカリー NAGOYA POP UP SHOP」が名古屋PARCOで初開催決定！！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000339.000086964.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-24T04:00:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "33f714106699",
-      "title": "ちいかわ×東京ばな奈のトートバッグが1,350円、グランスタ東京のポップアップで11月24日から",
-      "summary": "",
-      "url": "https://enuchi.jp/14729/chiikawa-tokyobanana-popup-202611",
-      "image": "https://image.enuchi.jp/upload/20261124/images/thumb_chiikawa_tokyobanana.jpg",
-      "leadSource": "えんウチ",
-      "publishedAt": "2026-11-24T03:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "event",
+        "goods",
         "collab"
       ],
       "keywords": [
-        "ポップアップ",
-        "東京",
-        "スイーツ"
+        "セブン",
+        "コラボ",
+        "ラーメン"
       ],
       "articles": [
         {
-          "title": "「ちいかわ」×「東京ばな奈」 ポップアップストアがグランスタ東京に!限定トートバッグやステッカー付きスイーツも（めざましmedia）",
-          "url": "https://news.yahoo.co.jp/articles/320f7515af24fcb7d9f93fc5f0fd7ee5ad740435",
+          "title": "セブンで『ちいかわ』大型コラボ！全12品のコラボ商品登場 背徳ラーメン、中華まん、コーヒーカップまで限定仕様（オタク総研）",
+          "url": "https://news.yahoo.co.jp/articles/57ce589c7c4cb01eb9207b2bad68647b3902df82",
           "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-23T07:56:15.000Z",
+          "publishedAt": "2026-11-25T03:12:00.000Z",
           "isPR": false
         },
         {
-          "title": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開（クランクイン！）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZVVYNE5IdlJnb0dhOGNQcV9DX1phRU5JaVIxREcyM2VKc0ZXZW1BRlZfNDBPLXBCQXBuRGFyc3FFY2t2QjRyMVlTZExDYlZRN3hrejZYUURINTlDVWgyN3l6akxFOG9EN0dqaVpKWC1uWU9NeFhBNWNaU1hrdzQ?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-23T01:00:00.000Z",
+          "title": "セブンで「ちいかわ」コラボ祭り再び！ 背徳ラーメンや三ツ星オムライス、モモンガのオムレットまで",
+          "url": "https://ascii.jp/elem/000/004/454/4454351/",
+          "source": "ASCII.jp",
+          "publishedAt": "2026-11-25T02:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "（写真）東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mZ0tDdHk0dk1FZFB5Yk90YXlSSW55M3VZTU9MRHp6TTRZRlI4bnV6endKRW8xNDV5ekxRQkxpWVNXLVVlSVZQeXFuU2NyUHJRWjhuOUh1c3VDNFhfTUtMTV9YN0U?oc=5",
-          "source": "クランクイン！",
-          "publishedAt": "2026-11-23T01:00:00.000Z",
+          "title": "セブン‐イレブン「ちいかわ」コラボ 背徳ラーメンやオムライス、限定グッズ・キャンペーンも",
+          "url": "https://www.ssnp.co.jp/distribution/712980/",
+          "source": "食品産業新聞社ニュースWEB",
+          "publishedAt": "2026-11-24T08:10:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【セブン】ちいかわ新コラボ！ 「今年も」「来たわね」… ケーキも 中華まんも オムライスも（LASISA）",
+          "url": "https://news.yahoo.co.jp/articles/e72ce792e2e7b94e2b98dee563612c52c3c39dff",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-24T04:05:00.000Z",
           "isPR": false
         }
       ]
@@ -979,15 +969,50 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "21f13429f636",
+      "title": "「チョコサプちいかわ2」1つ開封でまさかのシークレット！？（ダイスチャンネル） - エキスパート",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/expert/articles/6246900c0c32f97e0b8ea17654e5ff628d261e92",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/dicchannel/02773634/title-1795523384806.jpeg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-24T21:01:36.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "チョコサプ",
+        "うさぎ",
+        "シークレット"
+      ],
+      "articles": [
+        {
+          "title": "【ちいかわ】人気のチョコサプ第2弾をコンビニでゲット！うさぎやシークレット狙いで開封します！（jsc） - エキスパート",
+          "url": "https://news.yahoo.co.jp/expert/articles/77c14d10a48b5bcbbc07f0ad7ac4fe1b4d783953",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-24T11:05:13.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「チョコサプ ちいかわ2」発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など全14種",
+          "url": "https://news.infoseek.co.jp/article/inside_191425/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-23T01:10:03.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-25T12:30:20.071Z",
-    "previousCount": 172,
-    "newCount": 17
+    "previousAt": "2026-11-25T13:00:18.704Z",
+    "previousCount": 176,
+    "newCount": 15
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-25T13:30:18.704Z",
+  "nextUpdateAt": "2026-11-25T14:00:22.120Z",
   "items": [
     {
       "id": "fc9c025a0e6c",
@@ -1007,7 +1032,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7968d19dccf9",
@@ -1026,7 +1051,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e1b2a86d31f8",
@@ -1075,7 +1100,7 @@
       "source": "coki",
       "summary": "",
       "publishedAt": "2026-11-25T11:41:46.000Z",
-      "image": "https://coki.jp/wp-content/uploads/2026/11/kurazushi_chiikawa.jpg",
+      "image": "https://coki.jp/wp-content/uploads/2026/11/kurazushi_chiikawa2.jpg",
       "categories": [
         "other"
       ],
@@ -1084,7 +1109,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cd3ed5001137",
@@ -1131,7 +1156,7 @@
     },
     {
       "id": "8f93c6664d12",
-      "title": "【写真・画像】点灯式にちいかわ・ハチワレ・うさぎが登場！「ちいかわクリスマスマーケット」レポート 8枚目",
+      "title": "【写真・画像】点灯式にちいかわ・ハチワレ・うさぎが登場！「ちいかわクリスマスマーケット」レポート 6枚目",
       "url": "https://times.abema.tv/articles/photo/10292117?pn",
       "host": "times.abema.tv",
       "source": "ABEMA TIMES",
@@ -1236,7 +1261,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-25T10:20:20.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-00000551-oric-000-10-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-00000551-oric-000-12-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -1264,7 +1289,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "519f50e7e756",
@@ -1307,25 +1332,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5c14038338dc",
-      "title": "グッズ即完売で炎上中のちいかわクリスマスマーケット、グッズ予約販売決定も「結局は早いもの勝ち」と困惑＆失望の声",
-      "url": "https://togetter.com/li/2774838",
-      "host": "togetter.com",
-      "source": "Togetter",
-      "summary": "",
-      "publishedAt": "2026-11-25T08:57:04.000Z",
-      "image": "https://s.tgstc.com/ogp3/9af69e43d957a34f61239aa07b7f0b9c-1200x630.jpeg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "392bb9084b59",
@@ -1389,19 +1395,19 @@
     {
       "id": "c3de4aa4ca7b",
       "title": "「地獄絵図すぎる」ちいかわクリスマスマーケット 大混雑→グッズ即完売→大豪雨でファン悲鳴…転売サイトにも出品多数で露呈する“運営の不手際”（女性自身）",
-      "url": "https://news.yahoo.co.jp/articles/8b1d7d5e18d49e4e172335d7b5a9826a55eb0d03",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xRldUOUpsRVYxREtJQ1VsWFJqYnBGM3lJUllGZWoteEkwTHR1Uy1faTBqSDRiRUFzTkV6UUVOdzVLOHotYlZsRWR0NHJPamI5aEdQNGEwQmlSSF9fRGtNY0dvQU9uTTBuZHBNN2FZZm5KbXk3M0pDLWNlOWNZNVU?oc=5",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-25T08:10:46.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261125-00000044-jisin-000-2-view.jpg?exp=10800",
+      "image": "",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1463,14 +1469,14 @@
       "isNew": false
     },
     {
-      "id": "c149bc1ecf82",
-      "title": "ちいかわクリスマスマーケット、初日に当日分グッズ完売 12月4日からオンラインで予約販売へ",
-      "url": "https://mediadogs.jp/2026/11/25/chiikawa-xmas-market-preorder/",
-      "host": "mediadogs.jp",
-      "source": "https://mediadogs.jp/",
+      "id": "d2ab49217325",
+      "title": "ちいかわ プレゼントフォーユーなマスコット 11月下旬より登場!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-prize-present-for-you-mascot-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-11-25T06:25:35.000Z",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/chiikawa-xmas-market-preorder-eyecatch.webp",
+      "publishedAt": "2026-11-25T06:07:06.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-prize-present-for-you-mascot-2026-eyecatch.jpg",
       "categories": [
         "goods"
       ],
@@ -1479,7 +1485,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c5c9c818f299",
@@ -1522,38 +1528,19 @@
     {
       "id": "12ee9e61a6a5",
       "title": "【東京コミコン2026】グレイ・パーカー・サービスが出展決定 - 『ハズビン・ホテルへようこそ』新商品を先行販売、「ちいかわ」「ヒロアカ」アイテムも展示",
-      "url": "https://news.mynavi.jp/article/20261125-5405595/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40UHJYTWltdWU3SC1FZFpMVGhJa3NzTVV5bUZXVlRMS2tMVkFKcHoxTVZZTDMxT0d5TFZSQlBSek9HZnRaZ1B6LUxDSE45X0NqZHZ2NjZjYUtkNkJs?oc=5",
       "host": "news.mynavi.jp",
       "source": "マイナビニュース",
       "summary": "",
       "publishedAt": "2026-11-25T05:36:51.000Z",
-      "image": "https://news.mynavi.jp/article/20261125-5405595/ogp_images/ogp.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d2ab49217325",
-      "title": "ちいかわ プレゼントフォーユーなマスコット 11月下旬より登場!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-prize-present-for-you-mascot-2026/?amp",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-11-25T05:15:41.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-prize-present-for-you-mascot-2026-eyecatch.jpg",
-      "categories": [
-        "goods"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1569,6 +1556,25 @@
       "categories": [
         "goods",
         "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "94aae253a6d3",
+      "title": "【ちいかわクリスマスマーケット】に行ってきた！注目グッズや映えスポットを徹底紹介",
+      "url": "https://article.auone.jp/18146157-afb0-43e7-b2c6-5c4ac5e726f7",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-25T04:37:32.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/25/https___news_jp_i_1498181285750653498_w733.webp",
+      "categories": [
+        "goods"
       ],
       "series": [],
       "isOfficial": false,
@@ -1598,23 +1604,23 @@
       "isNew": false
     },
     {
-      "id": "94aae253a6d3",
-      "title": "【ちいかわクリスマスマーケット】に行ってきた！注目グッズや映えスポットを徹底紹介",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lNmJNNWNrbFhIVEVCbjY2a1Z3aUVxbGZVd0pBOHhoM250M3BQMGJMZzgxOWJuWFRJd1lqM2FVX3g2RVppU3NWM0Z3dWFuaUxHMGNCWTJRdmRzUzZ1NHlwaldFbVJsX3ktVlQwUTFNenFYMy1JNGgxeW1GSFI1SVnSAX9BVV95cUxPZTZiTTVja2xYSFRFQm42NmtWd2lFcWxmVXdKQTh4aDNudDNwUDBiTGc4MTliblhUSXdZajNhVV94NkVaaVNzVjNGd3VhbmlMRzBjQlkyUXZkc1M2dTR5cGpXRW1SbF95LVZUMFExTXpxWDMtSTRoMXltRkhSNUlZ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "id": "aedf6ce5b86a",
+      "title": "ちいかわのぷくっと＆ちゅるちゅるシール第2弾！カプセルトイ「PUKU CHURU seal②」11月下旬より順次発売",
+      "url": "https://nijimen.kusuguru.co.jp/topics/667243",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
       "summary": "",
-      "publishedAt": "2026-11-25T04:19:00.000Z",
-      "image": "",
+      "publishedAt": "2026-11-25T04:32:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/76e459a1d64643c2a57983acb7efcf70.png",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "682e6912b937",
@@ -1777,6 +1783,25 @@
       "isNew": false
     },
     {
+      "id": "a0e7f9062462",
+      "title": "「ガチ喧嘩が起きててやばい」ちいかわクリスマスマーケット、初日から混乱続きで公式が謝罪 遠征組は悲鳴「地面は湖」「旅費返して」",
+      "url": "https://www.chunichi.co.jp/article/1344356",
+      "host": "chunichi.co.jp",
+      "source": "中日新聞Web",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:53:59.000Z",
+      "image": "https://static.chunichi.co.jp/image/article/size1/5/9/3/6/593662caf409b5a0c6522fa2f5aef7e5_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "aafddea20165",
       "title": "【実際の投稿】品切れ続出…ちいかわクリスマスマーケット、急きょ発表された予約販売の詳細",
       "url": "https://www.chunichi.co.jp/article/1344357",
@@ -1815,14 +1840,33 @@
       "isNew": false
     },
     {
+      "id": "ce2adef5a17c",
+      "title": "【GU×ちいかわ】第2弾♡ふわもこルームウェアが登場！",
+      "url": "https://www.fukuoka-navi.jp/422358",
+      "host": "fukuoka-navi.jp",
+      "source": "ふくおかナビ",
+      "summary": "",
+      "publishedAt": "2026-11-25T02:00:34.000Z",
+      "image": "https://www.fukuoka-navi.jp/wp-content/uploads/2026/11/res76b967f00eaddfc1dcaed644ccf9c8aefr.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bd2f0ffdd65a",
-      "title": "セブンで「ちいかわ」コラボ祭り再び！ 背徳ラーメンや三ツ星オムライス、モモンガのオムレットまで - 週刊アスキー",
-      "url": "https://t.co/R2L3Y26plx",
-      "host": "t.co",
-      "source": "Howl.Link",
+      "title": "セブンで「ちいかわ」コラボ祭り再び！ 背徳ラーメンや三ツ星オムライス、モモンガのオムレットまで",
+      "url": "https://ascii.jp/elem/000/004/454/4454351/",
+      "host": "ascii.jp",
+      "source": "ASCII.jp",
       "summary": "",
       "publishedAt": "2026-11-25T02:00:00.000Z",
-      "image": "",
+      "image": "https://ascii.jp/img/2026/11/25/4556201/xl/9f85464af3cdfc4e.jpg?20200122",
       "categories": [
         "collab"
       ],
@@ -1977,16 +2021,37 @@
     {
       "id": "6d3da01dc131",
       "title": "『ちいかわ』モブたちの選択は誤っていた…!? なんともイヤ～な“後味の悪さ”が残る「忘れがたいエピソード」",
-      "url": "https://futaman.futabanet.jp/articles/-/132853",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0NzZwR00zWVlvOUE3YnV4ZnJPcVAxb3M5eXBhM3ZkOFRqbTh3bVN1RktPVTVURmRnX3RuaWkwaEttaXNDRFJBUkFheHFwczZGd3FfekRpV0pwZw?oc=5",
       "host": "futaman.futabanet.jp",
       "source": "ふねぽ",
       "summary": "",
       "publishedAt": "2026-11-24T21:30:00.000Z",
-      "image": "https://futaman.ismcdn.jp/mwimgs/e/4/1200wm/img_e4aa041f0eb332fa008c4dd243dfc84248535.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4afdaed9e50c",
+      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
+      "url": "https://www.sanyonews.jp/article/1982996?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-24T21:08:45.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/c/3/20c3bd5fd117f75e8519caa6e4337ef1_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "kuma"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2032,27 +2097,6 @@
       "isNew": false
     },
     {
-      "id": "ca679f010bc9",
-      "title": "「ちいかわ」「ハチワレ」の顔を再現、棒付きチョコレート9・8より発売 台紙デザインは全12種",
-      "url": "https://www.sanyonews.jp/article/1981814?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-24T20:48:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/3/3/0/9330868805992da73eb6821cdc575f99_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "91965fea98c8",
       "title": "「ちいかわ×CITEN」スペシャルコレクション 6アイテムがきょう15日から順次販売【アイテム全カット】",
       "url": "https://www.sanyonews.jp/article/1989116?kw",
@@ -2065,27 +2109,6 @@
         "other"
       ],
       "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4afdaed9e50c",
-      "title": "77歳でちいかわにハマった糸井重里、ナガノのくま＆島二郎描きネット反響「すごいです！似てます！」「めっちゃうまくなってきた」",
-      "url": "https://www.sanyonews.jp/article/1982996?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-24T18:38:07.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/0/c/3/20c3bd5fd117f75e8519caa6e4337ef1_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "kuma"
-      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2155,21 +2178,59 @@
     {
       "id": "39b3c8c7f029",
       "title": "くら寿司×「ちいかわ」コラボ、中止となった「寿司皿」が配布！合計100万名分を抽選形式でプレゼント",
-      "url": "https://www.inside-games.jp/article/2026/11/24/191500.html",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNDZPUEpPUlJzQ0VfVE4yWGhseHI1MjdrT0JWTmM5YVVkMHAzWTU1Q1NUODNIcUdLYVVwR1ZKSzFmNk1ZQjhKM0RBNjhnb0tYTXFQNFI2TmZEa2tiUy14MkZxYVBoMDhKSXc?oc=5",
       "host": "inside-games.jp",
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-24T13:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1809455.jpg",
+      "image": "",
       "categories": [
         "collab"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3e4480fa6145",
+      "title": "「エニマイくじ ちいかわ」12月12日発売！ラスト賞はあのこのしっぽが揺れる振り子時計",
+      "url": "https://nijimen.kusuguru.co.jp/topics/666606",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:57:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/585da008002c4d08a16f5bbb7f5f0090.png",
+      "categories": [
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e4e84072f8ea",
+      "title": "ファミマやイオンで発見！【ちいかわ新作食玩】「チョコサプ2」を4個開封レビュー（※シークレットネタバレあり）",
+      "url": "https://ure.pia.co.jp/articles/-/3576313",
+      "host": "ure.pia.co.jp",
+      "source": "ウレぴあ総研",
+      "summary": "",
+      "publishedAt": "2026-11-24T12:11:00.000Z",
+      "image": "https://urepia.ismcdn.jp/mwimgs/9/a/-/img_9ae3571a30080a30c6278db61a9e407e120985.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0848e8442e5a",
@@ -2274,19 +2335,19 @@
     {
       "id": "78bfc0f40f50",
       "title": "ちいかわクリスマスマーケット、グッズ予約販売へ 最終入場前に当日分グッズ完売→SNSで不満や落胆の声も - J-CAST ニュース",
-      "url": "https://www.j-cast.com/2026/11/24519385.html",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfenlyeFpPRHVMZFFyZFVMMExja3JmZFFoOWpSb2ZPTTJva1BLN1ZQb2ZQYUs4a052d1FXVWs0bkU3YzV3LTBrRWFzOXdiS3BKc3ZuUzJvdw?oc=5",
       "host": "j-cast.com",
       "source": "J-CAST ニュース",
       "summary": "",
       "publishedAt": "2026-11-24T10:42:13.000Z",
-      "image": "https://www.j-cast.com/images/origin/2026/11/news_20261124193355.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2346,7 +2407,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6cc67c63cff7",
@@ -2404,7 +2465,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7b489303cb85",
@@ -2424,25 +2485,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4fc453c6f128",
-      "title": "光や音の多彩な演出 「ちいかわクリスマスマーケット」開催",
-      "url": "https://news.nicovideo.jp/watch/nw20025628?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-24T09:39:32.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8adc5a224cdf",
@@ -2486,13 +2528,13 @@
     },
     {
       "id": "51cb3a4daebd",
-      "title": "「ちいかわ」冬のエニマイくじが今年も登場 こたつでぬくぬくするジオラマやぬいぐるみ、ラスト賞は振り子時計",
-      "url": "https://news.infoseek.co.jp/article/cinemacafenet_114372/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "title": "「ちいかわ」冬のエニマイくじが今年も登場 こたつでぬくぬくするジオラマやぬいぐるみ、ラスト賞は振り子時計（cinemacafe.net）",
+      "url": "https://news.yahoo.co.jp/articles/8b1d8074da5b23e7869e1b2d8da93e9108ecdbd1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-24T09:00:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/cinemacafenet/cinemacafenet_114372_0-enlarge.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261124-00000010-cine-000-1-view.jpg?exp=10800",
       "categories": [
         "goods",
         "kuji"
@@ -2545,19 +2587,19 @@
     {
       "id": "f940077480e5",
       "title": "『ちいかわ』の人気曲をピアノで弾こう すべての音符に音名カナ付き、初心者も楽しめる公式楽譜集が登場",
-      "url": "https://www.toonippo.co.jp/articles/-/2409952",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBocFJZRl9MaVBwZ0xCSllBWFhCTzhreUlZN0xGQjJXalhHY0FZVG5wRzdpT2VSOFA3NllpUkYtaFYwR2UzNDVFeFFNQTE1SnZPOXNhbnVzY08?oc=5",
       "host": "toonippo.co.jp",
       "source": "東奥日報社",
       "summary": "",
       "publishedAt": "2026-11-24T08:40:00.000Z",
-      "image": "https://toonippo.ismcdn.jp/mwimgs/a/2/1200wm/img_a219a7aee43760905ff99b0aeea571db65943.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2659,6 +2701,25 @@
       "isNew": false
     },
     {
+      "id": "ea72ab2947f5",
+      "title": "アニメ『ちいかわ』ピアノBOOK 12月11日発売!!（株式会社シンコーミュージック・エンタテイメント プレスリリース）",
+      "url": "https://www.zaikei.co.jp/releases/3731182/",
+      "host": "zaikei.co.jp",
+      "source": "財経新聞",
+      "summary": "",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "image": "https://www.zaikei.co.jp/files/press/20261124172407261prt0.jpg",
+      "categories": [
+        "anime"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "312227824867",
       "title": "【ちいかわ】ハチワレ、まさかの取材陣を独占！？ちいかわ＆うさぎそっちのけで神ファンサ！ 『ちいかわクリスマスマーケット』点灯式（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/39326031a37a1c1d7cc1c016e7fca73300392599",
@@ -2681,6 +2742,25 @@
       "isNew": false
     },
     {
+      "id": "3b51fd66d1bc",
+      "title": "ちいかわ × セブン 12月3日より冬もちいかわとワクワク開催!",
+      "url": "https://collabo-cafe.com/events/collabo/chiikawa-shop-tieup-seven-eleven-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:48:34.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-shop-tieup-seven-eleven-2026-featured.jpg",
+      "categories": [
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "ad1bfee80f71",
       "title": "「ちいかわ×セブン‐イレブン」コラボ食品全12品が11月30日より順次発売！作中の「背徳ラーメン」をイメージしたメニューも",
       "url": "https://nijimen.kusuguru.co.jp/topics/666265",
@@ -2691,25 +2771,6 @@
       "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/f11c52d4d4aa4632b4e9d2997aff0e3e.png",
       "categories": [
         "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a24631f0daed",
-      "title": "「エニマイくじ ちいかわ」ビジュアル [画像ギャラリー 1/18]",
-      "url": "https://natalie.mu/comic/gallery/news/699319/3026011",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-24T07:36:53.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
       ],
       "series": [],
       "isOfficial": false,
@@ -2741,25 +2802,18 @@
       "isNew": false
     },
     {
-      "id": "945bfb2b63da",
-      "title": "ポーチ（ちいかわ、ハチワレ、うさぎ、モモンガ、くりまんじゅう、ラッコ、シーサー、古本屋） [画像ギャラリー 12/18]",
-      "url": "https://natalie.mu/comic/gallery/news/699319/3026009",
+      "id": "a24631f0daed",
+      "title": "「エニマイくじ ちいかわ」ビジュアル [画像ギャラリー 1/18]",
+      "url": "https://natalie.mu/comic/gallery/news/699319/3026011",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
       "publishedAt": "2026-11-24T07:36:53.000Z",
       "image": "",
       "categories": [
-        "goods"
+        "kuji"
       ],
-      "series": [
-        "hachiware",
-        "usagi",
-        "momonga",
-        "kurimanju",
-        "rakko",
-        "shisa"
-      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -2823,26 +2877,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "2c9a56db57b3",
-      "title": "「ちいかわ 中華まん袋風ポーチ」「ちいかわ ステンレスタンブラー カフェカップver.」「ちいかわ ステンレスタンブラー ペールトーンver.」 [画像ギャラリー 16/29]",
-      "url": "https://natalie.mu/comic/gallery/news/699380/3026349",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-24T07:14:45.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4193a07f5cdc",
@@ -2943,6 +2977,25 @@
       "isNew": false
     },
     {
+      "id": "859968b86d51",
+      "title": "ちいかわベーカリーが名古屋PARCOに！名古屋限定の小豆入り食パン950円、12月11日から",
+      "url": "https://report.iko-yo.net/articles/35921",
+      "host": "report.iko-yo.net",
+      "source": "いこーよニュース",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:02:43.000Z",
+      "image": "https://d28w2qw7dtr435.cloudfront.net/uploaded/cover_images/images/36172/normal.jpg?1795503544",
+      "categories": [
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "643ee03233a2",
       "title": "「大混乱」ちいかわクリスマスマーケット初日に人殺到→現地の“悲惨な光景”に「怪我するかと」「ピアスがもげそうに……」「パンツや靴が泥だらけに」（ねとらぼ）",
       "url": "https://news.yahoo.co.jp/articles/c222c57cc94365370cb54e46ddf355e47d6be91a",
@@ -2964,7 +3017,7 @@
     {
       "id": "21bbebd2f9c0",
       "title": "『ちいかわ』興収190億円突破 28日から特典「チャームミニフィギュア4種」再配布",
-      "url": "https://www.oricon.co.jp/news/2494871/photo/2/",
+      "url": "https://www.oricon.co.jp/news/2494871/full/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -3026,7 +3079,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-24T06:36:12.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261124-00000229-spnannex-000-9-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261124-00000229-spnannex-000-11-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -3058,13 +3111,13 @@
     },
     {
       "id": "797a97bf4767",
-      "title": "「ちいかわクリスマスマーケット」がスタート ツリー＆スノードーム＆メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】",
-      "url": "https://www.sanyonews.jp/article/2026249?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "title": "「ちいかわクリスマスマーケット」がスタート ツリー&スノードーム&メリーゴーランド…冬空の下にきらめく空間【内覧会レポ】",
+      "url": "https://www.oricon.co.jp/news/2494827/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-24T06:27:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/8/0/d/680dbfbeb6fe440f555d865d9770b919_1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -3118,65 +3171,43 @@
       "isNew": false
     },
     {
-      "id": "52ee2319515e",
-      "title": "ちいかわ焼き 冬季限定 メープル・甘酒・キャラメル 11月27日登場!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-yaki-news-winter-menu-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
+      "id": "fc8e578a2f1c",
+      "title": "名古屋限定の小豆入り食パンが登場！ちいかわベーカリー「ちいかわベーカリー NAGOYA POP UP SHOP」",
+      "url": "https://dtimes.jp/post-1478247/",
+      "host": "dtimes.jp",
+      "source": "Dtimes",
       "summary": "",
-      "publishedAt": "2026-11-24T05:38:53.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-yaki-news-winter-menu-2026-frozen.jpg",
+      "publishedAt": "2026-11-24T05:42:34.000Z",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-6b9b1f31ab7e2fad621b28f3503c45c8-20261124-29fe0a.jpg",
       "categories": [
-        "other"
+        "collab",
+        "event"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "dd02e818f85a",
-      "title": "「サンドなマスコット（ハチワレ）」 [画像ギャラリー 12/25]",
-      "url": "https://natalie.mu/comic/gallery/news/699353/3026194",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-24T05:36:02.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9859c9ca9851",
-      "title": "「スタッフさんなマスコット（ハチワレ）」 [画像ギャラリー 7/25]",
-      "url": "https://natalie.mu/comic/gallery/news/699353/3026179",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-24T05:36:02.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": true
+    },
+    {
+      "id": "52ee2319515e",
+      "title": "ちいかわ焼き 冬季限定 メープル・甘酒・キャラメル 11月27日登場!",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZWdQOTlXb0psdjVHZnZkd2tWWks5Tmp2Zk15dnBBbS1PTThPVGdiblc5X1d6cUVUVmd4Z2VZNk8tLWJ2SDhraXNTcEQwZkF2bVVXUmk2aW52NlotOWxxd2NKU1lDTTZOWUJZd0xEbFAzZEw5NUs3ZERMXzRyWTVVaTN3?oc=5",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:38:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "972005da1b4c",
@@ -3237,7 +3268,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "25170e8ad064",
@@ -3259,25 +3290,6 @@
       "isNew": false
     },
     {
-      "id": "de039e0569f7",
-      "title": "「エニマイくじ ちいかわ」今年の冬も発売決定！！",
-      "url": "https://news.nicovideo.jp/watch/nw20024420?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-24T04:51:30.000Z",
-      "image": "",
-      "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e84e935558ca",
       "title": "『ちいかわ』エニマイくじまとめ。ゾウの加湿器やあのこの時計も",
       "url": "https://dengekionline.com/article/images/202611/94867/939205",
@@ -3287,26 +3299,6 @@
       "publishedAt": "2026-11-24T04:35:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/dengeki/94867/a51494b66b20eaec11fe501f5bdf797f4.jpg?x=1280",
       "categories": [
-        "kuji"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2c0f93d9e040",
-      "title": "「ちいかわ」エニマイくじ こたつでくつろぐジオラマや吊るし柿になっちゃったマスコット",
-      "url": "https://natalie.mu/comic/news/699319",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-24T04:15:00.000Z",
-      "image": "",
-      "categories": [
-        "goods",
         "kuji"
       ],
       "series": [],
@@ -3549,6 +3541,26 @@
       "isNew": false
     },
     {
+      "id": "c216f9d8be1a",
+      "title": "ABEMA「ちいかわ公式無料チャンネル」が期間限定オープン 毎週土日にアニメ第382話までを繰り返し無料一挙放送",
+      "url": "https://thetv.jp/news/detail/1459679/19253152/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-24T03:24:37.000Z",
+      "image": "https://thetv.jp/i/nw/1459679/19253152.jpg?w=1284",
+      "categories": [
+        "anime",
+        "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a4aafc1897c3",
       "title": "セブン‐イレブン×「ちいかわ」コラボが12月3日開催！草むしり検定お祝いラーメン、三ツ星オムライスなど作中イメージのフード・グッズを多数展開",
       "url": "https://www.inside-games.jp/article/2026/11/24/191463.html",
@@ -3599,6 +3611,25 @@
       "image": "https://image.enuchi.jp/upload/20261124/images/thumb_chiikawa_tokyobanana.jpg",
       "categories": [
         "event"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "de039e0569f7",
+      "title": "「エニマイくじ ちいかわ」今年の冬も発売決定！！",
+      "url": "https://animeanime.jp/release/prtimes/20261124/328956.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-24T02:46:51.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/576550.jpg",
+      "categories": [
+        "kuji"
       ],
       "series": [],
       "isOfficial": false,
@@ -3667,25 +3698,6 @@
       "isNew": false
     },
     {
-      "id": "3b51fd66d1bc",
-      "title": "ちいかわ × セブン 12月3日より冬もちいかわとワクワク開催!",
-      "url": "https://collabo-cafe.com/events/collabo/chiikawa-shop-tieup-seven-eleven-2026/?amp",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:45:52.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/chiikawa-shop-tieup-seven-eleven-2026-featured.jpg",
-      "categories": [
-        "event"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5a34492b9046",
       "title": "『ちいかわ』エニマイくじ、12．12発売！ 冬をのんびりと過ごすちいかわたちをデザイン",
       "url": "https://www.crank-in.net/trend/item/194747",
@@ -3741,25 +3753,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "6e25cfdb423f",
-      "title": "【ちいかわ】362話まで無料一挙放送 ABEMA「ちいかわ公式無料チャンネル」5日間限定復活",
-      "url": "https://www.sanyonews.jp/article/1960562?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-23T23:27:25.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/d/c/f/3dcf3c718c3f344119f2e0d8d53373f0_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dc24b9fdc465",
@@ -3900,175 +3893,6 @@
       "isNew": false
     },
     {
-      "id": "389cc1cc8064",
-      "title": "ハチワレ [画像ギャラリー 28/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025680",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2d1a35347e93",
-      "title": "ハチワレ [画像ギャラリー 14/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025662",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c3de1017ddae",
-      "title": "左からハチワレ、ちいかわ、うさぎ [画像ギャラリー 8/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025663",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware",
-        "usagi"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "8905f4c160ae",
-      "title": "ハチワレ [画像ギャラリー 13/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025661",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "724a5cd67a55",
-      "title": "ハチワレ [画像ギャラリー 31/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025683",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "856dff5c2c2d",
-      "title": "ハチワレ [画像ギャラリー 35/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025690",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "06142d24560c",
-      "title": "ハチワレ [画像ギャラリー 36/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025691",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "be1900e25f67",
-      "title": "登壇するハチワレ [画像ギャラリー 5/46]",
-      "url": "https://natalie.mu/comic/gallery/news/699025/3025652",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-23T19:13:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "hachiware"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dece631ccafe",
       "title": "「ちいかわクリスマスマーケット」会場からグッズ情報をまとめて紹介 スノードームからマフラーまでオリジナルグッズ多数揃う",
       "url": "https://game.watch.impress.co.jp/docs/preview/2158545.html",
@@ -4100,6 +3924,28 @@
         "event"
       ],
       "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3d006c774286",
+      "title": "幕張「ちいかわクリスマスマーケット」見どころ&注目グッズをまとめて紹介 - ちいかわ・ハチワレ・うさぎたちがクリスマスを準備!",
+      "url": "https://news.mynavi.jp/article/20261124-5392704/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-23T19:00:00.000Z",
+      "image": "https://news.mynavi.jp/article/20261124-5392704/ogp_images/ogp.jpg",
+      "categories": [
+        "goods"
+      ],
+      "series": [
+        "hachiware",
+        "usagi"
+      ],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -4151,21 +3997,78 @@
       "isNew": false
     },
     {
-      "id": "3d006c774286",
-      "title": "幕張「ちいかわクリスマスマーケット」見どころ&注目グッズをまとめて紹介 - ちいかわ・ハチワレ・うさぎたちがクリスマスを準備!",
-      "url": "https://news.mynavi.jp/article/20261124-5392704/",
+      "id": "d3bd180f6da0",
+      "title": "「ちいかわクリスマスマーケット」いよいよスタート! 点灯式にちいかわたちが登場 - ファンならニヤリな演出も",
+      "url": "https://news.mynavi.jp/article/20261124-5390247/",
       "host": "news.mynavi.jp",
       "source": "マイナビニュース",
       "summary": "",
       "publishedAt": "2026-11-23T19:00:00.000Z",
-      "image": "https://news.mynavi.jp/article/20261124-5392704/ogp_images/ogp.jpg",
+      "image": "https://news.mynavi.jp/article/20261124-5390247/ogp_images/ogp.jpg",
       "categories": [
-        "goods"
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "af3b844b3494",
+      "title": "（写真）全日完売「ちいかわクリスマスマーケット」現地レポ！ ちいかわ＆ハチワレ＆うさぎが点灯式に登場 見どころは？",
+      "url": "https://www.crank-in.net/trend/gallery/report/194744/55",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
+      "summary": "",
+      "publishedAt": "2026-11-23T19:00:00.000Z",
+      "image": "https://www.crank-in.net/img/db/263116242029061_1200.jpg",
+      "categories": [
+        "other"
       ],
       "series": [
         "hachiware",
         "usagi"
       ],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "dfb59556df4d",
+      "title": "『ちいかわ』更新（11/23）。布団が1枚の時のかしこい寝方（図解付き）！ おやすみ、そして…",
+      "url": "https://dengekionline.com/article/202611/94834",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-23T15:01:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94834/ogp_spHM.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7be868b6da21",
+      "title": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!?",
+      "url": "https://dengekionline.com/article/images/202611/94768/938260",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-23T14:51:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/94768/a216671415ceab5e24587d55b964ff07f.jpg?x=1280",
+      "categories": [
+        "other"
+      ],
+      "series": [],
       "isOfficial": false,
       "isPR": false,
       "viaGoogle": false,
@@ -4271,6 +4174,26 @@
       "isNew": false
     },
     {
+      "id": "e54a935f1d69",
+      "title": "『ちいかわ』白いもこもこ衣装の「プレゼントフォーユーなマスコット」全3種がプライズに！刺繍もゴム紐もラメ入りでキラキラ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEaFIzbVZUcUctSEpjbGhEWk1ISlZEQnlUWkNwMlFTcXR0ZFE4bnhwbW80RjI4dnFEQy1KU0h0d2VkYURqeE9SRmR2RW1ETFl5UHhCZDRfdUZNekc2d3FJWG1rd0Vtc0tXVjNZRlJ0YXdvbE0?oc=5",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-23T04:36:15.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "kuji"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "627d01cf5c47",
       "title": "「ちいかわクリスマスマーケット」11月24日から開催！限定フードやグッズ、巨大ツリーも（cinemacafe.net）",
       "url": "https://news.yahoo.co.jp/articles/8016e1d9df499fec938a30886c99680ac933741f",
@@ -4337,78 +4260,80 @@
     {
       "id": "fed4da72def3",
       "title": "ナガノキャラクターズ「くま」がアクセサリーぬいぐるみに！“キラッとさりげなく輝く瞳”に注目（インサイド）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01UXJ5WTY0TE1XZndpLXlndFUzdksxMlN5LTNQVzBsLXpMWE83RHpiRmN2N1l1ZzdQWkpOb1lOLWRfOXltNFBLbEthUWNCUHN0bmk2d3g3R051YWxZMkdmVXBtdE5ZQ2RGNnFKYWwwSnRHWXREVHZaYTJrZkRpa3M?oc=5",
+      "url": "https://news.yahoo.co.jp/articles/15df1d6f33c60de9a398996cfde4ffd815cabc03",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-23T01:45:02.000Z",
-      "image": "",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00000016-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
-      "id": "77b888bb7e3e",
-      "title": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開（クランクイン！）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wZVVYNE5IdlJnb0dhOGNQcV9DX1phRU5JaVIxREcyM2VKc0ZXZW1BRlZfNDBPLXBCQXBuRGFyc3FFY2t2QjRyMVlTZExDYlZRN3hrejZYUURINTlDVWgyN3l6akxFOG9EN0dqaVpKWC1uWU9NeFhBNWNaU1hrdzQ?oc=5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "87d63983d3b2",
+      "title": "「チョコサプ ちいかわ2」発売！ウクレレを弾くうさぎや、くりまんじゅう（禁酒）など全14種",
+      "url": "https://news.infoseek.co.jp/article/inside_191425/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-23T01:00:00.000Z",
-      "image": "",
+      "publishedAt": "2026-11-23T01:10:03.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_191425_0-enlarge.jpg",
       "categories": [
-        "goods",
-        "collab"
+        "other"
       ],
-      "series": [],
+      "series": [
+        "usagi",
+        "kurimanju"
+      ],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "755d3a82a54c",
-      "title": "（写真）東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mZ0tDdHk0dk1FZFB5Yk90YXlSSW55M3VZTU9MRHp6TTRZRlI4bnV6endKRW8xNDV5ekxRQkxpWVNXLVVlSVZQeXFuU2NyUHJRWjhuOUh1c3VDNFhfTUtMTV9YN0U?oc=5",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-11-23T01:00:00.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "collab"
-      ],
-      "series": [],
-      "isOfficial": false,
-      "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
     },
     {
+      "id": "77b888bb7e3e",
+      "title": "東京駅『ちいかわ』×「東京ばな奈」ポップアップは明日から！ エコバッグセットや最新作スイーツを展開（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/2c197743f3081cb49d889433f028835153261063",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-23T01:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-00194530-crankinn-000-14-view.jpg?exp=10800",
+      "categories": [
+        "goods",
+        "collab"
+      ],
+      "series": [],
+      "isOfficial": false,
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "34f4354d2fbb",
       "title": "「ちいかわ」マルチカラーパウダー「Pon de Couleur」が発売！デザインはいろんな場面を抜き出した全6種",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tQ0V3dUZURGt4MVZOQ0ZtcmpxM25LeVh1LW81NWZXNGhkTGdvNWNoSDdHck9mTVBkWEU5akZ1YXlLYU9td2F6RExxRktXdm5VUVFXd2tKMjAtekNJNDdSZHJfLUVsR29qR1E?oc=5",
+      "url": "https://www.inside-games.jp/article/2026/11/23/191423.html",
       "host": "inside-games.jp",
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-23T00:40:02.000Z",
-      "image": "",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1772451.jpg",
       "categories": [
         "other"
       ],
       "series": [],
       "isOfficial": false,
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -4454,13 +4379,13 @@
       "isNew": false
     },
     {
-      "id": "7be868b6da21",
-      "title": "『ちいかわ』更新（11/22）②。本当のカメラはどこに？ そこにギチギチ虫が現れて…!?",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQXQ1WEtWcTNWckxIRlNZTWtPU2toWHg0dFNsdU1PcDVXREg4VjVwV1JObWpvMmllWHFLMEhhT1J0NHBOckJJNi1sbUdUUTBjcDZvSXJiOXYxUQ?oc=5",
+      "id": "2a862aa20499",
+      "title": "『ちいかわ』更新（11/22）。仲良く過ごしていたら「ドゴォッ」な急展開！ いったい何事…",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42WTVCX0tqZkxVUzR0bzBuZVN2UVEzNTQ1NmpoaFVFVDNOMnVTWlVjUE1tVlhUUnc5UVg5WURsTGdHbEp6R1VvWmotNzFlSTVjTlE1NUFQam9FNHVqazlMOVlhbkJnMGFXRkRzbg?oc=5",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-11-22T14:31:00.000Z",
+      "publishedAt": "2026-11-22T14:24:00.000Z",
       "image": "",
       "categories": [
         "other"
@@ -4470,7 +4395,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     }
   ]
 }
